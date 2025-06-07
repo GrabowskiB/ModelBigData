@@ -5,5 +5,7 @@
 /dane_meteo_stacje_oczyszczone.csv
 /dane_hydro_stacje_z_powiatami_final.csv
 /dane_hydro_stacje_z_powiatami_redukcja.csv
-/pobrane_dane_imgw
+pobrane_dane_imgw
+dane_meteo_stacje_z_powiatami_final.csv
+przetworzone_dane_hydrologiczne.csv
 *.csv
