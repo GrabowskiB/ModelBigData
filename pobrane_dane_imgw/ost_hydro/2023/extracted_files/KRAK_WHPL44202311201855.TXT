@@ -1,0 +1,15 @@
+Data i godzina wydania: 20.11.2023 - godz. 19:50
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 365
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 22:00 dnia 20.11.2023 do godz. 16:00 dnia 21.11.2023
+Obszar: Zlewnia Grabinki (podkarpackie)
+Przebieg: W związku ze spływem wód opadowych na Grabince w profilu Głowaczowa spodziewany jest dalszy wzrost poziomu wody z przekroczeniem stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnia Grabinki od 22:00/20.11.2023 do 16:00/21.11.2023. W zwiazku ze splywem wod opadowych na Grabince w profilu Glowaczowa spodziewany jest dalszy wzrost poziomu wody z przekroczeniem stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

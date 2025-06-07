@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.08.2024 - godz. 08:13
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Odwołanie ostrzeżenia Nr: 168 z dnia 02.08.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Odra od Chałupek do Koźla, Olza, Czadeczka, Psina, Ruda, Bierawka, Kłodnica, Mała Panew (śląskie)
+Przebieg: Zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow gornej Odry od - do -. Zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

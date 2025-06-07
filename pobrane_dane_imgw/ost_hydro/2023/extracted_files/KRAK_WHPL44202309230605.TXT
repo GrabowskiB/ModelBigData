@@ -1,0 +1,18 @@
+Data i godzina wydania: 23.09.2023 - godz. 08:03
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 339
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 10:00 dnia 23.09.2023 do godz. 12:00 dnia 24.09.2023
+Obszar: zlewnie dopływów Wisły oraz Strwiąża (podkarpackie)
+Przebieg: W obszarach występowania prognozowanych opadów deszczu o natężeniu umiarkowanym i silnym (punktowo także burzowych), spodziewane są wzrosty poziomu wody, lokalnie do strefy stanów wysokich. Na mniejszych rzekach wzrosty mogą mieć gwałtowny charakter. W miejscach wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.  Jednocześnie Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym (w południowej części województwa), które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow Wisly oraz Strwiaza od 10:00/23.09.2023 do 12:00/24.09.2023. W obszarach wystepowania prognozowanych opadow deszczu o natezeniu umiarkowanym i silnym (punktowo takze burzowych), spodziewane sa wzrosty poziomu wody, lokalnie do strefy stanow wysokich. Na mniejszych rzekach wzrosty moga miec gwaltowny charakter. W miejscach wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych.
+ Szczegoly na meteo.imgw.pl

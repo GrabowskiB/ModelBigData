@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.04.2023 - godz. 08:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 23
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 09:00 dnia 14.04.2023 do godz. 09:00 dnia 16.04.2023
+Obszar: Zlewnia Czarnej (świętokrzyskie)
+Przebieg: Na Czarnej w Januszewicach przewiduje się dalszy wzrost poziomu wody przy przekroczonym stanie alarmowym związany z dalszym spływem wód opadowych i prognozowanymi opadami deszczu
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Michał Ceran

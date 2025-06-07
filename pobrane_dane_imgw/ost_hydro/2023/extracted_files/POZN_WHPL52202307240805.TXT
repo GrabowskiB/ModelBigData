@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.07.2023 - godz. 09:59
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 56
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:00 dnia 24.07.2023 do godz. 06:00 dnia 25.07.2023
+Obszar: Warta górna do Poraja, Warta górna od Poraja do Liswarty, Liswarta, Warta górna od Liswarty do Widawki, Oleśnica, Grabia, Nieciecz, Widawka, Warta górna od Widawki do Zb. Jeziorsko, Prosna górna, Niesób, Łużyca, Prosna środkowa, Ołobok, Swędrnia (łódzkie, opolskie, śląskie, wielkopolskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow gornej Warty, gorna Prosna i jej doplywy od 14:00/24.07.2023 do 06:00/25.07.2023. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.01.2024 - godz. 21:25
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 19
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 21:26 dnia 27.01.2024 do godz. 12:00 dnia 28.01.2024
+Obszar: Grabia (łódzkie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych na Grabi spodziewane są dalsze wzrosty poziomu wody. Na stacji hydrologicznej Grabno prognozowane jest przekroczenie stanu ostrzegawczego, a w Łasku możliwe jest osiągnięcie stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Grabia od 21:26/27.01.2024 do 12:00/28.01.2024. W zwiazku ze splywem wod opadowo-roztopowych na Grabi spodziewane sa dalsze wzrosty poziomu wody. Na stacji hydrologicznej Grabno prognozowane jest przekroczenie stanu ostrzegawczego, a w Lasku mozliwe jest osiagniecie stanu alarmowego. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.01.2024 - godz. 12:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 9
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 20:00 dnia 02.01.2024 do godz. 15:00 dnia 03.01.2024
+Obszar: zlewnia Nidy (Białej i Czarnej) oraz Nida od ujścia Czarnej Nidy do ujścia, zlewnia Czarnej (Staszowskiej) wraz ze zb. Chańcza oraz Czarna od zbiornika do ujścia, Koprzywianka (świętokrzyskie)
+Przebieg: W związku z prognozowanymi opadami deszczu spodziewane są ponowne wzrosty poziomu wody, z możliwością przekroczenia stanów ostrzegawczych w kolejnych profilach wodowskazowych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Nidy, zlewnia Czarnej (Staszowskiej), Koprzywianki od 20:00/02.01.2024 do 15:00/03.01.2024. W zwiazku z prognozowanymi opadami deszczu spodziewane sa ponowne wzrosty poziomu wody, z mozliwoscia przekroczenia stanow ostrzegawczych w kolejnych profilach wodowskazowych.  Szczegoly na meteo.imgw.pl

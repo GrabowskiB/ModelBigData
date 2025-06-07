@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.08.2023 - godz. 13:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 247
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 18:00 dnia 01.08.2023 do godz. 12:00 dnia 02.08.2023
+Obszar: zlewnie Nidy, Czarnej (Staszowskiej), Koprzywianki, Kamiennej (świętokrzyskie)
+Przebieg: W obszarach występowania prognozowanych intensywnych opadów deszczu (także burzowych), przewiduje się wzrosty poziomu wody, lokalnie na mniejszych ciekach gwałtowne. W przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość punktowego przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie Nidy, Czarnej (Staszowskiej), Koprzywianki, Kamiennej od 18:00/01.08.2023 do 12:00/02.08.2023. W obszarach wystepowania prognozowanych intensywnych opadow deszczu (takze burzowych), przewiduje sie wzrosty poziomu wody, lokalnie na mniejszych ciekach gwaltowne. W przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc punktowego przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

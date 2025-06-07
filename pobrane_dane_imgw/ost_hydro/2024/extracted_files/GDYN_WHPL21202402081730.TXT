@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.02.2024 - godz. 18:26
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 36 z dnia 07.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 18:27 dnia 08.02.2024 do godz. 12:00 dnia 10.02.2024
+Obszar: Słupia od Skotawy do ujścia (pomorskie)
+Przebieg: W związku ze spływem wód opadowych, na części zlewni Słupi od Skotawy do ujścia, przewiduje się wahania stanów wody powyżej stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy przebiegu zjawiska i stopnia ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Slupia od Skotawy do ujscia od 18:27/08.02.2024 do 12:00/10.02.2024. W zwiazku ze splywem wod opadowych, na czesci zlewni Slupi od Skotawy do ujscia, przewiduje sie wahania stanow wody powyzej stanow alarmowych. Szczegoly na meteo.imgw.pl

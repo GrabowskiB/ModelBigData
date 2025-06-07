@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.08.2022 - godz. 07:56
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 117
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:57 dnia 25.08.2022 do godz. 10:00 dnia 26.08.2022
+Obszar: Odra od ujścia Nysy Kłodzkiej do ujścia Widawy, Stobrawa, Widawa od Namysłowa do ujścia do Odry, Widawa (dolnośląskie, opolskie, wielkopolskie)
+Przebieg: W zlewniach Stobrawy i Widawy prognozowane są lokalnie dalsze wzrosty stanów spowodowane przemieszczaniem się wezbrania. W godzinach wieczornych i nocnych mogą wystąpić ponowne wzrosty stanów spowodowane opadami przelotnymi i burzowymi. Możliwe miejscami przekroczenia stanów alarmowych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Leszek Jelonek

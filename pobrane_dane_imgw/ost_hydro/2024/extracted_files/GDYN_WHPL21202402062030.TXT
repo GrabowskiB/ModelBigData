@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.02.2024 - godz. 21:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 38 z dnia 06.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 21:29 dnia 06.02.2024 do godz. 18:00 dnia 07.02.2024
+Obszar: Reda (pomorskie)
+Przebieg: W zlewni Redy w związku ze spływem wód opadowych przewiduje się wzrosty poziomów wody powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy przebiegu zjawiska i stopnia ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Reda od 21:29/06.02.2024 do 18:00/07.02.2024. W zlewni Redy w zwiazku ze splywem wod opadowych przewiduje sie wzrosty poziomow wody powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

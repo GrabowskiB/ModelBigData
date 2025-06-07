@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.08.2024 - godz. 11:06
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 177
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 13:00 dnia 08.08.2024 do godz. 23:00 dnia 08.08.2024
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Olza od Cieszyna do ujścia do Odry, Olza, Czadeczka, Psina, Ruda od Zb. Rybnik do ujścia do Odry, Ruda, Bierawka, Kłodnica od Zb. Dzierżno Duże do ujścia do Odry, Kłodnica, Odra od Koźla do ujścia Nysy Kłodzkiej, Stradunia, Osobłoga, Mała Panew od Krupskiego Młyna do Zb. Turawa, Mała Panew, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Oława górna do Zborowic, Oława od Zborowic do ujścia, Ślęza górna do Borowa, Ślęza od Borowa do ujścia, Bystrzyca górna do Zb. Mietków, Bystrzyca dolna (Czarna Woda i Strzegomka), Strzegomka od Zb. Dobromierz do ujścia do Bystrzycy, Strzegomka do Łażan, Bóbr do Zb. Pilchowice, Kwisa górna do Zb. Leśna, Kwisa od Zb. Leśna do Nowogrodźca, Ostrożnica, Izera, Nysa Łużycka do Zgorzelca (dolnośląskie, opolskie, śląskie)
+Przebieg: W obszarach występowania prognozowanych intensywnych opadów burzowych, prognozuje się wzrosty stanów wody do strefy stanów wysokich. Na mniejszych rzekach wzrosty mogą mieć charakter gwałtowny. W przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość punktowego przekroczenia stanów ostrzegawczych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Gorskie i wyzynne doplywy gornej i srodkowej Odry od 13:00/08.08.2024 do 23:00/08.08.2024. W obszarach wystepowania prognozowanych intensywnych opadow burzowych, prognozuje sie wzrosty stanow wody do strefy stanow wysokich. Na mniejszych rzekach wzrosty moga miec charakter gwaltowny. W przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc punktowego przekroczenia stanow ostrzegawczych.  Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.02.2023 - godz. 08:42
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 8
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 08:42 dnia 04.02.2023 do godz. 18:00 dnia 05.02.2023
+Obszar: Pilica od Zb. Sulejów (mazowieckie)
+Przebieg: W związku ze spływem wody z górnej części zlewni przewiduje się wzrost stanu wody w dolnym biegu Pilicy, w Białobrzegach powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Marcin Dominikowski

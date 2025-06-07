@@ -1,0 +1,15 @@
+Data i godzina wydania: 22.05.2025 - godz. 19:54
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 53
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 23:00 dnia 22.05.2025 do godz. 12:00 dnia 23.05.2025
+Obszar: Zlewnia Małej Wisły, Brynicy, Przemszy, Soły   (śląskie)
+Przebieg: W związku prognozowanymi intensywnymi opadami deszczu w tym opadami burzowymi na rzekach oraz w zlewniach zurbanizowanych, spodziewane są wzrosty poziomu wody miejscami gwałtowne. Punktowo w miejscu wystąpienia szczególnie intensywnego opadu, istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie. Ostrzeżenie wydane w związku z prognozowanymi intensywnymi opadami deszczu w tym opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnia Malej Wisly, Brynicy, Przemszy, Soly   od 23:00/22.05.2025 do 12:00/23.05.2025. W zwiazku prognozowanymi intensywnymi opadami deszczu w tym opadami burzowymi na rzekach oraz w zlewniach zurbanizowanych, spodziewane sa wzrosty poziomu wody miejscami gwaltowne. Punktowo w miejscu wystapienia szczegolnie intensywnego opadu, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

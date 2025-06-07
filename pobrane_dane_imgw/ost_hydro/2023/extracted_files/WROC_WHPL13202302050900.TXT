@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.02.2023 - godz. 09:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 20 z dnia 04.02.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:58 dnia 05.02.2023 do godz. 09:00 dnia 06.02.2023
+Obszar: Czarna Woda (dopływ Kaczawy) (dolnośląskie)
+Przebieg: W zlewni Czarnej Wody trwa jeszcze spływ wód opadowo-roztopowych. W okresie obowiązywania ostrzeżenia prognozuje się dalszy, choć niewielki, wzrost stanu wody powyżej stanu ostrzegawczego na Czarnej Wodzie w Bukownej oraz utrzymanie się przekroczenia stanu ostrzegawczego z tendencją spadkową w Rzeszotarach.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy stopnia zagrożenia, czasu obowiązywania i opisu przebiegu zjawiska.
+
+Dyżurny synoptyk hydrolog: Wojciech Krasowski

@@ -1,0 +1,15 @@
+Data i godzina wydania: 17.01.2023 - godz. 18:33
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 11
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 22:00 dnia 17.01.2023 do godz. 13:00 dnia 18.01.2023
+Obszar: zlewnia Sękówki (małopolskie)
+Przebieg: W związku z prognozowanymi opadami deszczu, na Sękówce spodziewany jest wzrost poziomu wody do strefy stanów wysokich z przekroczeniem stanu ostrzegawczego w profilu Gorlice.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Artur Franczyk

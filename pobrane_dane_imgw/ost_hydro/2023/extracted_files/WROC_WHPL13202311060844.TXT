@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.11.2023 - godz. 09:41
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 152 z dnia 03.11.2023
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 09:42 dnia 06.11.2023 do godz. 10:00 dnia 07.11.2023
+Obszar: Sąsiecznica, Orla (dolnośląskie, wielkopolskie)
+Przebieg: W wyniku spływu wód opadowych miejscami w zlewniach dopływów Baryczy prognozowane są jeszcze niewielkie wzrosty stanów wody w strefie wody wysokiej. W Korzeńsku na Orli z możliwością osiągnięcia stanu alarmowego, w Kanclerzowicach na Sąsiecznicy powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy przede wszystkim podwyższenia stopnia zagrożenie, zmniejszenia obszaru zagrożenia i wydłużenia okresu ważności ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Sasiecznica, Orla od 09:42/06.11.2023 do 10:00/07.11.2023. W Korzensku na Orli z mozliwoscia osiagniecia stanu alarmowego, w Kanclerzowicach na Sasiecznicy powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

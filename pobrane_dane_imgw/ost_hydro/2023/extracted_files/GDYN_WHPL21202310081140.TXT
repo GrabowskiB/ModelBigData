@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.10.2023 - godz. 13:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 113 z dnia 07.10.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:36 dnia 08.10.2023 do godz. 09:00 dnia 09.10.2023
+Obszar: Zalew Wiślany i Żuławy (pomorskie, warmińsko-mazurskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną, na Żuławach i na Zalewie Wiślanym przewidywane są wzrosty poziomów wody do stanów ostrzegawczych i powyżej, lokalnie z możliwością przekroczenia stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zalew Wislany i Zulawy od 13:36/08.10.2023 do 09:00/09.10.2023. W zwiazku z prognozowana sytuacja meteorologiczna, na Zulawach i na Zalewie Wislanym przewidywane sa wzrosty poziomow wody do stanow ostrzegawczych i powyzej, lokalnie z mozliwoscia przekroczenia stanow alarmowych. Szczegoly na meteo.imgw.pl

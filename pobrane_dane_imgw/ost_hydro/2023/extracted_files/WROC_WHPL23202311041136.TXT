@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.11.2023 - godz. 12:33
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 155
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:34 dnia 04.11.2023 do godz. 18:00 dnia 06.11.2023
+Obszar: Widawa od Namysłowa do ujścia do Odry (dolnośląskie, opolskie)
+Przebieg: W związku z trwającym spływem wód opadowych, na Widawie poniżej Namysłowa prognozowane są dalsze wzrosty stanów wody w strefie wody wysokiej. W Zbytowej i Krzyżanowicach stany wody mogą wzrosnąć powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Na przebieg prognozowanego zjawiska może mieć wpływ praca urządzeń hydrotechniczny zlokalizowanych w rejonie Namysłowa i Zbytowej
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Widawa od Namyslowa do ujscia do Odry od 12:34/04.11.2023 do 18:00/06.11.2023. W zwiazku z trwajacym splywem wod opadowych, na Widawie ponizej Namyslowa prognozowane sa dalsze wzrosty stanow wody w strefie wody wysokiej. W Zbytowej i Krzyzanowicach stany wody moga wzrosnac powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

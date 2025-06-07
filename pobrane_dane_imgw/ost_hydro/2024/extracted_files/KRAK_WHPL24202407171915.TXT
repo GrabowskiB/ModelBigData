@@ -1,0 +1,15 @@
+Data i godzina wydania: 17.07.2024 - godz. 21:13
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 317 z dnia 17.07.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 21:14 dnia 17.07.2024 do godz. 06:00 dnia 18.07.2024
+Obszar: Zlewnia Skawinki, Skawy do ujścia Skawicy, Raby, Dunajca, Białej Tarnowskiej, Brenia, Ropy oraz Czarnej Orawy (małopolskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych, a krótkotrwale także alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Zmiana dotyczy obszaru. Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Skawinki, Skawy, Raby, Dunajca, Bialej Tarnowskiej, Brenia, Ropy,Czarnej Orawy od 21:14/17.07.2024 do 06:00/18.07.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych, a krotkotrwale takze alarmowych. Szczegoly na meteo.imgw.pl

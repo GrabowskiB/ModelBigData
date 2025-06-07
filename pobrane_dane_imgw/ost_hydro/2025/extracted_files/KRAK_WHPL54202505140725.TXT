@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.05.2025 - godz. 09:22
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 48
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 09:25 dnia 14.05.2025 do odwołania
+Obszar: zlewnia Bugu do ujścia Uherki (wraz ze zlewnią Uherki) (lubelskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach, na obszarze zlewni Bugu do ujścia Uherki (wraz ze zlewnią Uherki) spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA zlewnia Bugu do ujscia Uherki (wraz ze zlewnia Uherki) od 09:25/14.05.2025 do odwolania. W zwiazku z wystepujacymi niskimi przeplywami wody, w kolejnych dniach, na obszarze zlewni Bugu do ujscia Uherki (wraz ze zlewnia Uherki) spodziewane jest dalsze utrzymywanie sie przeplywow wody ponizej SNQ. Szczegoly na meteo.imgw.pl

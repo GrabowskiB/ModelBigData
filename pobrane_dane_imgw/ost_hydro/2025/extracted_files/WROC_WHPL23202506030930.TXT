@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.06.2025 - godz. 11:27
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 29 z dnia 03.06.2025
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:28 dnia 03.06.2025 do godz. 18:00 dnia 03.06.2025
+Obszar: Bierawka (opolskie)
+Przebieg: W związku ze spływem wody opadowej z górnej części zlewni na Bierawce w Grabówce prognozowane są dalsze wzrosty stanu wody powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy stopnia, czasu obowiązywania, przebiegu.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bierawka od 11:28/03.06.2025 do 18:00/03.06.2025. W zwiazku ze splywem wody opadowej z gornej czesci zlewni na Bierawce w Grabowce prognozowane sa dalsze wzrosty stanu wody powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.08.2023 - godz. 14:22
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 101
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 18:00 dnia 25.08.2023 do godz. 07:00 dnia 26.08.2023
+Obszar: Przymorze od Parsęty do Wieprzy, Radew, Wieprza od Bystrzenicy do ujścia, Wieprza od źródła do Bystrzenicy, Przymorze od Wieprzy do Słupi, Słupia od Skotawy do ujścia, Słupia od źródła do Skotawy, Przymorze od Słupi do Łupawy, Łupawa od wodowskazu Łupawa do ujścia, Łupawa od źródła do wodowskazu Łupawa, Łeba od Lęborka 2 do ujścia, Brda od źródła do Sępólnej, Brda od Sępólnej do ujścia, Wda od źródła po Czarną Wodę, Wda od Czarnej Wody do ujścia (kujawsko-pomorskie, pomorskie, zachodniopomorskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody i lokalne podtopienia. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego wystąpienia może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnie rzek: Radew, Wieprza, Slupia, Leba, Brda i Wda od 18:00/25.08.2023 do 07:00/26.08.2023. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty stanow wody i lokalne podtopienia.  Szczegoly na meteo.imgw.pl

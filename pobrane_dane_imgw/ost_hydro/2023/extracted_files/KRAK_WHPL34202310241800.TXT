@@ -1,0 +1,17 @@
+Data i godzina wydania: 24.10.2023 - godz. 19:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 346
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 21:00 dnia 24.10.2023 do godz. 12:00 dnia 25.10.2023
+Obszar: Zlewnia górnej Nidy (świętokrzyskie)
+Przebieg: W związku z prognozowanymi opadami deszczu w zlewni górnej Nidy, spodziewane są wzrosty poziomu wody, lokalnie do strefy stanów wysokich. Na mniejszych rzekach wzrosty stanu wody mogą mieć charakter gwałtowny. Punktowo istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnia gornej Nidy od 21:00/24.10.2023 do 12:00/25.10.2023. W zwiazku z prognozowanymi opadami deszczu w zlewni gornej Nidy, spodziewane sa wzrosty poziomu wody, lokalnie do strefy stanow wysokich. Na mniejszych rzekach wzrosty stanu wody moga miec charakter gwaltowny. Punktowo istnieje mozliwosc przekroczenia stanow ostrzegawczych.
+ Szczegoly na meteo.imgw.pl

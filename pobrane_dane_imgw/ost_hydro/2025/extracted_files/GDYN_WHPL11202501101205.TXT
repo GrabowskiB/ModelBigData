@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.01.2025 - godz. 13:00
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 9
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 13:01 dnia 10.01.2025 do godz. 10:00 dnia 13.01.2025
+Obszar: Zalew Szczeciński, Odra od Gryfina do ujścia (rz) (zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną oraz wysokim napełnieniem Bałtyku (544 cm - 10.01.2025), na Zalewie Szczecińskim oraz w ujściu Odry przewiduje się wzrosty poziomów wody powyżej stanów ostrzegawczych, lokalnie powyżej stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Zalew Szczecinski, Odra od Gryfina do ujscia (rz) od 13:01/10.01.2025 do 10:00/13.01.2025. W zwiazku z prognozowana sytuacja meteorologiczna oraz wysokim napelnieniem Baltyku (544 cm - 10.01.2025), na Zalewie Szczecinskim oraz w ujsciu Odry przewiduje sie wzrosty poziomow wody powyzej stanow ostrzegawczych, lokalnie powyzej stanow alarmowych. Szczegoly na meteo.imgw.pl

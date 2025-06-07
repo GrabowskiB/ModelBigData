@@ -1,0 +1,15 @@
+Data i godzina wydania: 29.07.2023 - godz. 11:54
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 239
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 12:00 dnia 29.07.2023 do godz. 00:00 dnia 30.07.2023
+Obszar: Zlewnie Wisłoki, Brenia, Wisłoka oraz górny San wraz z lewobrzeżnymi dopływami (podkarpackie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych, a krótkotrwale także alarmowych. Jednocześnie w przypadku wystąpienia opadu burzowego w profilach obecnie notujących przekroczenie stanów ostrzegawczych spodziewane są ponowne wzrosty z możliwością przekroczenia stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego wystąpienia może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnie Wisloki, Brenia, Wisloka oraz gorny San wraz z lewobrzeznymi doplywami od 12:00/29.07.2023 do 00:00/30.07.2023. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych, a krotkotrwale takze alarmowych. Jednoczesnie w przypadku wystapienia opadu burzowego w profilach obecnie notujacych przekroczenie stanow ostrzegawczych spodziewane sa ponowne wzrosty z mozliwoscia przekroczenia stanow alarmowych. Szczegoly na meteo.imgw.pl

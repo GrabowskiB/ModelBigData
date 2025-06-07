@@ -1,0 +1,15 @@
+Data i godzina wydania: 17.01.2023 - godz. 11:12
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 7
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:30 dnia 17.01.2023 do godz. 18:00 dnia 18.01.2023
+Obszar: Zlewnia Bukowej (lubelskie, podkarpackie)
+Przebieg: W związku z występującymi oraz prognozowanymi opadami deszczu w zlewni Bukowej, spodziewany jest wzrost poziomu wody z możliwością przekroczenia stanu ostrzegawczego w profilu Ruda Jastkowska.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska Ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Barbara Olearczyk-Siwik

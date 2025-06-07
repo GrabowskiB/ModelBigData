@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.02.2024 - godz. 12:13
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 72
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:14 dnia 05.02.2024 do godz. 09:00 dnia 06.02.2024
+Obszar: Zlewnie Rudawy i Prądnika (małopolskie)
+Przebieg: W związku ze spływem wód opadowych prognozowane są dalsze wzrosty poziomu wody, przy aktualnie przekroczonym stanie alarmowym na Rudawie w Balicach z możliwością przekroczenia tego stanu na Prądniku w Ojcowie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Zlewnie Rudawy i Pradnika od 12:14/05.02.2024 do 09:00/06.02.2024. W zwiazku ze splywem wod opadowych prognozowane sa dalsze wzrosty poziomu wody, przy aktualnie przekroczonym stanie alarmowym na Rudawie w Balicach z mozliwoscia przekroczenia tego stanu na Pradniku w Ojcowie. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 13.12.2023 - godz. 09:34
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 376 z dnia 12.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Mała Wisła od zb. Goczałkowice do ujścia Przemszy (małopolskie, śląskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Mala Wisla od zb. Goczalkowice do ujscia Przemszy od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

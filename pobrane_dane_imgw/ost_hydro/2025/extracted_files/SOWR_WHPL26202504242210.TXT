@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.04.2025 - godz. 00:06
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Odwołanie ostrzeżenia Nr: 11 z dnia 24.04.2025
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Wisła od ujścia Kamiennej do Dęblina (część lewobrzeżna), Iłżanka, Radomka, Pilica do Zb. Sulejów, Pilica od Zb. Sulejów (łódzkie, mazowieckie, świętokrzyskie)
+Przebieg: Zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich). W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Wisla - uj. Kamiennej-Deblin (czesc lewobrzezna), Ilzanka, Radomka, zl. Pilicy od - do -. Zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

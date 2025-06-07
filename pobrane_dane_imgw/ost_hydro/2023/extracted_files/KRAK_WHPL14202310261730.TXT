@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.10.2023 - godz. 19:25
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 349
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 09:00 dnia 27.10.2023 do godz. 04:00 dnia 28.10.2023
+Obszar: zlewnie Małej Wisły, Przemszy oraz Soły (śląskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu, spodziewane są wzrosty poziomu wody, lokalnie do strefy stanów wysokich. Na mniejszych rzekach oraz w zlewniach zurbanizowanych, wzrosty mogą mieć charakter gwałtowny. W miejscach wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie Malej Wisly, Przemszy oraz Soly od 09:00/27.10.2023 do 04:00/28.10.2023. W zwiazku z prognozowanymi intensywnymi opadami deszczu, spodziewane sa wzrosty poziomu wody, lokalnie do strefy stanow wysokich. Na mniejszych rzekach oraz w zlewniach zurbanizowanych, wzrosty moga miec charakter gwaltowny. W miejscach wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

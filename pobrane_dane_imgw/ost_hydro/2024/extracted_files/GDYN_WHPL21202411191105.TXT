@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.11.2024 - godz. 12:02
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 165
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 20:00 dnia 19.11.2024 do godz. 14:00 dnia 21.11.2024
+Obszar: Wybrzeże i morskie wody wewnętrzne RP (pomorskie, zachodniopomorskie)
+Przebieg: W związku z prognozowanym silnym wiatrem z sektora północnego i wysokim napełnieniem Bałtyku (531 cm) wzdłuż Wybrzeża nastąpi wzrost poziomów wody do strefy stanów wysokich. Lokalnie, głównie w rejonie Zatoki Gdańskiej, przekroczone zostaną stany ostrzegawcze.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wybrzeze i morskie wody wewnetrzne RP od 20:00/19.11.2024 do 14:00/21.11.2024. W zwiazku z prognozowanym silnym wiatrem z sektora polnocnego i wysokim napelnieniem Baltyku (531 cm) wzdluz Wybrzeza nastapi wzrost poziomow wody do strefy stanow wysokich. Lokalnie, glownie w rejonie Zatoki Gdanskiej, przekroczone zostana stany ostrzegawcze. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.01.2024 - godz. 12:36
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Zmiana ostrzeżenia Nr: 10 z dnia 06.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:37 dnia 07.01.2024 do godz. 10:00 dnia 08.01.2024
+Obszar: Liwiec (mazowieckie)
+Przebieg: W związku ze spływem wód opadowych na rzece Liwiec przewiduje się dalszy wzrost poziomu wody przy przekroczonym stanie alarmowym.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Liwiec od 12:37/07.01.2024 do 10:00/08.01.2024. W zwiazku ze splywem wod opadowych na rzece Liwiec przewiduje sie dalszy wzrost poziomu wody przy przekroczonym stanie alarmowym. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.08.2024 - godz. 07:34
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 140
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 07:35 dnia 08.08.2024 do godz. 00:00 dnia 09.08.2024
+Obszar: Warta górna do Poraja, Warta górna od Poraja do Liswarty, Liswarta, Warta górna od Liswarty do Widawki, Warta górna od Widawki do Zb. Jeziorsko, Oleśnica, Grabia, Nieciecz, Widawka, Ner, Warta środkowa od Zb. Jeziorsko do Rgilewki, Warta środkowa od Rgilewki do Prosny, Rgilewka, Kiełbaska, Powa, Bawół, Wełna, Prosna górna, Niesób, Łużyca, Prosna środkowa, Swędrnia, Noteć górna, Łobżonka, Noteć środkowa, Gwda (kujawsko-pomorskie, łódzkie, opolskie, pomorskie, śląskie, wielkopolskie)
+Przebieg: W związku z prognozowanymi opadami o charakterze burzowym, na mniejszych rzekach oraz w zlewniach zurbanizowanych mogą wystąpić gwałtowne wzrosty stanów wody i lokalne podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Warta gorna i srodkowa z doplywami, Prosna, Notec  od 07:35/08.08.2024 do 00:00/09.08.2024. W zwiazku z prognozowanymi opadami o charakterze burzowym, na mniejszych rzekach oraz w zlewniach zurbanizowanych moga wystapic gwaltowne wzrosty stanow wody i lokalne podtopienia. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.12.2023 - godz. 08:53
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 392
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 09:00 dnia 21.12.2023 do godz. 08:00 dnia 22.12.2023
+Obszar: zlewnie: Brennicy, Iłownicy, Białej, Pszczynki, Gostyni, Przemszy, Soły powyżej kaskady zbiorników (śląskie)
+Przebieg: W związku z prognozowanymi opadami deszczu na rzekach zaznaczą się wzrosty poziomu wody, lokalnie gwałtowne do strefy stanów wysokich. Punktowo istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Brennica, Ilownicy, Bialej, Pszczynki, Gostyni, Przemszy, Soly  od 09:00/21.12.2023 do 08:00/22.12.2023. W zwiazku z prognozowanymi opadami deszczu na rzekach zaznacza sie wzrosty poziomu wody, lokalnie gwaltowne do strefy stanow wysokich. Punktowo istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

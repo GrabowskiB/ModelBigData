@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.08.2022 - godz. 10:50
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Odwołanie ostrzeżenia Nr: 55 z dnia 06.08.2022
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Zlewnia środkowej i dolnej Prosny (łódzkie, wielkopolskie)
+Przebieg: Zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenia odwołuje się, gdy wartość przepływu na stacjach uznanych za reprezentatywne utrzymuje się powyżej SNQ przez co najmniej 5 dni (dotyczy okresu obserwacji).
+
+Dyżurny synoptyk hydrolog: Paweł Terlecki

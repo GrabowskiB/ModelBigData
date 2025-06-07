@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.11.2024 - godz. 09:30
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 443 z dnia 14.11.2024
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Bug do ujścia Uherki (lubelskie)
+Przebieg: Zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenia odwołuje się, gdy wartość przepływu na stacjach uznanych za reprezentatywne utrzymuje się powyżej SNQ przez co najmniej 5 dni (dotyczy okresu obserwacji).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Bug do ujscia Uherki od - do -. Zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

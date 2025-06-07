@@ -1,0 +1,15 @@
+Data i godzina wydania: 09.04.2023 - godz. 10:17
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 81
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:30 dnia 09.04.2023 do godz. 10:00 dnia 10.04.2023
+Obszar: Czarna od zb. Chańcza do ujścia  (świętokrzyskie)
+Przebieg: W związku ze zwiększeniem odpływu ze zbiornika Chańcza, na Czarnej będzie notowany wzrost poziomu wody w strefie wody wysokiej, w profilu Staszów z przekroczeniem stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Przemysław Plewa

@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.07.2023 - godz. 05:49
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 225
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 05:50 dnia 26.07.2023 do godz. 10:00 dnia 27.07.2023
+Obszar: zlewnia Łagowicy (świętokrzyskie)
+Przebieg: W związku ze spływem wód opadowych obserwuje się i prognozuje utrzymywanie przekroczenia stanu ostrzegawczego na stacji Mocha na rzece Łagowica. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia Lagowicy od 05:50/26.07.2023 do 10:00/27.07.2023. W zwiazku ze splywem wod opadowych obserwuje sie i prognozuje utrzymywanie przekroczenia stanu ostrzegawczego na stacji Mocha na rzece Lagowica.  Szczegoly na meteo.imgw.pl

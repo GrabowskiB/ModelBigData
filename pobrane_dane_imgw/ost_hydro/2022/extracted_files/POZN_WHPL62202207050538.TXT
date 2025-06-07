@@ -1,0 +1,16 @@
+Data i godzina wydania: 05.07.2022 - godz. 07:36
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 52
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 08:00 dnia 05.07.2022 do godz. 00:00 dnia 06.07.2022
+Obszar: Prosna górna (opolskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach niekontrolowanych oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody i lokalne podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość lokalnego, krótkotrwałego przekroczenia stanu ostrzegawczego.
+
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Paweł Terlecki

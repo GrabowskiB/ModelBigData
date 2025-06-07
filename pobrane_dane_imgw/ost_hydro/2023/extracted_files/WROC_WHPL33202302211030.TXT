@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.02.2023 - godz. 11:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 27 z dnia 19.02.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:00 dnia 21.02.2023 do godz. 12:00 dnia 23.02.2023
+Obszar: Barycz bez Orli i Polskiego Rowu, Orla (dolnośląskie, wielkopolskie)
+Przebieg: W wyniku spływu wód opadowych w zlewni Baryczy prognozowane są wahania stanów wody w strefie wody wysokiej, lokalnie powyżej stanów ostrzegawczych i alarmowych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy okresy obowiązywania i przebiegu zjawiska
+
+Dyżurny synoptyk hydrolog: Leszek Jelonek

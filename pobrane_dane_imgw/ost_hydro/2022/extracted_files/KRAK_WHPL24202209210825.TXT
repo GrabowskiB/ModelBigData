@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.09.2022 - godz. 10:20
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 134 z dnia 27.07.2022
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Wisłoka do ujścia Jasiołki, Ropa, Jasiołka (małopolskie, podkarpackie)
+Przebieg: 
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenia odwołuje się, gdy wartość przepływu na stacjach uznanych za reprezentatywne utrzymuje się powyżej SNQ przez co najmniej 5 dni (dotyczy okresu obserwacji).
+
+Dyżurny synoptyk hydrolog: Wawrzyniec Kruszewski

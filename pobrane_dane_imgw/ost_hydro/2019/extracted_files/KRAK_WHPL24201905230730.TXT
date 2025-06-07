@@ -1,0 +1,17 @@
+Data i godzina wydania: 23.05.2019 - godz. 09:28
+Nazwa biura prognoz hydrologicznych: BPH IMGW-PIB Kraków Obszar Kraków
+
+OSTRZE¯ENIE HYDROLOGICZNE Nr O:4
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopieñ zagro¿enia: 3
+
+Wa¿noœæ: od godz. 12:00 dnia 23.05.2019 do godz. 18:00 dnia 24.05.2019
+Obszar: Wis³a  (ma³opolskie)
+Przebieg: Na skutek sp³ywu wód opadowych, na ca³ym odcinku Wis³y, notowany bêdzie gwa³towny wzrost poziomu wody powy¿ej stanów ostrzegawczych z przekroczeniem stanów alarmowych.
+Prawdopodobieñstwo wyst¹pienia zjawiska: 95%
+Uwagi: Powy¿sze Ostrze¿enie zastêpuje informacjê o prognozowanych stanach na Wiœle z Ostrze¿enia nr 1
+
+Dy¿urny synoptyk hydrolog: Przemys³aw Plewa
+
+Wiadomoœæ SMS:
+IMGW-PIB OSTRZEGA:WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 wisla  (malopolskie) od12:00/23.05.do18:00/24.05.2019 

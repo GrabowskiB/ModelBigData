@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.08.2024 - godz. 20:07
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 176
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 02:00 dnia 08.08.2024 do godz. 11:00 dnia 08.08.2024
+Obszar: Osobłoga od granicy RP do ujścia, Osobłoga, Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Klikawa, Żydawka, Czermnica, Orlica, Odra od ujścia Nysy Kłodzkiej do ujścia Widawy, Stobrawa, Widawa od Namysłowa do ujścia do Odry, Widawa, Oława od Zborowic do ujścia do Odry, Oława górna do Zborowic, Oława od Zborowic do ujścia, Ślęza od Borowa do ujścia do Odry, Ślęza górna do Borowa, Ślęza od Borowa do ujścia, Bystrzyca od Zb. Lubachów do Zb. Mietków, Bystrzyca górna do Zb. Mietków, Bystrzyca dolna (Czarna Woda i Strzegomka), Strzegomka od Zb. Dobromierz do ujścia do Bystrzycy, Strzegomka do Łażan, Odra od ujścia Widawy do Ścinawy, Kaczawa górna do Dunina, Kaczawa od Dunina (bez górnej Skorej) do ujścia, Nysa Szalona od Zb. Słup do ujścia do Kaczawy, Odra od Ścinawy do Głogowa, Barycz od Polskiej Wody do ujścia do Odry, Barycz bez Orli i Polskiego Rowu, Orla, Polski Rów, Odra od Głogowa do ujścia Bobru (dolnośląskie, opolskie, wielkopolskie)
+Przebieg: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 przyrzecze oraz zlewnie doplywow Odry od Kozla do Glogowa od 02:00/08.08.2024 do 11:00/08.08.2024. Ostrzezenie wydane w zwiazku z prognozowanymi opadami o charakterze burzowym, ktore wystepuja lokalnie. Ze wzgledu na swoj charakter, intensywny, punktowy opad, w miejscu jego wystepowania moze spowodowac potencjalne zagrozenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (glownie na obszarach miejskich). Szczegoly na meteo.imgw.pl

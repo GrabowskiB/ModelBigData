@@ -1,0 +1,15 @@
+Data i godzina wydania: 30.08.2024 - godz. 11:22
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 200
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:00 dnia 30.08.2024 do godz. 01:00 dnia 31.08.2024
+Obszar: Strzegomka do Łażan, Odra od ujścia Widawy do Ścinawy, Kaczawa górna do Dunina, Kaczawa od Dunina (bez górnej Skorej) do ujścia, Skora (górna), Odra od Ścinawy do Głogowa, Barycz bez Orli i Polskiego Rowu, Orla, Polski Rów, Odra od Głogowa do ujścia Bobru, Odra od ujścia Bobru do Białej Góry, Odra od Białej Góry do Słubic, Bóbr do Zb. Pilchowice, Bóbr od Zb. Pilchowice do Bobrzycy, Bóbr od Bobrzycy do ujścia (bez Kwisy i Czernej Wielkiej), Kwisa górna do Zb. Leśna, Kwisa od Zb. Leśna do Nowogrodźca, Czerna Wielka, Ostrożnica, Izera, Nysa Łużycka do Zgorzelca, Nysa Łużycka od Zgorzelca do ujścia (dolnośląskie, lubuskie, wielkopolskie)
+Przebieg: W związku z prognozowanymi opadami o charakterze burzowym, na mniejszych rzekach oraz w zlewniach zurbanizowanych mogą wystąpić gwałtowne wzrosty stanów wody i lokalne podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow Odry ponizej Wroclawia od 14:00/30.08.2024 do 01:00/31.08.2024.  Szczegoly na meteo.imgw.pl

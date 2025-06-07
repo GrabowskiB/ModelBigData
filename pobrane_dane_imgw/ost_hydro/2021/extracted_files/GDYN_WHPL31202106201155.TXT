@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<warn-msg release="2021-06-20 12:50" no="3" degree="-1" type="OH" from="2021-06-20 13:30" to="NULL" office="GDYN" event="SH" prob="90" author="Magda Grabowska-Piekarz">
+	<run>W związku z występującymi niskimi przepływami wody oraz prognozowanymi nieznacznymi opadami atmosferycznymi, w kolejnych dniach na terenie województwa zachodniopomorskiego w zlewni rzeki Parsęty, spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.</run>
+	<comment>Ostrzeżenia wydawane są w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w co najmniej 3 sąsiednich obszarach hydrologicznych (obejmujących grupę zlewni monitorowanych przez PSHM).</comment>
+	<area-description>Rzeki Przymorza: Parsęta (zachodniopomorskie)</area-description>
+	<provinces>
+		<province name="ZP">
+			<area name="Z-G-26" />
+		</province>
+	</provinces>
+	<sms>IMGW-PIB OSTRZEGA:SUSZA HYDROLOGICZNA Rzeki Przymorza: Parseta (zachodniopomorskie) od13:30/20.06.do.odwolania W zwiazku z wystepujacymi niskimi przeplywami wody oraz prognozowanymi nieznacznymi opadami atmosferycznymi, w kolejnych dniach na terenie wojewodztwa zachodniopomorskiego w zlewni rzeki Parsety, spodziewane jest dalsze utrzymywanie sie przeplywow wody ponizej SNQ. Szczegoly na meteo.imgw.pl</sms>
+</warn-msg>

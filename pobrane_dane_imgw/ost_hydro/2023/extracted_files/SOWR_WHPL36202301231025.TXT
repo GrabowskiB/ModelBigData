@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.01.2023 - godz. 11:20
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Zmiana ostrzeżenia Nr: 6 z dnia 21.01.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:21 dnia 23.01.2023 do godz. 12:00 dnia 25.01.2023
+Obszar: Bug poniżej Krzyczewa (mazowieckie, podlaskie)
+Przebieg: W związku ze spływem wód opadowych, na Bugu poniżej Krzyczewa prognozowany jest dalszy wzrost poziomu wody. W profilach: Zabuże, Frankopol oraz Wyszków przewidywany jest dalszy wzrost poziomu wody przy przekroczonym stanie ostrzegawczym.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy czasu obowiązywania oraz opisu przebiegu zjawiska.
+
+Dyżurny synoptyk hydrolog: Wawrzyniec Kruszewski

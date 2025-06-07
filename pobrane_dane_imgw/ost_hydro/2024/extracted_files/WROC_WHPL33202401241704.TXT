@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.01.2024 - godz. 17:59
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 26
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 17:59 dnia 24.01.2024 do godz. 16:00 dnia 25.01.2024
+Obszar: Barycz bez Orli i Polskiego Rowu (wielkopolskie)
+Przebieg: W związku z trwającym spływem wód opadowo-roztopowych w zlewni górnej Baryczy prognozowane są dalsze wzrosty stanów wody w strefie wody wysokiej, w Bogdaju na Polskiej Wodzie powyżej stanu ostrzegawczego. W Odolanowie na Baryczy prognozowane jest przekroczenie stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Barycz bez Orli i Polskiego Rowu od 17:59/24.01.2024 do 16:00/25.01.2024. W zwiazku z trwajacym splywem wod opadowo-roztopowych w zlewni gornej Baryczy prognozowane sa dalsze wzrosty stanow wody w strefie wody wysokiej, w Bogdaju na Polskiej Wodzie powyzej stanu ostrzegawczego. W Odolanowie na Baryczy prognozowane jest przekroczenie stanu ostrzegawczego.  Szczegoly na meteo.imgw.pl

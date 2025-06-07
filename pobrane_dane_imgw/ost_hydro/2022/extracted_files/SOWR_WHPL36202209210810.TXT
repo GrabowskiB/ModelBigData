@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.09.2022 - godz. 10:04
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Odwołanie ostrzeżenia Nr: 76 z dnia 29.07.2022
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: zlewnia Bugu (mazowieckie, podlaskie)
+Przebieg: Zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenia odwołuje się, gdy wartość przepływu na stacjach uznanych za reprezentatywne utrzymuje się powyżej SNQ przez co najmniej 5 dni (dotyczy okresu obserwacji).
+
+Dyżurny synoptyk hydrolog: Michał Ceran

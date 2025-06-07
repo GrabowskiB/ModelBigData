@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.06.2024 - godz. 21:09
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 204
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 00:00 dnia 04.06.2024 do godz. 02:00 dnia 05.06.2024
+Obszar: zlewnie dopływów Wisły oraz Czarnej Orawy (małopolskie)
+Przebieg: W obszarach występowania prognozowanych intensywnych opadów deszczu, zaznaczą się wzrosty poziomu wody, miejscami gwałtowne. Lokalnie istnieje możliwość przekroczenia stanów ostrzegawczych,  a punktowo także alarmowych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie doplywow Wisly oraz Czarnej Orawy od 00:00/04.06.2024 do 02:00/05.06.2024. W obszarach wystepowania prognozowanych intensywnych opadow deszczu, zaznacza sie wzrosty poziomu wody, miejscami gwaltowne. Lokalnie istnieje mozliwosc przekroczenia stanow ostrzegawczych,  a punktowo takze alarmowych.  Szczegoly na meteo.imgw.pl

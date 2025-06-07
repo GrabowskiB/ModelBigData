@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.09.2024 - godz. 07:51
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Odwołanie ostrzeżenia Nr: 246 z dnia 15.09.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Pilica do Zb. Sulejów (śląskie)
+Przebieg: W związku ze spływem wód opadowych, w zlewni Pilicy do zb. Sulejów przewiduje się wzrost stanu wody w strefie wody wysokiej, z przekroczeniem stanu alarmowego na Pilicy w Wąsoszu.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Zjawisko zakończyło się.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Pilica do Zb. Sulejow od - do -. W zwiazku ze splywem wod opadowych, w zlewni Pilicy do zb. Sulejow przewiduje sie wzrost stanu wody w strefie wody wysokiej, z przekroczeniem stanu alarmowego na Pilicy w Wasoszu. Szczegoly na meteo.imgw.pl

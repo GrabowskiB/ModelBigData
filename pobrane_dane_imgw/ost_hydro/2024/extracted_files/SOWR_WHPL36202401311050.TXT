@@ -1,0 +1,15 @@
+Data i godzina wydania: 31.01.2024 - godz. 11:47
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 60
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:00 dnia 31.01.2024 do godz. 10:00 dnia 01.02.2024
+Obszar: Wisła od ujścia Narwi do Zb. Włocławek (mazowieckie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych z górnej części dorzecza, na Wiśle pow. zbiornika Włocławek przewiduje się wzrosty stanu wody w strefie wody wysokiej, w Wyszogrodzie i Kępie Polskiej z przekroczeniem stanów ostrzegawczych. W Płocku z możliwością osiągnięcia stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wisla od ujscia Narwi do Zb. Wloclawek od 12:00/31.01.2024 do 10:00/01.02.2024. W zwiazku ze splywem wod opadowo-roztopowych z gornej czesci dorzecza, na Wisle pow. zbiornika Wloclawek przewiduje sie wzrosty stanu wody w strefie wody wysokiej, w Wyszogrodzie i Kepie Polskiej z przekroczeniem stanow ostrzegawczych. W Plocku z mozliwoscia osiagniecia stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

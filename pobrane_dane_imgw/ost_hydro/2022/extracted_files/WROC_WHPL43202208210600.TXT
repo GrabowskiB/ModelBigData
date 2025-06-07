@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.08.2022 - godz. 07:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 99
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 07:58 dnia 21.08.2022 do godz. 18:00 dnia 21.08.2022
+Obszar: Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Odra od ujścia Nysy Kłodzkiej do ujścia Widawy, Widawa, Oława od Zborowic do ujścia do Odry, Oława górna do Zborowic, Oława od Zborowic do ujścia, Ślęza od Borowa do ujścia do Odry, Ślęza górna do Borowa, Ślęza od Borowa do ujścia, Bystrzyca dolna (Czarna Woda i Strzegomka), Strzegomka od Zb. Dobromierz do ujścia do Bystrzycy, Strzegomka do Łażan, Odra od ujścia Widawy do Ścinawy, Kaczawa od Dunina do ujścia do Odry, Kaczawa górna do Dunina, Kaczawa od Dunina (bez górnej Skorej) do ujścia, Nysa Szalona od Zb. Słup do ujścia do Kaczawy, Skora (górna), Odra od Ścinawy do Głogowa, Barycz od Polskiej Wody do ujścia do Odry, Barycz bez Orli i Polskiego Rowu, Orla, Polski Rów, Bóbr od Zb. Bukówka do Zb. Pilchowice, Bóbr do Zb. Pilchowice, Ostrożnica (dolnośląskie, lubuskie, opolskie, wielkopolskie)
+Przebieg: W związku ze spływem wód opadowych, zwłaszcza po opadach silnych i umiarkowanych, stany wody mogą gwałtownie podnosić się. Lokalnie możliwe przekroczenia stanów ostrzegawczych, szczególnie w obszarach, gdzie wczoraj intensywnie padało. Punktowo niewykluczone przekroczenie stanu alarmowego (np. w Świebodzicach na Pełcznicy).
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Kinga Strońska

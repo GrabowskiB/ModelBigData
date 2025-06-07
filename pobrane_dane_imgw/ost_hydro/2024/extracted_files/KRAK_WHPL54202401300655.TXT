@@ -1,0 +1,15 @@
+Data i godzina wydania: 30.01.2024 - godz. 07:50
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 61 z dnia 29.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 07:50 dnia 30.01.2024 do godz. 12:00 dnia 31.01.2024
+Obszar: zlewnie Huczwy oraz Krzny (lubelskie)
+Przebieg: Na Huczwie w Gozdowie oraz na Krznie w Malowej Górze prognozowany jest dalszy wzrost poziomu wody powyżej stanu alarmowego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy zwiększenia obszaru obowiązywania ostrzeżenia oraz wydłużenia jego okresu ważności. 
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 zlewnie Huczwy oraz Krzny od 07:50/30.01.2024 do 12:00/31.01.2024. Na Huczwie w Gozdowie oraz na Krznie w Malowej Gorze prognozowany jest dalszy wzrost poziomu wody powyzej stanu alarmowego.  Szczegoly na meteo.imgw.pl

@@ -1,0 +1,16 @@
+Data i godzina wydania: 02.06.2024 - godz. 09:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 79
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 10:00 dnia 02.06.2024 do godz. 02:00 dnia 03.06.2024
+Obszar: Warta górna do Poraja, Warta górna od Poraja do Liswarty, Liswarta, Warta górna od Liswarty do Widawki, Warta górna od Widawki do Zb. Jeziorsko, Oleśnica, Grabia, Nieciecz, Widawka, Ner, Warta środkowa od Zb. Jeziorsko do Rgilewki, Warta środkowa od Rgilewki do Prosny, Rgilewka, Kiełbaska, Powa, Bawół, Wrześnica, Warta środkowa od Prosny do Wełny, Kanał Mosiński, Wełna, Warta środkowa od Wełny do Noteci, Prosna górna, Niesób, Łużyca, Prosna środkowa, Ołobok, Swędrnia, Prosna dolna, Noteć górna, Noteć środkowa, Warta dolna od Noteci do ujścia, Obra, Odra dolna od Warty do Gryfina (kujawsko-pomorskie, lubuskie, łódzkie, opolskie, śląskie, wielkopolskie, zachodniopomorskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody i lokalne podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 dorzecze Warty, gorna Notec, Odra dolna od Warty do Gryfina od 10:00/02.06.2024 do 02:00/03.06.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty stanow wody i lokalne podtopienia. Szczegoly na meteo.imgw.pl

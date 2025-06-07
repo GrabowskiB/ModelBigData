@@ -1,0 +1,17 @@
+Data i godzina wydania: 31.12.2024 - godz. 09:14
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Odwołanie ostrzeżenia Nr: 174 z dnia 03.12.2024
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Noteć górna (kujawsko-pomorskie, wielkopolskie)
+Przebieg: Zjawisko zakończyło się.
+
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenia odwołuje się, gdy wartość przepływu na stacjach uznanych za reprezentatywne utrzymuje się powyżej SNQ przez co najmniej 5 dni (dotyczy okresu obserwacji).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Notec gorna od - do -. Zjawisko zakonczylo sie.
+ Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.01.2024 - godz. 12:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 24
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:35 dnia 24.01.2024 do godz. 12:00 dnia 25.01.2024
+Obszar: Ślęza od Borowa do ujścia do Odry, Ślęza górna do Borowa, Ślęza od Borowa do ujścia (dolnośląskie)
+Przebieg: W związku z trwającym spływem wód opadowo-roztopowych w zlewni Ślęzy prognozowane są dalsze wzrosty stanów wody w strefie wody wysokiej, w Borowie powyżej stanu ostrzegawczego. Niewykluczone kolejne przekroczenia stanów ostrzegawczych w pozostałych profilach wodowskazowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Sleza od 12:35/24.01.2024 do 12:00/25.01.2024. W zwiazku z trwajacym splywem wod opadowo-roztopowych w zlewni Slezy prognozowane sa dalsze wzrosty stanow wody w strefie wody wysokiej, w Borowie powyzej stanu ostrzegawczego. Niewykluczone kolejne przekroczenia stanow ostrzegawczych w pozostalych profilach wodowskazowych. Szczegoly na meteo.imgw.pl

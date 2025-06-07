@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.12.2023 - godz. 07:54
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 187
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:55 dnia 21.12.2023 do godz. 11:00 dnia 22.12.2023
+Obszar: Opawa, Opawica, Psina, Stradunia, Osobłoga, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Bystrzyca górna do Zb. Mietków, Bóbr do Zb. Pilchowice, Kwisa od Zb. Leśna do ujścia do Bobru, Kwisa górna do Zb. Leśna, Kwisa od Zb. Leśna do Nowogrodźca, Ostrożnica, Izera (dolnośląskie, opolskie, śląskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu oraz spływem wód opadowych przewidywane są wzrosty stanów wody do strefy wody wysokiej. W zlewniach kontrolowanych istnieje możliwość przekroczenia stanów ostrzegawczych w kolejnych profilach. W Mirsku na Kwisie i Czarnym Potoku oraz w Barcinku na Kamienicy stan wody może wzrosnąć powyżej stanu alarmowego. Na mniejszych rzekach oraz w zlewniach zurbanizowanych wzrosty stanów wody mogą być gwałtowne.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 gorskie i podgorskie zlewnie lewostronnych doplywow Odry od 07:55/21.12.2023 do 11:00/22.12.2023. W zwiazku z prognozowanymi intensywnymi opadami deszczu oraz splywem wod opadowych przewidywane sa wzrosty stanow wody do strefy wody wysokiej. W zlewniach kontrolowanych istnieje mozliwosc przekroczenia stanow ostrzegawczych w kolejnych profilach. W Mirsku na Kwisie i Czarnym Potoku oraz w Barcinku na Kamienicy stan wody moze wzrosnac powyzej stanu alarmowego. Na mniejszych rzekach oraz w zlewniach zurbanizowanych wzrosty stanow wody moga byc gwaltowne. Szczegoly na meteo.imgw.pl

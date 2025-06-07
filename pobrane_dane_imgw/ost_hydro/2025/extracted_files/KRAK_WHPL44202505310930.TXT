@@ -1,0 +1,15 @@
+Data i godzina wydania: 31.05.2025 - godz. 11:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 68
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:00 dnia 31.05.2025 do godz. 02:00 dnia 01.06.2025
+Obszar: górna część zlewni Wisłoki, zlewnia Sanu po ujście Trzebośnicy oraz zlewnia Wisłoka i Strwiąża (podkarpackie)
+Przebieg:  W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, punktowo istnieje małe prawdopodobieństwo przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 65%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia Wisloki, Sanu po ujscie Trzebosnicy oraz Wisloka i Strwiaza od 14:00/31.05.2025 do 02:00/01.06.2025.  W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, punktowo istnieje male prawdopodobienstwo przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

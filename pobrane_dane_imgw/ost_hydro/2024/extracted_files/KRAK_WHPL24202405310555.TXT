@@ -1,0 +1,15 @@
+Data i godzina wydania: 31.05.2024 - godz. 07:52
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 183
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 11:00 dnia 31.05.2024 do godz. 02:00 dnia 01.06.2024
+Obszar: zlewnie dopływów Wisły oraz Czarnej Orawy (małopolskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych, a krótkotrwale także alarmowych.  
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego wystąpienia może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow Wisly oraz Czarnej Orawy od 11:00/31.05.2024 do 02:00/01.06.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych, a krotkotrwale takze alarmowych.   Szczegoly na meteo.imgw.pl

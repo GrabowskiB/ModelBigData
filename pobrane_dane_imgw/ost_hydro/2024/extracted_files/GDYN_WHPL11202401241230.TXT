@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.01.2024 - godz. 13:27
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 16
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 13:30 dnia 24.01.2024 do godz. 12:00 dnia 25.01.2024
+Obszar: Zalew Szczeciński, Odra od Gryfina do ujścia (rz), Cieśnina Dziwna (rz) (zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną na Zalewie Szczecińskim oraz w ujściu Odry przewidywane są wzrosty poziomów wody do strefy wody wysokiej, lokalnie z możliwością przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zalew Szczecinski, Odra od Gryfina do ujscia (rz), Ciesnina Dziwna (rz) od 13:30/24.01.2024 do 12:00/25.01.2024. W zwiazku z prognozowana sytuacja meteorologiczna na Zalewie Szczecinskim oraz w ujsciu Odry przewidywane sa wzrosty poziomow wody do strefy wody wysokiej, lokalnie z mozliwoscia przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

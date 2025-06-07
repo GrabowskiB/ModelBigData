@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.02.2024 - godz. 10:31
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 64
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:00 dnia 01.02.2024 do godz. 12:00 dnia 03.02.2024
+Obszar: Bug (podlaskie)
+Przebieg: Na Bugu przewiduje się wzrost poziomu wody w strefie wody wysokiej związany z dopływem wód roztopowych z górnej części zlewni, we Frankopolu powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bug od 12:00/01.02.2024 do 12:00/03.02.2024. Na Bugu przewiduje sie wzrost poziomu wody w strefie wody wysokiej zwiazany z doplywem wod roztopowych z gornej czesci zlewni, we Frankopolu powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

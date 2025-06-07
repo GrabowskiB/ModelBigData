@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.02.2024 - godz. 11:53
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 40
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:53 dnia 11.02.2024 do godz. 12:00 dnia 13.02.2024
+Obszar: Warta dolna od Noteci do ujścia (lubuskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej na stacji wodowskazowej Kostrzyn nad Odrą na Warcie prognozowane jest przekroczenie stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Warta dolna od Noteci do ujscia od 11:53/11.02.2024 do 12:00/13.02.2024. W zwiazku z rozwojem sytuacji hydrologicznej na stacji wodowskazowej Kostrzyn nad Odra na Warcie prognozowane jest przekroczenie stanu alarmowego. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.08.2022 - godz. 08:30
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 79
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 08:45 dnia 01.08.2022 do godz. 09:00 dnia 02.08.2022
+Obszar: zlewnie Supraśli i Biebrzy (podlaskie, warmińsko-mazurskie)
+Przebieg: W związku ze spływem wód opadowych w zlewniach Supraśli i Biebrzy przewiduje się dalszy wzrost poziomu wody w rzekach, lokalnie powyżej stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Michał Ceran

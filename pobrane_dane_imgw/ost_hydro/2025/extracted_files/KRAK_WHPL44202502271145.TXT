@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.02.2025 - godz. 12:42
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 11
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 12:43 dnia 27.02.2025 do godz. 12:00 dnia 28.02.2025
+Obszar: zlewnia górnej Wisłoki (podkarpackie)
+Przebieg: W związku z prognozowanymi opadami deszczu lokalnie możliwe są gwałtowne wzrosty, w tym do strefy stanów wysokich. Punktowo istnieje możliwość przekroczenia stanów ostrzegawczych. Na sytuację hydrologiczną istotny wpływ mogą mieć zjawiska lodowe na rzekach (szczególnie pochód lodu).
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia gornej Wisloki od 12:43/27.02.2025 do 12:00/28.02.2025. W zwiazku z prognozowanymi opadami deszczu lokalnie mozliwe sa gwaltowne wzrosty, w tym do strefy stanow wysokich. Punktowo istnieje mozliwosc przekroczenia stanow ostrzegawczych. Na sytuacje hydrologiczna istotny wplyw moga miec zjawiska lodowe na rzekach (szczegolnie pochod lodu). Szczegoly na meteo.imgw.pl

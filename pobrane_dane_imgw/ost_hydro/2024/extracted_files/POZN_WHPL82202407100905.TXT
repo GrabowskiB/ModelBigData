@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.07.2024 - godz. 11:03
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 103
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:00 dnia 10.07.2024 do godz. 23:00 dnia 10.07.2024
+Obszar: Warta środkowa od Prosny do Wełny, Kanał Mosiński, Wełna, Warta środkowa od Wełny do Noteci, Łobżonka, Noteć środkowa, Gwda, Drawa, Noteć dolna, Warta dolna od Noteci do ujścia, Obra, Odra środkowa od Słubic do Warty, Odra dolna od Warty do Gryfina, Ina i Płonia (kujawsko-pomorskie, lubuskie, pomorskie, wielkopolskie, zachodniopomorskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych mogą wystąpić gwałtowne wzrosty stanów wody, które na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą powodować gwałtowne wzrosty stanów wody i lokalne podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych, punktowo alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnie: Warty sr. od Prosny, Noteci sr.,Odry do Gryfina, Iny i Ploni od 14:00/10.07.2024 do 23:00/10.07.2024. W obszarach wystepowania prognozowanych opadow burzowych moga wystapic gwaltowne wzrosty stanow wody, ktore na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga powodowac gwaltowne wzrosty stanow wody i lokalne podtopienia. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych, punktowo alarmowych. Szczegoly na meteo.imgw.pl

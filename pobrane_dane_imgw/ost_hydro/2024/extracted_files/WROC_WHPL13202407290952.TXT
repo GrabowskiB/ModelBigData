@@ -1,0 +1,15 @@
+Data i godzina wydania: 29.07.2024 - godz. 11:50
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 165
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 11:51 dnia 29.07.2024 do odwołania
+Obszar: zlewnia górnego Bobru (dolnośląskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach w zlewni górnego Bobru spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA zlewnia gornego Bobru od 11:51/29.07.2024 do odwolania. W zwiazku z wystepujacymi niskimi przeplywami wody, w kolejnych dniach w zlewni gornego Bobru spodziewane jest dalsze utrzymywanie sie przeplywow wody ponizej SNQ. Szczegoly na meteo.imgw.pl

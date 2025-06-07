@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.02.2024 - godz. 11:03
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 68 z dnia 05.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:03 dnia 05.02.2024 do godz. 09:00 dnia 06.02.2024
+Obszar: Mała Wisła od zb. Goczałkowice, Soła od kaskady zbiorników, Raba od zb. Dobczyce, Ropa od zb. Klimkówka oraz zlewnie Skawinki, Rudawy, Białej (Tarnowskiej), Brenia i Grabinki (małopolskie)
+Przebieg: W związku ze spływem wód opadowych, a lokalnie opadowo-roztopowych prognozowane są dalsze wzrosty poziomu wody, przy aktualnie przekroczonych stanach ostrzegawczych z przekroczeniami stanów umownych na kolejnych stacjach hydrologicznych, w tym punktowo stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy przebiegu zjawiska. W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Mala Wisla, Sola, Raba, Ropa, Skawinka, Rudawy, Biala, Brenia i Grabinianki od 11:03/05.02.2024 do 09:00/06.02.2024. W zwiazku ze splywem wod opadowych, a lokalnie opadowo-roztopowych prognozowane sa dalsze wzrosty poziomu wody, przy aktualnie przekroczonych stanach ostrzegawczych z przekroczeniami stanow umownych na kolejnych stacjach hydrologicznych, w tym punktowo stanow alarmowych. Szczegoly na meteo.imgw.pl

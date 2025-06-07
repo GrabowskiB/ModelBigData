@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.07.2024 - godz. 13:00
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 115
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 23:00 dnia 12.07.2024 do godz. 11:00 dnia 13.07.2024
+Obszar: Wieprza od Bystrzenicy do ujścia, Wieprza od źródła do Bystrzenicy, Przymorze od Wieprzy do Słupi, Słupia od Skotawy do ujścia, Słupia od źródła do Skotawy, Przymorze od Słupi do Łupawy, Łupawa od wodowskazu Łupawa do ujścia, Łupawa od źródła do wodowskazu Łupawa, Łeba od Lęborka 2 do ujścia, Łeba od źródła do Lęborka 2, Przymorze od Łeby do Redy, Reda, Przymorze od Redy do Martwej Wisły, Martwa Wisła, Przymorze od Martwej Wisły do Wisły, Przymorze od Wisły do granicy państwa na Mierzei Wiślanej, Zlewnia Zalewu Wiślanego do Nogatu, Elbląg, Wąska, Nogat, Wisła od Torunia do Tczewa (zl), Brda od źródła do Sępólnej, Wda od źródła po Czarną Wodę, Wda od Czarnej Wody do ujścia, Wierzyca od źródła do Bożegopola Szlacheckiego, Wierzyca od Bożegopola Szlacheckiego do ujścia, Osa (kujawsko-pomorskie, pomorskie, warmińsko-mazurskie, zachodniopomorskie)
+Przebieg: W obszarach występowania prognozowanych silnych opadów deszczu z burzami, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, lokalnie  istnieje możliwość krótkotrwałego przekroczenia stanów ostrzegawczych bądź alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W miejscu wystąpienia silnych opadów deszczu, a także towarzyszącym im opadów burzowych, ze względu na swój charakter, intensywny, punktowy przebieg zjawiska może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnia rzek Przymorza, dolnej Wisly i rzek uchodzacych do Z. Gdanskiej od 23:00/12.07.2024 do 11:00/13.07.2024. W obszarach wystepowania prognozowanych silnych opadow deszczu z burzami, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, lokalnie  istnieje mozliwosc krotkotrwalego przekroczenia stanow ostrzegawczych badz alarmowych. Szczegoly na meteo.imgw.pl

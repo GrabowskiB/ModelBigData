@@ -1,0 +1,15 @@
+Data i godzina wydania: 18.08.2023 - godz. 02:38
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 125
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 02:40 dnia 18.08.2023 do godz. 08:00 dnia 18.08.2023
+Obszar: Kaczawa od Dunina do ujścia do Odry (dolnośląskie)
+Przebieg: W związku ze spływem wód opadowych prognozowane są dalsze wzrosty stanów wody w strefie wody wysokiej wraz z możliwym przekroczeniem stanu ostrzegawczego w profilu Dunino.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Kaczawa od Dunina do ujscia do Odry od 02:40/18.08.2023 do 08:00/18.08.2023. W zwiazku ze splywem wod opadowych prognozowane sa dalsze wzrosty stanow wody w strefie wody wysokiej wraz z mozliwym przekroczeniem stanu ostrzegawczego w profilu Dunino. Szczegoly na meteo.imgw.pl

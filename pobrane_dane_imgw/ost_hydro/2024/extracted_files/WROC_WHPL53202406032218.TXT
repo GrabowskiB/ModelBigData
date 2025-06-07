@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.06.2024 - godz. 00:16
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 109
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 00:16 dnia 04.06.2024 do godz. 10:00 dnia 04.06.2024
+Obszar: Olza od Cieszyna do ujścia do Odry (śląskie)
+Przebieg: Na stacji Cieszyn na rzece Olza prognozuje się w najbliższym czasie przekroczenie progu alarmowego, a następnie dalsze wzrosty stanu wody, z uwagi na wydajny opad po stronie czeskiej.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Olza od Cieszyna do ujscia do Odry od 00:16/04.06.2024 do 10:00/04.06.2024. Na stacji Cieszyn na rzece Olza prognozuje sie w najblizszym czasie przekroczenie progu alarmowego, a nastepnie dalsze wzrosty stanu wody, z uwagi na wydajny opad po stronie czeskiej. Szczegoly na meteo.imgw.pl

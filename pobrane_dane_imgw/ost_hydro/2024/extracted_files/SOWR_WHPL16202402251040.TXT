@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.02.2024 - godz. 11:38
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 125
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:39 dnia 25.02.2024 do godz. 12:00 dnia 26.02.2024
+Obszar: Bzura (łódzkie)
+Przebieg: W związku ze spływem wód opadowych w zlewni Bzury spodziewane są lokalne wzrosty stanów wody, z przekroczeniem stanu ostrzegawczego na Bzurze w Kwiatkówku.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bzura od 11:39/25.02.2024 do 12:00/26.02.2024. W zwiazku ze splywem wod opadowych w zlewni Bzury spodziewane sa lokalne wzrosty stanow wody, z przekroczeniem stanu ostrzegawczego na Bzurze w Kwiatkowku. Szczegoly na meteo.imgw.pl

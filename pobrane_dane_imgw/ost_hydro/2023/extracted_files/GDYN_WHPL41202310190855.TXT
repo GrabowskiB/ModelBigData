@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.10.2023 - godz. 10:50
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Odwołanie ostrzeżenia Nr: 63 z dnia 28.06.2023
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Bauda (warmińsko-mazurskie)
+Przebieg: Zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenia odwołuje się, gdy wartość przepływu na stacjach uznanych za reprezentatywne utrzymuje się powyżej SNQ przez co najmniej 5 dni (dotyczy okresu obserwacji).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Bauda od - do -. Zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

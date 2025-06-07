@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.02.2024 - godz. 18:42
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 93
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 18:43 dnia 10.02.2024 do godz. 10:00 dnia 11.02.2024
+Obszar: Grabinka (podkarpackie)
+Przebieg: W związku ze spływem wody opadowej na stacji Głowaczowa na rzece Grabinka prognozuje się dalszy wzrost stanu wody powyżej progu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Grabinka od 18:43/10.02.2024 do 10:00/11.02.2024. W zwiazku ze splywem wody opadowej na stacji Glowaczowa na rzece Grabinka prognozuje sie dalszy wzrost stanu wody powyzej progu ostrzegawczego. Szczegoly na meteo.imgw.pl

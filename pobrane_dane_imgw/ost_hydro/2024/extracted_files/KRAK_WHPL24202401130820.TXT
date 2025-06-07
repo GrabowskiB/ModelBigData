@@ -1,0 +1,15 @@
+Data i godzina wydania: 13.01.2024 - godz. 09:15
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 30 z dnia 12.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:16 dnia 13.01.2024 do godz. 10:00 dnia 14.01.2024
+Obszar: Zlewnia Sękówki (małopolskie)
+Przebieg: W wyniku utworzenia się zatoru lodowego na rzece Sękówka w profilu Gorlice, poziom wody może wzrastać powyżej stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy czasu obowiązywania ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnia Sekowki od 09:16/13.01.2024 do 10:00/14.01.2024. W wyniku utworzenia sie zatoru lodowego na rzece Sekowka w profilu Gorlice, poziom wody moze wzrastac powyzej stanu ostrzegawczego.  Szczegoly na meteo.imgw.pl

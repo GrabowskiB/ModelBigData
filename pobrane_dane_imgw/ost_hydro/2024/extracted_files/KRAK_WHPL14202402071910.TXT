@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.02.2024 - godz. 20:04
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 78
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 20:05 dnia 07.02.2024 do godz. 09:00 dnia 08.02.2024
+Obszar: zlewnie: Przemszy od zb. Przeczyce do ujścia Brynicy, Brynicy poniżej zbiornika Kozłowa Góra (śląskie)
+Przebieg: Prognozowany jest dalszy wzrost poziomu wody, lokalnie z możliwością przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie: Przemszy od zb. Przeczyce do ujscia Brynicy, Brynicy  od 20:05/07.02.2024 do 09:00/08.02.2024. Prognozowany jest dalszy wzrost poziomu wody, lokalnie z mozliwoscia przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

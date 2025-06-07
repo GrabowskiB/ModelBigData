@@ -1,0 +1,15 @@
+Data i godzina wydania: 28.06.2024 - godz. 11:05
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 97
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 13:00 dnia 28.06.2024 do godz. 00:00 dnia 29.06.2024
+Obszar: Warta górna od Widawki do Zb. Jeziorsko, Oleśnica, Warta środkowa od Zb. Jeziorsko do Rgilewki, Warta środkowa od Rgilewki do Prosny, Kiełbaska, Powa, Bawół, Wrześnica, Warta środkowa od Prosny do Wełny, Kanał Mosiński, Wełna, Warta środkowa od Wełny do Noteci, Prosna górna, Niesób, Łużyca, Prosna środkowa, Ołobok, Swędrnia, Prosna dolna, Noteć górna, Łobżonka, Noteć środkowa, Gwda, Drawa, Noteć dolna, Warta dolna od Noteci do ujścia, Obra, Odra dolna od Warty do Gryfina, Ina i Płonia (kujawsko-pomorskie, lubuskie, łódzkie, opolskie, pomorskie, wielkopolskie, zachodniopomorskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody i lokalne podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie Warty od Rgilewki, Noteci, Odry od Slubic do Gryfina, Ina i Plonia od 13:00/28.06.2024 do 00:00/29.06.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty stanow wody i lokalne podtopienia. Szczegoly na meteo.imgw.pl

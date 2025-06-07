@@ -1,0 +1,15 @@
+Data i godzina wydania: 13.09.2024 - godz. 14:53
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 242
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 08:00 dnia 14.09.2024 do godz. 11:00 dnia 15.09.2024
+Obszar: Wisła od ujścia Kamiennej do Dęblina (część lewobrzeżna), Wisła od Dęblina do ujścia Narwi, Iłżanka, Radomka, Pilica do Zb. Sulejów, Pilica od Zb. Sulejów, Świder, Jeziorka, Bzura, Dolna Narew, Bug, Liwiec (łódzkie, mazowieckie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu, w zlewni Wisły, dolnej Narwi i zlewni Bugu spodziewane są wzrosty stanu wody, z lokalnymi przekroczeniami stanów ostrzegawczych, a punktowo z możliwością przekroczenia stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Wisly, dolnej Narwi i zlewnia Bugu od 08:00/14.09.2024 do 11:00/15.09.2024. W zwiazku z prognozowanymi intensywnymi opadami deszczu, w zlewni Wisly, dolnej Narwi i zlewni Bugu spodziewane sa wzrosty stanu wody, z lokalnymi przekroczeniami stanow ostrzegawczych, a punktowo z mozliwoscia przekroczenia stanow alarmowych. Szczegoly na meteo.imgw.pl

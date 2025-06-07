@@ -1,0 +1,15 @@
+Data i godzina wydania: 20.11.2023 - godz. 10:26
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 361
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 11:00 dnia 20.11.2023 do godz. 21:00 dnia 20.11.2023
+Obszar: Soła od kaskady zbiorników do ujścia i przyrzecze Wisły (małopolskie)
+Przebieg: W związku ze zwiększonym odpływem ze zbiornika Czaniec, na Sole w Oświęcimiu, spodziewany jest gwałtowny wzrost poziomu wody z możliwością przekroczenia stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Sola od kaskady zbiornikow do ujscia i przyrzecze Wisly od 11:00/20.11.2023 do 21:00/20.11.2023. W zwiazku ze zwiekszonym odplywem ze zbiornika Czaniec, na Sole w Oswiecimiu, spodziewany jest gwaltowny wzrost poziomu wody z mozliwoscia przekroczenia stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

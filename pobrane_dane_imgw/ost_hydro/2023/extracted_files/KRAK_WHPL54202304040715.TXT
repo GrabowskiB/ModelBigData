@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.04.2023 - godz. 09:10
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 77
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:11 dnia 04.04.2023 do godz. 10:00 dnia 05.04.2023
+Obszar: Zlewnia Krzny (lubelskie)
+Przebieg: W związku ze spływem wód opadowych na Krznie w Malowej Górze spodziewany jest dalszy powolny wzrost poziomu wody powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Barbara Olearczyk-Siwik

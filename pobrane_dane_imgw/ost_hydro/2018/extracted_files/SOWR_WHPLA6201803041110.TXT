@@ -1,0 +1,17 @@
+Data i godzina wydania: 04.03.2018 - godz. 12:06
+Nazwa biura prognoz hydrologicznych: BPH IMGW-PIB O/Kraków ZHO Warszawa
+
+INFORMACJA O NIEBEZPIECZNYM ZJAWISKU Nr I:1
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopieñ zagro¿enia: 2
+
+Wa¿noœæ: od godz. 12:30 dnia 04.03.2018 do godz. 12:30 dnia 05.03.2018
+Obszar: Bug (podlaskie)
+Przebieg: W zwi¹zku z piêtrzeniem wody przez lód na Bugu we Frankopolu przewiduje siê wzrost poziomu wody powy¿ej stanu ostrzegawczego.
+Prawdopodobieñstwo wyst¹pienia zjawiska: 70%
+Uwagi: Brak
+
+Dy¿urny synoptyk hydrolog: Micha³ Ceran
+
+Wiadomoœæ SMS:
+IMGW-PIB INFORMUJE:WZROST POW.ST.OSTRZEG./2 bug (podlaskie) od12:30/04.03.do12:30/05.03.2018 Pietrzenie przez lod

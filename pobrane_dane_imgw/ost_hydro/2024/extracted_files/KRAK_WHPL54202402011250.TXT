@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.02.2024 - godz. 13:44
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 62 z dnia 31.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:45 dnia 01.02.2024 do godz. 14:00 dnia 03.02.2024
+Obszar: Bug do Krzyczewa (lubelskie)
+Przebieg: Na Bugu prognozowany jest dalszy wzrost poziomu wody powyżej stanów ostrzegawczych w Strzyżowie, Dorohusku, Włodawie oraz Krzyczewie. Ponadto, istnieje możliwość przekroczenia tego progu w Kryłowie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy opisu przebiegu zjawiska oraz okresu ważności Ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bug do Krzyczewa od 13:45/01.02.2024 do 14:00/03.02.2024. Na Bugu prognozowany jest dalszy wzrost poziomu wody powyzej stanow ostrzegawczych w Strzyzowie, Dorohusku, Wlodawie oraz Krzyczewie. Ponadto, istnieje mozliwosc przekroczenia tego progu w Krylowie. Szczegoly na meteo.imgw.pl

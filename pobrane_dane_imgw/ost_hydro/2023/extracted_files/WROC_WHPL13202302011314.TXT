@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.02.2023 - godz. 14:12
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 9
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:13 dnia 01.02.2023 do godz. 11:00 dnia 03.02.2023
+Obszar: Widawa od Namysłowa do ujścia do Odry (dolnośląskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych stany wody na Widawie będą utrzymywały się powyżej stanu ostrzegawczego
+
+Prawdopodobieństwo wystąpienia zjawiska: 100%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Leszek Jelonek

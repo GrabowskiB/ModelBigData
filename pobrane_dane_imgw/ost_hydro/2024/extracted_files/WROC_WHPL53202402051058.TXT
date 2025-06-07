@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.02.2024 - godz. 11:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 35 z dnia 04.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:56 dnia 05.02.2024 do godz. 12:00 dnia 06.02.2024
+Obszar: Bierawka (opolskie, śląskie)
+Przebieg: Występujące i prognozowane opady deszczu będą powodowały dalsze wzrosty stanu wody w strefie wody wysokiej na rzekach zlewni Bierawki,  do przekroczenia stanu alarmowego w Grabówce.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Zmiana dotyczy podniesienia stopnia zagrożenia, przebiegu i okresu ważności (wydłużenie).
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Bierawka od 11:56/05.02.2024 do 12:00/06.02.2024. Wystepujace i prognozowane opady deszczu beda powodowaly dalsze wzrosty stanu wody w strefie wody wysokiej na rzekach zlewni Bierawki,  do przekroczenia stanu alarmowego w Grabowce. Szczegoly na meteo.imgw.pl

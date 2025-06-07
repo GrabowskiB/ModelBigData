@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.03.2023 - godz. 12:33
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 39 z dnia 10.03.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:33 dnia 12.03.2023 do godz. 12:00 dnia 14.03.2023
+Obszar: Barycz od Polskiej Wody do ujścia do Odry, Barycz bez Orli i Polskiego Rowu, Orla (dolnośląskie, wielkopolskie)
+Przebieg: W wyniku spływu wód opadowo-roztopowych w zlewni Baryczy prognozowane są dalsze wzrosty stanów wody w strefie wody wysokiej, lokalnie powyżej stanów ostrzegawczych i alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy czasu obowiązywania.
+
+Dyżurny synoptyk hydrolog: Leszek Jelonek

@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.03.2023 - godz. 15:08
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 68
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 15:30 dnia 11.03.2023 do godz. 14:00 dnia 12.03.2023
+Obszar: Czarna od zb. Chańcza do ujścia i przyrzecze Wisły (świętokrzyskie)
+Przebieg: W związku z pracą zbiornika Chańcza na Czarnej w Staszowie spodziewany jest wzrost poziomu wody z możliwością nieznacznego przekroczenia stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Barbara Olearczyk-Siwik

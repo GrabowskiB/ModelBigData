@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.12.2023 - godz. 10:50
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 172
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:51 dnia 11.12.2023 do godz. 10:00 dnia 13.12.2023
+Obszar: Barycz bez Orli i Polskiego Rowu, Orla (dolnośląskie, lubuskie, wielkopolskie)
+Przebieg: W zlewni Baryczy, spływ wód opadowo-roztopowych powoduje wzrosty stanów wody, w Kanclerzowicach na Sąsiecznicy oraz w Korzeńsku na Orli powyżej stanów ostrzegawczych. Prognozowane są dalsze stopniowe wzrosty stanów wody, z możliwością przekroczenia stanów ostrzegawczych w kolejnych profilach, szczególnie w Odolanowie na Baryczy oraz w Bogdaju na Polskiej Wodzie. W Kanclerzowicach i Korzeńsku nie wyklucza się możliwości przekroczenia stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie może być aktualizowane.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Barycz bez Orli i Polskiego Rowu, Orla od 10:51/11.12.2023 do 10:00/13.12.2023. W zlewni Baryczy, splyw wod opadowo-roztopowych powoduje wzrosty stanow wody, w Kanclerzowicach na Sasiecznicy oraz w Korzensku na Orli powyzej stanow ostrzegawczych. Prognozowane sa dalsze stopniowe wzrosty stanow wody, z mozliwoscia przekroczenia stanow ostrzegawczych w kolejnych profilach, szczegolnie w Odolanowie na Baryczy oraz w Bogdaju na Polskiej Wodzie. W Kanclerzowicach i Korzensku nie wyklucza sie mozliwosci przekroczenia stanu alarmowego. Szczegoly na meteo.imgw.pl

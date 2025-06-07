@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.10.2023 - godz. 10:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Odwołanie ostrzeżenia Nr: 32 z dnia 22.06.2023
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Gwda (pomorskie, wielkopolskie, zachodniopomorskie)
+Przebieg: Zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenia odwołuje się, gdy wartość przepływu na stacjach uznanych za reprezentatywne utrzymuje się powyżej SNQ przez co najmniej 5 dni (dotyczy okresu obserwacji).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Gwda od - do -. Zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

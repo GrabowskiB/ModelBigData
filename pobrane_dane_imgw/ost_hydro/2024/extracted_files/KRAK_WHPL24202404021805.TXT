@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.04.2024 - godz. 20:02
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 114
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 20:03 dnia 02.04.2024 do godz. 00:00 dnia 03.04.2024
+Obszar: Zlewnia Białej (Tarnowskiej) i Ropy (małopolskie)
+Przebieg: W związku ze spływem wód opadowych spodziewany jest dalszy wzrost poziomu wody z możliwością przekroczenia stanów ostrzegawczych na kolejnych stacjach wodowskazowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnia Bialej (Tarnowskiej) i Ropy od 20:03/02.04.2024 do 00:00/03.04.2024. W zwiazku ze splywem wod opadowych spodziewany jest dalszy wzrost poziomu wody z mozliwoscia przekroczenia stanow ostrzegawczych na kolejnych stacjach wodowskazowych. Szczegoly na meteo.imgw.pl

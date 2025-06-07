@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.09.2024 - godz. 11:36
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Zmiana ostrzeżenia Nr: 171 z dnia 19.09.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:36 dnia 25.09.2024 do godz. 15:00 dnia 29.09.2024
+Obszar: Odra graniczna w województwie lubuskim, ujściowy odcinek Warty (lubuskie)
+Przebieg: Prognozowane są dalsze wzrosty stanów wody powyżej stanów alarmowych na Odrze granicznej oraz ujściowym odcinku Warty w województwie lubuskim.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy przebiegu zjawiska i czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Odra graniczna w wojewodztwie lubuskim, ujsciowy odcinek Warty od 11:36/25.09.2024 do 15:00/29.09.2024. Prognozowane sa dalsze wzrosty stanow wody powyzej stanow alarmowych na Odrze granicznej oraz ujsciowym odcinku Warty w wojewodztwie lubuskim. Szczegoly na meteo.imgw.pl

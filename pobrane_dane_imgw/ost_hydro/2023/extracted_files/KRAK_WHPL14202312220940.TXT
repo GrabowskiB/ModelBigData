@@ -1,0 +1,15 @@
+Data i godzina wydania: 22.12.2023 - godz. 10:34
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 393 z dnia 21.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:35 dnia 22.12.2023 do godz. 02:00 dnia 23.02.2024
+Obszar: zlewnia Brynicy (śląskie)
+Przebieg: Na Brynicy możliwa jest dalsza tendencja wzrostowa poziomu wody, przy przekroczonym stanie alarmowym w profilu Brynica. W profilu Kozłowa Góra poziom wody układać się będzie powyżej stanu ostrzegawczego, co jest związane z pracą zbiornika zlokalizowanego powyżej.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy przebiegu zjawiska oraz czasu obowiązywania
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Brynicy od 10:35/22.12.2023 do 02:00/23.02.2024. Na Brynicy mozliwa jest dalsza tendencja wzrostowa poziomu wody, przy przekroczonym stanie alarmowym w profilu Brynica. W profilu Kozlowa Gora poziom wody ukladac sie bedzie powyzej stanu ostrzegawczego, co jest zwiazane z praca zbiornika zlokalizowanego powyzej. Szczegoly na meteo.imgw.pl

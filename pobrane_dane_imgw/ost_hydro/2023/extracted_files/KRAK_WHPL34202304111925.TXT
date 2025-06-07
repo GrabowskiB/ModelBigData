@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.04.2023 - godz. 21:21
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 83
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 21:30 dnia 11.04.2023 do godz. 11:00 dnia 12.04.2023
+Obszar: zlewni Nidy (świętokrzyskie)
+Przebieg: W związku z występującymi opadami deszczu w zlewni Nidy, spodziewane są wzrosty poziomu wody,miejscami gwałtowne. Punktowo istnieje możliwość przekroczenia stanu ostrzegawczego. Na Nidzie w profilu Pińczów poziom wody będzie wzrastał powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Barbara Olearczyk-Siwik

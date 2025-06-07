@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.09.2024 - godz. 11:14
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Zmiana ostrzeżenia Nr: 172 z dnia 19.09.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:14 dnia 26.09.2024 do godz. 11:00 dnia 30.09.2024
+Obszar: Odra graniczna w województwie zachodniopomorskim (zachodniopomorskie)
+Przebieg: Prognozowane są dalsze wzrosty stanów wody powyżej stanów ostrzegawczych i alarmowych na Odrze granicznej w województwie zachodniopomorskim. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy przebiegu i czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Odra graniczna w wojewodztwie zachodniopomorskim od 11:14/26.09.2024 do 11:00/30.09.2024. Prognozowane sa dalsze wzrosty stanow wody powyzej stanow ostrzegawczych i alarmowych na Odrze granicznej w wojewodztwie zachodniopomorskim.  Szczegoly na meteo.imgw.pl

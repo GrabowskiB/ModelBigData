@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.06.2022 - godz. 12:14
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 31
+Zjawisko: susza hydrologiczna
+Stopień: -1
+
+Ważność: od godz. 12:14 dnia 07.06.2022 do odwołania
+Obszar: Barycz od Polskiej Wody do ujścia do Odry (dolnośląskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na rzece Barycz spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenia wydawane są w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni.
+
+Dyżurny synoptyk hydrolog: Wojciech Krasowski

@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.02.2024 - godz. 11:48
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Zmiana ostrzeżenia Nr: 102 z dnia 12.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:49 dnia 14.02.2024 do godz. 12:00 dnia 16.02.2024
+Obszar: Dolna Narew (podlaskie)
+Przebieg: W wyniku spływu wód opadowo-roztopowych, na środkowej Narwi prognozowane są wzrosty poziomu wody w strefie stanów wysokich, przy obecnie przekroczonym stanie ostrzegawczym w Wiźnie i z możliwością przekroczenia tego progu na stacji hydrologicznej Piątnica-Łomża.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy opisu przebiegu zjawiska oraz przedłużenia ważności Ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Dolna Narew od 11:49/14.02.2024 do 12:00/16.02.2024. W wyniku splywu wod opadowo-roztopowych, na srodkowej Narwi prognozowane sa wzrosty poziomu wody w strefie stanow wysokich, przy obecnie przekroczonym stanie ostrzegawczym w Wiznie i z mozliwoscia przekroczenia tego progu na stacji hydrologicznej Piatnica-Lomza. Szczegoly na meteo.imgw.pl

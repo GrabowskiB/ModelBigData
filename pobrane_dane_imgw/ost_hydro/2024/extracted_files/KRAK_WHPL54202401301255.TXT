@@ -1,0 +1,15 @@
+Data i godzina wydania: 30.01.2024 - godz. 13:52
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 62 z dnia 29.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:53 dnia 30.01.2024 do godz. 15:00 dnia 31.01.2024
+Obszar: Wieprz od zb. Nielisz do ujścia Bystrzycy, Bug do Krzyczewa (lubelskie)
+Przebieg: Na Wieprzu w Krasnymstawie i Trawnikach mogą wystąpić dalsze wzrosty poziomu wody powyżej stanu ostrzegawczego. Na Bugu poziom wody będzie wzrastał powyżej stanów ostrzegawczych w Strzyżowie, Dorohusku, Włodawie oraz Krzyczewie. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy obszaru, czasu obowiązywania i treści ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wieprz od zb. Nielisz do ujscia Bystrzycy, Bug do Krzyczewa od 13:53/30.01.2024 do 15:00/31.01.2024. Na Wieprzu w Krasnymstawie i Trawnikach moga wystapic dalsze wzrosty poziomu wody powyzej stanu ostrzegawczego. Na Bugu poziom wody bedzie wzrastal powyzej stanow ostrzegawczych w Strzyzowie, Dorohusku, Wlodawie oraz Krzyczewie.  Szczegoly na meteo.imgw.pl

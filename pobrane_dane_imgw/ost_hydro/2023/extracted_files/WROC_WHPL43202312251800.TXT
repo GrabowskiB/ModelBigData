@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.12.2023 - godz. 18:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 202 z dnia 24.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 18:57 dnia 25.12.2023 do godz. 13:00 dnia 26.12.2023
+Obszar: Nysa Łużycka od Zgorzelca do ujścia do Odry, Nysa Łużycka od Zgorzelca do ujścia (lubuskie)
+Przebieg: Spływ wód opadowo-roztopowych oraz prognozowane opady deszczu będą powodowały dalsze wzrosty stanów wody powyżej stanów alarmowych na Skrodzie i Lubszy. Nysą Łużycką będzie przemieszczało się wezbranie w strefie wody wysokiej, niewykluczone że przy stanach około ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Zmiana dotyczy przebiegu oraz podniesienia stopnia ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Nysa Luzycka od Zgorzelca do ujscia do Odry, Nysa Luz. od Zgorzelca do ujscia od 18:57/25.12.2023 do 13:00/26.12.2023. Splyw wod opadowo-roztopowych oraz prognozowane opady deszczu beda powodowaly dalsze wzrosty stanow wody powyzej stanow alarmowych na Skrodzie i Lubszy. Nysa Luzycka bedzie przemieszczalo sie wezbranie w strefie wody wysokiej, niewykluczone ze przy stanach okolo ostrzegawczych. Szczegoly na meteo.imgw.pl

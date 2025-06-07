@@ -1,0 +1,18 @@
+Data i godzina wydania: 28.05.2019 - godz. 11:26
+Nazwa biura prognoz hydrologicznych: BPH IMGW-PIB Kraków Obszar Warszawa
+
+OSTRZE¯ENIE HYDROLOGICZNE Nr O:3
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopieñ zagro¿enia: 3
+
+Wa¿noœæ: od godz. 12:00 dnia 28.05.2019 do godz. 12:00 dnia 30.05.2019
+Obszar: Wis³a (mazowieckie)
+Przebieg: Na mazowieckim odcinku Wis³y obserwowane s¹ wzrosty stanu wody w strefie wody wysokiej wywo³ane przemieszczaniem sie fali wezbraniowej. W ci¹gu najbli¿szej doby stan alarmowy przekroczony zostanie na wodowskazach: Modlin, Wyszogród i Kêpa Polska.
+
+Prawdopodobieñstwo wyst¹pienia zjawiska: 95%
+Uwagi: Brak
+
+Dy¿urny synoptyk hydrolog: Marcin Dominikowski
+
+Wiadomoœæ SMS:
+IMGW-PIB OSTRZEGA:WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 wisla (mazowieckie) od12:00/28.05.do12:00/30.05.2019 Modlin,Wyszogrod,Kepa Polska

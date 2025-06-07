@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.04.2024 - godz. 15:10
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 55
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 16:00 dnia 01.04.2024 do godz. 12:00 dnia 02.04.2024
+Obszar: Warta górna do Poraja, Warta górna od Poraja do Liswarty, Liswarta, Prosna górna (opolskie, śląskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu, początkowo o charakterze burzowym, spodziewane są lokalne gwałtowne wzrosty stanów wody. W przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość krótkotrwałego przekroczenia stanów ostrzegawczych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Warta gorna, Liswarta, Prosna gorna od 16:00/01.04.2024 do 12:00/02.04.2024. W zwiazku z prognozowanymi intensywnymi opadami deszczu, poczatkowo o charakterze burzowym, spodziewane sa lokalne gwaltowne wzrosty stanow wody. W przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc krotkotrwalego przekroczenia stanow ostrzegawczych.  Szczegoly na meteo.imgw.pl

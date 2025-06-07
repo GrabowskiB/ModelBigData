@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.01.2024 - godz. 07:24
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 9
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:25 dnia 04.01.2024 do godz. 13:00 dnia 05.01.2024
+Obszar: Kłodnica, Mała Panew (opolskie, śląskie)
+Przebieg: W związku z trwającym spływem wód opadowych i prognozowanymi opadami deszczu, na rzekach w zlewni Małej Panwi i Kłodnicy przewidywane są odcinkami dalsze wzrosty stanów wody w strefie wody wysokiej, z możliwością przekroczenia stanu ostrzegawczego w Gliwicach na Kłodnicy oraz w Krupskim Młynie na Małej Panwi.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Klodnica, Mala Panew od 07:25/04.01.2024 do 13:00/05.01.2024. W zwiazku z trwajacym splywem wod opadowych i prognozowanymi opadami deszczu, na rzekach w zlewni Malej Panwi i Klodnicy przewidywane sa odcinkami dalsze wzrosty stanow wody w strefie wody wysokiej, z mozliwoscia przekroczenia stanu ostrzegawczego w Gliwicach na Klodnicy oraz w Krupskim Mlynie na Malej Panwi. Szczegoly na meteo.imgw.pl

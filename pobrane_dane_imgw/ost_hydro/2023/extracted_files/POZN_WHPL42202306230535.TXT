@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.06.2023 - godz. 07:32
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 35
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 07:40 dnia 23.06.2023 do godz. 18:00 dnia 23.06.2023
+Obszar: Warta górna do Poraja, Warta górna od Poraja do Liswarty, Grabia, Widawka, Ner, Rgilewka (łódzkie, śląskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody i lokalne podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Warta gorna do Liswarty, Grabia, Widawka, Ner, Rgilewka od 07:40/23.06.2023 do 18:00/23.06.2023. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty stanow wody i lokalne podtopienia. Szczegoly na meteo.imgw.pl

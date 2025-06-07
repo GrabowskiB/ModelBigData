@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.01.2023 - godz. 16:05
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 235
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 16:05 dnia 10.01.2023 do godz. 10:00 dnia 11.01.2023
+Obszar: odcinek Małej Wisły od zb. Goczałkowice do ujścia Przemszy (małopolskie, śląskie)
+Przebieg: W związku z występującymi i prognozowanymi opadami deszczu oraz ze spływem wód opadowych spodziewany jest dalszy wzrost poziomu wody. W profilu Jawiszowice przekroczony zostanie stan ostrzegawczy.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska Ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Wawrzyniec Kruszewski

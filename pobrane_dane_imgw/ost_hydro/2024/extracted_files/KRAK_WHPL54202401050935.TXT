@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.01.2024 - godz. 10:29
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 22
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:30 dnia 05.01.2024 do godz. 08:00 dnia 07.01.2024
+Obszar: Wisła od ujścia Sanu do ujścia Kamiennej (lubelskie, podkarpackie, świętokrzyskie)
+Przebieg: W związku ze spływem wód opadowych, na odcinku Wisły od ujścia Sanu do ujścia Kamiennej, spodziewany jest dalszy wzrost poziomu wody w strefie stanów wysokich z przekroczeniem stanu ostrzegawczego w profilu Zawichost.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wisla od ujscia Sanu do ujscia Kamiennej od 10:30/05.01.2024 do 08:00/07.01.2024. W zwiazku ze splywem wod opadowych, na odcinku Wisly od ujscia Sanu do ujscia Kamiennej, spodziewany jest dalszy wzrost poziomu wody w strefie stanow wysokich z przekroczeniem stanu ostrzegawczego w profilu Zawichost. Szczegoly na meteo.imgw.pl

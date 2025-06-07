@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.07.2023 - godz. 14:24
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 232
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 15:00 dnia 26.07.2023 do godz. 22:00 dnia 26.07.2023
+Obszar: Zlewnie prawobrzeżnych dopływów Małej Wisły oraz zlewnia Soły wraz z kaskadą zbiorników (śląskie)
+Przebieg: W związku ze spływem wód opadowych oraz nadal występującymi intensywnymi opadami deszczu na prawobrzeżnych dopływach Małej Wisły i w zlewni Soły spodziewane są dalsze wzrosty poziomu wody z możliwością przekroczeń stanów ostrzegawczych w kolejnych profilach wodowskazowych. Punktowo istnieje małe prawdopodobieństwo przekroczenia stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zl prawobrzeznych doplywow Malej Wisly oraz Soly wraz z kaskada zbiornikow od 15:00/26.07.2023 do 22:00/26.07.2023. W zwiazku ze splywem wod opadowych oraz nadal wystepujacymi intensywnymi opadami deszczu na prawobrzeznych doplywach Malej Wisly i w zlewni Soly spodziewane sa dalsze wzrosty poziomu wody z mozliwoscia przekroczen stanow ostrzegawczych w kolejnych profilach wodowskazowych. Punktowo istnieje male prawdopodobienstwo przekroczenia stanow alarmowych. Szczegoly na meteo.imgw.pl

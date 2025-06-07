@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.11.2023 - godz. 08:59
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 355
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 09:00 dnia 05.11.2023 do godz. 00:00 dnia 06.11.2023
+Obszar: zlewnia Sanu do ujścia Wiaru wraz z Wiarem, zlewnia Wisłoka do ujścia Morwawy wraz z Morwawą, zlewnia Strwiąża (podkarpackie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu, spodziewane są wzrosty poziomu wody, lokalnie do strefy stanów wysokich. Na mniejszych rzekach oraz w zlewniach zurbanizowanych, wzrosty mogą mieć charakter gwałtowny. W miejscach wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zl. Sanu do ujscia Wiaru, zl. Wisloka do ujscia Morwawy, zl. Strwiaza od 09:00/05.11.2023 do 00:00/06.11.2023. W zwiazku z prognozowanymi intensywnymi opadami deszczu, spodziewane sa wzrosty poziomu wody, lokalnie do strefy stanow wysokich. Na mniejszych rzekach oraz w zlewniach zurbanizowanych, wzrosty moga miec charakter gwaltowny. W miejscach wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

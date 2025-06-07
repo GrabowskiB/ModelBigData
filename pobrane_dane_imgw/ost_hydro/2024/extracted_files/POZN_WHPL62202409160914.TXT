@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.09.2024 - godz. 11:11
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 169
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:12 dnia 16.09.2024 do godz. 11:00 dnia 17.09.2024
+Obszar: Prosna górna (łódzkie, opolskie, wielkopolskie)
+Przebieg: W związku ze spływem wód opadowych na Prośnie w Gorzowie Śląskim, utrzymywać się będzie przekroczenie stanu alarmowego. W Mirkowie możliwe jest przekroczenie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Prosna gorna od 11:12/16.09.2024 do 11:00/17.09.2024. W zwiazku ze splywem wod opadowych na Prosnie w Gorzowie Slaskim, utrzymywac sie bedzie przekroczenie stanu alarmowego. W Mirkowie mozliwe jest przekroczenie stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.01.2025 - godz. 14:12
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 3
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:13 dnia 16.01.2025 do godz. 14:00 dnia 17.01.2025
+Obszar: zlewnia Szprotawy (lubuskie)
+Przebieg: W wyniku spływu wody opadowo-roztopowej na Szprotawie utrzymywać się będzie tendencja wzrostowa powyżej stanu ostrzegawczego w Szprotawie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Przebieg stanów wody może być modyfikowany pracą urządzeń wodnych.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Szprotawy od 14:13/16.01.2025 do 14:00/17.01.2025. W wyniku splywu wody opadowo-roztopowej na Szprotawie utrzymywac sie bedzie tendencja wzrostowa powyzej stanu ostrzegawczego w Szprotawie. Szczegoly na meteo.imgw.pl

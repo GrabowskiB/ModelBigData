@@ -1,0 +1,15 @@
+Data i godzina wydania: 20.05.2024 - godz. 13:23
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Zmiana ostrzeżenia Nr: 60 z dnia 20.05.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 13:24 dnia 20.05.2024 do godz. 00:00 dnia 21.05.2024
+Obszar: Ner, Warta środkowa od Zb. Jeziorsko do Rgilewki, Warta środkowa od Rgilewki do Prosny, Rgilewka, Kiełbaska, Powa, Bawół, Wrześnica, Warta środkowa od Prosny do Wełny, Kanał Mosiński, Wełna, Warta środkowa od Wełny do Noteci, Łużyca, Prosna środkowa, Ołobok, Swędrnia, Prosna dolna, Noteć górna, Łobżonka, Noteć środkowa, Gwda, Drawa, Noteć dolna, Warta dolna od Noteci do ujścia, Obra, Odra dolna od Warty do Gryfina, Ina i Płonia (kujawsko-pomorskie, lubuskie, łódzkie, pomorskie, wielkopolskie, zachodniopomorskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Zmiana dotyczy obszaru.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Doplywy Warty, Prosna srodkowa i doplywy, Notec i doplywy, doplywy Odry, Ina  od 13:24/20.05.2024 do 00:00/21.05.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty stanow wody. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

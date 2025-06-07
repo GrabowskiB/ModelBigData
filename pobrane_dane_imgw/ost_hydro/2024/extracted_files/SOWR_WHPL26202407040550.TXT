@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.07.2024 - godz. 07:44
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 181
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 07:45 dnia 04.07.2024 do odwołania
+Obszar: zlewnia Pilicy od zb. Sulejów (łódzkie, mazowieckie, świętokrzyskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach, na obszarze zlewni Pilicy od zb. Sulejów spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA zlewnia Pilicy od zb. Sulejow od 07:45/04.07.2024 do odwolania. W zwiazku z wystepujacymi niskimi przeplywami wody, w kolejnych dniach, na obszarze zlewni Pilicy od zb. Sulejow spodziewane jest dalsze utrzymywanie sie przeplywow wody ponizej SNQ. Szczegoly na meteo.imgw.pl

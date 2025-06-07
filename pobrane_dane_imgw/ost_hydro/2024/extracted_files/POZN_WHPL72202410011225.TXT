@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.10.2024 - godz. 14:20
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Zmiana ostrzeżenia Nr: 172 z dnia 30.09.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 14:20 dnia 01.10.2024 do godz. 15:00 dnia 02.10.2024
+Obszar: Odra środkowa od Słubic do Warty, Odra dolna od Warty do Gryfina (lubuskie, zachodniopomorskie)
+Przebieg: Na granicznym odcinku Odry poniżej Słubic prognozowane jest dalsze utrzymywanie się przekroczeń stanów alarmowych z tendencją spadkową. Na stacji hydrologicznej Widuchowa spodziewane są wahania powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy obszaru, przebiegu oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Odra srodkowa od Slubic do Warty, Odra dolna od Warty do Gryfina od 14:20/01.10.2024 do 15:00/02.10.2024. Na granicznym odcinku Odry ponizej Slubic prognozowane jest dalsze utrzymywanie sie przekroczen stanow alarmowych z tendencja spadkowa. Na stacji hydrologicznej Widuchowa spodziewane sa wahania powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

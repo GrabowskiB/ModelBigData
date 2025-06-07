@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.12.2023 - godz. 14:29
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 217
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 14:30 dnia 26.12.2023 do godz. 14:00 dnia 27.12.2023
+Obszar: Bóbr od Bobrzycy do ujścia (bez Kwisy i Czernej Wielkiej) (lubuskie)
+Przebieg: W wyniku spływu wód opadowo-roztopowych oraz pracy elektrowni wodnych na Szprotawie stany wody będą ulegały wahaniom w strefie powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Bobr od Bobrzycy do ujscia (bez Kwisy i Czernej Wielkiej) od 14:30/26.12.2023 do 14:00/27.12.2023. W wyniku splywu wod opadowo-roztopowych oraz pracy elektrowni wodnych na Szprotawie stany wody beda ulegaly wahaniom w strefie powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

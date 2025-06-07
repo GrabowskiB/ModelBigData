@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.02.2024 - godz. 19:06
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 55
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 19:09 dnia 21.02.2024 do godz. 18:00 dnia 23.02.2024
+Obszar: Słupia od Skotawy do ujścia (pomorskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej w zlewni Słupi, od Skotawy do ujścia, przewidywane są wahania i niewielkie wzrosty stanów wody w strefie wody wysokiej i powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Slupia od Skotawy do ujscia od 19:09/21.02.2024 do 18:00/23.02.2024. W zwiazku z rozwojem sytuacji hydrologicznej w zlewni Slupi, od Skotawy do ujscia, przewidywane sa wahania i niewielkie wzrosty stanow wody w strefie wody wysokiej i powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

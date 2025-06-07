@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.10.2024 - godz. 21:45
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 221
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 21:45 dnia 04.10.2024 do godz. 17:00 dnia 05.10.2024
+Obszar: Bóbr od Zb. Bukówka do Zb. Pilchowice, Bóbr do Zb. Pilchowice (dolnośląskie)
+Przebieg: Występujące i prognozowane opady deszczu będą powodowały dalsze wzrosty stanów wody na potokach i rzekach zlewni górnego Bobru, z osiąganiem strefy stanów wysokich, lokalnie z możliwością niewielkiego przekraczania stanu stanu ostrzegawczego na stacjach hydrologicznych rzeki Kamiennej, szczególnie w Piechowicach, a także w Jeleniej Górze na Bobrze.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Bobr od Zb. Bukowka do Zb. Pilchowice, Bobr do Zb. Pilchowice od 21:45/04.10.2024 do 17:00/05.10.2024.  Szczegoly na meteo.imgw.pl

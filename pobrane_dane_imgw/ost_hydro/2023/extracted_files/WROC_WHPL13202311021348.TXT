@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.11.2023 - godz. 14:46
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 150
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 00:00 dnia 03.11.2023 do godz. 15:00 dnia 03.11.2023
+Obszar: Zdoniowski Potok, Strzegomka do Łażan, Bóbr do Zb. Pilchowice, Kwisa górna do Zb. Leśna, Kwisa od Zb. Leśna do Nowogrodźca, Ostrożnica, Izera, Nysa Łużycka od granicy RP do Zgorzelca, Nysa Łużycka do Zgorzelca (dolnośląskie)
+Przebieg: Prognozowane opady deszczu, okresami o umiarkowanym natężeniu, mogą spowodować wzrost stanów wody do strefy wody wysokiej, a lokalnie osiągnięcie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie: gorny Bobr, gorna Kwisa i Nysa Luzycka, Pelcznica, dorzecze Laby od 00:00/03.11.2023 do 15:00/03.11.2023. Prognozowane opady deszczu, okresami o umiarkowanym natezeniu, moga spowodowac wzrost stanow wody do strefy wody wysokiej, a lokalnie osiagniecie stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

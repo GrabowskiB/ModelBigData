@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.08.2024 - godz. 15:27
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 189
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 15:28 dnia 19.08.2024 do godz. 16:00 dnia 20.08.2024
+Obszar: Ślęza od Borowa do ujścia do Odry, Ślęza górna do Borowa, Ślęza od Borowa do ujścia (dolnośląskie)
+Przebieg: W wyniku spływu wód opadowych w zlewni Ślęzy prognozowane są wzrosty stanów wody - w Borowie w strefie wody wysokiej powyżej stanu ostrzegawczego, z możliwością przekroczenia stanu alarmowego. W Białobrzeziu stan wody będzie początkowo utrzymywał się w strefie powyżej stanu alarmowego z możliwością niewielkich wahań.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Sleza od 15:28/19.08.2024 do 16:00/20.08.2024. W wyniku splywu wod opadowych w zlewni Slezy prognozowane sa wzrosty stanow wody - w Borowie w strefie wody wysokiej powyzej stanu ostrzegawczego, z mozliwoscia przekroczenia stanu alarmowego. W Bialobrzeziu stan wody bedzie poczatkowo utrzymywal sie w strefie powyzej stanu alarmowego z mozliwoscia niewielkich wahan. Szczegoly na meteo.imgw.pl

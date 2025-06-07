@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.11.2023 - godz. 19:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 96
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 20:00 dnia 16.11.2023 do godz. 09:00 dnia 17.11.2023
+Obszar: Biebrza (podlaskie)
+Przebieg: W związku z pracą urządzeń hydrotechnicznych oraz spływem wód opadowych na Wissie w profilu Czachy spodziewane jest utrzymywanie się stanu wody (z możliwą nieznaczną tendencją wzrostową) powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Biebrza od 20:00/16.11.2023 do 09:00/17.11.2023. W zwiazku z praca urzadzen hydrotechnicznych oraz splywem wod opadowych na Wissie w profilu Czachy spodziewane jest utrzymywanie sie stanu wody (z mozliwa nieznaczna tendencja wzrostowa) powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.02.2024 - godz. 18:05
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 60
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 18:06 dnia 14.02.2024 do godz. 18:00 dnia 15.02.2024
+Obszar: Widawa od Namysłowa do ujścia do Odry (dolnośląskie)
+Przebieg: Na Widawie prognozowane jest dalsze utrzymywanie się stanów wody w strefie wody wysokiej z przekroczeniem stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Widawa od Namyslowa do ujscia do Odry od 18:06/14.02.2024 do 18:00/15.02.2024. Na Widawie prognozowane jest dalsze utrzymywanie sie stanow wody w strefie wody wysokiej z przekroczeniem stanow alarmowych. Szczegoly na meteo.imgw.pl

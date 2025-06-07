@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.12.2022 - godz. 12:04
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 230
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:05 dnia 26.12.2022 do godz. 12:00 dnia 27.12.2022
+Obszar: zlewnia Białej Nidy i odcinek Nidy od ujścia Czarnej Nidy do ujścia do Wisły (świętokrzyskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, prognozowany jest dalszy wzrost poziomu wody w strefie stanów wysokich. Istnieje możliwość przekroczenia stanu ostrzegawczego w profilu Pińczów. W Mniszku na Białej Nidzie możliwy ponowny wzrost przy przekroczonym nadal stanie ostrzegawczym.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Wawrzyniec Kruszewski

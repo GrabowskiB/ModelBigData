@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.12.2023 - godz. 08:08
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Zmiana ostrzeżenia Nr: 107 z dnia 14.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 08:09 dnia 14.12.2023 do godz. 10:00 dnia 15.12.2023
+Obszar: Bug (mazowieckie)
+Przebieg: W związku z piętrzeniem wody przez lód, w dolnym odcinku Bugu przewiduje się dalszy wzrost  i wahania stanu wody w strefie wody wysokiej, w rejonie Wyszkowa w strefie stanu około alarmowego, w rejonie Popowa z możliwością przekroczenia stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy stopnia, czasu obowiązywania i treści ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Bug od 08:09/14.12.2023 do 10:00/15.12.2023. W zwiazku z pietrzeniem wody przez lod, w dolnym odcinku Bugu przewiduje sie dalszy wzrost  i wahania stanu wody w strefie wody wysokiej, w rejonie Wyszkowa w strefie stanu okolo alarmowego, w rejonie Popowa z mozliwoscia przekroczenia stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

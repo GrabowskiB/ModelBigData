@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.02.2024 - godz. 11:14
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 75 z dnia 10.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:15 dnia 11.02.2024 do godz. 13:00 dnia 12.02.2024
+Obszar: zlewnie: Szkła, Lubaczówki, Tanwi, Bukowej (podkarpackie)
+Przebieg: W wyniku spływu wód opadowo-roztopowych, spodziewane są wzrosty poziomu wody w strefie stanów wysokich, przy aktualnie przekroczonych stanach ostrzegawczych. Istnieje możliwość przekroczenia kolejnych stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy obszaru oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie: Szkla, Lubaczowki, Tanwi, Bukowej od 11:15/11.02.2024 do 13:00/12.02.2024. W wyniku splywu wod opadowo-roztopowych, spodziewane sa wzrosty poziomu wody w strefie stanow wysokich, przy aktualnie przekroczonych stanach ostrzegawczych. Istnieje mozliwosc przekroczenia kolejnych stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

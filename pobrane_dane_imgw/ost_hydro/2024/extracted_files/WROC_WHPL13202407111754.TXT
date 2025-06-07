@@ -1,0 +1,17 @@
+Data i godzina wydania: 11.07.2024 - godz. 19:52
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 145 z dnia 11.07.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 19:52 dnia 11.07.2024 do godz. 22:30 dnia 11.07.2024
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Olza od Cieszyna do ujścia do Odry, Olza, Czadeczka, Psina, Ruda, Bierawka, Kłodnica, Odra od Koźla do ujścia Nysy Kłodzkiej, Stradunia, Osobłoga od granicy RP do ujścia, Osobłoga, Mała Panew od Krupskiego Młyna do Zb. Turawa, Mała Panew, Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Odra od ujścia Nysy Kłodzkiej do ujścia Widawy, Stobrawa, Widawa od Namysłowa do ujścia do Odry, Widawa, Oława od Zborowic do ujścia do Odry, Oława górna do Zborowic, Oława od Zborowic do ujścia, Ślęza od Borowa do ujścia do Odry, Ślęza górna do Borowa, Ślęza od Borowa do ujścia, Bystrzyca górna do Zb. Mietków, Bystrzyca dolna (Czarna Woda i Strzegomka), Strzegomka do Łażan, Odra od ujścia Widawy do Ścinawy, Kaczawa górna do Dunina, Kaczawa od Dunina (bez górnej Skorej) do ujścia, Skora (górna), Odra od Ścinawy do Głogowa, Barycz od Polskiej Wody do ujścia do Odry, Barycz bez Orli i Polskiego Rowu, Orla, Polski Rów, Bóbr od Zb. Bukówka do Zb. Pilchowice, Bóbr do Zb. Pilchowice, Bóbr od Zb. Pilchowice do Bobrzycy, Kwisa górna do Zb. Leśna, Kwisa od Zb. Leśna do Nowogrodźca, Ostrożnica, Izera, Nysa Łużycka od granicy RP do Zgorzelca, Witka od Ostróżna do ujścia do Nysy Łużyckiej, Nysa Łużycka do Zgorzelca (dolnośląskie, lubuskie, opolskie, śląskie, wielkopolskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Zmiana dotyczy wydłużenia okresu ważności.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia gornej i srodkowej Odry od 19:52/11.07.2024 do 22:30/11.07.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty stanow wody. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych.
+ Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.08.2022 - godz. 03:31
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 108
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 03:40 dnia 23.08.2022 do godz. 08:00 dnia 23.08.2022
+Obszar: Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Odra od ujścia Nysy Kłodzkiej do ujścia Widawy, Oława od Zborowic do ujścia do Odry, Oława górna do Zborowic, Oława od Zborowic do ujścia, Ślęza górna do Borowa, Ślęza od Borowa do ujścia, Bystrzyca od Zb. Lubachów do Zb. Mietków, Bystrzyca od Zb. Mietków do ujścia, Bystrzyca górna do Zb. Mietków, Bystrzyca dolna (Czarna Woda i Strzegomka), Strzegomka od Zb. Dobromierz do ujścia do Bystrzycy, Strzegomka do Łażan, Odra od ujścia Widawy do Ścinawy, Kaczawa od Dunina do ujścia do Odry, Kaczawa górna do Dunina, Kaczawa od Dunina (bez górnej Skorej) do ujścia, Nysa Szalona od Zb. Słup do ujścia do Kaczawy, Skora (górna), Bóbr od Zb. Bukówka do Zb. Pilchowice, Bóbr od Zb. Pilchowice do ujścia Kwisy, Bóbr do Zb. Pilchowice, Bóbr od Zb. Pilchowice do Bobrzycy, Kwisa górna do Zb. Leśna, Ostrożnica, Izera (dolnośląskie, opolskie)
+Przebieg: W obszarach występowania prognozowanych silnych opadów deszczu, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych bądź alarmowych. Na Ślęzie, na stacji Białobrzezie tendencja wzrostowa powyżej stanu alarmowego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Michał Sikora - Le

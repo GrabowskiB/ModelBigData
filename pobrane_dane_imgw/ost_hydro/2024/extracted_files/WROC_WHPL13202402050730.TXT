@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.02.2024 - godz. 08:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 37
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 08:28 dnia 05.02.2024 do godz. 16:00 dnia 06.02.2024
+Obszar: Kaczawa od Dunina do ujścia do Odry, Kaczawa od Dunina (bez górnej Skorej) do ujścia, Bóbr od Bobrzycy do ujścia (bez Kwisy i Czernej Wielkiej), Czerna Wielka, Nysa Łużycka od Zgorzelca do ujścia (dolnośląskie, lubuskie)
+Przebieg: Spływ wody po występujących i prognozowanych opadach deszczu będzie powodował dalsze wzrosty stanów wody w strefie wody wysokiej z przekroczeniami stanów ostrzegawczych, a lokalnie niewykluczone przekroczenia stanów alarmowych, zwłaszcza w Rzeszotarach na Czarnej Wodzie i w Szprotawie na Szprotawie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie dolnej Kaczawy, Bobru, Nysy Luzyckiej od 08:28/05.02.2024 do 16:00/06.02.2024. Splyw wody po wystepujacych i prognozowanych opadach deszczu bedzie powodowal dalsze wzrosty stanow wody w strefie wody wysokiej z przekroczeniami stanow ostrzegawczych, a lokalnie niewykluczone przekroczenia stanow alarmowych, zwlaszcza w Rzeszotarach na Czarnej Wodzie i w Szprotawie na Szprotawie. Szczegoly na meteo.imgw.pl

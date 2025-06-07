@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.01.2024 - godz. 09:40
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 24
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 09:43 dnia 27.01.2024 do godz. 00:00 dnia 28.01.2024
+Obszar: Zlewnia Zalewu Wiślanego do Nogatu, Zalew Wiślany, Elbląg (pomorskie, warmińsko-mazurskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną na Żuławach i Zalewie Wiślanym przewidywane są wzrosty poziomów wody w strefie wody wysokiej, lokalnie z możliwością osiągnięcia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnia Zalewu Wislanego do Nogatu, Zalew Wislany, Elblag od 09:43/27.01.2024 do 00:00/28.01.2024. W zwiazku z prognozowana sytuacja meteorologiczna na Zulawach i Zalewie Wislanym przewidywane sa wzrosty poziomow wody w strefie wody wysokiej, lokalnie z mozliwoscia osiagniecia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

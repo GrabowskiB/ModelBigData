@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.09.2023 - godz. 10:52
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Odwołanie ostrzeżenia Nr: 30 z dnia 01.06.2023
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Zlewnia Wkry (mazowieckie, warmińsko-mazurskie)
+Przebieg: Zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenia odwołuje się, gdy wartość przepływu na stacjach uznanych za reprezentatywne utrzymuje się powyżej SNQ przez co najmniej 5 dni (dotyczy okresu obserwacji).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Zlewnia Wkry od - do -. Zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

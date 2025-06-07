@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.04.2022 - godz. 14:16
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 27
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 18:00 dnia 08.04.2022 do godz. 14:00 dnia 09.04.2022
+Obszar: zlewnia Sanu do Sanoka (podkarpackie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, prognozowane są wzrosty poziomu wody do strefy stanów wysokich, punktowo z przekroczeniami stanów ostrzegawczych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska Ostrzeżenie może ulec zmianie. 
+
+Dyżurny synoptyk hydrolog: Artur Franczyk

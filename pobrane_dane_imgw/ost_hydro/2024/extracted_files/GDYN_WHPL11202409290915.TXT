@@ -1,0 +1,15 @@
+Data i godzina wydania: 29.09.2024 - godz. 11:13
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 155
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:13 dnia 29.09.2024 do godz. 15:00 dnia 30.09.2024
+Obszar: Odra od Gryfina do ujścia (rz) (zachodniopomorskie)
+Przebieg: W ujściu Odry prognozuje się wahania i wzrosty poziomów wody w strefie wody wysokiej, na wodowskazie Gryfino z możliwością przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Odra od Gryfina do ujscia (rz) od 11:13/29.09.2024 do 15:00/30.09.2024. W ujsciu Odry prognozuje sie wahania i wzrosty poziomow wody w strefie wody wysokiej, na wodowskazie Gryfino z mozliwoscia przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

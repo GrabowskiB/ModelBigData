@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.02.2024 - godz. 09:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 43
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:29 dnia 05.02.2024 do godz. 11:00 dnia 07.02.2024
+Obszar: Mała Panew od Krupskiego Młyna do Zb. Turawa, Mała Panew (opolskie, śląskie)
+Przebieg: Spływ wody opadowej będzie powodował dalsze wzrosty stanów wody w strefie wody wysokiej, w Krupskim Młynie powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Mala Panew od Krupskiego Mlyna do Zb. Turawa, Mala Panew od 09:29/05.02.2024 do 11:00/07.02.2024. Splyw wody opadowej bedzie powodowal dalsze wzrosty stanow wody w strefie wody wysokiej, w Krupskim Mlynie powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

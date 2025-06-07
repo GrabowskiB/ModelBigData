@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.06.2023 - godz. 08:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 171 z dnia 24.06.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 08:59 dnia 24.06.2023 do godz. 15:00 dnia 24.06.2023
+Obszar:  zlewnie: Wisłoki do ujścia Jasiołki (wraz z Jasiołką), Ropy, górnego oraz środkowego Sanu, Wisłoka, Strwiąża (małopolskie, podkarpackie)
+Przebieg: W obszarach występowania prognozowanych opadów, w tym burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Zmiana dotyczy wizualizacji obszaru na mapie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1  zl:Wisloki, Ropy, gornego oraz srodkowego Sanu, Wisloka, Strwiaza od 08:59/24.06.2023 do 15:00/24.06.2023. W obszarach wystepowania prognozowanych opadow, w tym burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

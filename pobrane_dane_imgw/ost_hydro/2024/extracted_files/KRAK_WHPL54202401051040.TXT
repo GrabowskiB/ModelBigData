@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.01.2024 - godz. 11:34
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 10 z dnia 04.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:35 dnia 05.01.2024 do godz. 11:00 dnia 06.01.2024
+Obszar: zlewnie: Szkła, Lubaczówki oraz Tanwi (lubelskie, podkarpackie)
+Przebieg: W związku ze spływem wód opadowych możliwy jest dalszy wzrost poziomu wody, przy aktualnie przekroczonych stanach umownych, z możliwością przekroczenia stanu ostrzegawczego w profilu Charytany na Szkle.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy opisu przebiegu, obszaru oraz czasu obowiązywania. W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie: Szkla, Lubaczowki oraz Tanwi od 11:35/05.01.2024 do 11:00/06.01.2024. W zwiazku ze splywem wod opadowych mozliwy jest dalszy wzrost poziomu wody, przy aktualnie przekroczonych stanach umownych, z mozliwoscia przekroczenia stanu ostrzegawczego w profilu Charytany na Szkle. Szczegoly na meteo.imgw.pl

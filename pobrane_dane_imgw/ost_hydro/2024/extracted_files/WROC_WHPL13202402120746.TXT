@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.02.2024 - godz. 08:43
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 42 z dnia 08.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 08:44 dnia 12.02.2024 do godz. 18:00 dnia 14.02.2024
+Obszar: Barycz od Polskiej Wody do ujścia do Odry (dolnośląskie)
+Przebieg: Wskutek spływu wód opadowych, na Baryczy utrzyma się tendencja rosnąca stanów wody przy przekroczonym stanie alarmowym w Łąkach i Osetnie. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy wydłużenia okresu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Barycz od Polskiej Wody do ujscia do Odry od 08:44/12.02.2024 do 18:00/14.02.2024. Wskutek splywu wod opadowych, na Baryczy utrzyma sie tendencja rosnaca stanow wody przy przekroczonym stanie alarmowym w Lakach i Osetnie.  Szczegoly na meteo.imgw.pl

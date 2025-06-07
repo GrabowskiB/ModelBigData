@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.07.2024 - godz. 12:27
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 137
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 13:00 dnia 01.07.2024 do godz. 02:00 dnia 02.07.2024
+Obszar: zlewnie górnej Bystrzycy i Strzegomki (dolnośląskie)
+Przebieg: W obszarach występowania prognozowanych burz z silnymi opadami deszczu stany wody na małych ciekach górskich i na terenach zurbanizowanych mogą gwałtownie podnosić się do strefy wody wysokiej, w Świebodzicach niewykluczone przekroczenie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 65%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie gornej Bystrzycy i Strzegomki od 13:00/01.07.2024 do 02:00/02.07.2024. W obszarach wystepowania prognozowanych burz z silnymi opadami deszczu stany wody na malych ciekach gorskich i na terenach zurbanizowanych moga gwaltownie podnosic sie do strefy wody wysokiej, w Swiebodzicach niewykluczone przekroczenie stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

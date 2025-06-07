@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.08.2022 - godz. 10:26
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 85
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 10:30 dnia 23.08.2022 do odwołania
+Obszar: zlewnia dolnej Narwi (mazowieckie, podlaskie, warmińsko-mazurskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach w zlewni dolnej Narwi spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+Dyżurny synoptyk hydrolog: Anita Banaszek

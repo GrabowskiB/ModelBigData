@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.07.2022 - godz. 10:18
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 50
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 10:19 dnia 03.07.2022 do odwołania
+Obszar: Warta środkowa od Wełny do Noteci (lubuskie, wielkopolskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na odcinku Warty środkowej od Wełny do Noteci, spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+Dyżurny synoptyk hydrolog: Michalina Kallas-Garnitz

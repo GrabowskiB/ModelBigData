@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.06.2023 - godz. 12:02
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 75
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 12:02 dnia 23.06.2023 do odwołania
+Obszar: Odra od ujścia Nysy Kłodzkiej do ujścia Widawy, Stobrawa, Widawa (dolnośląskie, opolskie, wielkopolskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach w zlewniach objętych ostrzeżeniem prognozowane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Odra od ujscia Nysy Klodzkiej do ujscia Widawy, Stobrawa, Widawa od 12:02/23.06.2023 do odwolania.  Szczegoly na meteo.imgw.pl

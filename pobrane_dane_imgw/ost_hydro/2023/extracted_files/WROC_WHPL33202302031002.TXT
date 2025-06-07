@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.02.2023 - godz. 10:59
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 12
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:00 dnia 03.02.2023 do godz. 10:00 dnia 04.02.2023
+Obszar: Barycz bez Orli i Polskiego Rowu (wielkopolskie)
+Przebieg: Na rzece Kuroch w Odolanowie występuje przekroczenie stanu ostrzegawczego. W okresie obowiązywania ostrzeżenia hydrologicznego, w warunkach spodziewanego spływu wód opadowo-roztopowych, na Kurochu przewiduje się dalszy wzrost stanu wody powyżej stanu ostrzegawczego, a na pozostałym obszarze do strefy wody wysokiej z możliwością przekroczenia stanu ostrzegawczego w Odolanowie na Baryczy lub w Bogdaju na Polskiej Wodzie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie może być kontynuowane.
+
+Dyżurny synoptyk hydrolog: Wojciech Krasowski

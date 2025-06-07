@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.02.2024 - godz. 11:31
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 47 z dnia 09.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:32 dnia 12.02.2024 do godz. 10:00 dnia 15.02.2024
+Obszar: Odra od ujścia Baryczy do ujścia Bobru, Odra od ujścia Bobru do Słubic (lubuskie)
+Przebieg: Na lubuskim odcinku Odry swobodnie płynącej od ujścia Baryczy do Słubic prognozuje się dalszy wzrost stanu wody w strefie powyżej stanów ostrzegawczych w Nowej Soli, Białej Górze i Słubicach oraz powyżej stanów alarmowych w Cigacicach, Nietkowie i Połęcku. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy podniesienia stopnia ostrzeżenia oraz wydłużenia okresu obowiązywania. 
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Odra od ujscia Baryczy do ujscia Bobru, Odra od ujscia Bobru do Slubic od 11:32/12.02.2024 do 10:00/15.02.2024. Na lubuskim odcinku Odry swobodnie plynacej od ujscia Baryczy do Slubic prognozuje sie dalszy wzrost stanu wody w strefie powyzej stanow ostrzegawczych w Nowej Soli, Bialej Gorze i Slubicach oraz powyzej stanow alarmowych w Cigacicach, Nietkowie i Polecku.  Szczegoly na meteo.imgw.pl

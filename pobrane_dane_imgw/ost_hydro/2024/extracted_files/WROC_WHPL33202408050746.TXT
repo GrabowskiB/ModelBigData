@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.08.2024 - godz. 09:44
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 169 z dnia 03.08.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 09:44 dnia 05.08.2024 do godz. 10:00 dnia 06.08.2024
+Obszar: Barycz bez Orli i Polskiego Rowu (wielkopolskie)
+Przebieg: W związku ze spływem wód opadowych w zlewni górnej Baryczy prognozowane są wahania stanów wody, w Odolanowie na Baryczy w strefie powyżej stanu alarmowego, w Odolanowie na Kurochu z możliwością osiągnięcia lub niewielkiego przekroczenia stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy przebiegu i czasu obowiązywania. 
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Barycz bez Orli i Polskiego Rowu od 09:44/05.08.2024 do 10:00/06.08.2024. W zwiazku ze splywem wod opadowych w zlewni gornej Baryczy prognozowane sa wahania stanow wody, w Odolanowie na Baryczy w strefie powyzej stanu alarmowego, w Odolanowie na Kurochu z mozliwoscia osiagniecia lub niewielkiego przekroczenia stanu ostrzegawczego.  Szczegoly na meteo.imgw.pl

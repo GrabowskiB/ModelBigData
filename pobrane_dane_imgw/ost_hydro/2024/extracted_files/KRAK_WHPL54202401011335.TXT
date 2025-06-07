@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.01.2024 - godz. 14:30
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 389 z dnia 30.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:35 dnia 01.01.2024 do godz. 15:00 dnia 03.01.2024
+Obszar: odcinek Bugu do ujścia Uherki (lubelskie)
+Przebieg: Na Bugu prognozowany jest dalszy wzrost poziomu wody przy przekroczonym stanie ostrzegawczym w profilu Dorohusk. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy czasu obowiązywania. W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 odcinek Bugu do ujscia Uherki od 14:35/01.01.2024 do 15:00/03.01.2024. Na Bugu prognozowany jest dalszy wzrost poziomu wody przy przekroczonym stanie ostrzegawczym w profilu Dorohusk.  Szczegoly na meteo.imgw.pl

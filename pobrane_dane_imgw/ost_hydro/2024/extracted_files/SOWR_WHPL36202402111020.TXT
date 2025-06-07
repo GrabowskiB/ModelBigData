@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.02.2024 - godz. 11:16
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 98
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:00 dnia 11.02.2024 do godz. 12:00 dnia 13.02.2024
+Obszar: Bug (mazowieckie, podlaskie)
+Przebieg: W związku z przemieszczaniem się wód opadowo-roztopowych, na Bugu przewiduje się wzrosty i wahania poziomu wody, przy obecnie przekroczonym stanie alarmowym w Popowie i lokalnie stanach ostrzegawczych, z możliwością przekroczenia ostrzegawczych w kolejnych profilach. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bug od 12:00/11.02.2024 do 12:00/13.02.2024. W zwiazku z przemieszczaniem sie wod opadowo-roztopowych, na Bugu przewiduje sie wzrosty i wahania poziomu wody, przy obecnie przekroczonym stanie alarmowym w Popowie i lokalnie stanach ostrzegawczych, z mozliwoscia przekroczenia ostrzegawczych w kolejnych profilach.  Szczegoly na meteo.imgw.pl

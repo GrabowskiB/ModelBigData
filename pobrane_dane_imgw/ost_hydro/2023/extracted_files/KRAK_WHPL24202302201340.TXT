@@ -1,0 +1,15 @@
+Data i godzina wydania: 20.02.2023 - godz. 14:37
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 49
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 15:00 dnia 20.02.2023 do godz. 17:00 dnia 21.02.2023
+Obszar: Wisła od ujścia Dunajca do ujścia Wisłoki (małopolskie, podkarpackie, świętokrzyskie)
+Przebieg: W związku z przemieszczaniem się fali wezbraniowej na Wiśle, spodziewane są wzrosty poziomu wody z możliwością przekroczenia stanu ostrzegawczego w Szczucinie. Na Wiśle w Karsach poziom wody będzie wzrastał przy stanie zbliżonym do ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Barbara Olearczyk-Siwik

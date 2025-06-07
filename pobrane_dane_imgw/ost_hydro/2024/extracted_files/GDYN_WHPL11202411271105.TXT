@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.11.2024 - godz. 12:00
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 167
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:00 dnia 28.11.2024 do godz. 10:00 dnia 30.11.2024
+Obszar: Zalew Szczeciński, ujściowy odcinek Odry (zachodniopomorskie)
+Przebieg: W związku z prognozowanym silnym wiatrem z sektora północnego i wysokim napełnieniem Bałtyku (528 cm) na Zalewie Szczecińskim i w ujściowym odcinku Odry nastąpi wzrost poziomów wody do stanów ostrzegawczych, lokalnie powyżej z możliwością przekroczenia stanów alarmowych na Zalewie Szczecińskim.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zalew Szczecinski, ujsciowy odcinek Odry od 09:00/28.11.2024 do 10:00/30.11.2024. W zwiazku z prognozowanym silnym wiatrem z sektora polnocnego i wysokim napelnieniem Baltyku (528 cm) na Zalewie Szczecinskim i w ujsciowym odcinku Odry nastapi wzrost poziomow wody do stanow ostrzegawczych, lokalnie powyzej z mozliwoscia przekroczenia stanow alarmowych na Zalewie Szczecinskim. Szczegoly na meteo.imgw.pl

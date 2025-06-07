@@ -1,0 +1,15 @@
+Data i godzina wydania: 09.04.2025 - godz. 11:46
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Odwołanie ostrzeżenia Nr: 2 z dnia 23.02.2025
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Noteć górna (kujawsko-pomorskie, wielkopolskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na obszarze zlewni górnej Noteci spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenie zostaje odwołane ze względu na aktualizację warstwy ostrzeżeń hydrologicznych. Po aktualizacji nastąpi ponowne wydanie ostrzeżenia na suszę hydrologiczną z nowym numerem. 
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Notec gorna od - do -. W zwiazku z wystepujacymi niskimi przeplywami wody, w kolejnych dniach na obszarze zlewni gornej Noteci spodziewane jest dalsze utrzymywanie sie przeplywow wody ponizej SNQ. Szczegoly na meteo.imgw.pl

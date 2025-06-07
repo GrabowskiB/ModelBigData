@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.07.2023 - godz. 13:02
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 58
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 13:05 dnia 26.07.2023 do godz. 23:00 dnia 26.07.2023
+Obszar: Warta górna do Poraja (śląskie)
+Przebieg: W związku z występującymi i prognozowanymi opadami deszczu o natężeniu umiarkowanym, okresami silnym w tym również opadami burzowymi, spodziewane są wzrosty stanów wody do strefy wody wysokiej, miejscami gwałtowne. W przypadku wystąpienia szczególnie intensywnego opadu, punktowo istnieje możliwość przekroczenia stanu ostrzegawczego na stacji Kręciwilk (Warta).
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Warta gorna do Poraja od 13:05/26.07.2023 do 23:00/26.07.2023. W zwiazku z wystepujacymi i prognozowanymi opadami deszczu o natezeniu umiarkowanym, okresami silnym w tym rowniez opadami burzowymi, spodziewane sa wzrosty stanow wody do strefy wody wysokiej, miejscami gwaltowne. W przypadku wystapienia szczegolnie intensywnego opadu, punktowo istnieje mozliwosc przekroczenia stanu ostrzegawczego na stacji Kreciwilk (Warta). Szczegoly na meteo.imgw.pl

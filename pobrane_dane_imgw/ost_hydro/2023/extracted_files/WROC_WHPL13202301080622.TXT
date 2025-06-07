@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.01.2023 - godz. 07:20
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 1 z dnia 06.01.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:21 dnia 08.01.2023 do godz. 12:00 dnia 10.01.2023
+Obszar: Widawa od Namysłowa do ujścia do Odry (dolnośląskie)
+Przebieg: Stan wody na Widawie poniżej Zbytowej będzie utrzymywał się w strefie wody wysokiej, w Zbytowej powyżej stanu ostrzegawczego. Prognozowane opady deszczu w drugiej połowie okresu ważności ostrzeżenia mogą spowodować ponowne wzrosty stanów wody, lokalnie powyżej stanu ostrzegawczego. Na przebieg zjawiska mogą mieć wpływ urządzenia wodne zlokalizowane w zlewni Widawy.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy wydłużenia czasu obowiązywania i uszczegółowienia przebiegu zjawiska.
+
+Dyżurny synoptyk hydrolog: Izabela Działa-Jekiel

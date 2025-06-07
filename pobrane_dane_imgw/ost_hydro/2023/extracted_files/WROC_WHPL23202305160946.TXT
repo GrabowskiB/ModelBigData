@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.05.2023 - godz. 11:44
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 57
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 16:00 dnia 16.05.2023 do godz. 09:00 dnia 18.05.2023
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Olza od Cieszyna do ujścia do Odry, Olza, Czadeczka, Psina, Ruda od Zb. Rybnik do ujścia do Odry, Ruda, Bierawka, Kłodnica od Zb. Dzierżno Duże do ujścia do Odry, Kłodnica, Odra od Koźla do ujścia Nysy Kłodzkiej, Stradunia, Osobłoga od granicy RP do ujścia, Osobłoga, Mała Panew od Krupskiego Młyna do Zb. Turawa, Mała Panew, Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia do Odry, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Stobrawa, Oława górna do Zborowic, Ślęza górna do Borowa, Bystrzyca górna do Zb. Mietków (dolnośląskie, opolskie, śląskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu oraz spływem wód opadowych przewidywane są wzrosty stanów wody do strefy wody wysokiej. Na mniejszych rzekach oraz w zlewniach zurbanizowanych wzrosty stanów wody mogą być gwałtowne. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych, a krótkotrwale także alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Izabela Działa-Jekiel

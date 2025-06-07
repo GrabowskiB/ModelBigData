@@ -1,0 +1,15 @@
+Data i godzina wydania: 09.08.2023 - godz. 08:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 270 z dnia 08.08.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Wisła od ujścia Wisłoki do ujścia Sanu (podkarpackie, świętokrzyskie)
+Przebieg: Prognozowane zjawisko nie wystąpi.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wisla od ujscia Wisloki do ujscia Sanu od - do -. Prognozowane zjawisko nie wystapi. Szczegoly na meteo.imgw.pl

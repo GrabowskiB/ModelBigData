@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.02.2024 - godz. 07:17
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 85
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 07:30 dnia 08.02.2024 do godz. 12:00 dnia 10.02.2024
+Obszar: zlewnia Pilicy od Zb. Sulejów (mazowieckie)
+Przebieg: W związku ze spływem wód opadowych, w zlewni Pilicy poniżej zb. Sulejów przewidywany jest dalszy wzrost poziomu wody, z przekroczeniem stanu alarmowego w Białobrzegach na Pilicy. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 zlewnia Pilicy od Zb. Sulejow od 07:30/08.02.2024 do 12:00/10.02.2024. W zwiazku ze splywem wod opadowych, w zlewni Pilicy ponizej zb. Sulejow przewidywany jest dalszy wzrost poziomu wody, z przekroczeniem stanu alarmowego w Bialobrzegach na Pilicy.  Szczegoly na meteo.imgw.pl

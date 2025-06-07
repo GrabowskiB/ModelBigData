@@ -1,0 +1,15 @@
+Data i godzina wydania: 18.06.2024 - godz. 13:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 95
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 23:00 dnia 18.06.2024 do godz. 07:00 dnia 19.06.2024
+Obszar: Wieprza, Słupia, Łupawa, Łeba, Reda, Martwa Wisła, Nogat, Tążyna, Mień, Brda, Wda, Wierzyca, Osa, Drwęca (kujawsko-pomorskie, pomorskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody i lokalne podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Rzeki Przymorza, Zatoki Gdanskiej, Dolnej Wisly od 23:00/18.06.2024 do 07:00/19.06.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty stanow wody i lokalne podtopienia. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.05.2023 - godz. 09:47
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 108
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:00 dnia 21.05.2023 do godz. 10:00 dnia 22.05.2023
+Obszar: zlewnia Krzny (lubelskie)
+Przebieg: Prognozowany jest dalszy wzrost poziomu wody z przekroczeniem stanu ostrzegawczego w Malowej Górze.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Przemysław Plewa

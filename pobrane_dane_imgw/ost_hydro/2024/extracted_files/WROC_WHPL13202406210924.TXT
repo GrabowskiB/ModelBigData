@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.06.2024 - godz. 11:22
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 124
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 11:23 dnia 21.06.2024 do odwołania
+Obszar: zlewnia górnej Bystrzycy do Mietkowa i Strzegomki do Łażan (dolnośląskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na obszarze objętym ostrzeżeniem spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ, z możliwością występowania krótkotrwałych wzrostów przepływu spowodowanych intensywnymi opadami deszczu.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA zlewnia gornej Bystrzycy do Mietkowa i Strzegomki do Lazan od 11:23/21.06.2024 do odwolania. W zwiazku z wystepujacymi niskimi przeplywami wody, w kolejnych dniach na obszarze objetym ostrzezeniem spodziewane jest dalsze utrzymywanie sie przeplywow wody ponizej SNQ, z mozliwoscia wystepowania krotkotrwalych wzrostow przeplywu spowodowanych intensywnymi opadami deszczu. Szczegoly na meteo.imgw.pl

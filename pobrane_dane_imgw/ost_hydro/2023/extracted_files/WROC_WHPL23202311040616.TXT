@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.11.2023 - godz. 07:14
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 154
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:15 dnia 04.11.2023 do godz. 21:00 dnia 04.11.2023
+Obszar: Stobrawa (opolskie)
+Przebieg: W wyniku spływu wód opadowych w zlewni Stobrawy stany wody wzrosły miejscami do strefy wody wysokiej. W okresie ważności ostrzeżenia spodziewane są dalsze, niewielkie wzrosty stanów wody. W Krzywej Górze na Budkowiczance niewykluczony wzrost powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Na przebieg prognozowanego zjawiska może mieć wpływ praca urządzeń wodnych.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Stobrawa od 07:15/04.11.2023 do 21:00/04.11.2023. W wyniku splywu wod opadowych w zlewni Stobrawy stany wody wzrosly miejscami do strefy wody wysokiej. W okresie waznosci ostrzezenia spodziewane sa dalsze, niewielkie wzrosty stanow wody. W Krzywej Gorze na Budkowiczance niewykluczony wzrost powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

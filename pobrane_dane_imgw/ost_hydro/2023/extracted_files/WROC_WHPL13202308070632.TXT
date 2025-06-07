@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.08.2023 - godz. 08:30
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 119
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:00 dnia 07.08.2023 do godz. 09:30 dnia 08.08.2023
+Obszar: zlewnie lewostronnych dopływów środkowej Odry (dolnośląskie)
+Przebieg: Prognozowane opady deszczu i spływ wód opadowych mogą ponownie powodować wzrosty i wahania stanów wody, miejscami w strefie wody wysokiej, punktowo powyżej stanów ostrzegawczych. W przypadku wystąpienia intensywnych opadów deszczu wzrosty stanów wody mogą być gwałtowne, szczególnie w małych zlewniach górskich i podgórskich oraz na obszarach zurbanizowanych. W Szalejowie Dolnym na Bystrzycy Dusznickiej stan wody może wzrosnąć powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie lewostronnych doplywow srodkowej Odry od 09:00/07.08.2023 do 09:30/08.08.2023. Prognozowane opady deszczu i splyw wod opadowych moga ponownie powodowac wzrosty i wahania stanow wody, miejscami w strefie wody wysokiej, punktowo powyzej stanow ostrzegawczych. W przypadku wystapienia intensywnych opadow deszczu wzrosty stanow wody moga byc gwaltowne, szczegolnie w malych zlewniach gorskich i podgorskich oraz na obszarach zurbanizowanych. W Szalejowie Dolnym na Bystrzycy Dusznickiej stan wody moze wzrosnac powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

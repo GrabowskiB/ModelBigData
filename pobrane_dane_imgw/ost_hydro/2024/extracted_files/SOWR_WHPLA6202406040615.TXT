@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.06.2024 - godz. 08:10
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 159
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 09:00 dnia 04.06.2024 do godz. 00:00 dnia 05.06.2024
+Obszar: Wisła od ujścia Kamiennej do Dęblina (część lewobrzeżna), Wisła od Dęblina do ujścia Narwi, Iłżanka, Radomka, Pilica od Zb. Sulejów, Świder, Górna Narew, Bug, Nurzec, Liwiec, Leśna (mazowieckie, podlaskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Wisla Kamienna-Narew,Ilzanka,Radomka,Pilica od Zb.Sulejow,Swider,Narew,zl.Bugu od 09:00/04.06.2024 do 00:00/05.06.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody.  Szczegoly na meteo.imgw.pl

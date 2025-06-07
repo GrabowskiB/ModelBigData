@@ -1,0 +1,17 @@
+Data i godzina wydania: 10.06.2023 - godz. 09:36
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 16
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 10:00 dnia 10.06.2023 do godz. 22:00 dnia 10.06.2023
+Obszar: Warta górna do Poraja, Warta górna od Poraja do Liswarty, Liswarta, Warta górna od Liswarty do Widawki, Oleśnica, Grabia, Nieciecz, Widawka, Prosna górna, Niesób, Łużyca, Prosna środkowa, Ołobok (łódzkie, opolskie, śląskie, wielkopolskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody i lokalne podtopienia. W przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość lokalnego,
+krótkotrwałego przekroczenia stanu ostrzegawczego na wodowskazie Gorzów Śląski na Prośnie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia gornej Warty, zlewnia gornej i srodkowej Prosny od 10:00/10.06.2023 do 22:00/10.06.2023. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty stanow wody i lokalne podtopienia. W przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc lokalnego,
+krotkotrwalego przekroczenia stanu ostrzegawczego na wodowskazie Gorzow Slaski na Prosnie. Szczegoly na meteo.imgw.pl

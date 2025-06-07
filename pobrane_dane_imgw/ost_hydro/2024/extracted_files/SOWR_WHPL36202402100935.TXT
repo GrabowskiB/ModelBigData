@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.02.2024 - godz. 10:29
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 94
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:00 dnia 10.02.2024 do godz. 12:00 dnia 12.02.2024
+Obszar: Wisła od ujścia Narwi do Zb. Włocławek (mazowieckie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych z górnej części dorzecza, na Wiśle poniżej ujścia Narwi przewiduje się wzrosty poziomu wody, z przekroczeniem stanów alarmowych w Wyszogrodzie i w Kępie Polskiej, z możliwością przekroczenia stanu ostrzegawczego w Płocku.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Wisla od ujscia Narwi do Zb. Wloclawek od 12:00/10.02.2024 do 12:00/12.02.2024. W zwiazku ze splywem wod opadowo-roztopowych z gornej czesci dorzecza, na Wisle ponizej ujscia Narwi przewiduje sie wzrosty poziomu wody, z przekroczeniem stanow alarmowych w Wyszogrodzie i w Kepie Polskiej, z mozliwoscia przekroczenia stanu ostrzegawczego w Plocku. Szczegoly na meteo.imgw.pl

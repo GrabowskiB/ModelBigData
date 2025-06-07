@@ -1,0 +1,15 @@
+Data i godzina wydania: 18.02.2024 - godz. 08:37
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Zmiana ostrzeżenia Nr: 48 z dnia 17.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 08:38 dnia 18.02.2024 do godz. 12:00 dnia 19.02.2024
+Obszar: Warta środkowa od Zb. Jeziorsko do Prosny (wielkopolskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej, na stacjach hydrologicznych: Koło i Ląd na Warcie prognozowane są przekroczenia stanów ostrzegawczych. W profilu wodowskazowym Pyzdry prognozowany jest dalszy wzrost stanu wody w strefie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy obszaru oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Warta srodkowa od Zb. Jeziorsko do Prosny od 08:38/18.02.2024 do 12:00/19.02.2024. W zwiazku z rozwojem sytuacji hydrologicznej, na stacjach hydrologicznych: Kolo i Lad na Warcie prognozowane sa przekroczenia stanow ostrzegawczych. W profilu wodowskazowym Pyzdry prognozowany jest dalszy wzrost stanu wody w strefie stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

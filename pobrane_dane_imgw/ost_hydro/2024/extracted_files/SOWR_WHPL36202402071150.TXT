@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.02.2024 - godz. 12:46
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 84
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:00 dnia 07.02.2024 do godz. 13:00 dnia 09.02.2024
+Obszar: dolna Narew (mazowieckie)
+Przebieg: W wyniku spływu wód opadowo-roztopowych w  zlewni dolnej Narwi przewiduje się wzrost poziomu wody, lokalnie na Narwi w Orzechowie oraz miejscami na dopływach Narwi powyżej stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 dolna Narew od 13:00/07.02.2024 do 13:00/09.02.2024. W wyniku splywu wod opadowo-roztopowych w  zlewni dolnej Narwi przewiduje sie wzrost poziomu wody, lokalnie na Narwi w Orzechowie oraz miejscami na doplywach Narwi powyzej stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

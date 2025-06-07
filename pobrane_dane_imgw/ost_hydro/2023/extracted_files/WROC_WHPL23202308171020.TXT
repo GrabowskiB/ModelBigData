@@ -1,0 +1,15 @@
+Data i godzina wydania: 17.08.2023 - godz. 12:17
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 124
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:00 dnia 17.08.2023 do godz. 23:00 dnia 17.08.2023
+Obszar: Osobłoga, Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Ślęza górna do Borowa, Bystrzyca górna do Zb. Mietków, Strzegomka do Łażan, Kaczawa górna do Dunina, Skora (górna), Bóbr do Zb. Pilchowice, Bóbr od Zb. Pilchowice do Bobrzycy, Kwisa górna do Zb. Leśna, Kwisa od Zb. Leśna do Nowogrodźca, Ostrożnica, Izera, Witka od Ostróżna do ujścia do Nysy Łużyckiej, Nysa Łużycka do Zgorzelca (dolnośląskie, opolskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych,  punktowo także alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego wystąpienia może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie lewostronnych doplywow Odry od 14:00/17.08.2023 do 23:00/17.08.2023. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty stanow wody. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych,  punktowo takze alarmowych. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,765 @@
+LP.;ID;Nazwa;Rzeka;Szerokość geograficzna;Długość geograficzna;Wysokość n.p.m.;Powiat
+1;249170080;Dzierżkowice;Opawa (112);49 59 32;17 50 47;270.0;głubczycki
+2;249180010;Pszczyna;Pszczynka (2116);49 59 44;18 55 09;270.0;pszczyński
+3;249180020;Warszowice;Pszczynka (2116);49 59 31;18 42 20;270.0;pszczyński
+4;249180030;Chałupki;Odra (1);49 55 33;18 19 39;198.0;raciborski
+5;249180070;Mazańcowice;Wapienica (21128);49 51 45;18 58 10;269.0;bielski
+6;249180090;Rudzica;Iłownica (2112);49 51 12;18 52 57;337.0;bielski
+7;249180130;Cieszyn;Olza (114);49 45 15;18 38 54;295.0;cieszyński
+8;249180150;Wapienica;Wapienica (21128);49 46 25;18 58 24;456.0;Bielsko-Biała
+9;249180160;BRENNA;Brennica (21114);49 45 13;18 52 15;350.0;cieszyński
+10;249180170;Błatnia;Brennica (21114);49 44 49;18 56 33;882.0;cieszyński
+11;249180180;Równica, wieś;Wisła (2);49 43 11;18 51 09;768.0;cieszyński
+12;249180210;SZCZYRK;Soła (2132);49 42 11;18 59 41;600.0;bielski
+13;249180220;CZANTORIA;Wisła (2);49 41 00;18 49 11;842.0;cieszyński
+14;249180230;WISŁA;Wisła (2);49 39 17;18 51 41;430.0;cieszyński
+15;249180240;WISŁA-MALINKA;Malinka (21112);49 38 41;18 58 03;685.0;cieszyński
+16;249180260;ISTEBNA-KUBALONKA;Olza (114);49 36 13;18 54 04;780.0;cieszyński
+17;249180270;Istebna Młoda-Góra;Olza (114);49 34 50;18 51 43;786.0;cieszyński
+18;249180280;ISTEBNA-STECÓWKA;Olza (114);49 35 07;18 56 25;735.0;cieszyński
+19;249180390;BRENNA Leśnica;Leśnica (211146);49 42 36;18 54 11;426.0;cieszyński
+20;249180410;ISTEBNA-WIEŚ;Olza (114);49 34 08;18 53 32;578.0;cieszyński
+21;249180520;RUDZICA;Iłownica (2112);49 51 14;18 52 51;345.0;bielski
+22;249180530;ISTEBNA-STECÓWKA;Olza (114);49 35 05;18 56 16;725.0;cieszyński
+23;249180550;Cieszyn;Olza (114);49 46 30;18 36 33;255.0;cieszyński
+24;249180570;Międzyrzecze Górne;Jasienica (21126);49 50 22;18 55 42;312.0;bielski
+25;249180580;Goczałkowice-Zdrój;Wisła (2);49 56 18;18 56 02;259.0;pszczyński
+26;249180590;Ruptawa;Olza (114);49 56 12;18 35 22;230.0;Jastrzębie-Zdrój
+27;249180620;Kończyce Małe;Piotrówka (1146);49 51 08;18 38 20;242.0;cieszyński
+28;249180630;Kiczyce;Wisła (2);49 49 18;18 47 59;283.0;cieszyński
+29;249180640;Brenna-Brennica;Brennica (21114);49 43 24;18 54 27;403.0;cieszyński
+30;249190010;JAWISZOWICE;Wisła (2);49 57 35;19 08 31;260.0;oświęcimski
+31;249190030;LIBERTÓW;Wisła (2);49 58 21;19 53 42;318.0;krakowski
+32;249190050;RADZISZÓW;Skawinka (21356);49 56 23;19 48 33;222.0;krakowski
+33;249190060;SIEPRAW;Skawinka (21356);49 54 17;19 57 53;267.0;myślenicki
+34;249190080;WADOWICE;Skawa (2134);49 52 55;19 31 07;259.0;wadowicki
+35;249190090;INWAŁD;Skawa (2134);49 52 02;19 23 19;350.0;wadowicki
+36;249190130;MIĘDZYBRODZIE BIALSKIE;Soła (2132);49 47 22;19 11 46;328.0;żywiecki
+37;249190140;LESKOWIEC;Skawa (2134);49 47 44;19 26 48;872.0;suski
+38;249190150;STRÓŻA;Raba (2138);49 47 47;19 55 03;330.0;myślenicki
+39;249190170;BOGDANÓWKA;Raba (2138);49 45 34;19 47 17;812.0;myślenicki
+40;249190190;MAKÓW PODH.;Skawa (2134);49 43 33;19 41 17;361.0;suski
+41;249190210;ŁODYGOWICE;Soła (2132);49 43 27;19 09 37;375.0;żywiecki
+42;249190220;ŚLEMIEŃ;Soła (2132);49 43 03;19 21 11;447.0;żywiecki
+43;249190230;Lubień;Lubieńka (213834);49 43 15;19 58 12;429.0;myślenicki
+44;249190240;LACHOWICE KRALE;Skawa (2134);49 41 18;19 25 04;616.0;suski
+45;249190270;Osielec;Skawa (2134);49 40 44;19 44 20;439.0;suski
+46;249190280;KRZECZÓW;Raba (2138);49 41 01;19 54 36;548.0;myślenicki
+47;249190290;Lipowa;Soła (2132);49 39 58;19 04 36;530.0;żywiecki
+48;249190310;Pewel Mała;Koszarawa (21324);49 39 39;19 18 21;425.0;żywiecki
+49;249190320;LUBOŃ WIELKI;Raba (2138);49 39 12;19 59 32;1021.0;limanowski
+50;249190340;KOSZARAWA;Soła (2132);49 39 21;19 24 16;595.0;żywiecki
+51;249190350;ZAWOJA;Skawica (21344);49 36 42;19 31 07;697.0;suski
+52;249190380;Kamesznica;Bystra (213232);49 34 12;19 03 52;470.0;żywiecki
+53;249190390;MARKOWE SZCZAWINY;Skawa (2134);49 35 15;19 30 59;1193.0;suski
+54;249190410;MILÓWKA;Soła (2132);49 33 33;19 04 46;485.0;żywiecki
+55;249190420;Żabnica;Żabniczanka (213234);49 33 39;19 11 15;585.0;żywiecki
+56;249190430;SOPOTNIA WIELKA;Soła (2132);49 34 54;19 17 58;745.0;żywiecki
+57;249190440;KORBIELÓW;Soła (2132);49 34 07;19 20 54;650.0;żywiecki
+58;249190460;SPYTKOWICE GÓRNE;Skawa (2134);49 33 52;19 45 42;639.0;nowotarski
+59;249190470;Raba Wyżna;Raba (2138);49 33 53;19 52 54;536.0;nowotarski
+60;249190480;LALIKI;Soła (2132);49 32 41;19 00 58;680.0;żywiecki
+61;249190520;OBIDOWA;Raba (2138);49 32 39;19 58 07;805.0;nowotarski
+62;249190530;PILSKO;Soła (2132);49 32 28;19 19 06;1278.0;żywiecki
+63;249190540;RAJCZA;Soła (2132);49 30 22;19 06 19;495.0;żywiecki
+64;249190560;JABŁONKA;Czarna Orawa (8222);49 28 20;19 41 45;614.0;nowotarski
+65;249190580;RYCERKA GÓRNA;Soła (2132);49 25 35;19 00 30;710.0;żywiecki
+66;249190610;RATUŁÓW;Wielki Rogoźnik (214116);49 23 30;19 53 01;679.0;nowotarski
+67;249190620;BAŃSKA WYŻNA;Biały Dunajec (21412);49 23 03;19 58 24;896.0;nowotarski
+68;249190630;WITÓW;Czarny Dunajec (21411);49 19 39;19 49 30;822.0;tatrzański
+69;249190640;NOWE BYSTRE;Wielki Rogoźnik (214116);49 19 56;19 55 45;870.0;tatrzański
+70;249190660;KOŚCIELISKO-KIRY;Kirowa Woda (214112);49 16 39;19 52 10;922.0;tatrzański
+71;249190670;POLANA CHOCHOŁ.;Dunajec (214);49 14 13;19 47 19;1145.0;tatrzański
+72;249190680;HALA ORNAK;Dunajec (214);49 13 45;19 51 34;1109.0;tatrzański
+73;249190750;Soblówka;Soła (2132);49 26 15;19 08 54;702.0;żywiecki
+74;249190770;Straconka;Biała (2114);49 47 38;19 06 26;450.0;Bielsko-Biała
+75;249190780;Gubałówka;Wielki Rogoźnik (214116);49 18 20;19 55 47;1123.0;tatrzański
+76;249190790;Ratułów;Wielki Rogoźnik (214116);49 23 30;19 53 03;679.0;nowotarski
+77;249190810;Kalwaria Zebrzydowska.;Skawinka (21356);49 52 12;19 41 07;312.0;wadowicki
+78;249190820;Koszarawa;Soła (2132);49 40 20;19 24 50;671.0;żywiecki
+79;249190830;Kościelisko-Kiry;Kirowa Woda (214112);49 16 40;19 52 15;933.0;tatrzański
+80;249190840;Rajcza;Soła (2132);49 30 29;19 06 55;505.0;żywiecki
+81;249190850;Rycerka Górna;Soła (2132);49 25 33;19 00 29;720.0;żywiecki
+82;249190860;Soblówka;Soła (2132);49 27 24;19 08 43;620.0;żywiecki
+83;249190870;Ślemień;Soła (2132);49 42 57;19 22 28;480.0;żywiecki
+84;249190880;Wadowice;Skawa (2134);49 52 38;19 30 40;265.0;wadowicki
+85;249190890;RADZIECHOWY ;Soła (2132);49 38 55;19 09 20;395.0;żywiecki
+86;249190920;LIPNICA WIELKA;Czarna Orawa (8222);49 32 16;19 32 43;819.0;nowotarski
+87;249190960;Budzów;Skawa (2134);49 46 26;19 39 34;342.0;suski
+88;249190970;Sidzina;Bystrzanka (21342);49 37 10;19 43 37;546.0;suski
+89;249190980;Sucha Beskidzka;Skawa (2134);49 45 14;19 36 21;324.0;suski
+90;249190990;Jordanów;Skawa (2134);49 38 35;19 50 30;534.0;suski
+91;249191020;Skawica;Skawica (21344);49 41 11;19 40 01;409.0;suski
+92;249191030;Kopytówka;Wisła (2);49 56 01;19 38 10;309.0;wadowicki
+93;249200020;ŁAZY;Gróbka (21394);49 57 55;20 29 43;245.0;bocheński
+94;249200050;STRADOMKA;Stradomka (21388);49 55 15;20 18 33;226.0;bocheński
+95;249200060;Gnojnik;Uszwica (21396);49 53 43;20 35 18;310.0;brzeski
+96;249200070;DOBCZYCE;Raba (2138);49 52 39;20 04 14;308.0;myślenicki
+97;249200080;Łapanów;Stradomka (21388);49 52 31;20 17 01;265.0;bocheński
+98;249200110;JODŁOWNIK;Stradomka (21388);49 46 15;20 13 29;384.0;limanowski
+99;249200120;ROZDZIELE;Raba (2138);49 47 07;20 24 58;627.0;bocheński
+100;249200130;JASTRZĘBIA;Biała (2148);49 47 11;20 53 47;288.0;tarnowski
+101;249200140;WĘGLÓWKA;Raba (2138);49 45 01;20 04 28;512.0;myślenicki
+102;249200180;LIMANOWA;Łososina (21472);49 41 37;20 25 06;515.0;limanowski
+103;249200210;PÓŁRZECZKI;Łososina (21472);49 39 09;20 12 54;650.0;limanowski
+104;249200220;ROZTOKA;Dunajec (214);49 38 25;20 23 00;815.0;limanowski
+105;249200230;GRYBÓW;Biała (2148);49 37 11;20 56 53;335.0;nowosądecki
+106;249200240;PTASZKOWA;Łubinka (21434);49 36 01;20 53 12;520.0;nowosądecki
+107;249200250;JASIONÓW;Raba (2138);49 35 23;20 01 33;742.0;limanowski
+108;249200260;ŁĄCKO;Dunajec (214);49 33 35;20 26 22;366.0;nowosądecki
+109;249200270;TURBACZ;Dunajec (214);49 32 41;20 07 05;1273.0;nowotarski
+110;249200280;ŁABOWA;Kamienica (21432);49 31 34;20 51 31;455.0;nowosądecki
+111;249200290;OCHOTNICA GÓRNA;Dunajec (214);49 30 37;20 14 41;617.0;nowotarski
+112;249200310;KOWANIEC;Dunajec (214);49 29 27;20 02 49;623.0;nowotarski
+113;249200320;ŁOPUSZNA;Dunajec (214);49 28 27;20 07 25;570.0;nowotarski
+114;249200330;STUDZIONKI;Dunajec (214);49 29 43;20 12 43;904.0;nowotarski
+115;249200340;DĘBNO;Białka (214154);49 27 57;20 12 34;536.0;nowotarski
+116;249200350;HUTA;Kamienica (21432);49 27 54;20 57 24;756.0;nowosądecki
+117;249200360;MIZERNA;Dunajec (214);49 27 19;20 16 55;570.0;nowotarski
+118;249200370;KROŚCIENKO;Dunajec (214);49 26 44;20 25 54;435.0;nowotarski
+119;249200380;SZAFLARY;Biały Dunajec (21412);49 25 29;20 01 51;643.0;nowotarski
+120;249200420;NIEDZICA;Niedziczanka (214172);49 25 04;20 18 57;534.0;nowotarski
+121;249200440;JAWORZYNA KRYNIC.;Poprad (2142);49 25 04;20 53 43;1110.0;nowosądecki
+122;249200450;BIAŁKA TATRZAŃSKA;Białka (214154);49 24 44;20 06 26;680.0;tatrzański
+123;249200470;KRYNICA;Poprad (2142);49 24 28;20 57 39;582.0;nowosądecki
+124;249200480;BUKOWINA;Białka (214154);49 20 15;20 05 54;902.0;tatrzański
+125;249200490;MUSZYNA;Poprad (2142);49 20 59;20 53 11;445.0;nowosądecki
+126;249200530;ŁYSA POLANA;Białka (214154);49 15 49;20 06 54;970.0;tatrzański
+127;249200540;HALA GĄSIENICOWA;Dunajec (214);49 14 38;20 00 21;1523.0;tatrzański
+128;249200550;DOLINA 5 STAWÓW;Dunajec (214);49 12 49;20 02 52;1674.0;tatrzański
+129;249200570;TRZEMEŚNIA;Raba (2138);49 48 45;20 00 46;347.0;myślenicki
+130;249200910;MORSKIE OKO;Rybi Potok (2141542);49 12 04;20 04 17;1400.0;tatrzański
+131;249200920;PIWNICZNA;Poprad (2142);49 25 30;20 43 23;380.0;nowosądecki
+132;249200930;PORONIN;Biały Dunajec (21412);49 19 49;20 02 07;776.0;tatrzański
+133;249200950;Szaflary;Biały Dunajec (21412);49 24 58;20 01 31;636.0;nowotarski
+134;249200960;NOWY TARG-KOWANIEC;Dunajec (214);49 29 11;20 03 18;590.0;nowotarski
+135;249200980;MSZANA DOLNA;Raba (2138);49 39 49;20 03 16;440.0;limanowski
+136;249200990;WRONOWICE;Łososina (21472);49 44 11;20 35 26;270.0;nowosądecki
+137;249201010;SIERCZA;Wisła (2);49 58 21;20 02 02;336.0;wielicki
+138;249201020;Ostrowsko;Dunajec (214);49 28 48;20 05 38;568.0;nowotarski
+139;249201030;Dobra;Łososina (214734);49 43 39;20 16 24;427.0;limanowski
+140;249201050;Królówka;Raba (2138);49 53 14;20 26 00;291.0;bocheński
+141;249201060;Tylmanowa;Ochotnica (2141976);49 31 05;20 23 15;404.0;nowotarski
+142;249210010;PILZNO;Wisłoka (218);49 59 14;21 18 30;195.0;dębicki
+143;249210030;TUCHÓW;Biała (2148);49 54 14;21 02 51;220.0;tarnowski
+144;249210040;ŻARNOWA;Wisłok (226);49 52 40;21 48 59;220.0;strzyżowski
+145;249210070;BIECZ-GRUDNA;Ropa (2182);49 44 07;21 17 44;285.0;gorlicki
+146;249210080;JASŁO;Jasiołka (2184);49 44 08;21 29 06;228.0;jasielski
+147;249210090;GORLICE;Sękówka (21826);49 39 19;21 10 16;300.0;gorlicki
+148;249210120;NOWY ŻMIGRÓD;Wisłoka (218);49 36 42;21 32 00;300.0;jasielski
+149;249210130;Zboiska;Jasiołka (2184);49 34 39;21 41 45;320.0;krośnieński
+150;249210140;DUKLA;Jasiołka (2184);49 34 01;21 40 50;385.0;krośnieński
+151;249210150;IWONICZ-ZDRÓJ;Wisłok (226);49 34 02;21 47 18;425.0;krośnieński
+152;249210160;ORZECHÓWKA;Wisłok (226);49 43 00;21 57 41;310.0;brzozowski
+153;249210170;BARTNE;Sękówka (21826);49 33 31;21 20 44;540.0;gorlicki
+154;249210180;KREMPNA;Wisłoka (218);49 30 57;21 29 22;380.0;jasielski
+155;249210190;WISŁOCZEK;Wisłok (226);49 30 03;21 51 56;520.0;krośnieński
+156;249210210;PUŁAWY DOLNE;Wisłok (226);49 29 24;21 54 26;395.0;krośnieński
+157;249210220;WYSZOWADKA;Wisłoka (218);49 27 14;21 25 15;506.0;jasielski
+158;249210230;WYSOWA;Ropa (2182);49 26 17;21 10 21;519.0;gorlicki
+159;249210240;BARWINEK;Jasiołka (2184);49 25 52;21 41 05;465.0;krośnieński
+160;249210250;JAŚLISKA;Jasiołka (2184);49 26 24;21 48 36;440.0;krośnieński
+161;249210260;TYLICZ;Poprad (2142);49 23 32;21 00 32;585.0;nowosądecki
+162;249210270;WISŁOK WIELKI;Wisłok (226);49 22 43;21 59 57;540.0;sanocki
+163;249210280;Kunkowa;Przysłopianka (218232);49 33 00;21 07 29;413.0;gorlicki
+164;249210340;Krempna;Wisłoka (218);49 30 59;21 29 03;380.0;jasielski
+165;249210350;Moszczaniec;Wisłok (226);49 25 20;21 54 46;467.0;krośnieński
+166;249210370;Ropica Górna;Sękówka (21826);49 35 46;21 13 53;357.0;gorlicki
+167;249210390;Uście Gorlickie;Ropa (2182);49 31 37;21 07 55;398.0;gorlicki
+168;249210420;Smerekowiec;Ropa (2182);49 30 19;21 14 02;451.0;gorlicki
+169;249220010;KAŃCZUGA;Mleczka (2268);49 59 07;22 24 26;215.0;przeworski
+170;249220040;DYNÓW;San (22);49 50 07;22 14 06;249.0;rzeszowski
+171;249220060;BIRCZA;San (22);49 41 14;22 28 52;324.0;przemyski
+172;249220070;RYBOTYCZE;Wiar (224);49 39 16;22 38 24;289.0;przemyski
+173;249220080;SANOK-TREPCZA;San (22);49 35 05;22 11 07;307.0;sanocki
+174;249220110;NOWOTANIEC;Pielnica (22618);49 30 28;22 01 31;405.0;sanocki
+175;249220120;LESZCZOWATE;San (22);49 30 26;22 32 52;486.0;bieszczadzki
+176;249220130;Brzegi Dolne;Strwiąż (76);49 26 36;22 37 16;438.0;bieszczadzki
+177;249220140;SZCZAWNE;Osława (222);49 23 56;22 08 49;395.0;sanocki
+178;249220150;SOLINA-JAWOR;San (22);49 24 00;22 28 06;459.0;leski
+179;249220160;TELEŚNICA OSZWAROWA;San (22);49 22 49;22 31 52;449.0;bieszczadzki
+180;249220170;BALIGRÓD-MCHAWA;Hoczewka (2218);49 21 14;22 17 01;430.0;leski
+181;249220180;KOMAŃCZA;Osława (222);49 20 21;22 03 48;478.0;sanocki
+182;249220190;SAKOWCZYK;San (22);49 18 53;22 26 51;561.0;leski
+183;249220210;TERKA;Solinka (2212);49 17 50;22 25 37;446.0;leski
+184;249220220;POLANA;Czarna (22132);49 18 12;22 34 36;458.0;bieszczadzki
+185;249220230;LUTOWISKA;San (22);49 14 35;22 41 00;666.0;bieszczadzki
+186;249220240;ŻUBRACZE;San (22);49 12 32;22 16 18;623.0;leski
+187;249220250;CISNA;Solinka (2212);49 12 46;22 19 52;549.0;leski
+188;249220260;DWERNIK;San (22);49 13 15;22 38 02;543.0;bieszczadzki
+189;249220270;KALNICA;Wetlina (22126);49 11 50;22 25 27;577.0;leski
+190;249220280;STUPOSIANY;Wołosaty (22114);49 11 30;22 40 59;547.0;bieszczadzki
+191;249220290;ROZTOKI GÓRNE;San (22);49 09 12;22 18 52;700.0;leski
+192;249220310;WETLINA;San (22);49 08 41;22 28 19;708.0;leski
+193;249220320;POŁONINA WETLIŃSKA;San (22);49 09 28;22 33 06;1226.0;leski
+194;249220330;TARNAWA  NIŻNA;San (22);49 07 29;22 47 29;708.0;bieszczadzki
+195;249220340;WOŁOSATE;San (22);49 03 51;22 41 09;752.0;bieszczadzki
+196;249220350;WYŻNIAŃSKI WIERCH;San (22);49 07 19;22 35 09;913.0;bieszczadzki
+197;249220360;BUKOWIEC ;Solinka (2212);49 18 21;22 24 49;435.0;leski
+198;249220370;Zatwarnica;San (22);49 12 57;22 33 08;;bieszczadzki
+199;250140010;Wyszków;Nysa Łużycka (174);50 58 03;14 59 35;330.0;zgorzelecki
+200;250140020;Sieniawka;Nysa Łużycka (174);50 53 37;14 50 07;234.0;zgorzelecki
+201;250140030;Bogatynia;Miedzianka (17416);50 53 59;14 58 50;290.0;zgorzelecki
+202;250150030;Pobiedna;Łużyca (166324);50 57 07;15 18 31;409.0;lubański
+203;250150050;Pilchowice;Bóbr (16);50 57 46;15 38 24;251.0;lwówecki
+204;250150060;Rębiszów;Skitnica (166246);50 57 06;15 26 56;420.0;lwówecki
+205;250150080;Stara Kamienica;Kamienica (1632);50 55 01;15 34 27;374.0;karkonoski
+206;250150090;Świeradów-Zdrój;Kwisa (166);50 53 54;15 21 31;510.0;lubański
+207;250150110;Kaczorów;Kaczawa (138);50 54 32;15 56 09;491.0;jaworski
+208;250150130;Ciechanowice;Bóbr (16);50 52 02;15 58 38;405.0;kamiennogórski
+209;250150150;Szklarska Poręba;Kamieńczyk (1622);50 50 04;15 31 45;648.0;karkonoski
+210;250150170;Jakuszyce;Kamienna (162);50 49 23;15 26 31;855.0;karkonoski
+211;250150180;Jagniątków;Wrzosówka (1628);50 49 12;15 36 43;549.0;Jelenia Góra
+212;250150190;Kowary;Jedlica (16188);50 48 13;15 49 27;430.0;karkonoski
+213;250150210;Przesieka;Podgórna (16288);50 47 56;15 40 02;646.0;karkonoski
+214;250150220;Karpacz;Skałka (161844);50 46 44;15 46 10;567.0;karkonoski
+215;250150240;Paczyn;Bachorzyna (161154);50 44 23;15 54 41;643.0;kamiennogórski
+216;250150250;Paprotki;Bachorzyna (161154);50 43 36;15 56 53;543.0;kamiennogórski
+217;250150260;Bukówka;Bóbr (16);50 42 46;15 57 26;511.0;kamiennogórski
+218;250150340;Borowice;Kacza (162886);50 47 21;15 41 24;660.0;karkonoski
+219;250150350;Podgórzyn;Podgórna (16288);50 49 32;15 41 15;385.0;karkonoski
+220;250150510;Mirsk;Czarny Potok (16632);50 59 13;15 23 00;338.0;lwówecki
+221;250150530;Świeradów-Zdrój II;Kwisa (166);50 54 21;15 19 32;595.0;lubański
+222;250150540;Czernica;Biały Potok (16344);50 58 28;15 43 03;299.0;karkonoski
+223;250150550;Szrenica;Bóbr (16);50 47 27;15 30 44;1327.0;karkonoski
+224;250150560;Mała Kopa;Łomniczka (16184);50 44 37;15 43 34;1341.0;karkonoski
+225;250150580;Jarkowice;Bóbr (16);50 44 11;15 52 25;650.0;kamiennogórski
+226;250150590;Niedamirów;Bóbr (16);50 41 28;15 52 14;685.0;kamiennogórski
+227;250160010;Strzegom;Strzegomka (1348);50 57 50;16 22 35;211.0;świdnicki
+228;250160030;Bolków;Nysa Szalona (1384);50 55 30;16 05 55;310.0;jaworski
+229;250160060;Sobótka;Czarna Woda (1346);50 54 08;16 45 34;156.0;wrocławski
+230;250160070;Borów;Ślęza (1336);50 52 56;16 59 24;145.0;strzeliński
+231;250160090;Pszenno;Piława (1344);50 51 41;16 31 43;223.0;świdnicki
+232;250160120;Lubomin;Dopływ z Lubomina (134822);50 48 13;16 11 45;464.0;wałbrzyski
+233;250160130;Szczawno-Zdrój;Szczawnik (134864);50 48 24;16 14 28;431.0;wałbrzyski
+234;250160150;Kamienna Góra;Bóbr (16);50 47 34;16 02 10;464.0;kamiennogórski
+235;250160170;Lubachów;Bystrzyca (134);50 45 50;16 25 43;305.0;świdnicki
+236;250160190;Boguszów-Gorce;Lesk (1616);50 44 58;16 11 24;518.0;wałbrzyski
+237;250160220;Jedlina-Zdrój;Jedlina (13416);50 43 07;16 20 57;436.0;wałbrzyski
+238;250160260;Dzierżoniów;Piława (1344);50 44 36;16 37 27;252.0;dzierżoniowski
+239;250160270;Walim;Walimka (13418);50 42 10;16 26 21;489.0;wałbrzyski
+240;250160290;Chełmsko Śląskie;Zadrna (1614);50 40 15;16 04 12;498.0;kamiennogórski
+241;250160310;Mieroszów;Ścinawka (122);50 39 45;16 10 33;493.0;wałbrzyski
+242;250160320;Ostroszowice;Jadkowa (12322);50 38 39;16 38 09;373.0;dzierżoniowski
+243;250160350;Srebrna Góra;Budzówka (1232);50 34 38;16 39 53;405.0;ząbkowicki
+244;250160360;Tarnów;Budzówka (1232);50 34 31;16 47 34;296.0;ząbkowicki
+245;250160410;Bardo;Nysa Kłodzka (12);50 30 33;16 44 39;321.0;ząbkowicki
+246;250160450;Kudowa-Zdrój;Klikawa (946);50 26 17;16 13 19;364.0;kłodzki
+247;250160480;Słoszów;Wapienny (12182);50 24 36;16 22 46;556.0;kłodzki
+248;250160490;Polanica-Zdrój;Bystrzyca Dusznicka (1218);50 25 31;16 31 06;389.0;kłodzki
+249;250160510;Ołdrzychowice Kłodzkie;Biała Lądecka (1216);50 21 24;16 44 05;349.0;kłodzki
+250;250160520;Lądek-Zdrój;Biała Lądecka (1216);50 20 43;16 53 06;461.0;kłodzki
+251;250160530;Zieleniec;Bystrzyca Dusznicka (1218);50 19 48;16 23 39;840.0;kłodzki
+252;250160560;Stronie Śląskie;Biała Lądecka (1216);50 18 09;16 51 58;502.0;kłodzki
+253;250160580;Spalona;Bystrzyca (1214);50 16 36;16 32 18;815.0;kłodzki
+254;250160590;Długopole-Zdrój;Nysa Kłodzka (12);50 14 59;16 38 00;364.0;kłodzki
+255;250160610;Bolesławów;Morawka (12162);50 15 17;16 53 27;602.0;kłodzki
+256;250160620;Kamienica;Kamienica (121624);50 13 38;16 53 03;682.0;kłodzki
+257;250160630;Międzygórze;Wilczka (1212);50 13 07;16 46 25;795.0;kłodzki
+258;250160650;Międzylesie;Nysa Kłodzka (12);50 09 12;16 40 15;453.0;kłodzki
+259;250160840;Szalejów Górny;Bystrzyca Dusznicka (1218);50 25 50;16 33 09;335.0;kłodzki
+260;250160910;SREBRNA GÓRA II;Budzówka (1232);50 34 51;16 40 06;380.0;ząbkowicki
+261;250160920;Piława Górna;Piława (1344);50 41 22;16 43 57;296.0;dzierżoniowski
+262;250160930;Karłów;Czerwona Woda (121848);50 28 27;16 20 13;753.0;kłodzki
+263;250160940;Nowa Wieś;Nowinka (121146);50 11 52;16 44 42;555.0;kłodzki
+264;250160950;Kwietniki;Nysa Mała (13846);50 58 01;16 08 34;256.0;jaworski
+265;250160960;Stary Gierałtów;Biała Lądecka (1216);50 18 36;16 55 03;535.0;kłodzki
+266;250160970;Śnieżnik;Wilczka (1212);50 12 30;16 49 57;1218.0;kłodzki
+267;250160980;Wolibórz;Ścinawka (122);50 35 26;16 34 41;518.0;kłodzki
+268;250161020;ZIELENIEC II;Bystrzyca Dusznicka (1218);50 20 40;16 23 57;721.0;kłodzki
+269;250161030;Rzeczka;Walimka (13418);50 40 36;16 26 51;624.0;wałbrzyski
+270;250161040;Złoty Stok;Nysa Kłodzka (12);50 25 47;16 51 02;536.0;ząbkowicki
+271;250161060;Łomnica;Bystrzyca (134);50 40 20;16 19 42;570.0;wałbrzyski
+272;250161070;Jodłów;Nysa Kłodzka (12);50 10 22;16 46 16;828.0;kłodzki
+273;250161080;Starkówek;Nysa Kłodzka (12);50 22 24;16 31 05;484.0;kłodzki
+274;250161090;Wolbromek;Nysa Szalona (1384);50 55 47;16 07 38;290.0;jaworski
+275;250170110;Dobrogoszcz;Pluskawa (133646);50 45 31;17 01 02;175.0;strzeliński
+276;250170250;Otmuchów;Nysa Kłodzka (12);50 28 20;17 09 59;212.0;nyski
+277;250170290;Dziewiętlice;Świdna (12548);50 24 41;17 05 03;241.0;nyski
+278;250170330;Głuchołazy;Biała Głuchołaska (1258);50 18 08;17 23 14;348.0;nyski
+279;250170340;Jarnołtówek;Złoty Potok (117644);50 17 17;17 26 17;346.0;nyski
+280;250170390;Głubczyce;Psina (1152);50 10 55;17 47 41;290.0;głubczycki
+281;250170770;Unikowice;Nysa Kłodzka (12);50 26 33;17 00 31;248.0;nyski
+282;250170790;Wojnowice;Troja (11526);50 08 01;17 52 06;283.0;głubczycki
+283;250170810;Branice;Opawa (112);50 03 04;17 46 33;290.0;głubczycki
+284;250170840;Meszno;Nysa Kłodzka (12);50 25 57;17 08 29;213.0;nyski
+285;250170850;Kujawy;Osobłoga (1176);50 26 13;17 48 14;180.0;krapkowicki
+286;250170860;Przylesie;Oława (1334);50 46 56;17 20 59;164.0;brzeski
+287;250170870;Opole-WIK;Odra (1);50 40 52;17 54 04;149.0;Opole
+288;250180030;Stare Olesno;Stobrawa (132);50 54 17;18 21 50;224.0;oleski
+289;250180110;Dobrodzień;Myślinka (118384);50 43 45;18 25 32;227.0;oleski
+290;250180190;Krupski Młyn;Mała Panew (118);50 34 09;18 37 24;225.0;tarnogórski
+291;250180210;Zielona;Mała Panew (118);50 32 57;18 58 05;284.0;tarnogórski
+292;250180250;Brynica;Brynica (2126);50 28 18;18 59 56;283.0;tarnogórski
+293;250180270;Świerklaniec;Brynica (2126);50 25 44;18 56 33;285.0;tarnogórski
+294;250180330;Łabędy;Kłodnica (116);50 20 31;18 36 55;208.0;Górnośląsko-Zagłębiowska Metropolia
+295;250180380;Sukowice;Cisek (11594);50 15 46;18 10 11;180.0;kędzierzyńsko-kozielski
+296;250180450;Zwonowice;Sumina (11568);50 08 34;18 26 16;260.0;rybnicki
+297;250180530;Kietrz;Odra (1);50 04 56;18 00 37;220.0;głubczycki
+298;250180540;Rydułtowy;Odra (1);50 03 01;18 25 46;295.0;wodzisławski
+299;250180560;Żory;Ruda (1156);50 03 13;18 41 47;245.0;Żory
+300;250180580;Droniowice;Liswarta (1816);50 41 43;18 48 29;270.0;lubliniecki
+301;250180590;RYBNIK-STODOŁY;Ruda (1156);50 09 16;18 28 59;216.0;Rybnik
+302;250180640;Zabrze;Kłodnica (116);50 21 54;18 45 13;270.0;Górnośląsko-Zagłębiowska Metropolia
+303;250180650;Pławniowice;Kłodnica (116);50 22 35;18 28 56;218.0;gliwicki
+304;250180660;Ruda Śląska;Kłodnica (116);50 14 49;18 49 12;236.0;Górnośląsko-Zagłębiowska Metropolia
+305;250180670;Trzebiszyn;Budkowiczanka (1328);50 51 54;18 11 27;196.0;kluczborski
+306;250180680;Czerwionka-Leszczyny;Bierawka (1158);50 09 16;18 39 49;246.0;rybnicki
+307;250180690;Pilchowice;Bierawka (1158);50 13 27;18 35 31;221.0;gliwicki
+308;250180710;Boguszyce;Kłodnica (116);50 26 13;18 30 37;211.0;gliwicki
+309;250180720;Modzurów;Odra (1);50 09 38;18 08 20;244.0;raciborski
+310;250180730;Bierawa;Odra (1);50 16 56;18 14 41;178.0;kędzierzyńsko-kozielski
+311;250180740;Sierakowice;Odra (1);50 15 56;18 25 53;203.0;gliwicki
+312;250180750;Wąsice;Stobrawa (132);50 59 06;18 01 47;169.0;kluczborski
+313;250180760;Strzelce Opolskie;Mała Panew (118);50 31 04;18 18 40;229.0;strzelecki
+314;250190010;Januszewice;Czarna (Włoszczowska) (2542);50 56 31;19 57 40;220.0;włoszczowski
+315;250190030;Silniczka;Pilica (254);50 55 19;19 45 32;215.0;radomszczański
+316;250190080;Wąsosz;Pilica (254);50 44 15;19 41 09;230.0;częstochowski
+317;250190140;Żarki;Warta (18);50 38 24;19 22 49;380.0;myszkowski
+318;250190150;BONOWICE;Pilica (254);50 37 16;19 47 37;260.0;zawierciański
+319;250190160;Lgota Górna;Warta (18);50 36 03;19 14 07;320.0;myszkowski
+320;250190170;Kręciwilk;Warta (18);50 32 43;19 22 13;307.0;myszkowski
+321;250190180;PIWOŃ;Przemsza (212);50 28 59;19 15 04;295.0;będziński
+322;250190210;Pilica;Pilica (254);50 27 35;19 38 49;351.0;zawierciański
+323;250190220;Łazy;Przemsza (212);50 25 52;19 23 02;350.0;zawierciański
+324;250190260;Golczowice;Biała Przemsza (2128);50 21 36;19 35 45;324.0;olkuski
+325;250190290;OLEWIN;Biała Przemsza (2128);50 16 37;19 36 13;398.0;olkuski
+326;250190310;Maczki;Biała Przemsza (2128);50 15 31;19 15 46;265.0;Górnośląsko-Zagłębiowska Metropolia
+327;250190380;Bieruń Stary;Mleczna (21188);50 05 03;19 05 41;255.0;bieruńsko-lędziński
+328;250190470;WOLA JUSTOWSKA;Wisła (2);50 03 50;19 53 25;204.0;Kraków
+329;250190510;Piwoń;Przemsza (212);50 29 04;19 14 42;300.0;będziński
+330;250190520;TYCHY;Gostynia (2118);50 07 55;19 00 04;255.0;Górnośląsko-Zagłębiowska Metropolia
+331;250190530;Katowice Pyrzowice;Brynica (2126);50 28 38;19 05 42;301.0;tarnogórski
+332;250190780;Będkowice;Wisła (2);50 10 45;19 46 10;434.0;krakowski
+333;250190790;Chrzanów;Wisła (2);50 06 45;19 22 36;252.0;chrzanowski
+334;250190810;Lubsza;Mała Panew (118);50 36 35;19 00 15;335.0;lubliniecki
+335;250190820;Dąbrowa Górnicza;Przemsza (212);50 24 08;19 15 52;321.0;Górnośląsko-Zagłębiowska Metropolia
+336;250190830;Mysłów;Dopływ spod Mysłowa (1811342);50 34 22;19 12 54;322.0;myszkowski
+337;250190840;Rokitno Szlacheckie;Przemsza (212);50 26 07;19 25 52;343.0;zawierciański
+338;250190850;TROKS;Biała Przemsza (2128);50 18 14;19 38 09;411.0;olkuski
+339;250190880;Sułoszowa;Prądnik (21374);50 15 30;19 44 24;442.0;krakowski
+340;250200010;BARTKÓW;Czarna Nida (2164);50 58 43;20 38 59;330.0;kielecki
+341;250200040;Bodzentyn;Pokrzywianka (23484);50 56 49;20 57 05;270.0;kielecki
+342;250200050;RYKOSZYN;Nida (216);50 51 56;20 24 42;274.0;kielecki
+343;250200110;CISÓW;Czarna (2178);50 45 31;20 54 10;326.0;kielecki
+344;250200130;KLISZÓW;Nida (216);50 36 45;20 31 29;206.0;pińczowski
+345;250200210;MIECHÓW;Szreniawa (21392);50 21 46;20 01 58;299.0;miechowski
+346;250200220;SIELEC;Nidzica (21398);50 19 07;20 25 14;200.0;kazimierski
+347;250200230;BORUSOWA;Wisła (2);50 16 40;20 47 13;171.0;dąbrowski
+348;250200250;RADZIEMICE;Szreniawa (21392);50 15 12;20 13 51;240.0;proszowicki
+349;250200280;IGOŁOMIA;Wisła (2);50 05 37;20 15 23;202.0;krakowski
+350;250200290;BORZĘCIN;Uszwica (21396);50 03 57;20 42 36;192.0;brzeski
+351;250200360;DĄBROWA TARNOWSKA;Breń (2174);50 11 10;20 59 28;197.0;dąbrowski
+352;250200370;KONIECZNO;Nida (216);50 47 39;20 02 03;268.0;włoszczowski
+353;250200380;BIELINY PODUCHOWNE;Czarna Nida (2164);50 50 58;20 57 32;321.0;kielecki
+354;250200490;Kokotów;Wisła (2);50 01 18;20 04 15;;wielicki
+355;250200520;Dobrowoda;Nida (216);50 23 40;20 45 56;208.0;buski
+356;250200550;Brończyce;Szreniawa (21392);50 14 00;20 06 12;256.0;krakowski
+357;250210020;Nosów;Pokrzywianka (23484);50 55 09;21 13 09;265.0;ostrowiecki
+358;250210030;Annopol;Wisła (2);50 53 22;21 50 03;165.0;kraśnicki
+359;250210040;SŁUPIA NOWA;Pokrzywianka (23484);50 51 51;21 05 00;290.0;kielecki
+360;250210050;Święty Krzyż;Pokrzywianka (23484);50 51 34;21 03 05;575.0;kielecki
+361;250210070;BARANÓWEK;Koprzywianka (2194);50 46 12;21 15 28;283.0;opatowski
+362;250210080;SADKÓW;Czarna (2178);50 44 12;21 04 38;365.0;kielecki
+363;250210090;JASTRZĘBSKA WOLA;Czarna (2178);50 43 29;21 11 13;263.0;opatowski
+364;250210110;RAKÓW;Czarna (2178);50 40 18;21 02 55;220.0;kielecki
+365;250210120;KLIMONTÓW;Koprzywianka (2194);50 39 12;21 27 01;203.0;sandomierski
+366;250210130;STASZÓW;Czarna (2178);50 35 42;21 11 06;219.0;staszowski
+367;250210160;MAJDAN KRÓLEWSKI;Łęg (2198);50 22 00;21 45 07;200.0;kolbuszowski
+368;250210170;WILCZA WOLA;Łęg (2198);50 20 29;21 55 55;190.0;kolbuszowski
+369;250210180;CHORZELÓW;Wisła (2);50 20 53;21 26 39;170.0;mielecki
+370;250210210;MIELEC;Wisłoka (218);50 16 46;21 25 58;170.0;mielecki
+371;250210220;KOLBUSZOWA;Łęg (2198);50 15 44;21 44 45;200.0;kolbuszowski
+372;250210230;RADOMYŚL WIELKI;Breń (2174);50 11 59;21 16 11;190.0;mielecki
+373;250210240;ZAWADA;Brzeźnica (2188);50 03 50;21 29 36;200.0;dębicki
+374;250210260;SĘDZISZÓW MAŁOPOLSKI;Brzeźnica (2188);50 04 41;21 42 13;210.0;ropczycko-sędziszowski
+375;250210280;Wola Raniżowska;Łęg (2198);50 18 04;21 59 32;195.0;kolbuszowski
+376;250210290;Łubnice;Wisła (2);50 23 49;21 09 17;162.0;staszowski
+377;250210330;Klimontów;Koprzywianka (2194);50 39 09;21 27 49;210.0;sandomierski
+378;250220020;Zakrzówek;Bystrzyca (246);50 55 46;22 22 21;270.0;kraśnicki
+379;250220030;Wysokie;Pór (24174);50 55 04;22 40 01;260.0;lubelski
+380;250220050;Zakłodzie;Pór (24174);50 45 27;22 51 41;205.0;zamojski
+381;250220080;FRAMPOL;Łada (2286);50 40 30;22 39 58;243.0;biłgorajski
+382;250220120;JAROCIN;Bukowa (2294);50 34 07;22 18 24;183.0;niżański
+383;250220130;BRODZIAKI;Czarna Łada (22862);50 30 24;22 47 24;201.0;biłgorajski
+384;250220140;Tarnogróg;Tanew (228);50 21 24;22 45 24;237.0;biłgorajski
+385;250220210;JAROSŁAW;San (22);50 01 06;22 41 47;181.0;jarosławski
+386;250220220;Jarosław;San (22);50 01 16;22 42 09;180.0;jarosławski
+387;250220230;Piwoda;San (22);50 04 35;22 45 18;183.0;jarosławski
+388;250230020;Nielisz;Wieprz (24);50 48 18;23 02 19;200.0;zamojski
+389;250230060;Józefów;Tanew (228);50 29 15;23 03 30;257.0;biłgorajski
+390;250230070;Tomaszów Lubelski;Sołokija (26614);50 27 29;23 23 56;270.0;tomaszowski
+391;250230130;FUTORY;Lubaczówka (2256);50 11 48;23 02 47;239.0;lubaczowski
+392;250230140;WIELKIE OCZY;Szkło (2254);50 01 04;23 09 30;236.0;lubaczowski
+393;250230160;CIESZANÓW;Tanew (228);50 14 01;23 07 05;217.0;lubaczowski
+394;250230170;Jędrzejówka;Tanew (228);50 19 47;23 20 34;285.0;lubaczowski
+395;250230180;Grabowiec Góra;Wieprz (24);50 48 45;23 34 12;268.0;zamojski
+396;250230190;Kolonia Nowosiółki;Huczwa (267142);50 32 30;23 54 58;248.0;tomaszowski
+397;250240010;Strzyżów;Bug (266);50 50 24;24 02 08;181.0;hrubieszowski
+398;250240070;Gołębie;Bug (26714);50 38 05;24 04 59;204.0;hrubieszowski
+399;251140060;Sobolice;Nysa Łużycka (174);51 23 18;14 58 30;150.0;żarski
+400;251140110;Sanice;Nysa Łużycka (174);51 24 22;14 58 33;150.0;żarski
+401;251150030;Nowogród Bobrzański;Bóbr (16);51 47 58;15 15 11;102.0;zielonogórski
+402;251150080;Grabik;Czarna (164382);51 39 09;15 06 41;166.0;żarski
+403;251150110;Żagań;Bóbr (16);51 38 59;15 17 37;96.0;żagański
+404;251150130;Łozy;Kwisa (166);51 29 22;15 22 01;128.0;żagański
+405;251150180;Tomaszów Bolesławiecki;Bobrzyca (1638);51 16 35;15 40 39;186.0;bolesławiecki
+406;251150220;Nowogrodziec;Kwisa (166);51 11 44;15 23 43;206.0;bolesławiecki
+407;251150280;Twardocice;Gajowa (138664);51 05 26;15 44 51;253.0;złotoryjski
+408;251150290;Sulików;Czerwona Woda (1744);51 04 37;15 03 54;214.0;zgorzelecki
+409;251150320;Bierna;Czerwona Woda (1744);51 02 20;15 06 59;265.0;zgorzelecki
+410;251150340;Gryfów Śląski;Kwisa (166);51 01 36;15 24 34;312.0;lwówecki
+411;251150350;Lubomierz;Oldza (1664);51 00 55;15 30 10;365.0;lwówecki
+412;251150360;Świerzawa;Kaczawa (138);51 01 01;15 53 20;299.0;złotoryjski
+413;251150390;Złotniki Lubańskie;Zb. Złotniki (166513);51 00 50;15 20 26;360.0;lubański
+414;251150410;ŚWIERZAWA;Kaczawa (138);51 01 01;15 53 20;260.0;złotoryjski
+415;251150420;STANKOWICE;Kwisa (166);51 01 00;15 18 49;335.0;lubański
+416;251150430;Białków;Lubsza (1748);51 46 37;15 01 18;85.0;żarski
+417;251150440;Siecieborzyce;Bóbr (16);51 39 56;15 32 13;150.0;żagański
+418;251150450;Pieńsk;Nysa Łużycka (174);51 15 36;15 02 25;164.0;zgorzelecki
+419;251150470;Miedziana;Czerwona Woda (1744);51 01 15;15 06 59;295.0;zgorzelecki
+420;251160110;Osetno;Barycz (14);51 37 55;16 27 51;87.0;górowski
+421;251160150;POLKOWICE DOLNE;Mokrzyca (16418);51 30 02;16 03 22;160.0;polkowicki
+422;251160170;Chwałkowice;Rudawka (145444);51 26 54;16 36 47;178.0;wołowski
+423;251160190;LUBIN;Zimnica (1392);51 24 43;16 13 01;131.0;lubiński
+424;251160220;Oborniki Śląskie;Odra (1);51 17 22;16 55 50;160.0;trzebnicki
+425;251160290;Jawor;Nysa Szalona (1384);51 03 48;16 11 01;188.0;jaworski
+426;251160320;RADZYŃ;Obrzyca (156);51 52 21;16 02 16;60.0;wschowski
+427;251160360;GŁOGÓW;Odra (1);51 40 21;16 03 36;75.0;głogowski
+428;251160420;Pysząca;Odra (1);51 15 23;16 40 47;110.0;wołowski
+429;251170030;Witaszyce;Lutynia (1852);51 56 44;17 33 12;130.0;jarociński
+430;251170090;Smolice;Rdęca (1464);51 41 39;17 10 47;105.0;krotoszyński
+431;251170140;Milicz;Barycz (14);51 30 40;17 16 38;118.0;milicki
+432;251170210;Trzebnica;Kanał Trzebnicki (14428);51 19 22;17 04 05;155.0;trzebnicki
+433;251170270;Bierutów;Widawa (136);51 07 08;17 32 41;141.0;oleśnicki
+434;251170290;Namysłów;Widawa (136);51 03 57;17 42 57;152.0;namysłowski
+435;251170360;Ostrów Wielkopolski;Ołobok (1844);51 39 39;17 52 24;123.0;ostrowski
+436;251170380;WOLA KSIĄŻĘCA;Lutynia (1852);51 57 41;17 35 21;118.0;jarociński
+437;251170430;OSTRZESZÓW II;Dąbrówka (1412);51 26 04;17 54 56;186.0;ostrzeszowski
+438;251170440;Drołtowice;Widawa (136);51 20 06;17 35 46;200.0;oleśnicki
+439;251180020;Zbiersk;Czarna Struga (183566);51 56 36;18 09 01;125.0;kaliski
+440;251180040;Poddębice;Ner (1832);51 53 08;18 57 35;130.0;poddębicki
+441;251180050;Lisków;Swędrnia (18482);51 50 07;18 24 36;147.0;kaliski
+442;251180090;Sieradz;Warta (18);51 35 35;18 41 14;140.0;sieradzki
+443;251180140;Złoczew;Oleśnica (1818);51 25 16;18 35 57;175.0;sieradzki
+444;251180150;Mirków;Prosna (184);51 18 37;18 08 47;156.0;wieruszowski
+445;251180160;Osjaków;Warta (18);51 16 59;18 47 01;156.0;wieluński
+446;251180190;Siemianice;Prosna (184);51 10 58;18 08 35;180.0;kępiński
+447;251180240;Jastrzygowice;Prosna (184);51 00 04;18 27 25;202.0;oleski
+448;251180310;Kiełczygłów;Nieciecz (18292);51 14 14;18 59 06;175.0;pajęczański
+449;251180320;Kraszewice;Łużyca (18438);51 31 49;18 12 17;131.0;ostrzeszowski
+450;251180330;Działoszyn;Warta (18);51 07 12;18 52 26;191.0;pajęczański
+451;251180350;SIERADZ-DZIGORZEW;Warta (18);51 37 27;18 42 17;128.0;sieradzki
+452;251190140;Plucice;Luciąża (25452);51 12 13;19 36 07;204.0;piotrkowski
+453;251190150;Dobryszyce;Widawka (182);51 08 20;19 25 42;259.0;radomszczański
+454;251190160;Przedbórz;Pilica (254);51 05 26;19 52 31;190.0;radomszczański
+455;251190190;Łask;Grabia (1828);51 35 08;19 10 43;189.0;łaski
+456;251190210;Szczerców;Widawka (182);51 20 27;19 07 09;160.0;bełchatowski
+457;251190220;Dobryszyce II;Widawka (182);51 08 51;19 24 30;216.0;radomszczański
+458;251190230;Jarosty;Luciąża (25452);51 27 45;19 41 31;197.0;piotrkowski
+459;251190240;Wierzbowa;Ner (1832);51 59 12;19 04 46;111.0;poddębicki
+460;251190250;Bełchatów;Widawka (182);51 22 47;19 23 49;207.0;bełchatowski
+461;251200030;Skierniewice;Bzura (272);51 57 55;20 09 37;128.0;Skierniewice
+462;251200080;Białobrzegi;Pilica (254);51 38 54;20 56 25;116.0;białobrzeski
+463;251200130;Opoczno;Drzewiczka (2548);51 22 44;20 14 04;200.0;opoczyński
+464;251200140;Ruszkowice;Radomka (252);51 20 21;20 39 57;210.0;przysuski
+465;251200150;Łaziska;Radomka (252);51 19 26;20 55 33;180.0;szydłowiecki
+466;251200170;Chełsty;Czarna (Maleniecka) (2544);51 12 57;20 08 55;220.0;opoczyński
+467;251200220;Włochów;Czarna (2544);51 05 56;20 36 44;345.0;konecki
+468;251200240;Stanowiska;Czarna (Maleniecka) (2544);51 02 31;20 22 17;305.0;konecki
+469;251200250;Suchedniów;Kamienna (234);51 02 59;20 49 50;265.0;skarżyski
+470;251200270;Dąbrówka Stara;Pilica (254);51 46 49;20 44 13;174.0;grójecki
+471;251200290;Teofilów;Pilica (254);51 31 41;20 10 58;150.0;tomaszowski
+472;251200320;Mszczonów;Bzura (272);51 59 03;20 29 50;161.0;żyrardowski
+473;251210040;JARCZEW;Wilga (2536);51 48 53;21 58 24;180.0;łukowski
+474;251210120;PUŁAWY;Wisła (2);51 24 46;21 57 58;142.0;puławski
+475;251210230;Starachowice;Kamienna (234);51 02 30;21 03 21;265.0;starachowicki
+476;251210240;Brody Iłżeckie;Kamienna (234);51 01 07;21 11 49;190.0;starachowicki
+477;251210320;Kazanów;Iłżanka (236);51 16 42;21 28 03;158.0;zwoleński
+478;251220040;Radzyń Podlaski;Tyśmienica (248);51 46 09;22 36 03;150.0;radzyński
+479;251220230;Ostrówek-Kolonia;Tyśmienica (248);51 35 37;22 36 01;;lubartowski
+480;251220250;Ostrów Lubelski;Tyśmienica (248);51 29 46;22 52 11;157.0;lubartowski
+481;251220260;Turze Rogi;Krzna (267144);51 55 37;22 27 50;159.0;łukowski
+482;251230120;Bezek;Wieprz (24);51 10 38;23 15 49;224.0;chełmski
+483;251230220;Depułtycze Królewskie;Uherka (2671434);51 04 59;23 26 10;216.0;chełmski
+484;251230240;Studzianka;Zielawa (2671448);51 55 54;23 12 53;143.0;bialski
+485;252140070;Boleszkowice;Dopływ z Boleszkowic (191298);52 43 37;14 34 00;50.0;myśliborski
+486;252140090;Kostrzyn Nad Odrą;Maszówek (1894);52 35 55;14 39 40;26.0;gorzowski
+487;252140150;Maszewo;Odra (1);52 04 11;14 55 08;68.0;krośnieński
+488;252140160;Trzcińsko-Zdrój;Rurzyca (1886592);52 57 52;14 35 17;53.0;gryfiński
+489;252140210;Boczów;Rzepia (1786);52 19 01;14 56 19;79.0;sulęciński
+490;252140220;Chojna;Rurzyca (1918);52 56 27;14 24 15;49.0;gryfiński
+491;252150050;Krzyż;Noteć (188);52 52 52;15 59 01;34.0;czarnkowsko-trzcianecki
+492;252150070;Drezdenko;Noteć (188);52 51 17;15 50 28;31.0;strzelecko-drezdenecki
+493;252150180;Lubinicko-Świebodzin;Obrzyca (156);52 14 34;15 32 43;88.0;świebodziński
+494;252150270;BABIMOST;Gniła Obra (1568);52 08 37;15 48 12;57.0;zielonogórski
+495;252150350;Kleszczewo;Obra (1878);52 27 21;15 23 23;93.0;międzyrzecki
+496;252160050;Ryczywół;Wełna (186);52 48 57;16 50 20;70.0;obornicki
+497;252160110;Szamotuły-Baborówka;Sama (1872);52 35 04;16 38 17;74.0;szamotulski
+498;252160160;Paproć;Obra (1878);52 18 16;16 10 59;77.0;nowotomyski
+499;252160230;Wielichowo;Obra (1878);52 06 50;16 21 23;65.0;grodziski
+500;252160350;Kopaszewo;Kanał Mosiński (1856);52 00 12;16 49 06;91.0;kościański
+501;252160370;Wronki;Warta (18);52 41 33;16 22 23;70.0;szamotulski
+502;252170060;Janowiec Wielkopolski;Wełna (186);52 45 17;17 27 44;95.0;żniński
+503;252170110;Gniezno;Wełna (186);52 33 27;17 31 55;170.0;gnieźnieński
+504;252170180;Września;Wrześnica (1838);52 18 54;17 35 33;105.0;wrzesiński
+505;252170190;SŁUPCA;Warta (18);52 16 19;17 53 00;89.0;słupecki
+506;252170210;Kórnik;Warta (18);52 14 43;17 06 07;77.0;poznański
+507;252170330;Nowa Wieś Podgórna;Warta (18);52 08 32;17 35 21;73.0;wrzesiński
+508;252170390;Gniezno II;Wełna (186);52 31 25;17 37 49;117.0;gnieźnieński
+509;252170410;Mogilno;Noteć Zachodnia (1882);52 38 40;17 58 00;95.0;mogileński
+510;252170420;Rogowo;Wełna (186);52 43 57;17 38 36;94.0;żniński
+511;252180060;Pakość;Noteć (188);52 47 58;18 05 33;76.0;inowrocławski
+512;252180080;Kołuda Wielka;Noteć (188);52 44 09;18 08 56;88.0;inowrocławski
+513;252180210;Kłodawa;Rgilewka (18332);52 15 03;18 54 57;117.0;kolski
+514;252180260;Turek;Kiełbaska (18334);52 00 37;18 29 54;115.0;turecki
+515;252180290;Tuliszków ;Powa (18352);52 04 04;18 16 07;111.0;turecki
+516;252180310;RADOSZEWICE;Noteć (188);52 21 43;18 42 22;110.0;kolski
+517;252180370;Kleczew;Struga Kleczewska (183459272);52 23 13;18 10 14;98.0;koniński
+518;252180380;Rakowo;Noteć (188);52 29 50;18 17 19;103.0;mogileński
+519;252190030;GŁODOWO;Mień (2794);52 49 50;19 14 08;104.0;lipnowski
+520;252190120;Żychlin;Bzura (272);52 14 34;19 37 23;97.0;kutnowski
+521;252190160;Walewice;Bzura (272);52 06 10;19 39 56;95.0;łowicki
+522;252190190;Lutocin;Skrwa (2756);52 59 05;19 45 04;129.0;żuromiński
+523;252190230;Poddębice;Zgłowiączka (278);52 33 13;19 00 33;91.0;włocławski
+524;252190240;Trębki;Bzura (272);52 19 13;19 32 26;105.0;gostyniński
+525;252200080;BORKOWO;Wkra (268);52 33 43;20 39 37;85.0;nowodworski
+526;252200120;LEGIONOWO;Wisła (2);52 24 28;20 57 22;94.0;legionowski
+527;252200150;Warszawa-Bielany;Wisła (2);52 16 53;20 57 48;98.0;Warszawa
+528;252200290;Kampinos;Bzura (272);52 16 08;20 28 21;87.0;warszawski zachodni
+529;252200350;Nacpolsk;Płonka (26876);52 30 51;20 15 05;126.0;płoński
+530;252210020;CZARNOWO;Orz (2656);52 52 55;21 32 06;94.0;ostrołęcki
+531;252210050;PUŁTUSK;Narew (26);52 43 39;21 05 25;95.0;pułtuski
+532;252210240;Wielgolas;Świder (256);52 02 14;21 43 26;150.0;miński
+533;252210290;Rybienko;Bug (266);52 34 40;21 25 45;93.0;wyszkowski
+534;252210320;Kozły;Bug (26714);52 27 08;21 24 33;107.0;wołomiński
+535;252210330;Rząśnik Włościański;Narew (26);52 50 59;21 43 14;120.0;ostrowski
+536;252220050;BRAŃSK;Nurzec (2666);52 44 31;22 49 35;125.0;bielski
+537;252220120;TONKIELE;Bug (266);52 24 44;22 33 55;115.0;siemiatycki
+538;252220210;Wierzbowo Nowe;Narew (26);52 59 04;22 19 27;130.0;zambrowski
+539;252220220;Tołwin;Bug (26714);52 29 57;22 57 04;175.0;siemiatycki
+540;252220230;Andrzejewo;Brok (2671476);52 49 24;22 11 07;117.0;ostrowski
+541;252230010;NOWOSADY;Kołonna (2611316);52 58 21;23 52 44;160.0;białostocki
+542;252230030;BONDARY;Narew (26);52 56 15;23 45 16;147.0;hajnowski
+543;252230040;NAREW;Narew (26);52 54 53;23 31 09;139.0;hajnowski
+544;252230060;NAREWKA;Narewka (2612);52 52 18;23 43 41;143.0;hajnowski
+545;252230080;NOWE MASIEWO;Narew (26);52 50 02;23 53 50;150.0;hajnowski
+546;252230090;CHRABOŁY;Orlanka (2614);52 51 44;23 11 44;127.0;bielski
+547;252230110;HAJNÓWKA;Leśna (26652);52 43 57;23 33 37;163.0;hajnowski
+548;252230120;BIAŁOWIEŻA;Narewka (2612);52 42 26;23 50 52;163.0;hajnowski
+549;252230150;Kleszczele;Nurzec (267146);52 34 20;23 19 10;160.0;hajnowski
+550;252230190;CICIBÓR;Krzna (2664);52 04 37;23 06 34;144.0;bialski
+551;252230230;NAREW;Narew (26);52 55 00;23 31 22;134.0;hajnowski
+552;252230240;NAREWKA;Narewka (2612);52 51 49;23 43 30;143.0;hajnowski
+553;252230250;ZAMOSZE;Narewka (2612);52 48 55;23 54 46;157.0;hajnowski
+554;252230280;Jagodniki;Orlanka (2614);52 41 50;23 29 21;156.0;hajnowski
+555;252230290;Bolesty;Nurzec (267146);52 44 12;23 05 27;156.0;bielski
+556;253140010;Wolin;Cieśnina Dziwna (35);53 50 15;14 36 57;2.0;kamieński
+557;253140040;Trzebież;Zalew Szczeciński (319);53 39 47;14 30 50;1.0;policki
+558;253140060;Goleniów;Ina (198);53 35 38;14 53 18;34.0;goleniowski
+559;253140110;Gryfino;Odra (Regalica) (19751);53 15 25;14 29 04;3.0;gryfiński
+560;253150020;Witno;Cieśnina Dziwna (35);53 56 40;15 03 47;20.0;gryficki
+561;253150070;Łabędzie;Rega (42);53 39 02;15 48 33;100.0;drawski
+562;253150130;Lisowo;Krąpiel (1988);53 25 51;15 18 05;95.0;stargardzki
+563;253150190;PRZELEWICE;Płonia (1976);53 06 15;15 04 56;65.0;pyrzycki
+564;253150250;Drawno;Drawa (1888);53 12 47;15 46 12;76.0;choszczeński
+565;253150290;Łopianów;Rega (42);53 52 32;15 15 41;32.0;gryficki
+566;253150310;Niedźwiedziska;Cieśnina Dziwna (35);53 56 58;15 04 41;20.0;gryficki
+567;253150320;Lubiana;Mała Ina (1986);53 06 16;15 19 24;68.0;choszczeński
+568;253150330;Słonowice;Rega (42);53 43 01;15 43 05;105.0;świdwiński
+569;253150340;Międzyrzecze;Rega (42);53 52 19;15 34 06;59.0;świdwiński
+570;253150350;Radowo Małe;Rega (42);53 40 06;15 27 08;93.0;łobeski
+571;253150360;Kinowo;Rega (42);53 58 30;15 27 05;32.0;kołobrzeski
+572;253160010;Sępolno Wielkie;Biała (188624);53 56 51;16 46 25;165.0;szczecinecki
+573;253160020;Osówko;Parsęta (44);53 54 20;16 04 05;55.0;białogardzki
+574;253160040;Grzmiąca;Parsęta (44);53 50 09;16 26 21;100.0;szczecinecki
+575;253160090;WIERZCHOWO;Drawa (1888);53 27 36;16 06 16;137.0;drawski
+576;253160110;Jastrowie;Gwda (1886);53 25 32;16 48 50;111.0;złotowski
+577;253160260;Wicewo;Parsęta (44);53 53 15;16 07 25;47.0;białogardzki
+578;253170030;RÓŻKI-DĘBIE;Brda (292);53 53 28;17 08 53;155.0;człuchowski
+579;253170060;Zapędowo;Brda (292);53 42 15;17 50 25;125.0;chojnicki
+580;253170160;Sypniewo;Łobżonka (1884);53 21 52;17 19 49;128.0;sępoleński
+581;253170210;Chrząstowo;Noteć (188);53 09 40;17 35 01;105.0;nakielski
+582;253170320;Lipa;Noteć (188);53 03 02;17 15 27;62.0;chodzieski
+583;253170330;Sitowiec;Krówka (29276);53 22 08;17 45 15;134.0;bydgoski
+584;253170340;Iwno;Dopływ z Łankowic (188528);53 01 36;17 25 05;111.0;nakielski
+585;253170350;Czyczkowy;Wda (294);53 51 39;17 44 00;137.0;chojnicki
+586;253170360;Pruszcz;Brda (292);53 26 47;17 49 32;124.0;tucholski
+587;253170370;Upiłka;Wda (294);53 56 49;17 56 49;141.0;kościerski
+588;253180020;RADOSTOWO;Wisła (2);53 59 22;18 44 50;40.0;tczewski
+589;253180040;Starogard Gdański;Wierzyca (298);53 58 56;18 32 56;85.0;starogardzki
+590;253180060;Czarna Woda;Wda (294);53 50 26;18 05 34;125.0;starogardzki
+591;253180090;Śliwice;Wda (294);53 42 17;18 10 33;119.0;tucholski
+592;253180150;Grudziądz;Wisła (2);53 26 15;18 42 34;25.0;Grudziądz
+593;253180160;Radzyń-Fijewo;Radzyńska Struga (296692);53 22 58;18 56 49;104.0;grudziądzki
+594;253180170;Nowy Jasiniec;Brda (292);53 20 54;18 02 14;90.0;bydgoski
+595;253180220;Bydgoszcz;Brda (292);53 10 25;18 02 45;55.0;Bydgoszcz
+596;253180260;Lubiewo;Brda (292);53 27 50;18 01 30;116.0;tucholski
+597;253180270;Skórcz-Ryzowie;Wierzyca (298);53 47 18;18 32 13;85.0;starogardzki
+598;253180280;Brzozowo;Wisła (2);53 18 44;18 25 29;85.0;chełmiński
+599;253190030;Dobrocin;Drwęca (28);53 54 30;19 49 41;118.0;ostródzki
+600;253190070;Prabuty;Nogat (52);53 44 22;19 12 54;100.0;kwidzyński
+601;253190220;LIDZBARK;Wel (286);53 15 16;19 49 27;140.0;działdowski
+602;253190260;OSTROWITE;Drwęca (28);53 25 12;19 16 27;101.0;brodnicki
+603;253190310;Kuligi;Wel (286);53 25 51;19 41 28;96.0;nowomiejski
+604;253190360;Najmowo;Osa (296);53 18 30;19 19 36;104.0;brodnicki
+605;253190370;Bągart;Elbląg (54);53 59 30;19 23 04;0.0;sztumski
+606;253190380;Lubstyn;Drwęca (28);53 31 39;19 50 44;200.0;iławski
+607;253200040;Gietrzwałd;Pasłęka (56);53 45 05;20 14 41;107.0;olsztyński
+608;253200080;Jemiołowo;Pasłęka (56);53 33 42;20 17 58;175.0;olsztyński
+609;253200140;Wielbark;Sawica (26542);53 24 22;20 56 14;127.0;szczycieński
+610;253200290;Bagienice;Orzyc (2658);53 15 18;20 51 29;130.0;przasnyski
+611;253210130;SZCZYTNO;Omulew (2654);53 34 37;21 00 44;160.0;szczycieński
+612;253210170;ROZOGI;Szkwa (26518);53 29 29;21 22 46;130.0;szczycieński
+613;253210180;PTAKI;Pisa (264);53 23 26;21 47 41;112.0;kolneński
+614;253210210;MYSZYNIEC;Rozoga (2652);53 23 04;21 21 01;120.0;ostrołęcki
+615;253210220;DOBRYLAS;Pisa (264);53 17 47;21 49 38;104.0;łomżyński
+616;253210260;ZARUZIE;Ruż (26516);53 08 51;21 48 09;87.0;łomżyński
+617;253210280;DOBRYLAS;Pisa (264);53 17 07;21 51 53;102.0;łomżyński
+618;253210290;PTAKI;Pisa (264);53 23 35;21 47 30;107.0;kolneński
+619;253210350;TYSZKI-WĄDOŁOWO;Skroda (26498);53 26 52;21 59 03;152.0;kolneński
+620;253210370;ŚWIĘTAJNO;Szkwa (26518);53 33 49;21 13 41;142.0;szczycieński
+621;253210380;Turowo;Pisa (264);53 31 43;21 54 06;141.0;piski
+622;253210390;Mikosze-Osada;Orzysza (26458);53 48 58;21 54 28;124.0;piski
+623;253210410;Targowo;Krutynia (264326);53 41 43;21 01 43;165.0;szczycieński
+624;253220070;BIEBRZA;Ełk (2628);53 39 02;22 34 42;115.0;grajewski
+625;253220080;DĘBOWO;Biebrza (262);53 36 38;22 55 50;115.0;augustowski
+626;253220120;OSOWIEC;Biebrza (262);53 28 57;22 38 45;110.0;moniecki
+627;253220130;RADZIŁÓW;Wissa (26296);53 24 50;22 24 19;115.0;grajewski
+628;253220160;BURZYN;Biebrza (262);53 16 43;22 27 15;120.0;łomżyński
+629;253220210;TYKOCIN;Narew (26);53 12 16;22 46 14;109.0;białostocki
+630;253220220;ZAWADY;Ślina (26194);53 09 25;22 40 24;110.0;białostocki
+631;253220270;JABŁONOWO-WYPYCHY;Narew (26);53 01 47;22 45 01;130.0;wysokomazowiecki
+632;253220310;MOŃKI;Nereśl (2618);53 24 01;22 47 47;175.0;moniecki
+633;253220330;MARIANOWO II;Narew (26);53 12 43;22 06 21;138.0;łomżyński
+634;253220360;Biernatki;Netta (2622);53 52 04;22 51 12;136.0;augustowski
+635;253220370;Sawino;Narew (26);53 10 08;22 51 53;118.0;białostocki
+636;253230020;RÓŻANYSTOK;Sidra (26214);53 38 07;23 24 05;160.0;sokólski
+637;253230030;JANÓW;Brzozówka (2624);53 27 35;23 13 46;161.0;sokólski
+638;253230060;JAŁÓWKA;Sokołda (26162);53 21 14;23 20 26;170.0;sokólski
+639;253230110;FASTY;Supraśl (2616);53 10 39;23 01 33;114.0;białostocki
+640;253230160;SUPRAŚL;Supraśl (2616);53 12 39;23 19 57;137.0;białostocki
+641;253230170;NOWOSIÓŁKI;Supraśl (2616);53 10 30;23 31 35;132.0;białostocki
+642;253230180;Drahle;Sokołda (26162);53 23 08;23 33 18;162.0;sokólski
+643;253230230;Zarzeczany;Supraśl (2616);53 06 06;23 41 04;146.0;białostocki
+644;253230250;Śluza Tartak;Czarna Hańcza (64);53 52 57;23 27 42;;augustowski
+645;254140010;Dziwnów;Morze Bałtyckie (0);54 01 20;14 43 54;3.0;kamieński
+646;254150050;Białogard;Parsęta (44);54 00 15;15 58 30;23.0;białogardzki
+647;254150060;Gąski;Czerwona (454);54 14 17;15 55 02;8.0;koszaliński
+648;254160020;Darłowo;Wieprza (46);54 25 60;16 22 06;12.0;sławieński
+649;254160030;Sławno;Wieprza (46);54 21 06;16 40 13;25.0;sławieński
+650;254160040;Jeżyczki;Wieprza (46);54 20 05;16 23 26;10.0;sławieński
+651;254160060;Sierakowo;Wieprza (46);54 12 59;16 30 59;50.0;koszaliński
+652;254160080;Polanów;Wieprza (46);54 07 07;16 40 59;80.0;koszaliński
+653;254160110;Miastko;Wieprza (46);54 00 56;16 58 49;160.0;bytowski
+654;254160130;Ciecholub;Wieprza (46);54 10 22;16 52 28;115.0;słupski
+655;254160140;Kłanino;Parsęta (44);54 01 39;16 28 70;114.0;koszaliński
+656;254160150;Mokre;Ząbrza (456182);54 10 13;16 24 06;76.0;koszaliński
+657;254170020;Smołdzino;Łupawa (474);54 40 02;17 12 06;4.0;słupski
+658;254170040;Karżniczka;Łupawa (474);54 29 15;17 13 43;75.0;słupski
+659;254170060;Mikorowo;Łeba (476);54 24 30;17 34 50;117.0;bytowski
+660;254170070;Bukowina;Łupawa (474);54 25 20;17 50 36;155.0;lęborski
+661;254170130;Niezabyszewo;Słupia (472);54 08 18;17 25 24;160.0;bytowski
+662;254170140;Kościerzyna;Wierzyca (298);54 07 43;17 57 43;190.0;kościerski
+663;254170190;Słupsk;Słupia (472);54 27 48;17 02 08;17.0;Słupsk
+664;254170210;Borucino;Radunia (4868);54 15 13;17 59 30;;kartuski
+665;254170280;Struszewo;Słupia (472);54 10 44;17 21 26;131.0;bytowski
+666;254170310;Objezierze;Słupia (472);54 18 01;17 04 04;142.0;bytowski
+667;254170320;  ;Łupawa (474);54 17 08;17 38 13;151.0;bytowski
+668;254170330;Tuchomko;Słupia (472);54 07 53;17 22 06;;bytowski
+669;254180010;Rozewie;Bałtyk (0);54 49 46;18 20 08;54.0;pucki
+670;254180050;Wejherowo;Reda (478);54 35 54;18 16 13;22.0;wejherowski
+671;254180060;Gdynia;Bałtyk (0);54 31 08;18 33 34;2.0;Gdynia
+672;254180070;Tępcz;Łeba (476);54 30 27;18 02 20;178.0;wejherowski
+673;254180090;Gdańsk-Rębiechowo;Morze Bałtyckie (0);54 22 16;18 29 12;146.0;Gdańsk
+674;254180130;Goręczyno;Radunia (4868);54 15 43;18 09 45;177.0;kartuski
+675;254180140;Ostrzyce-Brodnica Górna;Radunia (4868);54 16 28;18 05 29;213.0;kartuski
+676;254180260;Gdańsk-Port Północny;Bałtyk (0);54 23 59;18 41 52;2.0;Gdańsk
+677;254180270;Zelewo;Reda (478);54 37 23;18 04 31;43.0;wejherowski
+678;254180280;Szemud;Reda (478);54 29 35;18 12 49;154.0;wejherowski
+679;254180290;Szymankowo;Święta (1974398);54 04 27;18 55 53;3.0;malborski
+680;254190020;Nowa Pasłęka;Zalew Wiślany (5119);54 25 34;19 44 49;2.0;braniewski
+681;254190050;Frombork;Zalew Wiślany (5119);54 21 37;19 40 38;2.0;braniewski
+682;254190070;Tolkmicko;Zalew Wiślany (5119);54 19 31;19 31 21;2.0;elbląski
+683;254190080;Pierzchały;Pasłęka (56);54 18 02;19 50 57;11.0;braniewski
+684;254190120;Kmiecin;Szkarpawa (514);54 11 16;19 09 50;0.0;nowodworski
+685;254190150;SŁOBITY;Zalew Wiślany (5119);54 07 47;19 45 05;55.0;braniewski
+686;254190160;Pasłęk;Wąska (5456);54 04 07;19 38 10;14.0;elbląski
+687;254190190;Elbląg;Elbląg (54);54 09 43;19 25 53;39.0;Elbląg
+688;254190230;Rogity;Pasłęka (56);54 23 21;19 51 41;8.0;braniewski
+689;254200040;BARTOSZYCE;Łyna (584);54 14 25;20 47 52;59.0;bartoszycki
+690;254200050;Bornity;Wałsza (568);54 11 04;20 03 03;47.0;braniewski
+691;254200070;KASZUNY;Drwęca Warmińska (566);54 09 30;20 20 23;89.0;lidzbarski
+692;254200080;LIDZBARK WARMIŃSKI;Łyna (584);54 08 09;20 35 10;90.0;lidzbarski
+693;254200140;Osieka;Łyna (584);54 12 32;20 46 57;74.0;bartoszycki
+694;254210020;WĘGORZEWO;Węgorapa (582);54 13 26;21 44 05;116.0;węgorzewski
+695;254220020;ŻABIN;Węgorapa (582);54 19 17;22 02 17;110.0;gołdapski
+696;254220030;GOŁDAP;Gołdapa (5824);54 18 30;22 16 07;159.0;gołdapski
+697;254220060;BANIE MAZURSKIE;Gołdapa (5824);54 15 06;22 01 23;110.0;gołdapski
+698;254220090;OLECKO;Jez. Olecko Wielkie (2626139);54 02 51;22 29 13;182.0;olecki
+699;254220120;Przerośl;Błędzianka (5828);54 15 29;22 39 35;215.0;suwalski
+700;254230040;Podwojponie;Szeszupa (68);54 18 01;23 07 10;207.0;suwalski
+701;349190600;Bielsko-Biała;Biała (2114);49 48 24;19 00 08;396.0;Bielsko-Biała
+702;349190625;Zakopane;Dunajec (214);49 17 38;19 57 37;852.0;tatrzański
+703;349190650;KASPROWY WIERCH;Dunajec (214);49 13 57;19 58 55;1990.0;tatrzański
+704;349200628;Hala Gąsienicowa;Dunajec (214);49 14 38;20 00 21;1523.0;tatrzański
+705;349200660;NOWY SĄCZ;Dunajec (214);49 37 38;20 41 19;292.0;Nowy Sącz
+706;349210670;KROSNO;Wisłok (226);49 42 24;21 46 09;330.0;Krosno
+707;349220690;LESKO;San (22);49 27 59;22 20 30;420.0;leski
+708;349220695;PRZEMYŚL;San (22);49 48 15;22 46 19;279.0;Przemyśl
+709;350150500;Jelenia Góra;Bóbr (16);50 54 01;15 47 20;342.0;Jelenia Góra
+710;350150510;Śnieżka;Łomniczka (16184);50 44 11;15 44 23;1603.0;karkonoski
+711;350160520;Kłodzko;Nysa Kłodzka (12);50 26 13;16 36 51;356.0;kłodzki
+712;350170530;Opole;Odra (1);50 37 37;17 58 08;163.0;Opole
+713;350180540;Racibórz;Odra (1);50 03 40;18 11 27;206.0;raciborski
+714;350190550;Częstochowa;Warta (18);50 48 43;19 05 30;293.0;Częstochowa
+715;350190560;KATOWICE-MUCHOWIEC;Rawa (21268);50 14 26;19 01 58;278.0;Górnośląsko-Zagłębiowska Metropolia
+716;350190566;Kraków-Balice;Wisła (2);50 04 40;19 47 42;236.0;krakowski
+717;350200570;KIELCE-SUKÓW;Czarna Nida (2164);50 48 38;20 41 32;260.0;kielecki
+718;350200575;TARNÓW;Biała (2148);50 01 32;20 56 31;210.0;Tarnów
+719;350210585;SANDOMIERZ;Wisła (2);50 41 48;21 42 57;217.0;sandomierski
+720;350220580;RZESZÓW-JASIONKA;Wisłok (226);50 06 39;22 02 32;206.0;rzeszowski
+721;350230595;Zamość;Wieprz (24);50 41 54;23 12 20;223.0;zamojski
+722;351150400;Zielona Góra;Odra (1);51 55 48;15 31 29;192.0;Zielona Góra
+723;351160415;Legnica;Kaczawa (138);51 11 33;16 12 28;123.0;legnicki
+724;351160418;Leszno;Strzyżewicki Rów (14884);51 50 08;16 32 05;91.0;leszczyński
+725;351160424;Wrocław-Strachowice;Odra (1);51 06 12;16 54 00;120.0;Wrocław
+726;351160425;WROCŁAW;Odra (1);51 06 49;16 52 54;120.0;Wrocław
+727;351180435;Kalisz;Prosna (184);51 46 52;18 04 51;137.0;Kalisz
+728;351180455;Wieluń;Warta (18);51 12 37;18 33 24;199.0;wieluński
+729;351190465;Łódź-Lublinek;Ner (1832);51 43 06;19 23 14;174.0;Łódź
+730;351190469;Sulejów;Pilica (254);51 21 12;19 51 59;188.0;piotrkowski
+731;351210488;Kozienice;Wisła (2);51 33 53;21 32 37;123.0;kozienicki
+732;351220495;LUBLIN-RADAWIEC;Bystrzyca (246);51 13 00;22 23 35;238.0;lubelski
+733;351230497;Włodawa;Bug (266);51 33 12;23 31 46;177.0;włodawski
+734;352140310;Słubice;Odra (1);52 20 55;14 37 11;53.0;słubicki
+735;352150300;Gorzów Wlkp.;Warta (18);52 44 28;15 16 38;71.0;Gorzów Wielkopolski
+736;352160330;Poznań-Ławica;Warta (18);52 25 00;16 50 05;88.0;Poznań
+737;352180345;Koło-Radoszewice;Noteć (188);52 21 43;18 42 22;109.0;kolski
+738;352190360;PŁOCK;Wisła (2);52 35 18;19 43 33;106.0;płocki
+739;352200375;Warszawa;Wisła (2);52 09 46;20 57 40;106.0;Warszawa
+740;352220385;SIEDLCE;Liwiec (2668);52 10 52;22 14 41;152.0;Siedlce
+741;352230399;TERESPOL;Bug (266);52 04 43;23 37 19;133.0;bialski
+742;353140200;Świnoujście;Bałtyk (0);53 55 24;14 14 32;4.0;Świnoujście
+743;353140205;Szczecin;Odra (1);53 23 43;14 37 22;1.0;Szczecin
+744;353150210;Resko-Smólsko;Rega (42);53 45 49;15 23 36;52.0;łobeski
+745;353160215;Szczecinek;Gwda (1886);53 43 04;16 44 48;139.0;szczecinecki
+746;353160230;Piła;Gwda (1886);53 07 50;16 44 50;72.0;pilski
+747;353170235;Chojnice;Brda (292);53 42 55;17 31 57;164.0;chojnicki
+748;353180250;Toruń;Wisła (2);53 02 31;18 35 44;69.0;Toruń
+749;353180255;Kwidzyn;Liwa (522);53 44 03;18 52 18;;kwidzyński
+750;353200270;MŁAWA;Wkra (268);53 06 15;20 21 40;147.0;mławski
+751;353200272;OLSZTYN;Łyna (584);53 46 07;20 25 17;133.0;Olsztyn
+752;353210280;MIKOŁAJKI;Jez. Mikołajskie (26439);53 47 21;21 35 23;127.0;mrągowski
+753;353210285;OSTROŁĘKA;Narew (26);53 03 57;21 32 02;94.0;ostrołęcki
+754;353230295;BIAŁYSTOK;Biała (26168);53 06 26;23 09 44;148.0;Białystok
+755;354150100;Kołobrzeg-Dźwirzyno;Jez. Resko Przymorskie (43219);54 09 30;15 23 20;4.0;kołobrzeski
+756;354160105;Koszalin;Dzierżęcinka (45614);54 12 16;16 09 19;33.0;Koszalin
+757;354160115;Ustka;Bałtyk (0);54 35 18;16 51 15;3.0;słupski
+758;354170120;Łeba;Łeba (476);54 45 13;17 32 05;1.0;lęborski
+759;354170125;Lębork;Łeba (476);54 33 11;17 45 25;39.0;lęborski
+760;354180135;Hel;Bałtyk (0);54 36 13;18 48 43;1.0;pucki
+761;354180155;Gdańsk-Świbno;Wisła (2);54 20 01;18 56 04;7.0;Gdańsk
+762;354190160;Elbląg-Milejewo;Elbląg (54);54 13 24;19 32 37;189.0;elbląski
+763;354210185;KĘTRZYN;Guber (5848);54 04 02;21 22 00;107.0;kętrzyński
+764;354220195;SUWAŁKI;Czarna Hańcza (64);54 07 51;22 56 56;184.0;Suwałki

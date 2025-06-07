@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.08.2024 - godz. 08:56
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 167 z dnia 01.08.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 08:56 dnia 03.08.2024 do godz. 12:00 dnia 04.08.2024
+Obszar: zlewnie Ślęzy i Bystrzycy (dolnośląskie)
+Przebieg: W związku ze spływem wód opadowych w zlewni środkowej i dolnej Ślęzy oraz w zlewni dolnej Bystrzycy stany wody będą podnosić się w strefie wody wysokiej, lokalnie powyżej stanów ostrzegawczych, w Gniechowicach na Czarnej Wodzie niewykluczone przekroczenie stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy obszaru i wydłużenia okresu ważności.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie Slezy i Bystrzycy od 08:56/03.08.2024 do 12:00/04.08.2024. W zwiazku ze splywem wod opadowych w zlewni srodkowej i dolnej Slezy oraz w zlewni dolnej Bystrzycy stany wody beda podnosic sie w strefie wody wysokiej, lokalnie powyzej stanow ostrzegawczych, w Gniechowicach na Czarnej Wodzie niewykluczone przekroczenie stanu alarmowego. Szczegoly na meteo.imgw.pl

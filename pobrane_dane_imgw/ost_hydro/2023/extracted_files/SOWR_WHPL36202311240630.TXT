@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.11.2023 - godz. 07:25
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 97
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:30 dnia 24.11.2023 do godz. 08:00 dnia 25.11.2023
+Obszar: Wkra (mazowieckie)
+Przebieg: W związku ze spływem wód opadowych, w zlewni Wkry  przewiduje się wzrosty stanu wody, przy przekroczonym stanie ostrzegawczym na Mławce w Szreńsku. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wkra od 07:30/24.11.2023 do 08:00/25.11.2023. W zwiazku ze splywem wod opadowych, w zlewni Wkry  przewiduje sie wzrosty stanu wody, przy przekroczonym stanie ostrzegawczym na Mlawce w Szrensku.  Szczegoly na meteo.imgw.pl

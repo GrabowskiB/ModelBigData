@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.01.2023 - godz. 12:00
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 8
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:10 dnia 23.01.2023 do godz. 12:00 dnia 24.01.2023
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Olza od Cieszyna do ujścia do Odry, Olza, Czadeczka, Psina, Ruda od Zb. Rybnik do ujścia do Odry, Ruda, Bierawka, Kłodnica od Zb. Dzierżno Duże do ujścia do Odry, Kłodnica (opolskie, śląskie)
+Przebieg: Na […] w […] poziom wody wzrasta w wyniku piętrzenia lodowego. Spodziewane jest przekroczenie stanu ostrzegawczego/alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: CASH Centralny Administrator SH

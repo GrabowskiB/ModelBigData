@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.02.2023 - godz. 11:46
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 28
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:47 dnia 04.02.2023 do godz. 20:00 dnia 04.02.2023
+Obszar: zlewnia Przemszy powyżej zbiornika  Przeczyce (śląskie)
+Przebieg: W związku ze spływem wód opadowych na Mitrędze prognozowany jest dalszy wzrost poziomu wody w strefie stanów wysokich, z przekroczeniem stanu ostrzegawczego w profilu Kuźnica Sulikowska. Na Przemszy w profilu Piwoń poziom wody będzie się obniżał się przy przekroczonym stanie ostrzegawczym.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Aleksandra Chamerlińska-Kulka

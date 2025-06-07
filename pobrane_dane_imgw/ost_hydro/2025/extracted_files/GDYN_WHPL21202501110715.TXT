@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.01.2025 - godz. 08:12
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 10 z dnia 11.01.2025
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 08:12 dnia 11.01.2025 do godz. 12:00 dnia 12.01.2025
+Obszar: Zlewnia Martwej Wisły, Wisła od Tczewa do ujścia (pomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną, w ujściowym odcinku Wisły przewiduje się wzrosty poziomów wody w strefie wody wysokiej i powyżej stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Zmiana dotyczy poszerzenia obszaru o zlewnię Martwej Wisły.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnia Martwej Wisly, Wisla od Tczewa do ujscia od 08:12/11.01.2025 do 12:00/12.01.2025. W zwiazku z prognozowana sytuacja meteorologiczna, w ujsciowym odcinku Wisly przewiduje sie wzrosty poziomow wody w strefie wody wysokiej i powyzej stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

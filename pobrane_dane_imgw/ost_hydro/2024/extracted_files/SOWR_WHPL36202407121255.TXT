@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.07.2024 - godz. 14:53
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 190
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 15:00 dnia 12.07.2024 do godz. 00:00 dnia 13.07.2024
+Obszar: Mławka (mazowieckie)
+Przebieg: W związku ze spływem wód opadowych, na rzece Mławka w rejonie Szreńska przewiduje się osiągnięcie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Mlawka od 15:00/12.07.2024 do 00:00/13.07.2024. W zwiazku ze splywem wod opadowych, na rzece Mlawka w rejonie Szrenska przewiduje sie osiagniecie stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

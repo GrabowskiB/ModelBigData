@@ -1,0 +1,15 @@
+Data i godzina wydania: 29.04.2023 - godz. 14:03
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 26
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 20:00 dnia 29.04.2023 do godz. 12:00 dnia 30.04.2023
+Obszar: Pilica do Zb. Sulejów (świętokrzyskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną, przewiduje się wzrosty stanu wody w zlewni górnej Pilicy, z możliwością ponownego przekroczenia stanu ostrzegawczego na Czarnej w Januszewicach.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Marcin Dominikowski

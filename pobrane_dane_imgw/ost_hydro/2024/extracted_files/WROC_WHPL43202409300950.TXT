@@ -1,0 +1,15 @@
+Data i godzina wydania: 30.09.2024 - godz. 11:48
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 210 z dnia 26.09.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:49 dnia 30.09.2024 do godz. 08:00 dnia 02.10.2024
+Obszar: Odra od ujścia Baryczy do ujścia Bobru, Odra od ujścia Bobru do Słubic (dolnośląskie, lubuskie)
+Przebieg: Na Odrze poniżej Głogowa będzie utrzymywała się tendencja spadkowa stanu wody przy przekroczonych stanach alarmowych, w Białej Górze przy przekroczonym stanie ostrzegawczym. Prognozuje się, że w okresie ważności ostrzeżenia najszybciej poniżej stanu alarmowego opadnie stan wody w Nowej Soli, a we wtorek rano stan wody w Głogowie. Z końcem ważności ostrzeżenia na Odrze poniżej Nowej Soli przekroczenia stanów alarmowych nie powinny być większe od 50 cm.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy okresu ważności i przebiegu.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Odra od ujscia Baryczy do ujscia Bobru, Odra od ujscia Bobru do Slubic od 11:49/30.09.2024 do 08:00/02.10.2024. Na Odrze ponizej Glogowa bedzie utrzymywala sie tendencja spadkowa stanu wody przy przekroczonych stanach alarmowych, w Bialej Gorze przy przekroczonym stanie ostrzegawczym. Prognozuje sie, ze w okresie waznosci ostrzezenia najszybciej ponizej stanu alarmowego opadnie stan wody w Nowej Soli, a we wtorek rano stan wody w Glogowie. Z koncem waznosci ostrzezenia na Odrze ponizej Nowej Soli przekroczenia stanow alarmowych nie powinny byc wieksze od 50 cm. Szczegoly na meteo.imgw.pl

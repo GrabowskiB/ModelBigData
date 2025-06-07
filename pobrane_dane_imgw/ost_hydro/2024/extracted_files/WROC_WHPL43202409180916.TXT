@@ -1,0 +1,15 @@
+Data i godzina wydania: 18.09.2024 - godz. 11:13
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 217
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:14 dnia 18.09.2024 do godz. 22:00 dnia 19.09.2024
+Obszar: Nysa Łużycka od Zgorzelca do ujścia do Odry (lubuskie)
+Przebieg: Na dolnej Nysie Łużyckiej przewiduje się dalszy wzrost stanu wody przy przekroczonym stanie alarmowym w Gubinie, a następnie spodziewana jest stabilizacja. Na stan wody ujściowego odcinka rzeki wpływ będzie miał przybór wody na Odrze. Spadki stanu wody powinny się zaznaczyć w drugiej połowie okresu, szczególnie na Nysie Łużyckiej powyżej Gubina.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Nysa Luzycka od Zgorzelca do ujscia do Odry od 11:14/18.09.2024 do 22:00/19.09.2024.  Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.10.2023 - godz. 10:12
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 129
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 18:00 dnia 19.10.2023 do godz. 18:00 dnia 21.10.2023
+Obszar: Odra od Gryfina do ujścia (rz) (zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną na Zalewie Szczecińskim, w ujściu Odry przewidywane są wzrosty poziomów wody w strefie wody wysokiej i powyżej stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Istnieje możliwość kontynuowania ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Odra od Gryfina do ujscia (rz) od 18:00/19.10.2023 do 18:00/21.10.2023. W zwiazku z prognozowana sytuacja meteorologiczna na Zalewie Szczecinskim, w ujsciu Odry przewidywane sa wzrosty poziomow wody w strefie wody wysokiej i powyzej stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

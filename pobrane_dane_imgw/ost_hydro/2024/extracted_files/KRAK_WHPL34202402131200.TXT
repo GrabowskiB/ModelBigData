@@ -1,0 +1,15 @@
+Data i godzina wydania: 13.02.2024 - godz. 12:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 99
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:58 dnia 13.02.2024 do godz. 15:00 dnia 14.02.2024
+Obszar: Nida poniżej ujścia Czarnej Nidy (świętokrzyskie)
+Przebieg: Wskutek spływu wód opadowych na Nidzie możliwe są niewielkie wzrosty poziomu wody w strefie stanów wysokich, przy przekroczonym stanie alarmowym w Pińczowie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Nida ponizej ujscia Czarnej Nidy od 12:58/13.02.2024 do 15:00/14.02.2024. Wskutek splywu wod opadowych na Nidzie mozliwe sa niewielkie wzrosty poziomu wody w strefie stanow wysokich, przy przekroczonym stanie alarmowym w Pinczowie. Szczegoly na meteo.imgw.pl

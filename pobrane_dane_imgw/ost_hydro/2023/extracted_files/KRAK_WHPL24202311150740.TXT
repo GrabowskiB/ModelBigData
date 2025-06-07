@@ -1,0 +1,15 @@
+Data i godzina wydania: 15.11.2023 - godz. 08:34
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 357
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 08:35 dnia 15.11.2023 do godz. 21:00 dnia 15.11.2023
+Obszar: zlewnie Małej Wisły po zbiornik Goczałkowice, Iłownicy, Białej, górnej Soły, górnej Skawy (małopolskie, śląskie)
+Przebieg: W związku ze spływem wód opadowych na rzekach prognozowane są wzrosty poziomu wody, lokalnie gwałtowne do strefy stanów wysokich. Punktowo istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie Malej Wisly po zbiornik Goczalkowice, gornej Soly, gornej Skawy od 08:35/15.11.2023 do 21:00/15.11.2023. W zwiazku ze splywem wod opadowych na rzekach prognozowane sa wzrosty poziomu wody, lokalnie gwaltowne do strefy stanow wysokich. Punktowo istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 18.06.2023 - godz. 00:00
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Odwołanie ostrzeżenia Nr: 26 z dnia 17.06.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Noteć górna, Łobżonka, Noteć środkowa, Gwda, Drawa (kujawsko-pomorskie, lubuskie, pomorskie, wielkopolskie, zachodniopomorskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Notec gorna, Lobzonka, Notec srodkowa, Gwda, Drawa od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

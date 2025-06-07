@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.02.2024 - godz. 08:51
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Odwołanie ostrzeżenia Nr: 56 z dnia 22.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Bauda (warmińsko-mazurskie)
+Przebieg: Zjawisko nie wystąpiło.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bauda od - do -. Zjawisko nie wystapilo. Szczegoly na meteo.imgw.pl

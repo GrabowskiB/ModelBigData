@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.12.2024 - godz. 10:10
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 175
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:15 dnia 06.12.2024 do godz. 13:00 dnia 08.12.2024
+Obszar: Czarna Struga (Bawół), Swędrnia (wielkopolskie)
+Przebieg: W związku z prognozowanymi opadami, na stacji hydrologicznej Trąbczyn na rzece Czarna Struga (Bawół) prognozuje się wzrosty w strefie stanów wysokich z możliwością przekroczenia stanu ostrzegawczego. Natomiast na rzece Swędrnia w profilu Dębe prognozuje się dalsze wzrosty powyżej stanu ostrzegawczego, niewykluczone przekroczenie stanu alarmowego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Czarna Struga (Bawol), Swedrnia od 10:15/06.12.2024 do 13:00/08.12.2024. W zwiazku z prognozowanymi opadami, na stacji hydrologicznej Trabczyn na rzece Czarna Struga (Bawol) prognozuje sie wzrosty w strefie stanow wysokich z mozliwoscia przekroczenia stanu ostrzegawczego. Natomiast na rzece Swedrnia w profilu Debe prognozuje sie dalsze wzrosty powyzej stanu ostrzegawczego, niewykluczone przekroczenie stanu alarmowego.  Szczegoly na meteo.imgw.pl

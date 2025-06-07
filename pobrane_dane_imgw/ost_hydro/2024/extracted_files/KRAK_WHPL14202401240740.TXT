@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.01.2024 - godz. 08:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 38
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:00 dnia 24.01.2024 do godz. 10:00 dnia 25.01.2024
+Obszar: zlewnia Brynicy powyżej zbiornika Kozłowa Góra (śląskie)
+Przebieg: Na Brynicy w profilu Brynica prognozowany jest dalszy wzrost poziomu wody powyżej stanu ostrzegawczego. Jednocześnie istnieje możliwość przekroczenia stanu alarmowego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Brynicy powyzej zbiornika Kozlowa Gora od 09:00/24.01.2024 do 10:00/25.01.2024. Na Brynicy w profilu Brynica prognozowany jest dalszy wzrost poziomu wody powyzej stanu ostrzegawczego. Jednoczesnie istnieje mozliwosc przekroczenia stanu alarmowego.  Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 29.01.2024 - godz. 11:04
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 61 z dnia 28.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:00 dnia 29.01.2024 do godz. 12:00 dnia 30.01.2024
+Obszar: zlewnia Krzny (lubelskie)
+Przebieg: Na Krznie w Malowej Górze możliwy jest dalszy wzrost poziomu wody powyżej stanu alarmowego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy czasu obowiązywania ostrzeżenia. W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 zlewnia Krzny od 12:00/29.01.2024 do 12:00/30.01.2024. Na Krznie w Malowej Gorze mozliwy jest dalszy wzrost poziomu wody powyzej stanu alarmowego.  Szczegoly na meteo.imgw.pl

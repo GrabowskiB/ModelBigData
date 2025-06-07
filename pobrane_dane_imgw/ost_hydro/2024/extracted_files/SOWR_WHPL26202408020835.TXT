@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.08.2024 - godz. 10:30
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 212
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 22:00 dnia 02.08.2024 do godz. 15:00 dnia 03.08.2024
+Obszar: Wisła od ujścia Kamiennej do Dęblina (część lewobrzeżna), Iłżanka, Radomka, Pilica do Zb. Sulejów, Pilica od Zb. Sulejów (mazowieckie, świętokrzyskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu o charakterze burzowym, w rzekach spodziewane są lokalne wzrosty poziomu wody. W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. W miejscach wystąpienia szczególnie intensywnych opadów, punktowo istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Wisla od Kamiennej do Deblina (cz. lewobrzezna), Ilzanka, Radomka, Pilica  od 22:00/02.08.2024 do 15:00/03.08.2024. W zwiazku z prognozowanymi intensywnymi opadami deszczu o charakterze burzowym, w rzekach spodziewane sa lokalne wzrosty poziomu wody. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. W miejscach wystapienia szczegolnie intensywnych opadow, punktowo istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

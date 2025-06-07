@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.12.2023 - godz. 11:37
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 147 z dnia 21.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:40 dnia 23.12.2023 do godz. 12:00 dnia 25.12.2023
+Obszar: Reda (pomorskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej w zlewni Redy przewidywane jest utrzymanie się poziomów wody powyżej stanu ostrzegawczego oraz na granicy stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Zmiana dotyczy przebiegu zjawiska oraz czasu obowiązywania ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Reda od 11:40/23.12.2023 do 12:00/25.12.2023. W zwiazku z rozwojem sytuacji hydrologicznej w zlewni Redy przewidywane jest utrzymanie sie poziomow wody powyzej stanu ostrzegawczego oraz na granicy stanu alarmowego. Szczegoly na meteo.imgw.pl

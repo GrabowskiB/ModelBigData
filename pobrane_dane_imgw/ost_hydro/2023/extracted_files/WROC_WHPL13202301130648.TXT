@@ -1,0 +1,15 @@
+Data i godzina wydania: 13.01.2023 - godz. 07:46
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 3
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:47 dnia 13.01.2023 do godz. 16:00 dnia 13.01.2023
+Obszar: zlewnia Kamiennej (dolnośląskie)
+Przebieg: W zlewni Kamiennej trwa spływ wód opadowych, na Kamiennej w strefie wody wysokiej. W Piechowicach może zostać przekroczony stan ostrzegawczy.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Kinga Strońska

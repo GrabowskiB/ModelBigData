@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.04.2022 - godz. 14:11
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 26
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 16:00 dnia 08.04.2022 do godz. 14:00 dnia 09.04.2022
+Obszar: Mała Wisła wraz ze zb. Goczałkowice (śląskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, prognozowane są wzrosty poziomu wody do strefy stanów wysokich, punktowo w zlewni Małej Wisły powyżej Ustronia z przekroczeniami stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska Ostrzeżenie może ulec zmianie. 
+
+Dyżurny synoptyk hydrolog: Artur Franczyk

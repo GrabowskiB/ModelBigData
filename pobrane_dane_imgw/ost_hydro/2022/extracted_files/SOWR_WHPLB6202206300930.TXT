@@ -1,0 +1,15 @@
+Data i godzina wydania: 30.06.2022 - godz. 11:27
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 59
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:00 dnia 30.06.2022 do godz. 08:00 dnia 01.07.2022
+Obszar: Zlewnia Wisły od ujścia Narwi po Zb. Włocławek, Wkra, Bzura, Dolna Narew, Zgłowiączka, Zalew Wiślany od Pasłęki do Pregoły, Górna Łyna, Dolna Łyna (kujawsko-pomorskie, łódzkie, mazowieckie, warmińsko-mazurskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, przewiduje się wzrosty poziomu wody do strefy stanów wysokich. Na mniejszych rzekach wzrosty mogą mieć charakter gwałtowny. W przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość punktowego przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego wystąpienia może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+Dyżurny synoptyk hydrolog: Michał Ceran

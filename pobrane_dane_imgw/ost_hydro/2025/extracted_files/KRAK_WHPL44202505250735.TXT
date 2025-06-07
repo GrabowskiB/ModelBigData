@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.05.2025 - godz. 09:31
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 57 z dnia 24.05.2025
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 09:32 dnia 25.05.2025 do godz. 03:00 dnia 26.05.2025
+Obszar: San od ujścia Wiaru do ujścia Wisłoka, Wisłok poniżej Rzeszowa (podkarpackie)
+Przebieg: W związku ze spływem wód opadowych, na Sanie od ujścia Wiaru do ujścia Wisłoka oraz na Wisłoku poniżej Rzeszowa, spodziewany jest gwałtowny wzrost poziomu wody na ogół do strefy stanów wysokich. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy obszaru, czasu trwania, opisu przebiegu oraz prawdopodobieństwa ostrzeżenia. W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie. 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 San od ujscia Wiaru do ujscia Wisloka, Wislok ponizej Rzeszowa od 09:32/25.05.2025 do 03:00/26.05.2025. W zwiazku ze splywem wod opadowych, na Sanie od ujscia Wiaru do ujscia Wisloka oraz na Wisloku ponizej Rzeszowa, spodziewany jest gwaltowny wzrost poziomu wody na ogol do strefy stanow wysokich.  Szczegoly na meteo.imgw.pl

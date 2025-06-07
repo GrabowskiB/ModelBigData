@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.12.2023 - godz. 09:34
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 169
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 09:35 dnia 11.12.2023 do godz. 10:00 dnia 12.12.2023
+Obszar: Ślęza górna do Borowa (dolnośląskie)
+Przebieg: Spływ wód opadowych powoduje wzrosty stanów wody w zlewni Ślęzy, w Białobrzeziu powyżej stanu alarmowego. Prognozowane są dalsze wzrosty stanów wody, z możliwością przekroczenia stanu alarmowego w Borowie. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie może być aktualizowane.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Sleza gorna do Borowa od 09:35/11.12.2023 do 10:00/12.12.2023. Splyw wod opadowych powoduje wzrosty stanow wody w zlewni Slezy, w Bialobrzeziu powyzej stanu alarmowego. Prognozowane sa dalsze wzrosty stanow wody, z mozliwoscia przekroczenia stanu alarmowego w Borowie.  Szczegoly na meteo.imgw.pl

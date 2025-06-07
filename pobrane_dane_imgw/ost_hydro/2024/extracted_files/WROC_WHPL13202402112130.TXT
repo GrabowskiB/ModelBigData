@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.02.2024 - godz. 22:27
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 56
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 22:27 dnia 11.02.2024 do godz. 10:00 dnia 12.02.2024
+Obszar: Nysa Kłodzka ze Ścinawką (dolnośląskie)
+Przebieg: W związku z występującymi i prognozowanymi opadami, spodziewane są dalsze wzrosty stanu wody w strefie wody wysokiej, lokalnie przy przekroczonych stanach ostrzegawczych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Nysa Klodzka ze Scinawka od 22:27/11.02.2024 do 10:00/12.02.2024. W zwiazku z wystepujacymi i prognozowanymi opadami, spodziewane sa dalsze wzrosty stanu wody w strefie wody wysokiej, lokalnie przy przekroczonych stanach ostrzegawczych.  Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.07.2023 - godz. 00:43
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Odwołanie ostrzeżenia Nr: 53 z dnia 24.07.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Wisła od ujścia Kamiennej do Dęblina (część lewobrzeżna), Wisła od Dęblina do ujścia Narwi, Iłżanka, Radomka, Pilica od Zb. Sulejów, Świder, Jeziorka, Bzura, Liwiec (łódzkie, mazowieckie, świętokrzyskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu o charakterze burzowym, w rzekach spodziewane są lokalne wzrosty poziomu wody. W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Zjawisko zakończyło się. 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Wisla, Ilzanka, Radomka, Pilica, Swider, Jeziorka, Bzura, Liwiec od - do -. Zjawisko zakonczylo sie.  Szczegoly na meteo.imgw.pl

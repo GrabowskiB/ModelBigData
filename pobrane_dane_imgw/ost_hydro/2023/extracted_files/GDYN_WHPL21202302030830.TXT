@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.02.2023 - godz. 09:20
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 13
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:00 dnia 03.02.2023 do godz. 20:00 dnia 04.02.2023
+Obszar: Wybrzeże Zachodnie i morskie wody wewnętrzne RP - Bałtyk Południowy, Wybrzeże Wschodnie i morskie wody wewnętrzne RP - Bałtyk Południowo-Wschodni (pomorskie, zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną i wysokim napełnieniem Bałtyku (531 cm - 3.02.2023) wzdłuż Wybrzeża przewidywane są od zachodu wzrosty poziomów wody do stanów ostrzegawczych i powyżej. Lokalnie mogą zostać przekroczone stany alarmowe.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Katarzyna Krzysztofik

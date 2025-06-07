@@ -1,0 +1,19 @@
+Data i godzina wydania: 22.05.2019 - godz. 21:31
+Nazwa biura prognoz hydrologicznych: BPH IMGW-PIB Wroc³aw Obszar Wroc³aw
+
+ODWO£ANIE OSTRZE¯ENIA Nr O:3 wybierz datê >
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopieñ zagro¿enia: 0
+
+Wa¿noœæ:
+Obszar: Zlewnia Baryczy (wielkopolskie)
+Przebieg: Przewidywane zjawisko zakoñczy³o siê
+Zostanie wydana nowa depesza
+
+Prawdopodobieñstwo wyst¹pienia zjawiska: 0%
+Uwagi: Brak
+
+Dy¿urny synoptyk hydrolog: Marcin Wdowikowski
+
+Wiadomoœæ SMS:
+IMGW-PIB INFORMUJE:WEZBR.Z.PRZEKR.ST.ALARM/0 zl.baryczy (wielkopolskie) od/.do/ Zawisko zakonczylo sie, zostanie wydana nowa depesza

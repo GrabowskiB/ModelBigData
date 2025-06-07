@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.03.2023 - godz. 07:31
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 20
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 08:00 dnia 11.03.2023 do godz. 10:00 dnia 12.03.2023
+Obszar: Pilica od Zb. Sulejów (mazowieckie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych z górnej części zlewni przewiduje się wzrost stanu wody w dolnym biegu Pilicy, w Białobrzegach powyżej stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Magdalena Miętek

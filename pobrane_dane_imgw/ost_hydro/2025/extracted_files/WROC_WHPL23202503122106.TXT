@@ -1,0 +1,17 @@
+Data i godzina wydania: 12.03.2025 - godz. 22:03
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 6
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 06:00 dnia 13.03.2025 do godz. 23:00 dnia 13.03.2025
+Obszar: Opawa, Opawica, Psina, Stradunia, Osobłoga od granicy RP do ujścia, Osobłoga, Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica (dolnośląskie, opolskie)
+Przebieg: W obszarach występowania prognozowanych intensywnych opadów deszczu, przewiduje się lokalnie wzrosty stanów wody do strefy wody wysokiej, punktowo w strefie wody wysokiej. W przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość punktowego przekroczenia stanów ostrzegawczych..
+
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie Nysy Klodzkiej i lewostronnych doplywow Odry w woj. opolskim od 06:00/13.03.2025 do 23:00/13.03.2025. W obszarach wystepowania prognozowanych intensywnych opadow deszczu, przewiduje sie lokalnie wzrosty stanow wody do strefy wody wysokiej, punktowo w strefie wody wysokiej. W przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc punktowego przekroczenia stanow ostrzegawczych..
+ Szczegoly na meteo.imgw.pl

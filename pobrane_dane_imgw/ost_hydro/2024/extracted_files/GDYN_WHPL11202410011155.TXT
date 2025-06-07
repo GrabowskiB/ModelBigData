@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.10.2024 - godz. 13:53
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 155 z dnia 30.09.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 13:54 dnia 01.10.2024 do godz. 13:00 dnia 04.10.2024
+Obszar: Odra od Gryfina do ujścia (rz) (zachodniopomorskie)
+Przebieg: W ujściu Odry, na wodowskazie Gryfino, przewiduje się wzrosty poziomów wody powyżej stanu ostrzegawczego. Jutro (02.10.) w związku z prognozowanym wiatrem z sektora północnego, od godzin wieczornych możliwe są dalsze wzrosty do stanów alarmowych z możliwością ich przekroczenia. Na wodowskazie Szczecin Most Długi przewidywane są wzrosty poziomów wody do strefy wody wysokiej, z możliwością osiągnięcia stanu ostrzegawczego (03.10.).
+
+Prawdopodobieństwo wystąpienia zjawiska: 65%
+Uwagi: Zmiana dotyczy stopnia, przebiegu zjawiska i czasu obowiązywania ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Odra od Gryfina do ujscia (rz) od 13:54/01.10.2024 do 13:00/04.10.2024. W ujsciu Odry, na wodowskazie Gryfino, przewiduje sie wzrosty poziomow wody powyzej stanu ostrzegawczego. Jutro (02.10.) w zwiazku z prognozowanym wiatrem z sektora polnocnego, od godzin wieczornych mozliwe sa dalsze wzrosty do stanow alarmowych z mozliwoscia ich przekroczenia. Na wodowskazie Szczecin Most Dlugi przewidywane sa wzrosty poziomow wody do strefy wody wysokiej, z mozliwoscia osiagniecia stanu ostrzegawczego (03.10.). Szczegoly na meteo.imgw.pl

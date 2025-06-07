@@ -1,0 +1,15 @@
+Data i godzina wydania: 29.05.2025 - godz. 18:32
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 60 z dnia 29.05.2025
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 18:33 dnia 29.05.2025 do godz. 22:00 dnia 29.05.2025
+Obszar: zlewnia Ropy (małopolskie)
+Przebieg: W związku z występującymi oraz z prognozowanymi silnymi opadami deszczu na rzekach spodziewane są wzrosty poziomu wody, miejscami do strefy stanów wysokich, lokalnie mogą być gwałtowne. Punktowo istnieje prawdopodobieństwo przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Zmiana dotyczy obszaru objętego Ostrzeżeniem oraz czasem jego obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia Ropy od 18:33/29.05.2025 do 22:00/29.05.2025. W zwiazku z wystepujacymi oraz z prognozowanymi silnymi opadami deszczu na rzekach spodziewane sa wzrosty poziomu wody, miejscami do strefy stanow wysokich, lokalnie moga byc gwaltowne. Punktowo istnieje prawdopodobienstwo przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

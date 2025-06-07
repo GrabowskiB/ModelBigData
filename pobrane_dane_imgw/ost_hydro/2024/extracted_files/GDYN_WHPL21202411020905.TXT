@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.11.2024 - godz. 09:59
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 157 z dnia 01.11.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:01 dnia 02.11.2024 do godz. 17:00 dnia 02.11.2024
+Obszar: Wybrzeże Wschodnie i morskie wody wewnętrzne RP - Bałtyk Południowo-Wschodni (pomorskie)
+Przebieg: W związku z prognozowanym silnym wiatrem z sektora północnego wzdłuż Wybrzeża Wschodniego przewiduje się wahania poziomów wody w strefie wody wysokiej i powyżej stanów ostrzegawczych. Punktowo może zostać przekroczony stan alarmowy. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Zmiana dotyczy przebiegu zjawiska.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wybrzeze Wschodnie i morskie wody wewnetrzne RP - Baltyk Poludniowo-Wschodni od 10:01/02.11.2024 do 17:00/02.11.2024. W zwiazku z prognozowanym silnym wiatrem z sektora polnocnego wzdluz Wybrzeza Wschodniego przewiduje sie wahania poziomow wody w strefie wody wysokiej i powyzej stanow ostrzegawczych. Punktowo moze zostac przekroczony stan alarmowy.  Szczegoly na meteo.imgw.pl

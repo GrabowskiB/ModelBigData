@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.08.2023 - godz. 02:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 281 z dnia 18.08.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: zlewnie dopływów Wisły oraz zlewnia Czarnej Orawy (małopolskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak. 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow Wisly oraz zlewnia Czarnej Orawy od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

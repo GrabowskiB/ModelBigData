@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.07.2023 - godz. 19:42
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 195
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 05:00 dnia 13.07.2023 do godz. 00:00 dnia 14.07.2023
+Obszar: zlewnia Małej Wisły, Przemszy, Soły wraz z kaskadą zbiorników (śląskie)
+Przebieg: W obszarach występowania prognozowanych silnych opadów deszczu (punktowo także burzowych), spodziewane są wzrosty poziomu wody, lokalnie do strefy stanów wysokich. Na mniejszych rzekach wzrosty mogą mieć gwałtowny charakter. W miejscach wystąpienia szczególnie intensywnych opadów, punktowo istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi silnymi opadami deszczu w tym także o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego wystąpienia może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).  W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia Malej Wisly, Przemszy, Soly wraz z kaskada zbiornikow od 05:00/13.07.2023 do 00:00/14.07.2023. W obszarach wystepowania prognozowanych silnych opadow deszczu (punktowo takze burzowych), spodziewane sa wzrosty poziomu wody, lokalnie do strefy stanow wysokich. Na mniejszych rzekach wzrosty moga miec gwaltowny charakter. W miejscach wystapienia szczegolnie intensywnych opadow, punktowo istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

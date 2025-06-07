@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.01.2024 - godz. 11:47
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 167 z dnia 02.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:49 dnia 03.01.2024 do godz. 14:00 dnia 05.01.2024
+Obszar: Zalew Szczeciński, Ujście Odry (zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną na Zalewie Szczecińskim przewiduje się wzrost poziomów wody powyżej stanów alarmowych. W ujściowym odcinku Odry przewiduje się wzrosty poziomów wody powyżej stanów ostrzegawczych, lokalnie powyżej stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy stopnia oraz czasu obowiązywania ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Zalew Szczecinski, Ujscie Odry od 11:49/03.01.2024 do 14:00/05.01.2024. W zwiazku z prognozowana sytuacja meteorologiczna na Zalewie Szczecinskim przewiduje sie wzrost poziomow wody powyzej stanow alarmowych. W ujsciowym odcinku Odry przewiduje sie wzrosty poziomow wody powyzej stanow ostrzegawczych, lokalnie powyzej stanow alarmowych. Szczegoly na meteo.imgw.pl

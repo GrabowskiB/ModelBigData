@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.02.2023 - godz. 11:34
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 33
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:00 dnia 21.02.2023 do godz. 12:00 dnia 23.02.2023
+Obszar: Widawa od Namysłowa do ujścia do Odry (dolnośląskie, opolskie)
+Przebieg: W związku ze spływem wód opadowych prognozuje się wahania i utrzymanie stanów wody powyżej alarmowego w Zbytowej i ostrzegawczego w Krzyżanowicach.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Leszek Jelonek

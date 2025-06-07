@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.03.2025 - godz. 13:46
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 15
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 15:00 dnia 14.03.2025 do godz. 09:00 dnia 15.03.2025
+Obszar: zlewnie Małej Wisły, Przemszy, Soły, Skawy, Raby, Skawinki, Rudawy, Prądnika oraz Czarnej Orawy (małopolskie)
+Przebieg: W związku z występującymi oraz prognozowanymi opadami deszczu, spodziewane są wzrosty poziomu wody, lokalnie do strefy stanów wysokich. Na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą mieć charakter gwałtowny. Istnieje możliwość punktowego i krótkotrwałego przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie Skawy, Raby, Skawinki, Rudawy, Pradnika oraz Czarnej Orawy od 15:00/14.03.2025 do 09:00/15.03.2025. W zwiazku z wystepujacymi oraz prognozowanymi opadami deszczu, spodziewane sa wzrosty poziomu wody, lokalnie do strefy stanow wysokich. Na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga miec charakter gwaltowny. Istnieje mozliwosc punktowego i krotkotrwalego przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

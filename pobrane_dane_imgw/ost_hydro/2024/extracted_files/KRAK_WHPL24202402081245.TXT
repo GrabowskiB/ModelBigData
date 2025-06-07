@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.02.2024 - godz. 13:41
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 80
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 15:00 dnia 08.02.2024 do godz. 12:00 dnia 09.02.2024
+Obszar: zlewnie : Skawy, Raby, Dunajca poniżej zb. Sromowce Wyżne, Popradu, Czarnej Orawy, Ropy oraz mniejszych bezpośrednich dopływów Wisły (małopolskie)
+Przebieg: W związku ze spływem wód opadowych oraz opadowo-roztopowych (na obszarach górskich) prognozowane są wzrosty poziomu wody, miejscami gwałtowne. Lokalnie istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow Wisly od 15:00/08.02.2024 do 12:00/09.02.2024. W zwiazku ze splywem wod opadowych oraz opadowo-roztopowych (na obszarach gorskich) prognozowane sa wzrosty poziomu wody, miejscami gwaltowne. Lokalnie istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

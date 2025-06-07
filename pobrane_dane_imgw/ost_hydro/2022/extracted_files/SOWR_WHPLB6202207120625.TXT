@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.07.2022 - godz. 08:21
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 68
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:00 dnia 12.07.2022 do godz. 08:00 dnia 14.07.2022
+Obszar: zlewnia górnej i środkowej Narwi, Nurzec, zlewnia Węgorapy (podlaskie, warmińsko-mazurskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu, przewiduje się wzrosty poziomu wody do strefy stanów wysokich. Na mniejszych rzekach wzrosty mogą mieć charakter gwałtowny. Istnieje możliwość punktowego przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Magdalena Miętek

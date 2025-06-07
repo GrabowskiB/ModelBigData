@@ -1,0 +1,15 @@
+Data i godzina wydania: 29.05.2024 - godz. 07:54
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 97
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:55 dnia 29.05.2024 do godz. 18:00 dnia 29.05.2024
+Obszar: Bystrzyca dolna (Czarna Woda i Strzegomka) (dolnośląskie)
+Przebieg: Spływ wód opadowych spowodował w zlewni Bystrzycy wzrosty stanów wody, lokalnie do strefy wody wysokiej. W Gniechowicach na Czarnej Wodzie przewidywany jest dalszy wzrost stanu wody w strefie wody wysokiej z możliwością przekroczenia stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bystrzyca dolna (Czarna Woda i Strzegomka) od 07:55/29.05.2024 do 18:00/29.05.2024. Splyw wod opadowych spowodowal w zlewni Bystrzycy wzrosty stanow wody, lokalnie do strefy wody wysokiej. W Gniechowicach na Czarnej Wodzie przewidywany jest dalszy wzrost stanu wody w strefie wody wysokiej z mozliwoscia przekroczenia stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.11.2023 - godz. 11:50
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 139 z dnia 24.11.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:51 dnia 25.11.2023 do godz. 12:00 dnia 26.11.2023
+Obszar: Zlewnia Zalewu Wiślanego do Nogatu, Zalew Wiślany, Elbląg (pomorskie, warmińsko-mazurskie)
+Przebieg: W związku z prognozowanym silnym wiatrem z sektora północnego na Żuławach i na Zalewie Wiślanym przewiduje się wzrost poziomów wody do stanów ostrzegawczych, lokalnie powyżej.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnia Zalewu Wislanego do Nogatu, Zalew Wislany, Elblag od 11:51/25.11.2023 do 12:00/26.11.2023. W zwiazku z prognozowanym silnym wiatrem z sektora polnocnego na Zulawach i na Zalewie Wislanym przewiduje sie wzrost poziomow wody do stanow ostrzegawczych, lokalnie powyzej. Zmiana dotyczy czasu obowiazywania. Szczegoly na meteo.imgw.pl

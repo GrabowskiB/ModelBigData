@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.03.2023 - godz. 12:56
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 35
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 15:00 dnia 10.03.2023 do godz. 10:00 dnia 11.03.2023
+Obszar: Wybrzeże Zachodnie i morskie wody wewnętrzne RP - Bałtyk Południowy, Wybrzeże Wschodnie i morskie wody wewnętrzne RP - Bałtyk Południowo-Wschodni (pomorskie, zachodniopomorskie)
+Przebieg: W związku z prognozowanym silnym wiatrem z sektora północnego wzdłuż Wybrzeża przewidywany jest wzrost poziomów wody do strefy stanów wysokich, lokalnie z możliwością osiągnięcia stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Katarzyna Krzysztofik

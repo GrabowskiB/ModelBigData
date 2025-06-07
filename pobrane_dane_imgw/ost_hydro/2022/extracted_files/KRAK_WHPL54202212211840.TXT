@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.12.2022 - godz. 19:37
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 221
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 21:00 dnia 21.12.2022 do godz. 21:00 dnia 22.12.2022
+Obszar: Bug do ujścia Uherki (lubelskie)
+Przebieg: W związku z piętrzeniem wody przez występujące zjawiska lodowe, na Bugu w Dorohusku obserwowany jest wzrost poziomu wody w strefie stanów wysokich, z możliwością przekroczenia stanu ostrzegawczego.  
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Przemysław Plewa

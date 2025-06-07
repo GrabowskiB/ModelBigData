@@ -1,0 +1,15 @@
+Data i godzina wydania: 15.09.2022 - godz. 17:36
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 142
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 17:37 dnia 15.09.2022 do godz. 00:00 dnia 16.09.2022
+Obszar: Bystrzyca dolna (Czarna Woda i Strzegomka) (dolnośląskie)
+Przebieg: W okresie obowiązywania ostrzeżenia prognozuje się dalszy wzrost stanu wody w Gniechowicach na Czarnej Wodzie powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Wojciech Krasowski

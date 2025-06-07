@@ -1,0 +1,17 @@
+Data i godzina wydania: 28.08.2023 - godz. 14:48
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 137
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 20:00 dnia 28.08.2023 do godz. 13:00 dnia 29.08.2023
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Psina, Bierawka, Kłodnica, Odra od Koźla do ujścia Nysy Kłodzkiej, Stradunia, Osobłoga od granicy RP do ujścia, Osobłoga, Mała Panew, Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Odra od ujścia Nysy Kłodzkiej do ujścia Widawy, Stobrawa, Widawa od Namysłowa do ujścia do Odry, Widawa, Oława od Zborowic do ujścia do Odry, Oława górna do Zborowic, Oława od Zborowic do ujścia, Ślęza od Borowa do ujścia do Odry, Ślęza górna do Borowa, Ślęza od Borowa do ujścia, Bystrzyca górna do Zb. Mietków, Bystrzyca dolna (Czarna Woda i Strzegomka), Strzegomka od Zb. Dobromierz do ujścia do Bystrzycy, Strzegomka do Łażan, Odra od ujścia Widawy do Ścinawy, Kaczawa od Dunina do ujścia do Odry, Kaczawa górna do Dunina, Kaczawa od Dunina (bez górnej Skorej) do ujścia, Skora (górna), Odra od Ścinawy do Głogowa, Barycz bez Orli i Polskiego Rowu, Orla, Polski Rów, Odra od Głogowa do ujścia Bobru, Bóbr od Zb. Bukówka do Zb. Pilchowice, Bóbr do Zb. Pilchowice, Bóbr od Zb. Pilchowice do Bobrzycy, Bóbr od Bobrzycy do ujścia (bez Kwisy i Czernej Wielkiej), Kwisa górna do Zb. Leśna, Kwisa od Zb. Leśna do Nowogrodźca, Czerna Wielka, Ostrożnica, Izera, Nysa Łużycka od granicy RP do Zgorzelca, Witka od Ostróżna do ujścia do Nysy Łużyckiej, Nysa Łużycka do Zgorzelca, Nysa Łużycka od Zgorzelca do ujścia (dolnośląskie, opolskie, wielkopolskie)
+Przebieg: W obszarach występowania prognozowanego silnego deszczu z burzami, zwłaszcza na małych ciekach górskich i podgórskich oraz w obszarach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych, przede wszystkim w zlewniach górnej Nysy Kłodzkiej, Kaczawy, górnego Bobru czy górnej Nysy Łużyckiej. Lokalnie niewykluczone przekroczenie stanu alarmowego, szczególnie w Świebodzicach na Pełcznicy.
+
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad w miejscu swojego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia srodkowej Odry  od 20:00/28.08.2023 do 13:00/29.08.2023. W obszarach wystepowania prognozowanego silnego deszczu z burzami, zwlaszcza na malych ciekach gorskich i podgorskich oraz w obszarach zurbanizowanych, moga wystapic gwaltowne wzrosty stanow wody. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych, przede wszystkim w zlewniach gornej Nysy Klodzkiej, Kaczawy, gornego Bobru czy gornej Nysy Luzyckiej. Lokalnie niewykluczone przekroczenie stanu alarmowego, szczegolnie w Swiebodzicach na Pelcznicy.
+ Szczegoly na meteo.imgw.pl

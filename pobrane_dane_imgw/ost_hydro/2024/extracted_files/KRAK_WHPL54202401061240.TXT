@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.01.2024 - godz. 13:38
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 11 z dnia 05.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:39 dnia 06.01.2024 do godz. 13:00 dnia 07.01.2024
+Obszar: Bug do ujścia Uherki, zlewnie Krzny oraz Huczwy (lubelskie)
+Przebieg: W związku ze spływem wód opadowych na Bugu i na Krznie prognozowane są dalsze wzrosty, a na Huczwie możliwa jest ponowna tendencja wzrostowa, przy aktualnie przekroczonych stanach ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy obszaru, czasu obowiązywania oraz przebiegu zjawiska
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bug do ujscia Uherki, zlewnie Krzny oraz Huczwy od 13:39/06.01.2024 do 13:00/07.01.2024. W zwiazku ze splywem wod opadowych na Bugu i na Krznie prognozowane sa dalsze wzrosty, a na Huczwie mozliwa jest ponowna tendencja wzrostowa, przy aktualnie przekroczonych stanach ostrzegawczych. Szczegoly na meteo.imgw.pl

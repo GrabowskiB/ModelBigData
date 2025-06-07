@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.08.2023 - godz. 06:07
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Odwołanie ostrzeżenia Nr: 74 z dnia 18.08.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Wisła od ujścia Kamiennej do Dęblina (część lewobrzeżna), Wisła od Dęblina do ujścia Narwi, Wisła od ujścia Narwi po Zb. Włocławek, Iłżanka, Radomka, Pilica do Zb. Sulejów, Pilica od Zb. Sulejów, Świder, Jeziorka, Wkra, Bzura, Dolna Narew, Bug, Liwiec, Wisła od Zb. Włocławek do ujścia Zgłowiączki, Zgłowiączka (kujawsko-pomorskie, łódzkie, mazowieckie, podlaskie, śląskie, świętokrzyskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak. 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia Wisly, zlewnia Dolnej Narwi, zlewnia Dolnego Bugu od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

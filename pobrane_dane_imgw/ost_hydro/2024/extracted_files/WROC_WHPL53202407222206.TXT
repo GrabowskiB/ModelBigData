@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.07.2024 - godz. 00:03
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Odwołanie ostrzeżenia Nr: 158 z dnia 22.07.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Odra od Chałupek do Koźla, Olza, Czadeczka, Psina, Ruda od Zb. Rybnik do ujścia do Odry, Ruda, Bierawka, Kłodnica od Zb. Dzierżno Duże do ujścia do Odry, Kłodnica, Mała Panew od Krupskiego Młyna do Zb. Turawa, Mała Panew (śląskie)
+Przebieg: Prognozowane zjawisko się zakończyło.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak. 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow gornej Odry od - do -. Prognozowane zjawisko sie zakonczylo. Szczegoly na meteo.imgw.pl

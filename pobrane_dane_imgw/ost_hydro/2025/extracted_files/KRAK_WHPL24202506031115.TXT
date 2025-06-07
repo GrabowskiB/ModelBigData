@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.06.2025 - godz. 13:10
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 86
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:00 dnia 03.06.2025 do godz. 18:00 dnia 03.06.2025
+Obszar: Zlewnie Lubieńki, Białki (Tatrzańskiej) oraz Sękówki (małopolskie)
+Przebieg: W związku ze spływem wód opadowych oraz prognozowanymi opadami burzowymi (w miejscu wystąpienia opadu), możliwe są wzrosty poziomu wody, miejscami gwałtowne. Punktowo istnieje możliwość ponownych przekroczeń stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnie Lubienki, Bialki (Tatrzanskiej) oraz Sekowki od 14:00/03.06.2025 do 18:00/03.06.2025. W zwiazku ze splywem wod opadowych oraz prognozowanymi opadami burzowymi (w miejscu wystapienia opadu), mozliwe sa wzrosty poziomu wody, miejscami gwaltowne. Punktowo istnieje mozliwosc ponownych przekroczen stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

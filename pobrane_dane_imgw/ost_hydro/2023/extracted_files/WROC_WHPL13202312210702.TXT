@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.12.2023 - godz. 07:59
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 188
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 08:00 dnia 21.12.2023 do godz. 13:00 dnia 23.12.2023
+Obszar: Barycz bez Orli i Polskiego Rowu, Orla (dolnośląskie, wielkopolskie)
+Przebieg: W związku z prognozowanymi opadami deszczu oraz spływem wód opadowych w zlewni Baryczy przewidywane są wzrosty stanów wody w strefie wody wysokiej, w Kanclerzowicach na Sąsiecznicy oraz w Korzeńsku na Orli powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Na przebieg prognozowanego zjawiska może mieć wpływ praca urządzeń hydrotechnicznych. 
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Barycz bez Orli i Polskiego Rowu, Orla od 08:00/21.12.2023 do 13:00/23.12.2023. W zwiazku z prognozowanymi opadami deszczu oraz splywem wod opadowych w zlewni Baryczy przewidywane sa wzrosty stanow wody w strefie wody wysokiej, w Kanclerzowicach na Sasiecznicy oraz w Korzensku na Orli powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

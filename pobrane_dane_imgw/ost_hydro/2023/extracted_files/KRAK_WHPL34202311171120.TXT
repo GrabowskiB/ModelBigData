@@ -1,0 +1,15 @@
+Data i godzina wydania: 17.11.2023 - godz. 12:16
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 359 z dnia 17.11.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Zlewnia Bobrzy (świętokrzyskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: 
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnia Bobrzy od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

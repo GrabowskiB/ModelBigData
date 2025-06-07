@@ -1,0 +1,17 @@
+Data i godzina wydania: 16.09.2024 - godz. 14:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 212
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 14:58 dnia 16.09.2024 do godz. 11:00 dnia 20.09.2024
+Obszar: Widawa od Namysłowa do ujścia do Odry, Oława od Zborowic do ujścia do Odry, Ślęza od Borowa do ujścia do Odry (dolnośląskie, opolskie)
+Przebieg: W dolnych odcinkach Oławy, Ślęzy i Widawy utrzymuje się tendencja wzrostowa stanów wody w strefie wody wysokiej, z przekroczeniem stanów alarmowych. 
+W kolejnych dniach w odcinkach ujściowych stany wody mogą się podnosić w związku z rosnącym stanem wód Odry.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Widawa, Olawa, Sleza od 14:58/16.09.2024 do 11:00/20.09.2024. W dolnych odcinkach Olawy, Slezy i Widawy utrzymuje sie tendencja wzrostowa stanow wody w strefie wody wysokiej, z przekroczeniem stanow alarmowych. 
+W kolejnych dniach w odcinkach ujsciowych stany wody moga sie podnosic w zwiazku z rosnacym stanem wod Odry. Szczegoly na meteo.imgw.pl

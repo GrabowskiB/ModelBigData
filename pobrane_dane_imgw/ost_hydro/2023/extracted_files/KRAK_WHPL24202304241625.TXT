@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.04.2023 - godz. 18:20
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 89
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 05:00 dnia 25.04.2023 do godz. 22:00 dnia 25.04.2023
+Obszar: zlewnie: Czarnej Orawy, Dunajca do zbiornika Czchów, Popradu, Białej (Tarnowskiej), Ropy (małopolskie)
+Przebieg: Na skutek prognozowanych intensywnych opadów deszczu, spodziewane są wzrosty poziomu wody, lokalnie gwałtowne. Punktowo istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Przemysław Plewa

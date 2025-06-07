@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.01.2024 - godz. 12:39
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 8
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:00 dnia 02.01.2024 do godz. 12:00 dnia 03.01.2024
+Obszar: zlewnia Trzebośnicy (podkarpackie)
+Przebieg: Na Trzebośnicy notuje się wzrost poziomu wody w strefie wody wysokiej. Spodziewane jest przekroczenie stanu ostrzegawczego w profilu Sarzyna.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Trzebosnicy od 13:00/02.01.2024 do 12:00/03.01.2024. Na Trzebosnicy notuje sie wzrost poziomu wody w strefie wody wysokiej. Spodziewane jest przekroczenie stanu ostrzegawczego w profilu Sarzyna. Szczegoly na meteo.imgw.pl

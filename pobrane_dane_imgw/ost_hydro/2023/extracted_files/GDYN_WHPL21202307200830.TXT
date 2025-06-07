@@ -1,0 +1,15 @@
+Data i godzina wydania: 20.07.2023 - godz. 10:25
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Odwołanie ostrzeżenia Nr: 65 z dnia 28.06.2023
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Wda od źródła po Czarną Wodę (pomorskie)
+Przebieg: Zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenia odwołuje się, gdy wartość przepływu na stacjach uznanych za reprezentatywne utrzymuje się powyżej SNQ przez co najmniej 5 dni (dotyczy okresu obserwacji).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Wda od zrodla po Czarna Wode od - do -. Zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

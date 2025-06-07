@@ -1,0 +1,15 @@
+Data i godzina wydania: 22.08.2022 - godz. 06:26
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Odwołanie ostrzeżenia Nr: 79 z dnia 21.08.2022
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Gwda (pomorskie, wielkopolskie, zachodniopomorskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej i prognozowanymi intensywnymi opadami deszczu, na Gwdzie spodziewane są dalsze wzrosty stanów wody z przekroczeniem stanów ostrzegawczych na posterunkach Ptusza i Piła. Możliwe są także przekroczenia stanów alarmowych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Prognozowane zjawisko nie wystąpi.
+
+Dyżurny synoptyk hydrolog: Maciej Jęch

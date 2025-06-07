@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.02.2024 - godz. 09:43
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 73
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 09:44 dnia 27.02.2024 do godz. 10:00 dnia 29.02.2024
+Obszar: Odra od ujścia Baryczy do ujścia Bobru (dolnośląskie, lubuskie)
+Przebieg: Na Odrze swobodnie płynącej od ujścia Baryczy do ujścia Bobru prognozowane są dalsze wzrosty stanów wody na ogół w strefie powyżej stanów umownych, z możliwością przekroczenia stanu ostrzegawczego w Nowej Soli oraz stanów alarmowych w Głogowie i w Cigacicach.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Odra od ujscia Baryczy do ujscia Bobru od 09:44/27.02.2024 do 10:00/29.02.2024. Na Odrze swobodnie plynacej od ujscia Baryczy do ujscia Bobru prognozowane sa dalsze wzrosty stanow wody na ogol w strefie powyzej stanow umownych, z mozliwoscia przekroczenia stanu ostrzegawczego w Nowej Soli oraz stanow alarmowych w Glogowie i w Cigacicach. Szczegoly na meteo.imgw.pl

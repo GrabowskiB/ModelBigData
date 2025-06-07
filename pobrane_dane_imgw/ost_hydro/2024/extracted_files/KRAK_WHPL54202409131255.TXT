@@ -1,0 +1,15 @@
+Data i godzina wydania: 13.09.2024 - godz. 14:51
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 418
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 08:00 dnia 14.09.2024 do godz. 11:00 dnia 15.09.2024
+Obszar: zlewnie dopływów Wisły oraz Bugu po Krzyczew (lubelskie)
+Przebieg: W związku z prognozowanymi opadami deszczu (również o charakterze burzowym) na rzekach zaznaczą się wzrosty poziomu wody, lokalnie gwałtowne. Punktowo istnieje możliwość przekroczenia stanów ostrzegawczych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow Wisly oraz Bugu po Krzyczew od 08:00/14.09.2024 do 11:00/15.09.2024. W zwiazku z prognozowanymi opadami deszczu (rowniez o charakterze burzowym) na rzekach zaznacza sie wzrosty poziomu wody, lokalnie gwaltowne. Punktowo istnieje mozliwosc przekroczenia stanow ostrzegawczych.  Szczegoly na meteo.imgw.pl

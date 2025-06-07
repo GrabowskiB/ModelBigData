@@ -1,0 +1,17 @@
+Data i godzina wydania: 17.12.2023 - godz. 09:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 386 z dnia 16.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:56 dnia 17.12.2023 do godz. 10:00 dnia 18.12.2023
+Obszar: zlewnia Huczwy (lubelskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, na Huczwie w profilu Gozdów, spodziewany jest dalszy, powolny wzrost poziomu wody przy przekroczonym stanie ostrzegawczym.
+
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Zmiana dotyczy przedłużenia okresu ważności Ostrzeżenia. W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Huczwy od 09:56/17.12.2023 do 10:00/18.12.2023. W zwiazku ze splywem wod opadowo-roztopowych, na Huczwie w profilu Gozdow, spodziewany jest dalszy, powolny wzrost poziomu wody przy przekroczonym stanie ostrzegawczym.
+ Szczegoly na meteo.imgw.pl

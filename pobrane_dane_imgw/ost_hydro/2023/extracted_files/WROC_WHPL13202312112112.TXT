@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.12.2023 - godz. 22:09
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 173 z dnia 11.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 22:10 dnia 11.12.2023 do godz. 12:00 dnia 12.12.2023
+Obszar: Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Oława od Zborowic do ujścia do Odry, Oława górna do Zborowic, Oława od Zborowic do ujścia, Bystrzyca od Zb. Lubachów do Zb. Mietków, Bystrzyca górna do Zb. Mietków, Strzegomka do Łażan, Ostrożnica (dolnośląskie)
+Przebieg: Spływ wód opadowo-roztopowych powoduje wzrosty stanów wody, lokalnie powyżej stanów ostrzegawczych. Prognozowane są dalsze wzrosty stanów wody, z możliwością przekroczenia stanów ostrzegawczych w kolejnych profilach, szczególnie w zlewniach dopływów Nysy Kłodzkiej oraz na Oławie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy powiększenia obszaru.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie Nysy Klodzkiej, Olawa, Bystrzyca, Strzegomka od 22:10/11.12.2023 do 12:00/12.12.2023. Splyw wod opadowo-roztopowych powoduje wzrosty stanow wody, lokalnie powyzej stanow ostrzegawczych. Prognozowane sa dalsze wzrosty stanow wody, z mozliwoscia przekroczenia stanow ostrzegawczych w kolejnych profilach, szczegolnie w zlewniach doplywow Nysy Klodzkiej oraz na Olawie. Szczegoly na meteo.imgw.pl

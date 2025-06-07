@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.08.2024 - godz. 10:16
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 128
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 11:00 dnia 04.08.2024 do godz. 20:00 dnia 04.08.2024
+Obszar: Cieśnina Świna, Zlewnia Zalewu Szczecińskiego - południe, Zlewnia Ujścia Odry, Zlewnia Cieśniny Dziwnej, Przymorze od Cieśniny Dziwnej do Regi, Rega od Mołstowej do ujścia, Rega od źródła do Mołstowej, Przymorze od Regi do Parsęty, Parsęta od Radew do ujścia, Parsęta od źródła do Radew, Przymorze od Parsęty do Wieprzy, Radew, Wieprza od Bystrzenicy do ujścia, Przymorze od Wieprzy do Słupi (zachodniopomorskie)
+Przebieg: W obszarach występowania prognozowanych silnych opadów deszczu z burzami, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, lokalnie istnieje możliwość wzrostów powyżej stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zachodnia czesc rzek Przymorza od 11:00/04.08.2024 do 20:00/04.08.2024. o 20:00/04.08.2024. W obszarach wystepowania prognozowanych silnych opadow deszczu z burzami, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, lokalnie istnieje mozliwosc wzrostow powyzej stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

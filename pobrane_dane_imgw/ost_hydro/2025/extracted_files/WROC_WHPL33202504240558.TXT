@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.04.2025 - godz. 07:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 12
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 10:00 dnia 24.04.2025 do godz. 11:00 dnia 25.04.2025
+Obszar: Zlewnie dopływów Odry od ujścia Nysy Kłodzkiej do ujścia Bobru, zlewnie dopływów Łaby w granicach RP (dolnośląskie, lubuskie, opolskie, wielkopolskie)
+Przebieg: W związku z prognozowanymi silnymi opadami deszczu z towarzyszącymi burzami przewidywane są wzrosty stanów wody, odcinkami do strefy wody wysokiej. W zlewniach kontrolowanych istnieje możliwość przekroczenia stanów ostrzegawczych, a punktowo także alarmowych – szczególnie w Świebodzicach na Pełcznicy oraz w Ostrożnie na Witce. Na mniejszych rzekach oraz w zlewniach zurbanizowanych wzrosty stanów wody mogą być gwałtowne.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich). Ze względu na dynamiczną sytuację ostrzeżenie może być aktualizowane.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnie doplywow Odry od ujscia Nysy Klodzkiej do ujscia Bobru i zl. Laby od 10:00/24.04.2025 do 11:00/25.04.2025. W zwiazku z prognozowanymi silnymi opadami deszczu z towarzyszacymi burzami przewidywane sa wzrosty stanow wody, odcinkami do strefy wody wysokiej. W zlewniach kontrolowanych istnieje mozliwosc przekroczenia stanow ostrzegawczych, a punktowo takze alarmowych – szczegolnie w Swiebodzicach na Pelcznicy oraz w Ostroznie na Witce. Na mniejszych rzekach oraz w zlewniach zurbanizowanych wzrosty stanow wody moga byc gwaltowne. Szczegoly na meteo.imgw.pl

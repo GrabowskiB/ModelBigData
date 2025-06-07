@@ -1,0 +1,17 @@
+Data i godzina wydania: 01.02.2019 - godz. 08:58
+Nazwa biura prognoz hydrologicznych: IMGW-PIB BPH Kraków ZHO Warszawa
+
+INFORMACJA O NIEBEZPIECZNYM ZJAWISKU Nr I:1
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopieñ zagro¿enia: 2
+
+Wa¿noœæ: od godz. 09:00 dnia 01.02.2019 do godz. 09:00 dnia 02.02.2019
+Obszar: Bug (mazowieckie)
+Przebieg: W zwi¹zku z piêtrzeniem wody przez lód, na Bugu w rejonie wodowskazu Ma³kinia przewiduje siê wzrost poziomu wody powy¿ej stanu ostrzegawczego.
+Prawdopodobieñstwo wyst¹pienia zjawiska: 90%
+Uwagi: Brak
+
+Dy¿urny synoptyk hydrolog: Micha³ Ceran
+
+Wiadomoœæ SMS:
+IMGW-PIB INFORMUJE:WEZBR.Z PRZEKR.ST.OSTRZEG./2 bug (mazowieckie) od09:00/01.02.do09:00/02.02.2019 Bug, Malkinia - wzrost pow. stanu ostrzeg.

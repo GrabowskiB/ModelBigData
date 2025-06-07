@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.05.2024 - godz. 00:52
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Zmiana ostrzeżenia Nr: 150 z dnia 25.05.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 00:53 dnia 26.05.2024 do godz. 05:00 dnia 26.05.2024
+Obszar: Wisła od ujścia Narwi po Zb. Włocławek, Wkra, Górny Ełk, Górna Lega, Pisa, Dolna Narew, Wisła od Zb. Włocławek do ujścia Zgłowiączki, Zgłowiączka, Górna Łyna, Dolna Łyna, Węgorapa (kujawsko-pomorskie, mazowieckie, podlaskie, warmińsko-mazurskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Zmiana dotyczy obszaru oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Wisla od ujscia Narwi, Dolna Narew, Zglowiaczka, Lyna, Wegorapa od 00:53/26.05.2024 do 05:00/26.05.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Zmiana dotyczy czasu obowiazywania i obszaru.  Szczegoly na meteo.imgw.pl

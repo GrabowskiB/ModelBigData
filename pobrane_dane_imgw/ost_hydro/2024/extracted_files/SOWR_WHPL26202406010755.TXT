@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.06.2024 - godz. 09:50
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 156
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 11:00 dnia 01.06.2024 do godz. 00:00 dnia 02.06.2024
+Obszar: Wisła od ujścia Kamiennej do Dęblina (część lewobrzeżna), Wisła od Dęblina do ujścia Narwi, Wisła od ujścia Narwi po Zb. Włocławek, Iłżanka, Radomka, Pilica do Zb. Sulejów, Pilica od Zb. Sulejów, Świder, Jeziorka, Wkra, Bzura, Górna Narew, Supraśl, Biebrza, Górny Ełk,Górna Lega, Pisa, Środkowa Narew, Dolna Narew, Bug, Nurzec, Liwiec, Wisła od Zb. Włocławek do ujścia Zgłowiączki, Zgłowiączka, Górna Łyna, Dolna Łyna, Węgorapa, Leśna, Niemen (kujawsko-pomorskie, łódzkie, mazowieckie, podlaskie, śląskie, świętokrzyskie, warmińsko-mazurskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnie Wisly srodkowej, Narwi i dolnego Bugu od 11:00/01.06.2024 do 00:00/02.06.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

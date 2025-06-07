@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.10.2023 - godz. 14:10
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 91
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 00:00 dnia 22.10.2023 do godz. 06:00 dnia 23.10.2023
+Obszar: Pilica do Zb. Sulejów (śląskie, świętokrzyskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu w tym opadami burzowymi, spodziewane są wzrosty poziomu wody, lokalnie do strefy stanów wysokich. Na mniejszych rzekach oraz w zlewniach zurbanizowanych wzrosty stanu wody mogą mieć charakter gwałtowny. W miejscu wystąpienia szczególnie intensywnych opadów, punktowo istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Pilica do Zb. Sulejow od 00:00/22.10.2023 do 06:00/23.10.2023. W zwiazku z prognozowanymi intensywnymi opadami deszczu w tym opadami burzowymi, spodziewane sa wzrosty poziomu wody, lokalnie do strefy stanow wysokich. Na mniejszych rzekach oraz w zlewniach zurbanizowanych wzrosty stanu wody moga miec charakter gwaltowny. W miejscu wystapienia szczegolnie intensywnych opadow, punktowo istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

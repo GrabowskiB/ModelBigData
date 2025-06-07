@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.05.2024 - godz. 08:34
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 91
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 12:00 dnia 24.05.2024 do godz. 04:00 dnia 25.05.2024
+Obszar: Odra od ujścia Bobru do Białej Góry, Odra od Białej Góry do Słubic (lubuskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych z silnymi opadami deszczu mogą wystąpić lokalne, gwałtowne wzrosty stanów wody, zwłaszcza na małych ciekach i w terenie zurbanizowanym.
+
+Prawdopodobieństwo wystąpienia zjawiska: 65%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Odra od ujscia Bobru do Bialej Gory, Odra od Bialej Gory do Slubic od 12:00/24.05.2024 do 04:00/25.05.2024. W obszarach wystepowania prognozowanych opadow burzowych z silnymi opadami deszczu moga wystapic lokalne, gwaltowne wzrosty stanow wody, zwlaszcza na malych ciekach i w terenie zurbanizowanym. Szczegoly na meteo.imgw.pl

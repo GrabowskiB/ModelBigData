@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.08.2023 - godz. 20:36
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 252
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 02:00 dnia 05.08.2023 do godz. 18:00 dnia 05.08.2023
+Obszar: zlewnie Przemszy, Soły, Skawy, Skawinki, Rudawy, Prądnika, Raby, Szreniawy, Uszwicy, Dunajca do zbiornika Sromowce Wyżne, Czarnej Orawy oraz zlewnie mniejszych bezpośrednich dopływów Wisły po ujście Dunajca (małopolskie)
+Przebieg: W obszarach występowania prognozowanych silnych opadów deszczu (punktowo także burzowych), spodziewane są wzrosty poziomu wody, lokalnie do strefy stanów wysokich. Na mniejszych rzekach wzrosty mogą mieć gwałtowny charakter. W miejscach wystąpienia szczególnie intensywnych opadów, punktowo istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska Ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie Soly, Skawy, Raby, Dunajca i mniejszych bezposrednich doplywow Wisly od 02:00/05.08.2023 do 18:00/05.08.2023. W obszarach wystepowania prognozowanych silnych opadow deszczu (punktowo takze burzowych), spodziewane sa wzrosty poziomu wody, lokalnie do strefy stanow wysokich. Na mniejszych rzekach wzrosty moga miec gwaltowny charakter. W miejscach wystapienia szczegolnie intensywnych opadow, punktowo istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

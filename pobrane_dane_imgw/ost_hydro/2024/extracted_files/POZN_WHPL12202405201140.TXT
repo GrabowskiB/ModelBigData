@@ -1,0 +1,15 @@
+Data i godzina wydania: 20.05.2024 - godz. 13:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 61
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:36 dnia 20.05.2024 do godz. 00:00 dnia 21.05.2024
+Obszar: Warta środkowa od Rgilewki do Prosny, Wrześnica, Warta środkowa od Prosny do Wełny, Wełna, Warta środkowa od Wełny do Noteci, Noteć górna, Łobżonka, Noteć środkowa, Gwda, Drawa, Noteć dolna (kujawsko-pomorskie, lubuskie, pomorskie, wielkopolskie, zachodniopomorskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych mogą wystąpić gwałtowne wzrosty stanów wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych, a nawet lokalnie alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Informacja wydana w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego wystąpienia może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Warta srodkowa i doplywy, Notec i doplywy.  od 13:36/20.05.2024 do 00:00/21.05.2024. W obszarach wystepowania prognozowanych opadow burzowych moga wystapic gwaltowne wzrosty stanow wody. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych, a nawet lokalnie alarmowych. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 30.01.2024 - godz. 13:52
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 22
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:53 dnia 30.01.2024 do godz. 11:00 dnia 31.01.2024
+Obszar: Ner (łódzkie, wielkopolskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej na Nerze w Dąbiu prognozowane jest przekroczenie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Ner od 13:53/30.01.2024 do 11:00/31.01.2024. W zwiazku z rozwojem sytuacji hydrologicznej na Nerze w Dabiu prognozowane jest przekroczenie stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

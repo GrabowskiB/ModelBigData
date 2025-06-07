@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.08.2023 - godz. 07:38
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 245 z dnia 01.08.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: zlewnie Małej Wisły, Soły, Skawy, Raby, Dunajca po zb. Czchów, Czarnej Orawy, mniejszych bezpośrednich dopływów Wisły (małopolskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 wybrane zlewnie w malopolsce od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

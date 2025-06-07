@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.12.2023 - godz. 12:21
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 405
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 18:00 dnia 24.12.2023 do godz. 15:00 dnia 25.12.2023
+Obszar: zlewnie górnej Nidy (Białej i Czarnej), Czarnej (Staszowskiej) wraz ze zb. Chańcza, Koprzywianki (świętokrzyskie)
+Przebieg: W wyniku spływu wód opadowo-roztopowych prognozowane są wzrosty poziomu wody, lokalnie z przekroczeniem stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie gornej Nidy, Czarnej (Staszowskiej) wraz ze zb. Chancza, Koprzywianki od 18:00/24.12.2023 do 15:00/25.12.2023. W wyniku splywu wod opadowo-roztopowych prognozowane sa wzrosty poziomu wody, lokalnie z przekroczeniem stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

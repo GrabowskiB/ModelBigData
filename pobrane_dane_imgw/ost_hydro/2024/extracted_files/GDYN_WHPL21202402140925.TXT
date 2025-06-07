@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.02.2024 - godz. 10:23
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 53
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:24 dnia 14.02.2024 do godz. 12:00 dnia 17.02.2024
+Obszar: Dolna Wisła (kujawsko-pomorskie, pomorskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych z górnej części dorzecza, na Wiśle od zbiornika Włocławek do Tczewa przewiduje się ponownie wzrosty stanów wody powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Dolna Wisla od 10:24/14.02.2024 do 12:00/17.02.2024. W zwiazku ze splywem wod opadowo-roztopowych z gornej czesci dorzecza, na Wisle od zbiornika Wloclawek do Tczewa przewiduje sie ponownie wzrosty stanow wody powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

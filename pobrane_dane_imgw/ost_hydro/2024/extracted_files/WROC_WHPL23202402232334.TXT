@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.02.2024 - godz. 00:31
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 66
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 00:32 dnia 24.02.2024 do godz. 09:00 dnia 24.02.2024
+Obszar: Bierawka (opolskie)
+Przebieg: W związku z występującymi opadami deszczu w Grabówce na Bierawce stan wody układać się będzie w strefie stanu ostrzegawczego z możliwością dalszych wzrostów. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bierawka od 00:32/24.02.2024 do 09:00/24.02.2024. W zwiazku z wystepujacymi opadami deszczu w Grabowce na Bierawce stan wody ukladac sie bedzie w strefie stanu ostrzegawczego z mozliwoscia dalszych wzrostow.  Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.10.2024 - godz. 11:47
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Zmiana ostrzeżenia Nr: 172 z dnia 01.10.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:48 dnia 02.10.2024 do godz. 13:00 dnia 04.10.2024
+Obszar: Odra dolna od Warty do Gryfina (zachodniopomorskie)
+Przebieg: Na stacji hydrologicznej Widuchowa prognozowane jest utrzymywanie się stanu wody powyżej stanu alarmowego. W profilach wodowskazowych Gozdowice i Bielinek przewiduje się tendencją spadkową powyżej stanów alarmowych i ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy przebiegu zjawiska, obszaru oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Odra dolna od Warty do Gryfina od 11:48/02.10.2024 do 13:00/04.10.2024. Na stacji hydrologicznej Widuchowa prognozowane jest utrzymywanie sie stanu wody powyzej stanu alarmowego. W profilach wodowskazowych Gozdowice i Bielinek przewiduje sie tendencja spadkowa powyzej stanow alarmowych i ostrzegawczych. Szczegoly na meteo.imgw.pl

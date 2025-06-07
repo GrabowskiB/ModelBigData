@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.01.2025 - godz. 09:03
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 6 z dnia 25.01.2025
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Zlewnia Dunajca wraz ze zb. Sromowce Wyżne (małopolskie)
+Przebieg: Prognozowane zjawisko nie wystąpi.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak.
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Zlewnia Dunajca wraz ze zb. Sromowce Wyzne od - do -. Prognozowane zjawisko nie wystapi. Szczegoly na meteo.imgw.pl

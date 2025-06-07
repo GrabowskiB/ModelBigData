@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.11.2023 - godz. 14:12
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 369
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:13 dnia 23.11.2023 do godz. 11:00 dnia 24.11.2023
+Obszar: Soła od kaskady zbiorników do ujścia (małopolskie)
+Przebieg: Na Sole w profilu Oświęcim w wyniku pracy zbiornika Czaniec, poziom wody może wzrastać przy przekroczonym stanie ostrzegawczym.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Sola od kaskady zbiornikow do ujscia od 14:13/23.11.2023 do 11:00/24.11.2023. Na Sole w profilu Oswiecim w wyniku pracy zbiornika Czaniec, poziom wody moze wzrastac przy przekroczonym stanie ostrzegawczym. Szczegoly na meteo.imgw.pl

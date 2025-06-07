@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.02.2024 - godz. 10:10
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 70
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:10 dnia 05.02.2024 do godz. 09:00 dnia 06.02.2024
+Obszar: Mała Wisła od zb. Goczałkowice oraz zlewnie Pszczynki oraz Gostyni (śląskie)
+Przebieg: W związku ze spływem wód opadowych prognozowane są dalsze wzrosty poziomu wody, przy aktualnie przekroczonych stanach ostrzegawczych z kolejnymi przekroczeniami tego progu na Małej Wiśle.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Mala Wisla od zb. Goczalkowice oraz zlewnie Pszczynki oraz Gostyni od 10:10/05.02.2024 do 09:00/06.02.2024. W zwiazku ze splywem wod opadowych prognozowane sa dalsze wzrosty poziomu wody, przy aktualnie przekroczonych stanach ostrzegawczych z kolejnymi przekroczeniami tego progu na Malej Wisle. Szczegoly na meteo.imgw.pl

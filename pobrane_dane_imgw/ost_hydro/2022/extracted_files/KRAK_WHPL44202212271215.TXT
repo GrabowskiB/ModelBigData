@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.12.2022 - godz. 13:09
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 232
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 15:00 dnia 27.12.2022 do godz. 15:00 dnia 28.12.2022
+Obszar: zlewnie Szkła i Lubaczówki (podkarpackie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, prognozowany jest dalszy wzrost poziomu wody z możliwością przekroczenia stanu ostrzegawczego na Szkle w profilu Charytany oraz na Lubaczówce w profilu Zapałów. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Przemysław Plewa

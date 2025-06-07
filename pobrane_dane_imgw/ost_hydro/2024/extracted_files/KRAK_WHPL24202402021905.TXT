@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.02.2024 - godz. 19:59
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 63
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 20:00 dnia 02.02.2024 do godz. 13:00 dnia 03.02.2024
+Obszar: zlewnie dopływów Wisły, Czarnej Orawy oraz Strwiąża (małopolskie, podkarpackie, śląskie)
+Przebieg: Wskutek spływu wód opadowo-roztopowych możliwe są wzrosty poziomu wody w strefie stanów średnich i do strefy stanów wysokich. Punktowo istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow Wisly, Czarnej Orawy oraz Strwiaza od 20:00/02.02.2024 do 13:00/03.02.2024. Wskutek splywu wod opadowo-roztopowych mozliwe sa wzrosty poziomu wody w strefie stanow srednich i do strefy stanow wysokich. Punktowo istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

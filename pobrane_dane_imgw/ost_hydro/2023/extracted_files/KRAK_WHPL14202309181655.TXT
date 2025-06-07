@@ -1,0 +1,15 @@
+Data i godzina wydania: 18.09.2023 - godz. 18:50
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 331
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 00:00 dnia 19.09.2023 do godz. 11:00 dnia 19.09.2023
+Obszar: zlewnie Małej Wisły oraz Przemszy (śląskie)
+Przebieg: Prognozowane silne opady deszczu, lokalnie także burze, powodować mogą wzrosty poziomu wody, punktowo gwałtowne do strefy wody wysokiej. Na mniejszych ciekach i w zlewniach zurbanizowanych istnieje możliwość krótkotrwałego przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 60%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie Malej Wisly oraz Przemszy od 00:00/19.09.2023 do 11:00/19.09.2023. Prognozowane silne opady deszczu, lokalnie takze burze, powodowac moga wzrosty poziomu wody, punktowo gwaltowne do strefy wody wysokiej. Na mniejszych ciekach i w zlewniach zurbanizowanych istnieje mozliwosc krotkotrwalego przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

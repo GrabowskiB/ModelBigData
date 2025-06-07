@@ -1,0 +1,15 @@
+Data i godzina wydania: 13.12.2023 - godz. 08:18
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 183
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 08:19 dnia 13.12.2023 do godz. 12:00 dnia 14.12.2023
+Obszar: Nysa Kłodzka od Zb. Nysa do ujścia (opolskie)
+Przebieg: W wyniku spływu wód opadowo-roztopowych, w zlewni Ścinawy Niemodlińskiej prognozowane są dalsze, powolne wzrosty stanów wody w strefie wody wysokiej. W Niemodlinie na Ścinawie Niemodlińskiej stan wody może wzrosnąć powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Nysa Klodzka od Zb. Nysa do ujscia od 08:19/13.12.2023 do 12:00/14.12.2023. W wyniku splywu wod opadowo-roztopowych, w zlewni Scinawy Niemodlinskiej prognozowane sa dalsze, powolne wzrosty stanow wody w strefie wody wysokiej. W Niemodlinie na Scinawie Niemodlinskiej stan wody moze wzrosnac powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

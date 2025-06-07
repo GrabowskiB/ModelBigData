@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.01.2024 - godz. 20:29
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 19
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 22:00 dnia 04.01.2024 do godz. 13:00 dnia 05.01.2024
+Obszar: Mała Wisła od zb. Goczałkowice do ujścia Przemszy (małopolskie, śląskie)
+Przebieg: W związku ze spływem wód opadowych oraz pracą urządzeń hydrotechnicznych, na odcinku Małej Wisły od zbiornika Goczałkowice po ujście Przemszy, spodziewany jest dalszy wzrost poziomu wody w strefie stanów wysokich z możliwością przekroczenia stanów ostrzegawczych w profilach Jawiszowice oraz Bieruń Nowy.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Mala Wisla od zb. Goczalkowice do ujscia Przemszy od 22:00/04.01.2024 do 13:00/05.01.2024. W zwiazku ze splywem wod opadowych oraz praca urzadzen hydrotechnicznych, na odcinku Malej Wisly od zbiornika Goczalkowice po ujscie Przemszy, spodziewany jest dalszy wzrost poziomu wody w strefie stanow wysokich z mozliwoscia przekroczenia stanow ostrzegawczych w profilach Jawiszowice oraz Bierun Nowy. Szczegoly na meteo.imgw.pl

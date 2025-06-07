@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.12.2023 - godz. 01:01
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 195 z dnia 23.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 01:01 dnia 25.12.2023 do godz. 13:00 dnia 25.12.2023
+Obszar: Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica (dolnośląskie)
+Przebieg: W okresie obowiązywania ostrzeżenia hydrologicznego, w związku z prognozowanymi opadami śniegu, a następnie opadami deszczu w warunkach ocieplenia, przewiduje się spływ wód opadowo-roztopowych i wzrosty stanów wody, odcinkami gwałtowne, w strefie wody wysokiej z przekroczeniami stanów ostrzegawczych, a lokalnie, zwłaszcza na Nysie Kłodzkiej, na Bystrzycy Dusznickiej oraz Ścinawce powyżej stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy podniesienia stopnia ostrzeżenia i przebiegu zjawiska.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 zlewnia Nysy Klodzkiej gornej, zlewnie dorzecza Laby od 01:01/25.12.2023 do 13:00/25.12.2023. W okresie obowiazywania ostrzezenia hydrologicznego, w zwiazku z prognozowanymi opadami sniegu, a nastepnie opadami deszczu w warunkach ocieplenia, przewiduje sie splyw wod opadowo-roztopowych i wzrosty stanow wody, odcinkami gwaltowne, w strefie wody wysokiej z przekroczeniami stanow ostrzegawczych, a lokalnie, zwlaszcza na Nysie Klodzkiej, na Bystrzycy Dusznickiej oraz Scinawce powyzej stanow alarmowych. Szczegoly na meteo.imgw.pl

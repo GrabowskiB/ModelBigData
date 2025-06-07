@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.05.2024 - godz. 19:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 152 z dnia 23.05.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 19:36 dnia 23.05.2024 do godz. 02:00 dnia 24.05.2024
+Obszar: Nida od ujścia Czarnej Nidy do ujścia, Szreniawa,Nidzica i przyrzecze Wisły (świętokrzyskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody. W przypadku wystąpienia szczególnie intensywnego opadu w zlewniach kontrolowanych, istnieje możliwość przekroczenia stanów ostrzegawczych, a krótkotrwale także alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Zmiana dotyczy obszaru Ostrzeżenia. Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego wystąpienia może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich). 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Nida od ujscia Czarnej Nidy do ujscia, Szreniawa,Nidzica i przyrzecze Wisly od 19:36/23.05.2024 do 02:00/24.05.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody. W przypadku wystapienia szczegolnie intensywnego opadu w zlewniach kontrolowanych, istnieje mozliwosc przekroczenia stanow ostrzegawczych, a krotkotrwale takze alarmowych. Szczegoly na meteo.imgw.pl

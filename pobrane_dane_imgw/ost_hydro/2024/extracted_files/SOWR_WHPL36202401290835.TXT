@@ -1,0 +1,15 @@
+Data i godzina wydania: 29.01.2024 - godz. 09:30
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 56
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 10:00 dnia 29.01.2024 do godz. 10:00 dnia 31.01.2024
+Obszar: zlewnia Pilicy od Zb. Sulejów (mazowieckie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, w zlewni Pilicy poniżej zb. Sulejów, przewidywany jest dalszy wzrost poziomu wody przy aktualnie przekroczonym stanie alarmowym w Białobrzegach na Pilicy. Przekroczenie stanu ostrzegawczego w Odrzywole na Drzewiczce będzie się utrzymywało, istnieje możliwość przekroczenia tego stanu w Nowym Mieście na Pilicy.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 zlewnia Pilicy od Zb. Sulejow od 10:00/29.01.2024 do 10:00/31.01.2024. W zwiazku ze splywem wod opadowo-roztopowych, w zlewni Pilicy ponizej zb. Sulejow, przewidywany jest dalszy wzrost poziomu wody przy aktualnie przekroczonym stanie alarmowym w Bialobrzegach na Pilicy. Przekroczenie stanu ostrzegawczego w Odrzywole na Drzewiczce bedzie sie utrzymywalo, istnieje mozliwosc przekroczenia tego stanu w Nowym Miescie na Pilicy. Szczegoly na meteo.imgw.pl

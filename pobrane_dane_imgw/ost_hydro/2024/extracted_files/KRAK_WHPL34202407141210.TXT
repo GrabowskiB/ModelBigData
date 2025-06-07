@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.07.2024 - godz. 14:05
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 305 z dnia 14.07.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:06 dnia 14.07.2024 do godz. 20:00 dnia 15.07.2024
+Obszar: zlewnie Nidy (Białej Nidy) do ujścia Czarnej Nidy oraz Bobrzy (świętokrzyskie)
+Przebieg: W wyniku spływu wód opadowych, na Nidzie w profilu Mniszek spodziewany jest wzrost poziomu wody powyżej stanu ostrzegawczego, a na Bobrzy w profilu Słowik powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy zwiększenia obszaru.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie Nidy (Bialej Nidy) do ujscia Czarnej Nidy oraz Bobrzy od 14:06/14.07.2024 do 20:00/15.07.2024. W wyniku splywu wod opadowych, na Nidzie w profilu Mniszek spodziewany jest wzrost poziomu wody powyzej stanu ostrzegawczego, a na Bobrzy w profilu Slowik powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

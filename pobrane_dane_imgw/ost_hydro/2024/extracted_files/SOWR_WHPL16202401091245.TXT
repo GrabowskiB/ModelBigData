@@ -1,0 +1,15 @@
+Data i godzina wydania: 09.01.2024 - godz. 13:39
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 16
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:00 dnia 09.01.2024 do godz. 14:00 dnia 10.01.2024
+Obszar: Pilica do Zb. Sulejów (łódzkie)
+Przebieg: W związku z utrzymywaniem się i prognozowanym dalszym rozwojem zjawisk lodowych na Pilicy i jej dopływach przewiduje się miejscami wzrosty poziomu wody, lokalnie na Pilicy w Sulejowie powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Pilica do Zb. Sulejow od 14:00/09.01.2024 do 14:00/10.01.2024. W zwiazku z utrzymywaniem sie i prognozowanym dalszym rozwojem zjawisk lodowych na Pilicy i jej doplywach przewiduje sie miejscami wzrosty poziomu wody, lokalnie na Pilicy w Sulejowie powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.01.2023 - godz. 12:15
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Odwołanie ostrzeżenia Nr: 8 z dnia 23.01.2023
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Wisła od Torunia do Tczewa (rz), Wisła od Torunia do Tczewa (zl), Wisła od Zb. Włocławek do Torunia (rz), Wisła od Zb. Włocławek do Torunia (zl) (kujawsko-pomorskie, pomorskie)
+Przebieg: W wyniku spływu wód z topniejącej pokrywy śnieżnej oraz punktowo podpiętrzona wody przez ustępujące zjawiska lodowe na mniejszych ciekach spodziewane są wzrosty poziomu wody do strefy stanów wysokich z możliwością przekroczeń stanów ostrzegawczego w miejscu wystąpienia zjawiska.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: CASH Centralny Administrator SH

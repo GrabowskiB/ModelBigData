@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.06.2024 - godz. 12:03
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 123
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:00 dnia 19.06.2024 do godz. 03:00 dnia 20.06.2024
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Olza, Czadeczka, Psina, Ruda, Bierawka, Kłodnica, Odra od Koźla do ujścia Nysy Kłodzkiej, Stradunia, Osobłoga, Mała Panew, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Odra od ujścia Nysy Kłodzkiej do ujścia Widawy, Stobrawa, Widawa, Oława górna do Zborowic, Oława od Zborowic do ujścia, Ślęza górna do Borowa, Ślęza od Borowa do ujścia, Bystrzyca górna do Zb. Mietków, Bystrzyca dolna (Czarna Woda i Strzegomka), Strzegomka od Zb. Dobromierz do ujścia do Bystrzycy, Strzegomka do Łażan, Kaczawa górna do Dunina, Nysa Szalona od Zb. Słup do ujścia do Kaczawy, Skora (górna), Bóbr do Zb. Pilchowice, Ostrożnica (dolnośląskie, opolskie, śląskie, wielkopolskie)
+Przebieg: W obszarach występowania opadów burzowych, prognozowane są wzrosty stanów wody do strefy stanów wysokich. Na mniejszych rzekach wzrosty mogą mieć charakter gwałtowny. W przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość punktowego przekroczenia stanów ostrzegawczych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnie doplywow gornej i srodkowej Odry od 14:00/19.06.2024 do 03:00/20.06.2024. W obszarach wystepowania opadow burzowych, prognozowane sa wzrosty stanow wody do strefy stanow wysokich. Na mniejszych rzekach wzrosty moga miec charakter gwaltowny. W przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc punktowego przekroczenia stanow ostrzegawczych.  Szczegoly na meteo.imgw.pl

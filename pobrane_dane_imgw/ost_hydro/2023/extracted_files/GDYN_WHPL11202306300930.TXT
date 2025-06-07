@@ -1,0 +1,15 @@
+Data i godzina wydania: 30.06.2023 - godz. 11:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 66
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 12:00 dnia 30.06.2023 do godz. 19:00 dnia 30.06.2023
+Obszar: Zlewnia Zalewu Szczecińskiego, Cieśnina Świna, Zlewnia Ujścia Odry, Zlewnia Cieśniny Dziwnej, Przymorze od Cieśniny Dziwnej do Regi, Rega od Mołstowej do ujścia, Rega od źródła do Mołstowej, Przymorze od Regi do Parsęty, Parsęta od Radew do ujścia, Parsęta od źródła do Radew, Przymorze od Parsęty do Wieprzy, Radew, Wieprza od Bystrzenicy do ujścia, Przymorze od Wieprzy do Słupi (zachodniopomorskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 60%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego wystąpienia może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zachodniopomorskie od 12:00/30.06.2023 do 19:00/30.06.2023. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia.  Szczegoly na meteo.imgw.pl

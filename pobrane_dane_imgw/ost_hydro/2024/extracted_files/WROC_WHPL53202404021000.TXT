@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.04.2024 - godz. 11:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 75 z dnia 01.04.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 11:59 dnia 02.04.2024 do godz. 00:00 dnia 03.04.2024
+Obszar: Odra od Chałupek do Koźla, Olza, Czadeczka, Bierawka (opolskie, śląskie)
+Przebieg: W wyniku trwającego spływu wody opadowej spodziewane są dalsze wzrosty stanów wody w strefy wody wysokiej. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy obszaru, okresu ważności i przebiegu
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Odra od Chalupek do Kozla, Olza, Czadeczka, Bierawka od 11:59/02.04.2024 do 00:00/03.04.2024. W wyniku trwajacego splywu wody opadowej spodziewane sa dalsze wzrosty stanow wody w strefy wody wysokiej.  Szczegoly na meteo.imgw.pl

@@ -1,0 +1,17 @@
+Data i godzina wydania: 21.08.2024 - godz. 00:06
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 193
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 04:00 dnia 21.08.2024 do godz. 15:00 dnia 21.08.2024
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Psina, Bierawka, Kłodnica od Zb. Dzierżno Duże do ujścia do Odry, Kłodnica, Odra od Koźla do ujścia Nysy Kłodzkiej, Stradunia, Osobłoga od granicy RP do ujścia, Osobłoga, Mała Panew od Krupskiego Młyna do Zb. Turawa, Mała Panew od Zb. Turawa do ujścia do Odry, Mała Panew, Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia do Odry, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Klikawa, Żydawka, Czermnica, Orlica, Odra od ujścia Nysy Kłodzkiej do ujścia Widawy, Stobrawa, Widawa od Namysłowa do ujścia do Odry, Widawa, Oława od Zborowic do ujścia do Odry, Oława górna do Zborowic, Oława od Zborowic do ujścia (dolnośląskie, opolskie, wielkopolskie)
+Przebieg: W obszarach występowania prognozowanych intensywnych opadów, prognozuje się wzrosty stanów wody do strefy stanów wysokich. Na mniejszych rzekach wzrosty mogą mieć charakter gwałtowny. W przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość punktowego przekroczenia stanów ostrzegawczych, a krótkotrwale także alarmowych.
+
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia gornej i srodkowej Odry od 04:00/21.08.2024 do 15:00/21.08.2024. W obszarach wystepowania prognozowanych intensywnych opadow, prognozuje sie wzrosty stanow wody do strefy stanow wysokich. Na mniejszych rzekach wzrosty moga miec charakter gwaltowny. W przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc punktowego przekroczenia stanow ostrzegawczych, a krotkotrwale takze alarmowych.
+ Szczegoly na meteo.imgw.pl

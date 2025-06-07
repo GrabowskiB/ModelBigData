@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.01.2025 - godz. 13:53
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 2
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:54 dnia 16.01.2025 do godz. 12:00 dnia 18.01.2025
+Obszar: Budkowiczanka (opolskie)
+Przebieg: W wyniku spływu wody opadowo-roztopowej na Budkowiczance będzie utrzymywała się tendencja wzrostowa w strefie wody wysokiej z przekroczeniem stanu ostrzegawczego w Krzywej Górze.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Przebieg stanów wody może być modyfikowany pracą urządzeń wodnych. 
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Budkowiczanka od 13:54/16.01.2025 do 12:00/18.01.2025. W wyniku splywu wody opadowo-roztopowej na Budkowiczance bedzie utrzymywala sie tendencja wzrostowa w strefie wody wysokiej z przekroczeniem stanu ostrzegawczego w Krzywej Gorze. Szczegoly na meteo.imgw.pl

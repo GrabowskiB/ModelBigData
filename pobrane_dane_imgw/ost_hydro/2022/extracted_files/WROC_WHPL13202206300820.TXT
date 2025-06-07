@@ -1,0 +1,15 @@
+Data i godzina wydania: 30.06.2022 - godz. 10:18
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 55
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 10:19 dnia 30.06.2022 do godz. 20:00 dnia 30.06.2022
+Obszar: Ślęza od Borowa do ujścia do Odry, Ślęza górna do Borowa, Ślęza od Borowa do ujścia (dolnośląskie)
+Przebieg: W zlewni Ślęzy, w następstwie intensywnych opadów deszczu, obserwuje się gwałtowne wzrosty stanów wody z przekroczeniem stanu ostrzegawczego w Białobrzeziu. W ciągu najbliższych godzin przewiduje się dalszy wzrost stanu wody na tej stacji, z możliwością przejściowego przekroczenia stanu alarmowego oraz przemieszczanie się wezbrania w dół rzeki, z możliwością przekroczenia stanu ostrzegawczego na stacji w Borowie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Wojciech Krasowski

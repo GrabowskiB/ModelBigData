@@ -1,0 +1,15 @@
+Data i godzina wydania: 22.09.2024 - godz. 14:59
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 215 z dnia 19.09.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 14:59 dnia 22.09.2024 do godz. 21:00 dnia 23.09.2024
+Obszar: Bystrzyca od Zb. Mietków do ujścia (dolnośląskie)
+Przebieg: Na Bystrzycy poniżej zbiornika Mietków stany alarmowe pozostaną znacznie przekroczone, w związku z utrzymywaniem zwiększonego odpływu ze zb. Mietków. Dalsze zmiany stanu wody na Bystrzycy od zb. Mietków do ujścia do Odry będą zależały od pracy zbiornika, a w ujściowym odcinku Bystrzycy stan wody może być dodatkowo podniesiony przez wezbrane wody rzeki Odry.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy obszaru, przebiegu i czasu obowiązywania ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Bystrzyca od Zb. Mietkow do ujscia od 14:59/22.09.2024 do 21:00/23.09.2024.  Szczegoly na meteo.imgw.pl

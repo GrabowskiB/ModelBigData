@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.10.2022 - godz. 07:41
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 212
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 08:00 dnia 01.10.2022 do godz. 09:00 dnia 02.10.2022
+Obszar: San do ujścia Osławy (wraz ze zlewnią Osławy), Strwiąż (podkarpackie)
+Przebieg: Występujące opady deszczu powodować będą wzrosty poziomu wody, punktowo gwałtowne, do strefy wody wysokiej, lokalnie z przekroczeniem stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska Ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Przemysław Plewa

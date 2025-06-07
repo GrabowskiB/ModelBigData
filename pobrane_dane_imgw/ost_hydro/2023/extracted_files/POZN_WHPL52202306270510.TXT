@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.06.2023 - godz. 07:03
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Odwołanie ostrzeżenia Nr: 38 z dnia 26.06.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Warta górna do Poraja, Warta górna od Poraja do Liswarty, Liswarta (śląskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnia gornej Warty i Liswarty od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

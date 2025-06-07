@@ -1,0 +1,15 @@
+Data i godzina wydania: 20.12.2023 - godz. 09:15
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 389 z dnia 18.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:16 dnia 20.12.2023 do godz. 10:00 dnia 22.12.2023
+Obszar: Bug do ujścia Uherki (lubelskie)
+Przebieg: W związku z dalszym spływem wód opadowo-roztopowych, na Bugu prognozowany jest dalszy wzrost poziomu wody, przy przekroczonym stanie ostrzegawczym w profilu Dorohusk. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy treści ostrzeżenia oraz wydłużenia czasu obowiązywania ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bug do ujscia Uherki od 09:16/20.12.2023 do 10:00/22.12.2023. W zwiazku z dalszym splywem wod opadowo-roztopowych, na Bugu prognozowany jest dalszy wzrost poziomu wody, przy przekroczonym stanie ostrzegawczym w profilu Dorohusk.  Szczegoly na meteo.imgw.pl

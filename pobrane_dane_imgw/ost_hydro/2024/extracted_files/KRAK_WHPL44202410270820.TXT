@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.10.2024 - godz. 09:15
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 437
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 09:20 dnia 27.10.2024 do odwołania
+Obszar: Wisłok do ujścia Morwawy (wraz ze zlewnią Morwawy) (podkarpackie)
+Przebieg: W związku z występującymi niskimi przepływami wody na obszarze zlewni Wisłoka do ujścia Morwawy (wraz ze zlewnią Morwawy) spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 100%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Wislok do ujscia Morwawy (wraz ze zlewnia Morwawy) od 09:20/27.10.2024 do odwolania. W zwiazku z wystepujacymi niskimi przeplywami wody na obszarze zlewni Wisloka do ujscia Morwawy (wraz ze zlewnia Morwawy) spodziewane jest dalsze utrzymywanie sie przeplywow wody ponizej SNQ. Szczegoly na meteo.imgw.pl

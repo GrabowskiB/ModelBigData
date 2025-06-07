@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.08.2022 - godz. 11:12
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 110
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:00 dnia 23.08.2022 do godz. 08:00 dnia 24.08.2022
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Olza od Cieszyna do ujścia do Odry, Olza, Czadeczka, Psina, Ruda od Zb. Rybnik do ujścia do Odry, Ruda, Bierawka, Kłodnica od Zb. Dzierżno Duże do ujścia do Odry, Kłodnica, Stradunia, Osobłoga od granicy RP do ujścia, Osobłoga, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia (dolnośląskie, opolskie, śląskie)
+Przebieg: W zlewniach dopływów Odry na obszarach wystąpienia intensywnych opadów prognozowane są ponowne wzrosty stanów wody, lokalnie powyżej stanów ostrzegawczych. Miejscami, zwłaszcza w zlewniach Rudy, Grabówki, Straduni i Ścinawy Niemodlińskiej możliwe jest ponowne przekroczenie stanów alarmowych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Leszek Jelonek

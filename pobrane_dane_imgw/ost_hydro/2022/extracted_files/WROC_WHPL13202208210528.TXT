@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.08.2022 - godz. 07:26
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 98
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:26 dnia 21.08.2022 do godz. 18:00 dnia 21.08.2022
+Obszar: Bystrzyca od Zb. Lubachów do Zb. Mietków, Bystrzyca górna do Zb. Mietków (dolnośląskie)
+Przebieg: W wyniku spływu wód opadowych na Piławie i Bystrzycy stany wody będą podnosić się powyżej stanów ostrzegawczych. Lokalnie niewykluczone stany około alarmowe.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Kinga Strońska

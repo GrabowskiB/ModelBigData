@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.08.2022 - godz. 08:15
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 100
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 08:16 dnia 21.08.2022 do godz. 12:00 dnia 22.08.2022
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Olza od Cieszyna do ujścia do Odry, Olza, Czadeczka, Psina, Ruda od Zb. Rybnik do ujścia do Odry, Ruda, Bierawka, Kłodnica od Zb. Dzierżno Duże do ujścia do Odry, Kłodnica, Odra od Koźla do ujścia Nysy Kłodzkiej, Stradunia, Osobłoga od granicy RP do ujścia, Osobłoga, Mała Panew od Krupskiego Młyna do Zb. Turawa, Mała Panew od Zb. Turawa do ujścia do Odry, Mała Panew, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Odra od ujścia Nysy Kłodzkiej do ujścia Widawy, Stobrawa (dolnośląskie, opolskie, śląskie)
+Przebieg: W związku z występującym i prognozowanym silnym deszczem z burzami stany wody w rzekach będą podnosić się w wyniku spływu wód opadowych. Wzrosty miejscami mogą być gwałtowne, a na ciekach w obszarach górskich i podgórskich oraz w zlewniach zurbanizowanych mogą zostać przekroczone stany ostrzegawcze, lokalnie niewykluczone stany alarmowe, zwłaszcza w przypadku wystąpienia burz. Na górnej Odrze stan wody może podnieść się do strefy wody wysokiej.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Kinga Strońska

@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.08.2023 - godz. 23:04
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 123 z dnia 16.08.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 23:05 dnia 16.08.2023 do godz. 11:00 dnia 17.08.2023
+Obszar: Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Bystrzyca górna do Zb. Mietków, Bystrzyca dolna (Czarna Woda i Strzegomka), Strzegomka od Zb. Dobromierz do ujścia do Bystrzycy, Strzegomka do Łażan, Kaczawa od Dunina do ujścia do Odry, Kaczawa górna do Dunina, Kaczawa od Dunina (bez górnej Skorej) do ujścia, Nysa Szalona od Zb. Słup do ujścia do Kaczawy, Skora (górna), Bóbr od Zb. Bukówka do Zb. Pilchowice, Bóbr do Zb. Pilchowice, Bóbr od Zb. Pilchowice do Bobrzycy, Kwisa górna do Zb. Leśna, Kwisa od Zb. Leśna do Nowogrodźca, Ostrożnica, Izera, Nysa Łużycka od granicy RP do Zgorzelca, Witka od Ostróżna do ujścia do Nysy Łużyckiej, Nysa Łużycka do Zgorzelca (dolnośląskie, opolskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, zwłaszcza na małych ciekach górskich i podgórskich oraz w obszarach zurbanizowanych, mogą wystąpić gwałtowne i na ogół krótkotrwałe wzrosty stanów wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych. Lokalnie niewykluczone przekroczenie stanu alarmowego, zwłaszcza w Świebodzicach na Pełcznicy i w Szalejowie Dolnym na Bystrzycy Dusznickiej. Na stacji Zagrodno (rzeka Skora) możliwe jest przekroczenie stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Zmiana dotyczy zwiększenia obszaru obowiązującego ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 rzeki Sudetow i Przedgorza Sudeckiego (dolnoslaskie, opolskie) od 23:05/16.08.2023 do 11:00/17.08.2023. W obszarach wystepowania prognozowanych opadow burzowych, zwlaszcza na malych ciekach gorskich i podgorskich oraz w obszarach zurbanizowanych, moga wystapic gwaltowne i na ogol krotkotrwale wzrosty stanow wody. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Lokalnie niewykluczone przekroczenie stanu alarmowego, zwlaszcza w Swiebodzicach na Pelcznicy i w Szalejowie Dolnym na Bystrzycy Dusznickiej. Na stacji Zagrodno (rzeka Skora) mozliwe jest przekroczenie stanu alarmowego. Szczegoly na meteo.imgw.pl

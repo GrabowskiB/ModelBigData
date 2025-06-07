@@ -1,0 +1,15 @@
+Data i godzina wydania: 15.10.2023 - godz. 13:53
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 119
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 15:00 dnia 15.10.2023 do godz. 15:00 dnia 16.10.2023
+Obszar: Zalew Szczeciński (zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną na Zalewie Szczecińskim przewidywane są wzrosty poziomów wody do strefy wody wysokiej, z możliwością przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zalew Szczecinski od 15:00/15.10.2023 do 15:00/16.10.2023. W zwiazku z prognozowana sytuacja meteorologiczna na Zalewie Szczecinskim przewidywane sa wzrosty poziomow wody do strefy wody wysokiej, z mozliwoscia przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.04.2023 - godz. 16:25
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 78
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 16:26 dnia 07.04.2023 do godz. 10:00 dnia 08.04.2023
+Obszar: zlewnia Huczwy (lubelskie)
+Przebieg: Na Huczwie spodziewany jest dalszy wzrost poziomu wody w strefie wody wysokiej, w profilu Gozdów powyżej stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 100%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Przemysław Plewa

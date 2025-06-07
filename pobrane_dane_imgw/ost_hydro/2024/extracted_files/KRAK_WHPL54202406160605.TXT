@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.06.2024 - godz. 08:02
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 235
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 13:00 dnia 16.06.2024 do godz. 23:00 dnia 16.06.2024
+Obszar: zlewnie prawobrzeżnych dopływów Sanu, Wieprza, Kurówki i Bugu do ujścia Huczwy (lubelskie)
+Przebieg:  W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody do strefy stanów wysokich.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego wystąpienia może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich). 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie prawobrzeznych doplywow Sanu, Wieprza, Kurowki i Bugu do ujscia Huczwy od 13:00/16.06.2024 do 23:00/16.06.2024.  W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody do strefy stanow wysokich. Szczegoly na meteo.imgw.pl

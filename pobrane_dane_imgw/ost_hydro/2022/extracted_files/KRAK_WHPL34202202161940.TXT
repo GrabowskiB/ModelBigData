@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.02.2022 - godz. 20:08
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 15
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 04:00 dnia 17.02.2022 do godz. 12:00 dnia 18.02.2022
+Obszar: zlewnia Nidy po Brzegi (świętokrzyskie)
+Przebieg: W związku ze spływem wód opadowych, a miejscami opadowo-roztopowych, prognozowane są wzrosty poziomu wody na ogół w strefie stanów wysokich, z lokalnymi przekroczeniami stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska Ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Artur Franczyk

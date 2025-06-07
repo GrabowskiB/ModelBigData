@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.12.2023 - godz. 22:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 206
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 22:55 dnia 24.12.2023 do godz. 15:00 dnia 25.12.2023
+Obszar: Ślęza od Borowa do ujścia do Odry, Ślęza górna do Borowa (dolnośląskie)
+Przebieg: Na Ślęzie spodziewane są dalsze wzrosty poziomu wody powyżej stanu ostrzegawczego w Borowie i alarmowego na stacji hydrologicznej Białobrzezie. W Borowie w okresie obowiązywania ostrzeżenia spodziewane jest przekroczenie stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Sleza od Borowa do ujscia do Odry, Sleza gorna do Borowa od 22:55/24.12.2023 do 15:00/25.12.2023. Na Slezie spodziewane sa dalsze wzrosty poziomu wody powyzej stanu ostrzegawczego w Borowie i alarmowego na stacji hydrologicznej Bialobrzezie. W Borowie w okresie obowiazywania ostrzezenia spodziewane jest przekroczenie stanu alarmowego. Szczegoly na meteo.imgw.pl

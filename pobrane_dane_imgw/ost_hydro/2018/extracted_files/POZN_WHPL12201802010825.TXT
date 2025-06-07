@@ -1,0 +1,17 @@
+Data i godzina wydania: 01.02.2018 - godz. 09:22
+Nazwa biura prognoz hydrologicznych: BPH IMGW-PIB O/Poznañ
+
+OSTRZE¯ENIE HYDROLOGICZNE Nr O:1
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopieñ zagro¿enia: 3
+
+Wa¿noœæ: od godz. 18:00 dnia 01.02.2018 do godz. 18:00 dnia 02.02.2018
+Obszar: dolna Noteæ (lubuskie)
+Przebieg: W zwi¹zku z rozwojem sytuacji hydrologicznej, w ci¹gu najbli¿szej doby przewiduje siê przekroczenie stanu alarmowego na wodowskazach Nowe Drezdenko i Goœcimiec (Noteæ).  Na Wodowskazie Gorzów Wielkiopolski (Warta) prognozuje siê dalsze utrzymywanie sie stanu alarmowego. 
+Prawdopodobieñstwo wyst¹pienia zjawiska: 95%
+Uwagi: Brak
+
+Dy¿urny synoptyk hydrolog: Emilia Popielewska
+
+Wiadomoœæ SMS:
+IMGW-PIB OSTRZEGA:ST. ALARMOWY/3 dolna notec (lubuskie) od18:00/01.02.do18:00/02.02.2018 Przekroczenie stanu alarm. Nowe Drezdenko i Goscimiec (Notec).

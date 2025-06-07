@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.03.2024 - godz. 13:47
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 105
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:47 dnia 05.03.2024 do godz. 20:00 dnia 06.03.2024
+Obszar: Rzeka Nida do ujścia (świętokrzyskie)
+Przebieg: W związku ze spływem wód opadowych na Nidzie spodziewany jest wzrost poziomu wody przy przekroczonym stanie ostrzegawczym w Pińczowie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Rzeka Nida do ujscia od 13:47/05.03.2024 do 20:00/06.03.2024. W zwiazku ze splywem wod opadowych na Nidzie spodziewany jest wzrost poziomu wody przy przekroczonym stanie ostrzegawczym w Pinczowie. Szczegoly na meteo.imgw.pl

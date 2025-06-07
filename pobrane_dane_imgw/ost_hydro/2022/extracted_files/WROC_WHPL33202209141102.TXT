@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.09.2022 - godz. 13:00
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 141
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 15:00 dnia 14.09.2022 do godz. 10:00 dnia 15.09.2022
+Obszar: Barycz bez Orli i Polskiego Rowu (wielkopolskie)
+Przebieg: W związku z przewidywanymi opadami deszczu w zlewni Baryczy prognozowane są wzrosty stanów wody w strefie powyżej stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Kamila Głowinkowska

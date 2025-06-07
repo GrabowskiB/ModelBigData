@@ -1,0 +1,15 @@
+Data i godzina wydania: 22.01.2024 - godz. 07:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 36
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:40 dnia 22.01.2024 do godz. 09:00 dnia 23.01.2024
+Obszar: zlewnia Huczwy (lubelskie)
+Przebieg: Na stacji hydrologicznej Gozdów na Huczwie poziom wody będzie wzrastać powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Huczwy od 07:40/22.01.2024 do 09:00/23.01.2024. Na stacji hydrologicznej Gozdow na Huczwie poziom wody bedzie wzrastac powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

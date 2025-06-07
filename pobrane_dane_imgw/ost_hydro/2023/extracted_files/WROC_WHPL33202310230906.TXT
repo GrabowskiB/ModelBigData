@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.10.2023 - godz. 11:04
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 144 z dnia 22.10.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:04 dnia 23.10.2023 do godz. 18:00 dnia 24.10.2023
+Obszar: Barycz bez Orli i Polskiego Rowu (wielkopolskie)
+Przebieg: Stany wody w zlewni górnej Baryczy nadal będą utrzymywały się w strefie wody wysokiej, w Odolanowie na Baryczy powyżej stanu ostrzegawczego. Wielkość przekroczenia stanu ostrzegawczego może ulegać wahaniom w zależności od gospodarki wodnej  prowadzonej na stawach rybnych oraz wielkości spływu wód opadowych. W Odolanowie na Baryczy niewykluczony wzrost stanu wody powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Zmiana dotyczy czasu obowiązywania i przebiegu zjawiska.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Barycz bez Orli i Polskiego Rowu od 11:04/23.10.2023 do 18:00/24.10.2023. Stany wody w zlewni gornej Baryczy nadal beda utrzymywaly sie w strefie wody wysokiej, w Odolanowie na Baryczy powyzej stanu ostrzegawczego. Wielkosc przekroczenia stanu ostrzegawczego moze ulegac wahaniom w zaleznosci od gospodarki wodnej  prowadzonej na stawach rybnych oraz wielkosci splywu wod opadowych. W Odolanowie na Baryczy niewykluczony wzrost stanu wody powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

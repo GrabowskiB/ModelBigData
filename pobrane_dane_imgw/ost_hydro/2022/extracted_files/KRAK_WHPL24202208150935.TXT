@@ -1,0 +1,15 @@
+Data i godzina wydania: 15.08.2022 - godz. 11:30
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 154
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 11:31 dnia 15.08.2022 do odwołania
+Obszar: zlewnia Raby od zb. Dobczyce (małopolskie)
+Przebieg: W związku z występującymi niskimi przepływami wody oraz prognozowanymi nieznacznymi opadami atmosferycznymi, w kolejnych dniach w zlewni Raby od zb. Dobczyce spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 100%
+Uwagi: Ostrzeżenia wydawane są w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni.
+
+Dyżurny synoptyk hydrolog: Artur Franczyk

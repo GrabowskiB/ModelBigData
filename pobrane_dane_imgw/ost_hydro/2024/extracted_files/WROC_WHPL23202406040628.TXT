@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.06.2024 - godz. 08:25
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 112
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 08:25 dnia 04.06.2024 do godz. 02:00 dnia 05.06.2024
+Obszar: Odra od Chałupek do Koźla, Olza, Czadeczka, Psina, Ruda, Bierawka, Kłodnica (opolskie, śląskie)
+Przebieg: W obszarach występowania silnego deszczu z burzami stany wody będą podnosić się, przejściowo wzrosty mogą być gwałtowne. Lokalnie możliwe są przekroczenia stanów ostrzegawczych, szczególnie w Istebnej na Olzie, gdzie w przypadku wystąpienia szczególnie intensywnych opadów nie wyklucza się przekroczenia stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Odra od Chalupek do Kozla, Olza, Czadeczka, Psina, Ruda, Bierawka, Klodnica od 08:25/04.06.2024 do 02:00/05.06.2024. W obszarach wystepowania silnego deszczu z burzami stany wody beda podnosic sie, przejsciowo wzrosty moga byc gwaltowne. Lokalnie mozliwe sa przekroczenia stanow ostrzegawczych, szczegolnie w Istebnej na Olzie, gdzie w przypadku wystapienia szczegolnie intensywnych opadow nie wyklucza sie przekroczenia stanu alarmowego. Szczegoly na meteo.imgw.pl

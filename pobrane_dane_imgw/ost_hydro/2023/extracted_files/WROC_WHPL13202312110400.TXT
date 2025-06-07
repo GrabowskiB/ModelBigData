@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.12.2023 - godz. 04:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 167 z dnia 10.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 04:59 dnia 11.12.2023 do godz. 09:00 dnia 11.12.2023
+Obszar: Ślęza górna do Borowa (dolnośląskie)
+Przebieg: Na górnej Ślęzie obserwowany jest wzrost stanu wody, został przekroczony stan ostrzegawczy na stacji Białobrzezie. W wyniku dalszych wzrostów wody możliwe jest krótkotrwałe utrzymywanie się stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy przebiegu zjawiska.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Sleza gorna do Borowa od 04:59/11.12.2023 do 09:00/11.12.2023. Na gornej Slezie obserwowany jest wzrost stanu wody, zostal przekroczony stan ostrzegawczy na stacji Bialobrzezie. W wyniku dalszych wzrostow wody mozliwe jest krotkotrwale utrzymywanie sie stanu alarmowego. Szczegoly na meteo.imgw.pl

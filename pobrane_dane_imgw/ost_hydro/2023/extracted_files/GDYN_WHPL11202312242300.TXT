@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.12.2023 - godz. 23:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 156
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 23:59 dnia 24.12.2023 do godz. 10:00 dnia 25.12.2023
+Obszar: Zalew Szczeciński (zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną (silny wiatr z kierunków zachodnich) na Zalewie Szczecińskim prognozowane są wahania i niewielkie wzrosty poziomu wody powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zalew Szczecinski od 23:59/24.12.2023 do 10:00/25.12.2023. W zwiazku z prognozowana sytuacja meteorologiczna (silny wiatr z kierunkow zachodnich) na Zalewie Szczecinskim prognozowane sa wahania i niewielkie wzrosty poziomu wody powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

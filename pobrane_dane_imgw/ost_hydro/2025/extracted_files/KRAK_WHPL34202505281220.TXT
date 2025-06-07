@@ -1,0 +1,15 @@
+Data i godzina wydania: 28.05.2025 - godz. 14:18
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 63 z dnia 28.05.2025
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 21:00 dnia 28.05.2025 do godz. 11:00 dnia 29.05.2025
+Obszar: Zlewnie dopływów Wisły (świętokrzyskie)
+Przebieg: W związku z prognozowanym silnym deszczem z burzami na rzekach spodziewane są wzrosty poziomu wody, lokalnie w miejscu wystąpienia szczególnie intensywnego opadu wzrosty mogą mieć charakter gwałtowny do strefy stanów wysokich.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Zmiana dotyczy skrócenia czasu obowiązywania ostrzeżenia. W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie. Ostrzeżenie wydane w związku z prognozowanym silnym deszczem z burzami. W miejscu wystąpienia opadu burzowego ze względu na swój charakter, intensywny, punktowy opad, może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnie doplywow Wisly od 21:00/28.05.2025 do 11:00/29.05.2025. W zwiazku z prognozowanym silnym deszczem z burzami na rzekach spodziewane sa wzrosty poziomu wody, lokalnie w miejscu wystapienia szczegolnie intensywnego opadu wzrosty moga miec charakter gwaltowny do strefy stanow wysokich. Szczegoly na meteo.imgw.pl

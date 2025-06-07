@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.01.2023 - godz. 09:15
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 5 z dnia 21.01.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:16 dnia 21.01.2023 do godz. 06:00 dnia 22.01.2023
+Obszar: Żuławy (pomorskie, warmińsko-mazurskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną na Żuławach prognozowane są wzrosty poziomów wody w strefie stanów wysokich z przekroczeniem stanów ostrzegawczych, lokalnie z możliwością osiągnięcia stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy przebiegu zjawiska.
+
+Dyżurny synoptyk hydrolog: Anna Kubicka

@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.12.2023 - godz. 13:00
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 197
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 13:01 dnia 24.12.2023 do godz. 13:00 dnia 25.12.2023
+Obszar: Kaczawa od Dunina (bez górnej Skorej) do ujścia, Skora (górna) (dolnośląskie)
+Przebieg: W związku ze spływem wód opadowo- roztopowych w zlewniach Skorej i Czarnej Wody prognozowane są wzrosty stanów wody miejscami powyżej stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Kaczawa od Dunina (bez gornej Skorej) do ujscia, Skora (gorna) od 13:01/24.12.2023 do 13:00/25.12.2023. W zwiazku ze splywem wod opadowo- roztopowych w zlewniach Skorej i Czarnej Wody prognozowane sa wzrosty stanow wody miejscami powyzej stanow alarmowych. Szczegoly na meteo.imgw.pl

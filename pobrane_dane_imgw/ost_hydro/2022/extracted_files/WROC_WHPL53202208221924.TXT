@@ -1,0 +1,15 @@
+Data i godzina wydania: 22.08.2022 - godz. 21:21
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 107
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 21:22 dnia 22.08.2022 do godz. 08:00 dnia 23.08.2022
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Olza od Cieszyna do ujścia do Odry, Olza, Czadeczka, Psina, Ruda od Zb. Rybnik do ujścia do Odry, Ruda, Bierawka, Kłodnica od Zb. Dzierżno Duże do ujścia do Odry, Kłodnica, Odra od Koźla do ujścia Nysy Kłodzkiej, Stradunia, Osobłoga, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia (opolskie, śląskie)
+Przebieg: W obszarach występowania prognozowanych silnych opadów deszczu, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych bądź alarmowych. W Grabówce na Bierawce stan wody może ponownie wzrastać w strefie powyżej stanu alarmowego, a na stacji Ruda Kozielska na Rudzie możliwe wzrosty bądź wahania, nieznacznie powyżej stanu alarmowego. W warunkach kumulacji znacznych sum opadów, w Gliwicach na Kłodnicy stan wody może ponownie wzrosnąć powyżej stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego wystąpienia może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich). 
+
+Dyżurny synoptyk hydrolog: Wioleta Aniśkiewicz

@@ -1,0 +1,15 @@
+Data i godzina wydania: 15.04.2024 - godz. 12:41
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 63
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 23:00 dnia 15.04.2024 do godz. 14:00 dnia 16.04.2024
+Obszar: Wybrzeże Zachodnie i morskie wody wewnętrzne RP - Bałtyk Południowy, Wybrzeże Wschodnie i morskie wody wewnętrzne RP - Bałtyk Południowo-Wschodni, Przymorze od Martwej Wisły do Wisły (pomorskie, zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną wzdłuż Wybrzeża przewidywane są gwałtowne wahania i wzrosty poziomów wody do strefy wody wysokiej, lokalnie z możliwością osiągnięcia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Wybrzeze RP - Baltyk Poludniowy i Baltyk Poludniowo-Wschodni od 23:00/15.04.2024 do 14:00/16.04.2024. W zwiazku z prognozowana sytuacja meteorologiczna wzdluz Wybrzeza przewidywane sa gwaltowne wahania i wzrosty poziomow wody do strefy wody wysokiej, lokalnie z mozliwoscia osiagniecia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

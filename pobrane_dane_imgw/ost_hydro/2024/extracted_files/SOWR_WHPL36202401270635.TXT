@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.01.2024 - godz. 07:32
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 43
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:32 dnia 27.01.2024 do godz. 10:00 dnia 28.01.2024
+Obszar: Zlewnia dolnej Narwi (mazowieckie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, w zlewni dolnej Narwi przewiduje się wahania stanu wody, w Zaruziu na Różu oraz w Czarnowie na Orzu przy przekroczonym stanie ostrzegawczym, z możliwością osiągnięcia stanu ostrzegawczego na stacji Walery na Rozodze. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnia dolnej Narwi od 07:32/27.01.2024 do 10:00/28.01.2024. W zwiazku ze splywem wod opadowo-roztopowych, w zlewni dolnej Narwi przewiduje sie wahania stanu wody, w Zaruziu na Rozu oraz w Czarnowie na Orzu przy przekroczonym stanie ostrzegawczym, z mozliwoscia osiagniecia stanu ostrzegawczego na stacji Walery na Rozodze.  Szczegoly na meteo.imgw.pl

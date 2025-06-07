@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.02.2024 - godz. 12:15
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 45
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 03:00 dnia 07.02.2024 do godz. 12:00 dnia 08.02.2024
+Obszar: Odra od ujścia Baryczy do ujścia Bobru (dolnośląskie)
+Przebieg: Na Odrze środkowej prognozowane są wzrosty stanów wody w strefie wody wysokiej, w Głogowie z przekroczeniem stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Odra od ujscia Baryczy do ujscia Bobru od 03:00/07.02.2024 do 12:00/08.02.2024. Na Odrze srodkowej prognozowane sa wzrosty stanow wody w strefie wody wysokiej, w Glogowie z przekroczeniem stanu ostrzegawczego.  Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.02.2023 - godz. 09:46
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 4
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:00 dnia 19.02.2023 do godz. 09:00 dnia 20.02.2023
+Obszar: Prosna górna (opolskie)
+Przebieg: W związku z prognozowanymi opadami deszczu, na stacji wodowskazowej w Gorzowie Śląskim na Prośnie spodziewane jest przekroczenie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Michalina Kallas-Garnitz

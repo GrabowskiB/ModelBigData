@@ -1,0 +1,15 @@
+Data i godzina wydania: 15.07.2022 - godz. 08:20
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 69
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 08:30 dnia 15.07.2022 do godz. 08:30 dnia 17.07.2022
+Obszar: zlewnie Supraśli i Biebrzy (podlaskie)
+Przebieg: W związku ze spływem wód opadowych w zlewniach Supraśli i Biebrzy przewiduje się dalszy wzrost stanu wody, lokalnie powyżej stanów ostrzegawczych a na Czarnej w Sochoniach i na Sidrze w Harasimowiczach powyżej stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Michał Ceran

@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.02.2024 - godz. 09:19
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 73
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:00 dnia 06.02.2024 do godz. 09:00 dnia 07.02.2024
+Obszar: Rzeka Wisła od ujścia Dunajca do ujścia Wisłoki (małopolskie, podkarpackie, świętokrzyskie)
+Przebieg: W związku z przemieszczaniem się fali wezbraniowej na Wiśle w profilu Szczucin spodziewane jest przekroczenie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Rzeka Wisla od ujscia Dunajca do ujscia Wisloki od 13:00/06.02.2024 do 09:00/07.02.2024. W zwiazku z przemieszczaniem sie fali wezbraniowej na Wisle w profilu Szczucin spodziewane jest przekroczenie stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

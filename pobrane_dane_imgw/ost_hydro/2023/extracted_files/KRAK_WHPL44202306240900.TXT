@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.06.2023 - godz. 10:54
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 173
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 10:54 dnia 24.06.2023 do godz. 08:00 dnia 25.06.2023
+Obszar: Wisłoka od ujścia Jasiołki do ujścia (podkarpackie)
+Przebieg: W związku ze spływem wód opadowych na Wisłoce poniżej ujścia Jasiołki prognozowany jest wzrost poziomu wody, miejscami gwałtowny, do strefy stanów wysokich.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Wisloka od ujscia Jasiolki do ujscia od 10:54/24.06.2023 do 08:00/25.06.2023. W zwiazku ze splywem wod opadowych na Wisloce ponizej ujscia Jasiolki prognozowany jest wzrost poziomu wody, miejscami gwaltowny, do strefy stanow wysokich. Szczegoly na meteo.imgw.pl

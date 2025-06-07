@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.08.2022 - godz. 09:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 88
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 10:00 dnia 25.08.2022 do godz. 10:00 dnia 26.08.2022
+Obszar: Prosna górna, Prosna środkowa (łódzkie, opolskie, wielkopolskie)
+Przebieg: Na Prośnie w Mirkowie prognozuje się dalsze utrzymywanie się stanów wód powyżej stanu alarmowego. W związku z prognozowanymi opadami burzowymi, w Gorzowie Śląskim możliwe są ponowne wzrosty stanów wód powyżej stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Paweł Terlecki

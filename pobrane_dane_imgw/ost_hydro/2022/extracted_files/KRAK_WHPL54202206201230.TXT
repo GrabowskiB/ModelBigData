@@ -1,0 +1,15 @@
+Data i godzina wydania: 20.06.2022 - godz. 14:26
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 86
+Zjawisko: susza hydrologiczna
+Stopień: -1
+
+Ważność: od godz. 14:30 dnia 20.06.2022 do odwołania
+Obszar: Zlewnia Bugu do ujścia Uherki (lubelskie)
+Przebieg: W związku z występującymi niskimi przepływami wody oraz prognozowanymi nieznacznymi opadami atmosferycznymi, w kolejnych dniach w zlewni Bugu do ujścia Uherki spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 100%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+Dyżurny synoptyk hydrolog: Karolina Wolanin

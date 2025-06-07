@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.07.2023 - godz. 09:13
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 86
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 11:00 dnia 05.07.2023 do godz. 21:00 dnia 05.07.2023
+Obszar: zlewnie dopływów Odry (dolnośląskie, lubuskie, opolskie, śląskie)
+Przebieg: Na obszarach występowania prognozowanych, silnych, przelotnych opadów deszczu, szczególnie na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanu wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych, a krótkotrwale także alarmowych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami atmosferycznymi z towarzyszeniem burz, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow Odry od 11:00/05.07.2023 do 21:00/05.07.2023.  Szczegoly na meteo.imgw.pl

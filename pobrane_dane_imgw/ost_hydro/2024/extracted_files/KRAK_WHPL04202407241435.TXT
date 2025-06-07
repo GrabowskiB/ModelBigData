@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<warn-msg release="2024-07-24 16:32" reference="2024-07-24 12:52" no="332" degree="1" type="ZOH" from="2024-07-24 16:32" to="2024-07-24 23:00" office="KRAK" event="GWSW" prob="75" author="">
+  <run>W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.</run>
+  <comment>Zmiana dotyczy obszaru (zwiększono obszar o zlewnie prawobrzeżnych dopływów Sanu, Wiaru i Strwiąża). Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).</comment>
+  <area-description>zlewnie dopływów Wisły po Dęblin oraz zlewnia Strwiąża (podkarpackie)</area-description>
+  <provinces>
+    <province name="PK" rso="podkarpackie, zlewnie dopływów Wisły po Dęblin oraz zlewnia Strwiąża, gwałtowne wzrosty stanów wody">
+      <area name="RZ_K_199_PK" />
+      <area name="RZ_K_203_PK" />
+      <area name="RZ_K_208_PK" />
+      <area name="RZ_K_210_PK" />
+      <area name="RZ_K_215_PK" />
+      <area name="Z_K_122_PK" />
+      <area name="Z_K_124_PK" />
+      <area name="Z_K_126_PK" />
+      <area name="Z_K_127_PK" />
+      <area name="Z_K_128_PK" />
+      <area name="Z_K_129_PK" />
+      <area name="Z_K_130_PK" />
+      <area name="Z_K_131_PK" />
+      <area name="Z_K_132_PK" />
+      <area name="Z_K_133_PK" />
+      <area name="Z_K_134_PK" />
+      <area name="Z_K_135_PK" />
+      <area name="Z_K_136_PK" />
+      <area name="Z_K_138_PK" />
+      <area name="Z_K_139_PK" />
+      <area name="Z_K_140_PK" />
+      <area name="Z_K_141_PK" />
+      <area name="Z_K_142_PK" />
+      <area name="Z_K_143_PK" />
+      <area name="Z_K_160_PK" />
+      <area name="Z_K_161_PK" />
+      <area name="Z_K_162_PK" />
+      <area name="Z_K_163_PK" />
+      <area name="Z_K_164_PK" />
+      <area name="Z_K_165_PK" />
+      <area name="Z_K_166_PK" />
+      <area name="Z_K_167_PK" />
+      <area name="Z_K_168_PK" />
+      <area name="Z_K_178_PK" />
+      <area name="Z_K_237_PK" />
+      <area name="Z_K_238_PK" />
+      <area name="Z_K_239_PK" />
+      <area name="Z_K_240_PK" />
+      <area name="Z_K_243_PK" />
+      <area name="Z_K_252_PK" />
+      <area name="Z_K_507_PK" />
+      <area name="Z_K_508_PK" />
+      <area name="Z_K_513_PK" />
+      <area name="Z_K_522_PK" />
+      <area name="Z_K_531_PK" />
+      <area name="Z_K_538_PK" />
+      <area name="Z_K_73_PK" />
+    </province>
+  </provinces>
+  <sms>IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow Wisly po Deblin oraz zlewnia Strwiaza od 16:32/24.07.2024 do 23:00/24.07.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl</sms>
+</warn-msg>

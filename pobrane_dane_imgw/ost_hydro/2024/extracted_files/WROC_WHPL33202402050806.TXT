@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.02.2024 - godz. 09:03
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 40
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:04 dnia 05.02.2024 do godz. 11:00 dnia 07.02.2024
+Obszar: Barycz bez Orli i Polskiego Rowu (wielkopolskie)
+Przebieg: Spływ wody po występujących i prognozowanych opadach deszczu będzie powodował wzrosty stanów wody w strefie wody wysokiej powyżej stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Barycz bez Orli i Polskiego Rowu od 09:04/05.02.2024 do 11:00/07.02.2024. Splyw wody po wystepujacych i prognozowanych opadach deszczu bedzie powodowal wzrosty stanow wody w strefie wody wysokiej powyzej stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

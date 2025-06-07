@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.01.2024 - godz. 12:32
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 2 z dnia 03.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:32 dnia 04.01.2024 do godz. 10:00 dnia 05.01.2024
+Obszar: zlewnie lewostronnych dopływy środkowej Odry (dolnośląskie, lubuskie)
+Przebieg: W związku z prognozowanymi opadami deszczu oraz spływem wód opadowych i opadowo-roztopowych, przewidywane są dalsze wzrosty i wahania stanów wody w strefie wody wysokiej, odcinkami powyżej stanów ostrzegawczych i alarmowych.  W zlewniach kontrolowanych istnieje możliwość przekroczenia stanów ostrzegawczych w kolejnych profilach, a punktowo także alarmowych, zwłaszcza w Sieniawce na Nysie Łużyckiej oraz w Szprotawie na Szprotawie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Zmiana dotyczy przebiegu zjawiska oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie lewostronnych doplywy srodkowej Odry od 12:32/04.01.2024 do 10:00/05.01.2024. W zwiazku z prognozowanymi opadami deszczu oraz splywem wod opadowych i opadowo-roztopowych, przewidywane sa dalsze wzrosty i wahania stanow wody w strefie wody wysokiej, odcinkami powyzej stanow ostrzegawczych i alarmowych.  W zlewniach kontrolowanych istnieje mozliwosc przekroczenia stanow ostrzegawczych w kolejnych profilach, a punktowo takze alarmowych, zwlaszcza w Sieniawce na Nysie Luzyckiej oraz w Szprotawie na Szprotawie. Szczegoly na meteo.imgw.pl

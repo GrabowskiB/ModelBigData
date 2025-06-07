@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.12.2023 - godz. 12:26
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 378 z dnia 12.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:26 dnia 12.12.2023 do godz. 08:00 dnia 13.12.2023
+Obszar: zlewnia Pszczynki oraz Gostyni  (śląskie)
+Przebieg: W wyniku spływu wód opadowo-roztopowych spodziewane są dalsze wzrosty poziomu wody w strefie stanów wysokich, z możliwością przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy korekty edytorskiej. W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Pszczynki oraz Gostyni  od 12:26/12.12.2023 do 08:00/13.12.2023. W wyniku splywu wod opadowo-roztopowych spodziewane sa dalsze wzrosty poziomu wody w strefie stanow wysokich, z mozliwoscia przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

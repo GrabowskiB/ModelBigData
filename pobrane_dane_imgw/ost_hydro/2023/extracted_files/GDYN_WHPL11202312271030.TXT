@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.12.2023 - godz. 11:25
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 162 z dnia 25.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:26 dnia 27.12.2023 do godz. 12:00 dnia 29.12.2023
+Obszar: Parsęta od Radew do ujścia (zachodniopomorskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej w zlewni Parsęty przewidywane są wahania i wzrosty stanu wody powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Parseta od Radew do ujscia od 11:26/27.12.2023 do 12:00/29.12.2023. W zwiazku z rozwojem sytuacji hydrologicznej w zlewni Parsety przewidywane sa wahania i wzrosty stanu wody powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

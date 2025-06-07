@@ -1,0 +1,15 @@
+Data i godzina wydania: 18.01.2025 - godz. 10:44
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 4
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 15:00 dnia 18.01.2025 do godz. 12:00 dnia 20.01.2025
+Obszar: Orla (dolnośląskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych prognozuje się w dolnym odcinku rzeki Orla powolny wzrost stanu wody powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Orla od 15:00/18.01.2025 do 12:00/20.01.2025. W zwiazku ze splywem wod opadowo-roztopowych prognozuje sie w dolnym odcinku rzeki Orla powolny wzrost stanu wody powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

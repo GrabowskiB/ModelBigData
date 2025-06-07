@@ -1,0 +1,15 @@
+Data i godzina wydania: 31.05.2024 - godz. 18:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 186 z dnia 31.05.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 18:28 dnia 31.05.2024 do godz. 00:00 dnia 01.06.2024
+Obszar: zlewnia Wieprze poniżej ujścia Bystrzycy oraz Bugu poniżej ujścia Uherki (lubelskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 65%
+Uwagi: Zmiana dotyczy obszaru oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia Wieprze ponizej ujscia Bystrzycy oraz Bugu ponizej ujscia Uherki od 18:28/31.05.2024 do 00:00/01.06.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych.  Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.01.2023 - godz. 11:25
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 22
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:26 dnia 24.01.2023 do godz. 12:00 dnia 25.01.2023
+Obszar: zlewnia Krzny (lubelskie)
+Przebieg: W związku ze spływem wód na Krznie spodziewany jest dalszy wzrost poziomu wody, powyżej stanu alarmowego w profilu Malowa Góra.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: 

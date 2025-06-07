@@ -1,0 +1,15 @@
+Data i godzina wydania: 29.05.2024 - godz. 23:54
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 173 z dnia 29.05.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 23:55 dnia 29.05.2024 do godz. 02:00 dnia 30.05.2024
+Obszar: Mała Wisła od zb. Goczałkowice do ujścia Przemszy, Soła od kaskady zbiorników do ujścia i przyrzecze Wisły, Skawa wraz ze zb. Świnna Poręba, Skawa od zb. Świnna Poręba do ujścia, Raba wraz ze zb. Dobczyce, Dunajec wraz ze zb. Sromowce Wyżne, Dunajec od zb. Sromowce Wyżne do zapory zb. Czchów, Skawinka,Wilga i przyrzecze Wisły, Czarna Orawa (małopolskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody. W przypadku wystąpienia szczególnie intensywnego opadu w zlewniach kontrolowanych, istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Zmiana dotyczy obszaru oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Mala Wisla, Sola, Skawa, Raba, Dunajec, Skawinka, Wilga, Czarna Orawa od 23:55/29.05.2024 do 02:00/30.05.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody. W przypadku wystapienia szczegolnie intensywnego opadu w zlewniach kontrolowanych, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Zmiana dotyczy obszaru oraz czasu obowiazywania. Szczegoly na meteo.imgw.pl

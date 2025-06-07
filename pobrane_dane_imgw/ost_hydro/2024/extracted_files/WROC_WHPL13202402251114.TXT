@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.02.2024 - godz. 12:12
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 70 z dnia 24.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:13 dnia 25.02.2024 do godz. 18:00 dnia 27.02.2024
+Obszar: Barycz od Polskiej Wody do ujścia do Odry (dolnośląskie)
+Przebieg: W pierwszej części okresu na Baryczy w Łąkach prognozowana jest jeszcze tendencja wzrostowa powyżej stanu alarmowego, w Osetnie stabilizacja a potem wzrosty przy przekroczonym stanie alarmowym. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy stopnia zagrożenia, okresu ważności i przebiegu.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Barycz od Polskiej Wody do ujscia do Odry od 12:13/25.02.2024 do 18:00/27.02.2024. W pierwszej czesci okresu na Baryczy w Lakach prognozowana jest jeszcze tendencja wzrostowa powyzej stanu alarmowego, w Osetnie stabilizacja a potem wzrosty przy przekroczonym stanie alarmowym.  Szczegoly na meteo.imgw.pl

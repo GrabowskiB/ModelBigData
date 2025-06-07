@@ -1,0 +1,15 @@
+Data i godzina wydania: 20.08.2022 - godz. 16:37
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 97
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 16:38 dnia 20.08.2022 do godz. 07:00 dnia 21.08.2022
+Obszar: Bystrzyca górna do Zb. Mietków (dolnośląskie)
+Przebieg: W związku z gwałtownym wzrostem stanu wody spowodowanym kumulacją opadów burzowych, na Piławie w profilu Dzierżoniów będzie się utrzymywało przekroczenie stanu ostrzegawczego oraz istnieje możliwość przekroczenia progu stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Jan Szymankiewicz

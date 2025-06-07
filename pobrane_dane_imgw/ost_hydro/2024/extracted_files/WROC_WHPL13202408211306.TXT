@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.08.2024 - godz. 15:03
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 195
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 15:04 dnia 21.08.2024 do godz. 20:00 dnia 22.08.2024
+Obszar: Orla (dolnośląskie, wielkopolskie)
+Przebieg: W związku ze spływem wód opadowych w zlewni Orli prognozowana jest dalsza tendencja wzrostowa w strefie wody wysokiej, w Korzeńsku na Orli powyżej stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Orla od 15:04/21.08.2024 do 20:00/22.08.2024. W zwiazku ze splywem wod opadowych w zlewni Orli prognozowana jest dalsza tendencja wzrostowa w strefie wody wysokiej, w Korzensku na Orli powyzej stanu ostrzegawczego.  Szczegoly na meteo.imgw.pl

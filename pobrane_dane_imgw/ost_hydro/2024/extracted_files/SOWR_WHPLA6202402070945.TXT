@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.02.2024 - godz. 10:43
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 80
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:00 dnia 07.02.2024 do godz. 11:00 dnia 08.02.2024
+Obszar: Nurzec (podlaskie)
+Przebieg: W wyniku spływu wód opadowo-roztopowych w zlewni Nurca przewiduje się wzrost stanu wody, w Brańsku na Nurcu powyżej stanu ostrzegawczego
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Nurzec od 11:00/07.02.2024 do 11:00/08.02.2024. W wyniku splywu wod opadowo-roztopowych w zlewni Nurca przewiduje sie wzrost stanu wody, w Bransku na Nurcu powyzej stanu ostrzegawczego Szczegoly na meteo.imgw.pl

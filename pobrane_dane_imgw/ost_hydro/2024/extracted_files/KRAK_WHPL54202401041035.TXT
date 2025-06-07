@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.01.2024 - godz. 11:30
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 10 z dnia 03.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:40 dnia 04.01.2024 do godz. 12:00 dnia 05.01.2024
+Obszar: zlewnie Szkła, Lubaczówki, Tanwi, Trzebośnicy, Bukowej  (lubelskie, podkarpackie)
+Przebieg: W związku ze spływem wód opadowych prognozowany jest dalszy wzrost poziomu wody, przy aktualnie przekroczonych stanach umownych, z możliwością przekroczenia stanów ostrzegawczych w kolejnych profilach wodowskazowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy obszaru, czasu obowiązywania oraz przebiegu zjawiska.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie Szkla, Lubaczowki, Tanwi, Trzebosnicy, Bukowej  od 11:40/04.01.2024 do 12:00/05.01.2024. W zwiazku ze splywem wod opadowych prognozowany jest dalszy wzrost poziomu wody, przy aktualnie przekroczonych stanach umownych, z mozliwoscia przekroczenia stanow ostrzegawczych w kolejnych profilach wodowskazowych. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 09.04.2025 - godz. 11:43
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Odwołanie ostrzeżenia Nr: 1 z dnia 02.01.2025
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: zlewnia Pisy (podlaskie, warmińsko-mazurskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach, na obszarze zlewni Pisy spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenie zostaje odwołane ze względu na aktualizację warstwy ostrzeżeń hydrologicznych. Po aktualizacji nastąpi ponowne wydanie ostrzeżenia na suszę hydrologiczną z nowym numerem. 
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA zlewnia Pisy od - do -. W zwiazku z wystepujacymi niskimi przeplywami wody, w kolejnych dniach, na obszarze zlewni Pisy spodziewane jest dalsze utrzymywanie sie przeplywow wody ponizej SNQ. Szczegoly na meteo.imgw.pl

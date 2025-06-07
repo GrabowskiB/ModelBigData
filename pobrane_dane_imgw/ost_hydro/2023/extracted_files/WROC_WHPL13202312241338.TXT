@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.12.2023 - godz. 14:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 194 z dnia 23.12.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:36 dnia 24.12.2023 do godz. 13:00 dnia 25.12.2023
+Obszar: Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Oława górna do Zborowic, Bystrzyca górna do Zb. Mietków, Bystrzyca dolna (Czarna Woda i Strzegomka), Strzegomka do Łażan, Kaczawa górna do Dunina (dolnośląskie, opolskie)
+Przebieg: W okresie obowiązywania ostrzeżenia hydrologicznego, w związku z prognozowanymi opadami śniegu, a następnie opadami deszczu w warunkach ocieplenia, przewiduje się spływ wód opadowo-roztopowych i wzrosty stanów wody, odcinkami gwałtowne, w strefie wody wysokiej, z możliwością lokalnego przekraczania stanu ostrzegawczego szczególnie na rzece Kaczawie w Świerzawie, na rzece Bystrzycy w Kraskowie oraz na Pełcznicy w Świebodzicach. Na Kaczawie w Świerzawie niewykluczone przekroczenie stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy wydłużenia okresu ważności i uszczegółowienia przebiegu.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 rzeki podgorskie w zlewniach: Kaczawy, Bystrzycy, Nysy Klodzkiej, Olawy od 14:36/24.12.2023 do 13:00/25.12.2023. W okresie obowiazywania ostrzezenia hydrologicznego, w zwiazku z prognozowanymi opadami sniegu, a nastepnie opadami deszczu w warunkach ocieplenia, przewiduje sie splyw wod opadowo-roztopowych i wzrosty stanow wody, odcinkami gwaltowne, w strefie wody wysokiej, z mozliwoscia lokalnego przekraczania stanu ostrzegawczego szczegolnie na rzece Kaczawie w Swierzawie, na rzece Bystrzycy w Kraskowie oraz na Pelcznicy w Swiebodzicach. Na Kaczawie w Swierzawie niewykluczone przekroczenie stanu alarmowego. Szczegoly na meteo.imgw.pl

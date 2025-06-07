@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.07.2024 - godz. 15:25
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 328 z dnia 23.07.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Zlewnia Gostyni (śląskie)
+Przebieg: Prognozowane zjawisko nie wystąpi.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: 
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnia Gostyni od - do -. Prognozowane zjawisko nie wystapi. Szczegoly na meteo.imgw.pl

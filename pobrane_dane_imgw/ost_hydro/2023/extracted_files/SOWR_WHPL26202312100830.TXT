@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.12.2023 - godz. 09:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 100
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:29 dnia 10.12.2023 do godz. 09:00 dnia 11.12.2023
+Obszar: Czarna Włoszczowska (świętokrzyskie)
+Przebieg: W Januszewicach na Czarnej obserwowany jest wzrost stanu wody, a w ciągu najbliższej doby spodziewane jest przekroczenie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Czarna Wloszczowska od 09:29/10.12.2023 do 09:00/11.12.2023. W Januszewicach na Czarnej obserwowany jest wzrost stanu wody, a w ciagu najblizszej doby spodziewane jest przekroczenie stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

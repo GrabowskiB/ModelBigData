@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.06.2023 - godz. 13:56
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Zmiana ostrzeżenia Nr: 12 z dnia 05.06.2023
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 13:57 dnia 05.06.2023 do odwołania
+Obszar: Przyrzecze Warty środkowej od Wełny do Noteci (lubuskie, wielkopolskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na obszarze zlewni Przyrzecza Warty środkowej od Wełny do Noteci, spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 100%
+Uwagi: Zmiana dotyczy wyświetlania obszaru występowania zjawiska. 
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Przyrzecze Warty srodkowej od Welny do Noteci od 13:57/05.06.2023 do odwolania. W zwiazku z wystepujacymi niskimi przeplywami wody, w kolejnych dniach na obszarze zlewni Przyrzecza Warty srodkowej od Welny do Noteci, spodziewane jest dalsze utrzymywanie sie przeplywow wody ponizej SNQ. Szczegoly na meteo.imgw.pl

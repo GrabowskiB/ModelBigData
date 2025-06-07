@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.02.2024 - godz. 13:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 33 z dnia 05.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:29 dnia 07.02.2024 do godz. 14:00 dnia 08.02.2024
+Obszar: Zalew Wiślany i Żuławy (pomorskie, warmińsko-mazurskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną na Zalewie Wiślanym i na Żuławach prognozowane są wzrosty poziomów wody w strefie wody wysokiej i powyżej stanów ostrzegawczych. Lokalnie możliwe jest osiągnięcie stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zalew Wislany i Zulawy od 13:29/07.02.2024 do 14:00/08.02.2024. W zwiazku z prognozowana sytuacja meteorologiczna na Zalewie Wislanym i na Zulawach prognozowane sa wzrosty poziomow wody w strefie wody wysokiej i powyzej stanow ostrzegawczych. Lokalnie mozliwe jest osiagniecie stanow alarmowych. Szczegoly na meteo.imgw.pl

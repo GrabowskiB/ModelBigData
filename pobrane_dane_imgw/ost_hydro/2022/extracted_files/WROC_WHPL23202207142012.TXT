@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.07.2022 - godz. 22:09
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 64
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 22:10 dnia 14.07.2022 do godz. 05:00 dnia 15.07.2022
+Obszar: Kłodnica (opolskie, śląskie)
+Przebieg: W związku ze spływem wód opadowych stan wody gwałtownie podnosi się do strefy wody wysokiej. W Gliwicach możliwe przekroczenie stanu ostrzegawczego. Niewykluczone chwilowe osiągnięcie stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Kinga Strońska

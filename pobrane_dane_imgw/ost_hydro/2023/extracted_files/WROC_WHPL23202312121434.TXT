@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.12.2023 - godz. 15:31
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 180
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 15:31 dnia 12.12.2023 do godz. 10:00 dnia 14.12.2023
+Obszar: Bierawka (opolskie, śląskie)
+Przebieg: W wyniku spływu wód opadowo-roztopowych prognozowany jest dalszy, powolny wzrost stanu wody na Bierawce w strefie powyżej stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Bierawka od 15:31/12.12.2023 do 10:00/14.12.2023. W wyniku splywu wod opadowo-roztopowych prognozowany jest dalszy, powolny wzrost stanu wody na Bierawce w strefie powyzej stanu ostrzegawczego.  Szczegoly na meteo.imgw.pl

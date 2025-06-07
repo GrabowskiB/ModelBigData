@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.12.2023 - godz. 08:24
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 190
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 08:25 dnia 21.12.2023 do godz. 11:00 dnia 23.12.2023
+Obszar: Odra od Chałupek do Koźla, Bierawka, Nysa Kłodzka od Zb. Nysa do ujścia, Odra od ujścia Nysy Kłodzkiej do ujścia Widawy, Stobrawa, Oława od Zborowic do ujścia do Odry, Oława górna do Zborowic, Oława od Zborowic do ujścia, Ślęza od Borowa do ujścia do Odry, Ślęza górna do Borowa, Ślęza od Borowa do ujścia, Bystrzyca dolna (Czarna Woda i Strzegomka), Strzegomka od Zb. Dobromierz do ujścia do Bystrzycy, Strzegomka do Łażan, Kaczawa od Dunina do ujścia do Odry, Kaczawa górna do Dunina, Kaczawa od Dunina (bez górnej Skorej) do ujścia, Skora (górna), Bóbr od Zb. Pilchowice do Bobrzycy, Bóbr od Bobrzycy do ujścia (bez Kwisy i Czernej Wielkiej), Czerna Wielka, Nysa Łużycka do Zgorzelca, Nysa Łużycka od Zgorzelca do ujścia (dolnośląskie, lubuskie, opolskie, śląskie)
+Przebieg: W związku z prognozowanymi opadami deszczu oraz spływem wód opadowych przewidywane są wzrosty stanów wody do strefy wody wysokiej i w strefie wody wysokiej, z możliwością przekroczenia stanów ostrzegawczych w kolejnych profilach, szczególnie w zlewni Stobrawy, Kaczawy, Bobru oraz Nysy Łużyckiej. Punktowo nie wyklucza się możliwości przekroczenia stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie może być aktualizowane.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnie doplywow  gornej i srodkowej Odry od 08:25/21.12.2023 do 11:00/23.12.2023. W zwiazku z prognozowanymi opadami deszczu oraz splywem wod opadowych przewidywane sa wzrosty stanow wody do strefy wody wysokiej i w strefie wody wysokiej, z mozliwoscia przekroczenia stanow ostrzegawczych w kolejnych profilach, szczegolnie w zlewni Stobrawy, Kaczawy, Bobru oraz Nysy Luzyckiej. Punktowo nie wyklucza sie mozliwosci przekroczenia stanu alarmowego. Szczegoly na meteo.imgw.pl

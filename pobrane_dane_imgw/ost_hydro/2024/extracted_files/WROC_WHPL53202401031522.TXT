@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.01.2024 - godz. 16:19
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 7
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 16:19 dnia 03.01.2024 do godz. 16:00 dnia 04.01.2024
+Obszar: Bierawka (opolskie, śląskie)
+Przebieg: Spływ wody po opadach ubiegłych i prognozowanych będzie powodował dalsze wzrosty stanu wody powyżej stanu ostrzegawczego z możliwością osiągnięcia lub niewielkiego przekroczenia stanu alarmowego w Grabówce.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bierawka od 16:19/03.01.2024 do 16:00/04.01.2024. dalsze wzrosty stanu wody powyzej stanu ostrzegawczego z mozliwoscia osiagniecia lub niewielkiego przekroczenia stanu alarmowego w Grabowce Szczegoly na meteo.imgw.pl

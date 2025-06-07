@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.06.2022 - godz. 07:10
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 64
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:11 dnia 10.06.2022 do godz. 20:00 dnia 10.06.2022
+Obszar: Brynica od zb. Kozłowa Góra (śląskie)
+Przebieg:  W związku ze spływem wód opadowych i pracą zbiornika Kozłowa Góra obserwowany będzie dalszy wzrost poziomu wody, w strefie stanów wysokich, z przekroczeniami stanów ostrzegawczych i alarmowych, (z możliwością przekroczenia w kolejnych profilach wodowskazowych.)
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska Ostrzeżenie może ulec zmianie. 
+
+Dyżurny synoptyk hydrolog: Artur Franczyk

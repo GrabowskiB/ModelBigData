@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.02.2024 - godz. 09:09
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 41
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 09:10 dnia 05.02.2024 do godz. 11:00 dnia 08.02.2024
+Obszar: Barycz bez Orli i Polskiego Rowu, Orla (dolnośląskie, wielkopolskie)
+Przebieg: Spływ wody po występujących i prognozowanych opadach deszczu będzie powodował ponowne wzrosty stanów wody powyżej stanów alarmowych w Kanclerzowicach na Sąsiecznicy i w Korzeńsku na Orli.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Barycz bez Orli i Polskiego Rowu, Orla od 09:10/05.02.2024 do 11:00/08.02.2024. Splyw wody po wystepujacych i prognozowanych opadach deszczu bedzie powodowal ponowne wzrosty stanow wody powyzej stanow alarmowych w Kanclerzowicach na Sasiecznicy i w Korzensku na Orli. Szczegoly na meteo.imgw.pl

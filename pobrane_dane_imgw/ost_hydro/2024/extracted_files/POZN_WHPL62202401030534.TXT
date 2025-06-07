@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.01.2024 - godz. 06:32
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 2
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 06:33 dnia 03.01.2024 do godz. 12:00 dnia 04.01.2024
+Obszar: Prosna górna (opolskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej w Gorzowie Śląskim na górnej Prośnie prognozowane są wzrosty stanu wody w strefie stanów wysokich z przekroczeniem stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Prosna gorna od 06:33/03.01.2024 do 12:00/04.01.2024. W zwiazku z rozwojem sytuacji hydrologicznej w Gorzowie Slaskim na gornej Prosnie prognozowane sa wzrosty stanu wody w strefie stanow wysokich z przekroczeniem stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

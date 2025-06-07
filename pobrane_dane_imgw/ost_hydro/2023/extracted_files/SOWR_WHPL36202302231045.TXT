@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.02.2023 - godz. 11:40
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 17
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:00 dnia 23.02.2023 do godz. 12:00 dnia 25.02.2023
+Obszar: Wisła od ujścia Narwi do Zb. Włocławek (mazowieckie)
+Przebieg: W związku ze spływem wód z górnej części dorzecza, na Wiśle poniżej ujścia Narwi przewiduje się wzrosty stanu wody, z przekroczeniem stanu ostrzegawczego w Wyszogrodzie i Kępie Polskiej.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Aleksandra Najda

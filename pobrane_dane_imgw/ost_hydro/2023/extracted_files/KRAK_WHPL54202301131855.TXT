@@ -1,0 +1,15 @@
+Data i godzina wydania: 13.01.2023 - godz. 19:52
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 6
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 21:00 dnia 13.01.2023 do godz. 13:00 dnia 15.01.2023
+Obszar: Bug od ujścia Uherki do Krzyczewa (lubelskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, prognozowany jest dalszy wzrost poziomu wody w strefie stanów wysokich z przekroczeniem stanu ostrzegawczego na Bugu w profilu Krzyczew.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Artur Franczyk

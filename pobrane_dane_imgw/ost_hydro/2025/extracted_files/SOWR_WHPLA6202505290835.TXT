@@ -1,0 +1,15 @@
+Data i godzina wydania: 29.05.2025 - godz. 10:32
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Zmiana ostrzeżenia Nr: 25 z dnia 29.05.2025
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 13:00 dnia 29.05.2025 do godz. 20:00 dnia 29.05.2025
+Obszar: Górna Narew, Supraśl, Biebrza, Bug, Nurzec, Niemen, Leśna (mazowieckie, podlaskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Zmiana dotyczy korekty czasu obowiązywania ostrzeżenia. 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Gorna Narew, Suprasl, Biebrza, Bug, Nurzec, Niemen, Lesna od 13:00/29.05.2025 do 20:00/29.05.2025. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 31.03.2023 - godz. 14:31
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 40
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 20:00 dnia 31.03.2023 do godz. 11:00 dnia 01.04.2023
+Obszar: Wybrzeże Zachodnie i morskie wody wewnętrzne RP - Bałtyk Południowy (zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną, wzdłuż Wybrzeża Zachodniego przewidywane są wzrosty poziomów wody do strefy wody wysokiej. Lokalnie możliwe jest osiągnięcie stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Ostrzeżenie może być kontynuowane.
+
+Dyżurny synoptyk hydrolog: Anna Kubicka

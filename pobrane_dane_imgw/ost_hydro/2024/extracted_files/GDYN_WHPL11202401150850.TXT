@@ -1,0 +1,15 @@
+Data i godzina wydania: 15.01.2024 - godz. 09:44
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 5
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:00 dnia 15.01.2024 do godz. 09:00 dnia 17.01.2024
+Obszar: Zalew Szczeciński, Cieśnina Dziwna (rz) (zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną na Zalewie Szczecińskim przewidywane są wzrosty poziomu wody powyżej stanu ostrzegawczego, lokalnie z możliwością przekroczenia stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zalew Szczecinski, Ciesnina Dziwna (rz) od 11:00/15.01.2024 do 09:00/17.01.2024. W zwiazku z prognozowana sytuacja meteorologiczna na Zalewie Szczecinskim przewidywane sa wzrosty poziomu wody powyzej stanu ostrzegawczego, lokalnie z mozliwoscia przekroczenia stanu alarmowego. Szczegoly na meteo.imgw.pl

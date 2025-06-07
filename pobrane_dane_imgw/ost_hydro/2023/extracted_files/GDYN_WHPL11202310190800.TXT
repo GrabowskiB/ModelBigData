@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.10.2023 - godz. 09:56
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 127
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:01 dnia 19.10.2023 do godz. 12:00 dnia 21.10.2023
+Obszar: Zalew Szczeciński, Cieśnina Dziwna (rz) (zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną, na Zalewie Szczecińskim przewiduje się lokalnie przekroczenie stanów alarmowych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Zalew Szczecinski, Ciesnina Dziwna (rz) od 12:01/19.10.2023 do 12:00/21.10.2023. W zwiazku z prognozowana sytuacja meteorologiczna, na Zalewie Szczecinskim przewiduje sie lokalnie przekroczenie stanow alarmowych.  Szczegoly na meteo.imgw.pl

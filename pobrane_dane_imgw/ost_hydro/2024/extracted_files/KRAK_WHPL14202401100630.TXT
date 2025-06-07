@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.01.2024 - godz. 07:26
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 28 z dnia 10.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Przemsza do ujścia Brynicy (śląskie)
+Przebieg: Przewidywane zjawisko nie wystąpi.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Przemsza do ujscia Brynicy od - do -. Przewidywane zjawisko nie wystapi. Szczegoly na meteo.imgw.pl

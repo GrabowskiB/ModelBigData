@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.04.2025 - godz. 20:53
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 36 z dnia 25.04.2025
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Mała Wisła, Soła  (śląskie)
+Przebieg: Prognozowane zjawisko nie wystąpi.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Mala Wisla, Sola  od - do -. Prognozowane zjawisko nie wystapi. Szczegoly na meteo.imgw.pl

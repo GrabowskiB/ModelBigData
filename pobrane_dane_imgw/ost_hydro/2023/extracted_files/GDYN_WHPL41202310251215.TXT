@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.10.2023 - godz. 14:12
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 133 z dnia 24.10.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:12 dnia 25.10.2023 do godz. 10:00 dnia 27.10.2023
+Obszar: Zalew Wiślany i Żuławy (pomorskie, warmińsko-mazurskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną na Zalewie Wiślanym i na Żuławach przewidywane są wzrosty poziomów wody do strefy wody wysokiej, lokalnie z możliwością osiągnięcia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Zmiana dotyczy czasu obowiązywania ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zalew Wislany i Zulawy od 14:12/25.10.2023 do 10:00/27.10.2023. W zwiazku z prognozowana sytuacja meteorologiczna na Zalewie Wislanym i na Zulawach przewidywane sa wzrosty poziomow wody do strefy wody wysokiej, lokalnie z mozliwoscia osiagniecia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

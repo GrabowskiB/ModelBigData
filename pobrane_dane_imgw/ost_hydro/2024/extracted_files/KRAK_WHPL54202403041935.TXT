@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.03.2024 - godz. 20:33
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 104
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 23:00 dnia 04.03.2024 do godz. 20:00 dnia 05.03.2024
+Obszar: Rzeka Wieprz od zb. Nielisz do ujścia Bystrzycy oraz Huczwa i Krzna (lubelskie)
+Przebieg: W wyniku spływu wód opadowych na Wieprzu poniżej zb. Nielisz, spodziewane są wzrosty poziomu wody przy przekroczonych stanach ostrzegawczych na stacjach hydrologicznych Krasnystaw i Trawniki. Na Wieprzu w Wirkowicach poziom wody może wzrastać przy stanie zbliżonym do ostrzegawczego bądź nieznacznie go przekroczyć. Jednocześnie na Huczwie w Gozdowie spodziewany jest dalszy wzrost poziomu wody z przekroczeniem stanu ostrzegawczego w w drugiej części nocy. Na Krznie w Malowej Górze w wyniku spływu wód opadowych w drugiej części nocy poziom wody może wzrastać przy przekroczonym stanie ostrzegawczym.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Rzeka Wieprz od zb. Nielisz do ujscia Bystrzycy oraz Huczwa i Krzna od 23:00/04.03.2024 do 20:00/05.03.2024. W wyniku splywu wod opadowych na Wieprzu ponizej zb. Nielisz, spodziewane sa wzrosty poziomu wody przy przekroczonych stanach ostrzegawczych na stacjach hydrologicznych Krasnystaw i Trawniki. Na Wieprzu w Wirkowicach poziom wody moze wzrastac przy stanie zblizonym do ostrzegawczego badz nieznacznie go przekroczyc. Jednoczesnie na Huczwie w Gozdowie spodziewany jest dalszy wzrost poziomu wody z przekroczeniem stanu ostrzegawczego w w drugiej czesci nocy. Na Krznie w Malowej Gorze w wyniku splywu wod opadowych w drugiej czesci nocy poziom wody moze wzrastac przy przekroczonym stanie ostrzegawczym. Szczegoly na meteo.imgw.pl

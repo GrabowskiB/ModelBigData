@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.11.2023 - godz. 07:45
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 162
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:45 dnia 21.11.2023 do godz. 09:00 dnia 22.11.2023
+Obszar: Bystrzyca dolna (Czarna Woda i Strzegomka), Odra od ujścia Widawy do Ścinawy, Kaczawa od Dunina (bez górnej Skorej) do ujścia, Odra od Ścinawy do Głogowa, Bóbr od Bobrzycy do ujścia (bez Kwisy i Czernej Wielkiej), Czerna Wielka, Nysa Łużycka od Zgorzelca do ujścia (dolnośląskie, lubuskie)
+Przebieg: Na obszarze objętym ostrzeżeniem hydrologicznym przewiduje się dalsze wzrosty stanu wody w strefie wody wysokiej, miejscami z przekroczeniem stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 dopl. Odry srodk. i zlewnie jej doplywow od Slezy do Nysy Luzyckiej od 07:45/21.11.2023 do 09:00/22.11.2023. wzrosty w strefie wody wysokiej, miejscami st. ostrzeg. Szczegoly na meteo.imgw.pl

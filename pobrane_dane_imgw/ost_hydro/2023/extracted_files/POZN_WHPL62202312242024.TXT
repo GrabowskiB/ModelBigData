@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.12.2023 - godz. 21:22
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 102
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 21:23 dnia 24.12.2023 do godz. 11:00 dnia 26.12.2023
+Obszar: Prosna górna (łódzkie, opolskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną, w Gorzowie Śląskim na Prośnie spodziewane jest przekroczenie stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Prosna gorna od 21:23/24.12.2023 do 11:00/26.12.2023. W zwiazku z prognozowana sytuacja meteorologiczna, w Gorzowie Slaskim na Prosnie spodziewane jest przekroczenie stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

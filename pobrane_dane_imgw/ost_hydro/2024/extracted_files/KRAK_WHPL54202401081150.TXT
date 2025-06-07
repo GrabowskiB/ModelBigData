@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.01.2024 - godz. 12:47
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 11 z dnia 07.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:47 dnia 08.01.2024 do godz. 15:00 dnia 09.01.2024
+Obszar: Bug do ujścia Uherki (lubelskie)
+Przebieg: W związku ze spływem wód opadowych na Bugu prognozowane są dalsze wzrosty, przy aktualnie przekroczonym stanie ostrzegawczym w profilu Dorohusk.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy obszaru, przebiegu zjawiska oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bug do ujscia Uherki od 12:47/08.01.2024 do 15:00/09.01.2024. W zwiazku ze splywem wod opadowych na Bugu prognozowane sa dalsze wzrosty, przy aktualnie przekroczonym stanie ostrzegawczym w profilu Dorohusk. Szczegoly na meteo.imgw.pl

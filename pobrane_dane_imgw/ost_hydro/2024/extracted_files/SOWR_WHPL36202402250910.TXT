@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.02.2024 - godz. 10:04
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Zmiana ostrzeżenia Nr: 122 z dnia 23.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 10:05 dnia 25.02.2024 do godz. 12:00 dnia 26.02.2024
+Obszar: Bug (mazowieckie)
+Przebieg: W związku ze spływem wód opadowych, na Bugu przewidywane są lokalne wzrosty stanów wody, przy przekroczonych stanach ostrzegawczych oraz stanie alarmowym w Popowie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Bug od 10:05/25.02.2024 do 12:00/26.02.2024. W zwiazku ze splywem wod opadowych, na Bugu przewidywane sa lokalne wzrosty stanow wody, przy przekroczonych stanach ostrzegawczych oraz stanie alarmowym w Popowie. Szczegoly na meteo.imgw.pl

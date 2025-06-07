@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.12.2023 - godz. 20:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 168
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 20:58 dnia 10.12.2023 do godz. 09:00 dnia 11.12.2023
+Obszar: Kaczawa górna do Dunina, Skora (górna), Bóbr do Zb. Pilchowice, Kwisa górna do Zb. Leśna (dolnośląskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych w zlewniach Kaczawy, Skory, Bobru i Kwisy obserwowane i prognozowane są wzrosty stanów wody w strefie wody wysokiej. Na stacjach hydrologicznych Świerzawa, Zagrodno, Barcinek i Mirsk spodziewane jest przekroczenie progu ostrzegawczego w najbliższych godzinach.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnie Kaczawy, Skory, Bobru i Kwisy od 20:58/10.12.2023 do 09:00/11.12.2023. W zwiazku ze splywem wod opadowo-roztopowych w zlewniach Kaczawy, Skory, Bobru i Kwisy obserwowane i prognozowane sa wzrosty stanow wody w strefie wody wysokiej. Na stacjach hydrologicznych Swierzawa, Zagrodno, Barcinek i Mirsk spodziewane jest przekroczenie progu ostrzegawczego w najblizszych godzinach. Szczegoly na meteo.imgw.pl

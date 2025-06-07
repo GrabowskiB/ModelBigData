@@ -1,0 +1,15 @@
+Data i godzina wydania: 13.07.2023 - godz. 17:17
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 202
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 17:18 dnia 13.07.2023 do godz. 12:00 dnia 14.07.2023
+Obszar: odcinek Małej Wisły od zb. Goczałkowice do ujścia Przemszy (śląskie)
+Przebieg: W związku ze spływem wód opadowych, na Małej Wiśle poniżej zbiornika Goczałkowice prognozowany jest dalszy wzrost poziomu wody w strefie stanów wysokich. W profilu wodowskazowym Jawiszowice prognozowane jest przekroczenie stanu ostrzegawczego. Istnieje też możliwość osiągnięcia stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 odcinek Malej Wisly od zb. Goczalkowice do ujscia Przemszy od 17:18/13.07.2023 do 12:00/14.07.2023. W zwiazku ze splywem wod opadowych, na Malej Wisle ponizej zbiornika Goczalkowice prognozowany jest dalszy wzrost poziomu wody w strefie stanow wysokich. W profilu wodowskazowym Jawiszowice prognozowane jest przekroczenie stanu ostrzegawczego. Istnieje tez mozliwosc osiagniecia stanu alarmowego. Szczegoly na meteo.imgw.pl

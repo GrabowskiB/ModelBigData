@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.06.2023 - godz. 14:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 175
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:55 dnia 24.06.2023 do godz. 21:00 dnia 24.06.2023
+Obszar: zlewnia Jasiołki (podkarpackie)
+Przebieg: W związku ze spływem wód opadowych prognozowany jest dalszy wzrost poziomu wody w strefie stanów wysokich, punktowo powyżej stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Jasiolki od 14:55/24.06.2023 do 21:00/24.06.2023. W zwiazku ze splywem wod opadowych prognozowany jest dalszy wzrost poziomu wody w strefie stanow wysokich, punktowo powyzej stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

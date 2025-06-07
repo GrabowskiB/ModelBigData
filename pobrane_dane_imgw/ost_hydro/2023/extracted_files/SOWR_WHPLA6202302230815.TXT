@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.02.2023 - godz. 09:11
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 16
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:30 dnia 23.02.2023 do godz. 09:30 dnia 25.02.2023
+Obszar: Górna Narew (podlaskie)
+Przebieg: W związku ze spływem wody z górnej części zlewni przewiduje się wzrost stanu wody na górnej Narwi, z przekroczeniem stanu ostrzegawczego w Narwi, przy przekroczonym stanie ostrzegawczym w Ploskach.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Aleksandra Najda

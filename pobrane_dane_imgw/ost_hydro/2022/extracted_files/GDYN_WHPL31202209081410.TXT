@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.09.2022 - godz. 16:07
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 100
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 22:00 dnia 08.09.2022 do godz. 11:00 dnia 09.09.2022
+Obszar: Łeba od źródła do Lęborka 2, Przymorze od Łeby do Redy, Reda, Przymorze od Redy do Martwej Wisły, Martwa Wisła, Przymorze od Martwej Wisły do Wisły, Przymorze od Wisły do granicy państwa na Mierzei Wiślanej, Zlewnia Zalewu Wiślanego do Nogatu, Elbląg, Nogat, Wisła od Torunia do Tczewa (zl), Wda od źródła po Czarną Wodę, Wda od Czarnej Wody do ujścia, Wierzyca od źródła do Bożegopola Szlacheckiego, Wierzyca od Bożegopola Szlacheckiego do ujścia, Osa, Drwęca od Rypienicy do ujścia, Drwęca od Welu do Rypienicy (kujawsko-pomorskie, pomorskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu, w tym również o charakterze burzowym, w zlewniach rzek Przymorza oraz rzek uchodzących do Zatoki Gdańskiej, w zlewniach dopływów Wisły oraz na Żuławach, spodziewane są lokalne wzrosty poziomu wody. W obszarach występowania prognozowanych intensywnych opadów, na mniejszych rzekach a zwłaszcza w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Informacja wydana w związku z intensywnymi opadami deszczu w tym o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego wystąpienia może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich). W przypadku istotnych zmian w czasie lub przebiegu zjawiska Ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Arkadiusz Fabrycki

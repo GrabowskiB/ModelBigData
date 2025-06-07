@@ -1,0 +1,15 @@
+Data i godzina wydania: 15.09.2024 - godz. 13:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 206
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 13:36 dnia 15.09.2024 do godz. 00:00 dnia 16.09.2024
+Obszar: Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką (dolnośląskie)
+Przebieg: W związku z katastrofą zapory zbiornika w Stroniu Śląskim, stany wody na Białej Lądeckiej i dalej na Nysie Kłodzkiej wzrosną gwałtownie do poziomów dotąd nienotowanych - w Żelaźnie możliwy stan wody sięgający 470 cm, w Kłodzku 750 cm, a w Bardzie 740 cm.
+
+Prawdopodobieństwo wystąpienia zjawiska: 100%
+Uwagi: Ostrzeżenie może być aktualizowane.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Nysa Klodzka do Zb. Nysa, Nysa Klodzka ze Scinawka od 13:36/15.09.2024 do 00:00/16.09.2024. W zwiazku z katastrofa zapory zbiornika w Stroniu Slaskim, stany wody na Bialej Ladeckiej i dalej na Nysie Klodzkiej wzrosna gwaltownie do poziomow dotad nienotowanych - w Zelaznie mozliwy stan wody siegajacy 470 cm, w Klodzku 750 cm, a w Bardzie 740 cm. Szczegoly na meteo.imgw.pl

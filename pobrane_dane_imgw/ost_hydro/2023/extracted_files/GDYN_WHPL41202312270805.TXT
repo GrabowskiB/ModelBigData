@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.12.2023 - godz. 09:02
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 160 z dnia 26.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:03 dnia 27.12.2023 do godz. 10:00 dnia 28.12.2023
+Obszar: Pasłęka od Wałszy do ujścia (warmińsko-mazurskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej w zlewni Pasłęki przewidywane jest utrzymanie się poziomów wody w strefie wody wysokiej, lokalnie powyżej stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy przebiegu zjawiska i czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Pasleka od Walszy do ujscia od 09:03/27.12.2023 do 10:00/28.12.2023. W zwiazku z rozwojem sytuacji hydrologicznej w zlewni Pasleki przewidywane jest utrzymanie sie poziomow wody w strefie wody wysokiej, lokalnie powyzej stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

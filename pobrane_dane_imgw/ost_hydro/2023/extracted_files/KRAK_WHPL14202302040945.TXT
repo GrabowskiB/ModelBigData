@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.02.2023 - godz. 10:41
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 27
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:41 dnia 04.02.2023 do godz. 23:00 dnia 04.02.2023
+Obszar: Mała Wisła od zb. Goczałkowice do ujścia Przemszy (małopolskie, śląskie)
+Przebieg: Na Małej Wiśle prognozowany jest dalszy wzrost poziomu wody w strefie stanów wysokich. W profilu Jawiszowice nieznacznie zostanie przekroczony stan ostrzegawczy.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Aleksandra Chamerlińska-Kulka

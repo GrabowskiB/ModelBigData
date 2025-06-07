@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.12.2023 - godz. 21:47
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 205
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 21:48 dnia 24.12.2023 do godz. 15:00 dnia 26.12.2023
+Obszar: Bóbr od Szprotawy do ujścia do Odry (lubuskie)
+Przebieg: W związku ze spływem wód opadowo - roztopowych prognozowane są dalsze wzrosty stanów z możliwością przekroczenia stanów ostrzegawczych, a w Żaganiu powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bobr od Szprotawy do ujscia do Odry od 21:48/24.12.2023 do 15:00/26.12.2023. W zwiazku ze splywem wod opadowo - roztopowych prognozowane sa dalsze wzrosty stanow z mozliwoscia przekroczenia stanow ostrzegawczych, a w Zaganiu powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

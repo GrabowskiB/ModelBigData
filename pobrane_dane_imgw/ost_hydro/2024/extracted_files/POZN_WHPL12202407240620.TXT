@@ -1,0 +1,17 @@
+Data i godzina wydania: 24.07.2024 - godz. 08:18
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 123
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 09:00 dnia 24.07.2024 do godz. 16:00 dnia 24.07.2024
+Obszar: Kanał Mosiński, Warta środkowa od Wełny do Noteci, Noteć środkowa, Drawa, Noteć dolna, Warta dolna od Noteci do ujścia, Obra, Odra dolna od Warty do Gryfina, Ina i Płonia (lubuskie, wielkopolskie, zachodniopomorskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody.
+
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Kan. Mosinski, Warta od Welny do ujscia, Notec, Obra, Odra dolna, Ina i Plonia od 09:00/24.07.2024 do 16:00/24.07.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody.
+ Szczegoly na meteo.imgw.pl

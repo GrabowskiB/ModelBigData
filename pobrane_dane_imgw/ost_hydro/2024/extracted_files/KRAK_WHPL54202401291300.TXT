@@ -1,0 +1,15 @@
+Data i godzina wydania: 29.01.2024 - godz. 13:56
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 62 z dnia 28.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 15:00 dnia 29.01.2024 do godz. 15:00 dnia 30.01.2024
+Obszar: Wieprz od zb. Nielisz do ujścia Bystrzycy, Huczwa, Bug do Krzyczewa (lubelskie)
+Przebieg: Prognozowane są dalsze wzrosty poziomu wody, przy przekroczonych aktualnie stanach ostrzegawczych na Wieprzu w Wirkowicach, Krasnymstawie i Trawnikach. Na Bugu poziom wody będzie również wzrastał powyżej stanu ostrzegawczego w Dorohusku, z przekroczeniem tego stanu na stacjach hydrologicznych: Strzyżów, Włodawa oraz Krzyczew. Na Huczwie w Gozdowie poziom wody będzie się utrzymywał nieznacznie powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy treści przebiegu oraz czasu obowiązywania ostrzeżenia. W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wieprz od zb. Nielisz do ujscia Bystrzycy, Huczwa, Bug do Krzyczewa od 15:00/29.01.2024 do 15:00/30.01.2024. Prognozowane sa dalsze wzrosty poziomu wody, przy przekroczonych aktualnie stanach ostrzegawczych na Wieprzu w Wirkowicach, Krasnymstawie i Trawnikach. Na Bugu poziom wody bedzie rowniez wzrastal powyzej stanu ostrzegawczego w Dorohusku, z przekroczeniem tego stanu na stacjach hydrologicznych: Strzyzow, Wlodawa oraz Krzyczew. Na Huczwie w Gozdowie poziom wody bedzie sie utrzymywal nieznacznie powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

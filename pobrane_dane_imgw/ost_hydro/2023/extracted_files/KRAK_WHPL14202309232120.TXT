@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.09.2023 - godz. 23:15
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 336 z dnia 23.09.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: zlewnie Małej Wisły, Przemszy, Soły  (śląskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie Malej Wisly, Przemszy, Soly  od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

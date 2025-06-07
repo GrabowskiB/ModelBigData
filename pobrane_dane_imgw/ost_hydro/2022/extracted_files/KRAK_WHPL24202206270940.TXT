@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.06.2022 - godz. 11:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 88
+Zjawisko: susza hydrologiczna
+Stopień: -1
+
+Ważność: od godz. 11:36 dnia 27.06.2022 do odwołania
+Obszar: Zlewnia Przemszy i przyrzecze Wisły (małopolskie, śląskie)
+Przebieg: W związku z występującymi niskimi przepływami wody oraz prognozowanymi nieznacznymi opadami atmosferycznymi, w kolejnych dniach w zlewni Przemszy i przyrzeczu Wisły spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 100%
+Uwagi: Ostrzeżenia wydawane są w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni.
+
+Dyżurny synoptyk hydrolog: Przemysław  Plewa

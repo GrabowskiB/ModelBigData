@@ -1,0 +1,15 @@
+Data i godzina wydania: 18.08.2024 - godz. 04:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 181 z dnia 17.08.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 04:36 dnia 18.08.2024 do godz. 12:00 dnia 18.08.2024
+Obszar: Odra od Chałupek do Koźla, Olza od Cieszyna do ujścia do Odry, Olza, Czadeczka, Psina, Ruda od Zb. Rybnik do ujścia do Odry, Ruda, Bierawka, Kłodnica od Zb. Dzierżno Duże do ujścia do Odry, Kłodnica, Mała Panew od Krupskiego Młyna do Zb. Turawa, Mała Panew (śląskie)
+Przebieg: W obszarach występowania burz z bardzo silnymi opadami deszczu stany wody będą gwałtownie podnosić się w strefach wody średniej i wysokiej, lokalnie możliwe są przekroczenia stanów ostrzegawczych, zwłaszcza na rzekach górskich i podgórskich oraz w obszarach silnie zurbanizowanych. Punktowo i chwilowo niewykluczone przekroczenia stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Zmiana dotyczy obszaru oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Odra, Olza, Psina, Ruda, Bierawka, Klodnica, Mala Panew  od 04:36/18.08.2024 do 12:00/18.08.2024. W obszarach wystepowania burz z bardzo silnymi opadami deszczu stany wody beda gwaltownie podnosic sie w strefach wody sredniej i wysokiej, lokalnie mozliwe sa przekroczenia stanow ostrzegawczych, zwlaszcza na rzekach gorskich i podgorskich oraz w obszarach silnie zurbanizowanych. Punktowo i chwilowo niewykluczone przekroczenia stanow alarmowych. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.08.2023 - godz. 15:42
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 256
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 18:00 dnia 05.08.2023 do godz. 00:00 dnia 07.08.2023
+Obszar: Zlewnia Nidy, Czarnej (Staszowskiej),  Koprzywianka i przyrzecze Wisły (świętokrzyskie)
+Przebieg: W obszarach występowania prognozowanych silnych opadów deszczu (punktowo także burzowych), spodziewane są dalsze wzrosty poziomu wody, lokalnie do strefy stanów wysokich. Na mniejszych rzekach wzrosty mogą mieć charakter gwałtowny. W miejscach wystąpienia szczególnie intensywnych opadów, lokalnie istnieje możliwość przekroczenia kolejnych stanów ostrzegawczych, a punktowo także alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnia Nidy, Czarnej (Staszowskiej),  Koprzywianka i przyrzecze Wisly od 18:00/05.08.2023 do 00:00/07.08.2023. W obszarach wystepowania prognozowanych silnych opadow deszczu (punktowo takze burzowych), spodziewane sa dalsze wzrosty poziomu wody, lokalnie do strefy stanow wysokich. Na mniejszych rzekach wzrosty moga miec charakter gwaltowny. W miejscach wystapienia szczegolnie intensywnych opadow, lokalnie istnieje mozliwosc przekroczenia kolejnych stanow ostrzegawczych, a punktowo takze alarmowych. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.06.2022 - godz. 22:38
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 29
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 03:00 dnia 04.06.2022 do godz. 09:00 dnia 04.06.2022
+Obszar: Zlewnie lewostronnych dopływów środkowej Odry, zlewnie dopływów górnej Odry (dolnośląskie, opolskie, śląskie)
+Przebieg: W miejscach wystąpienia szczególnie intensywnego deszczu w krótkim czasie, stany wody w ciekach, zwłaszcza małych zlewni i obszarów zurbanizowanych, mogą się gwałtownie i na krótko podnosić. Na rzekach kontrolowanych stany wody nie powinny sięgać wody wysokiej, a wyjątkowo ulewny deszcz może spowodować krótkotrwałe przekroczenie stanu ostrzegawczego w Świebodzicach na Pełcznicy i w Białobrzeziu na Ślęzie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego wystąpienia może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+Dyżurny synoptyk hydrolog: Wojciech Krasowski

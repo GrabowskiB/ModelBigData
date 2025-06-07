@@ -1,0 +1,15 @@
+Data i godzina wydania: 18.10.2023 - godz. 13:45
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 126
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:50 dnia 18.10.2023 do godz. 12:00 dnia 19.10.2023
+Obszar: Zlewnia Zalewu Wiślanego do Nogatu, Zalew Wiślany, Elbląg (pomorskie, warmińsko-mazurskie)
+Przebieg: W związku z wysokim napełnieniem Bałtyku (552 cm - 18.10.2023) i prognozowaną sytuacją meteorologiczną, przewidywane są wzrosty poziomów wody w strefie wody wysokiej, lokalnie powyżej stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Istnieje możliwość kontynuowania ostrzeżenia z wyższym stopniem.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnia Zalewu Wislanego do Nogatu, Zalew Wislany, Elblag od 13:50/18.10.2023 do 12:00/19.10.2023. W zwiazku z wysokim napelnieniem Baltyku (552 cm - 18.10.2023) i prognozowana sytuacja meteorologiczna, przewidywane sa wzrosty poziomow wody w strefie wody wysokiej, lokalnie powyzej stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

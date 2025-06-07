@@ -1,0 +1,15 @@
+Data i godzina wydania: 28.01.2024 - godz. 12:04
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 49
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:10 dnia 28.01.2024 do godz. 12:00 dnia 29.01.2024
+Obszar: rzeka Bug (mazowieckie)
+Przebieg: W związku z utrzymującym się na rzece lodem oraz spływem wód opadowo-roztopowych, w dolnym odcinku Bugu przewiduje się wahania stanu wody, przy przekroczonym stanie alarmowym w Małkinii, Wyszkowie i Popowie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 rzeka Bug od 12:10/28.01.2024 do 12:00/29.01.2024. W zwiazku z utrzymujacym sie na rzece lodem oraz splywem wod opadowo-roztopowych, w dolnym odcinku Bugu przewiduje sie wahania stanu wody, przy przekroczonym stanie alarmowym w Malkinii, Wyszkowie i Popowie. Szczegoly na meteo.imgw.pl

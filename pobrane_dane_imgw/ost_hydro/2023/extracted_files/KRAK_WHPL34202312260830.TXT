@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.12.2023 - godz. 09:25
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 405 z dnia 25.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:30 dnia 26.12.2023 do godz. 08:00 dnia 27.12.2023
+Obszar: zlewnia Nidy, Czarnej (Staszowskiej), Koprzywianki i górnej Kamiennej (świętokrzyskie)
+Przebieg: W wyniku spływu wód opadowo-roztopowych do niżej położonych części zlewni, lokalnie prognozowane są dalsze wzrosty bądź wahania poziomu wody przy aktualnie przekroczonych stanach ostrzegawczych. Punktowo istnieje możliwość przekroczenia bądź osiągnięcia stanów ostrzegawczych w kolejnych profilach wodowskazowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy wydłużenia okresu ważności, zwiększenia obszaru obowiązywania (o odcinek Nidy poniżej Czarnej Nidy oraz Czarnej Staszowskiej poniżej zb. Chańcza) oraz aktualizacji treści przebiegu.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Nidy, Czarnej (Staszowskiej), Koprzywianki i gornej Kamiennej od 09:30/26.12.2023 do 08:00/27.12.2023. W wyniku splywu wod opadowo-roztopowych do nizej polozonych czesci zlewni, lokalnie prognozowane sa dalsze wzrosty badz wahania poziomu wody przy aktualnie przekroczonych stanach ostrzegawczych. Punktowo istnieje mozliwosc przekroczenia badz osiagniecia stanow ostrzegawczych w kolejnych profilach wodowskazowych. Szczegoly na meteo.imgw.pl

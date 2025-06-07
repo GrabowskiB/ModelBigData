@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.01.2024 - godz. 10:27
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 55
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 10:27 dnia 26.01.2024 do godz. 13:00 dnia 27.01.2024
+Obszar: zlewnie Bobrzy, Koprzywianki oraz Kamiennej wraz ze zb. Brody Iłżeckie (świętokrzyskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych spodziewane są dalsze wzrosty poziomu wody, przy aktualnie przekroczonych stanach alarmowych, z możliwością przekroczenia stanu ostrzegawczego w Michałowie na Kamiennej. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 zlewnie Bobrzy, Koprzywianki oraz Kamiennej wraz ze zb. Brody Ilzeckie od 10:27/26.01.2024 do 13:00/27.01.2024. W zwiazku ze splywem wod opadowo-roztopowych spodziewane sa dalsze wzrosty poziomu wody, przy aktualnie przekroczonych stanach alarmowych, z mozliwoscia przekroczenia stanu ostrzegawczego w Michalowie na Kamiennej.  Szczegoly na meteo.imgw.pl

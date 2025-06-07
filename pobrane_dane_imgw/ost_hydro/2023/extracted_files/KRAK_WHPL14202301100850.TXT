@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.01.2023 - godz. 09:44
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 237
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 09:45 dnia 10.01.2023 do godz. 09:00 dnia 11.01.2023
+Obszar: Mała Wisła , Przemsza, Soła wraz z kaskadą zbiorników  (śląskie)
+Przebieg: W związku z występującymi i prognozowanymi opadami deszczu na rzekach spodziewane są wzrosty poziomu wody, miejscami gwałtowne. Punktowo istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska Ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Barbara Olearczyk-Siwik

@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.01.2023 - godz. 14:20
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 17
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:20 dnia 19.01.2023 do godz. 20:00 dnia 19.01.2023
+Obszar: Zlewnia Sanu wraz ze zb. Solina oraz zlewnia Solinki (podkarpackie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, możliwe są wzrosty poziomu wody, punktowo z przekroczeniem stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska Ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Barbara Olearczyk-Siwik

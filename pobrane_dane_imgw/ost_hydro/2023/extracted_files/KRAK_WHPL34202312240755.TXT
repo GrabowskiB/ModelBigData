@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.12.2023 - godz. 08:50
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 401
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:00 dnia 24.12.2023 do godz. 10:00 dnia 25.12.2023
+Obszar: Nida od ujścia Czarnej Nidy do ujścia (świętokrzyskie)
+Przebieg: Na Nidzie spodziewany jest dalszy wzrost poziomu wody, w Pińczowie powyżej stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Nida od ujscia Czarnej Nidy do ujscia od 09:00/24.12.2023 do 10:00/25.12.2023. Na Nidzie spodziewany jest dalszy wzrost poziomu wody, w Pinczowie powyzej stanu ostrzegawczego.  Szczegoly na meteo.imgw.pl

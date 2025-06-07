@@ -1,0 +1,17 @@
+Data i godzina wydania: 18.07.2018 - godz. 17:10
+Nazwa biura prognoz hydrologicznych: BPH IMGW-PIB O/Kraków ZHO Kraków
+
+OSTRZE¯ENIE HYDROLOGICZNE Nr O:2
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopieñ zagro¿enia: 3
+
+Wa¿noœæ: od godz. 18:00 dnia 18.07.2018 do godz. 12:00 dnia 19.07.2018
+Obszar: zlewnie So³y, Skawy, Raby, Dunajca, Ropy, mniejsze bezpoœrednie dop³ywy Wis³y (ma³opolskie)
+Przebieg: W zwi¹zku z wystêpuj¹cymi oraz w dalszym ci¹gu prognozowanymi intensywnymi opadami deszczu, w zlewniach: So³y poni¿ej kaskady zbiorników, Skawy, Raby, Dunajca, Ropy oraz na mniejszych bezpoœrednich dop³ywach Wis³y na terenie województwa, spodziewane s¹ dalsze wzrosty poziomu wody w strefie wody wysokiej z przekroczeniem stanów ostrzegawczych w kolejnych profilach wodowskazowych. W dalszej kolejnoœci spodziewane s¹ przekroczenia stanów alarmowych zw³aszcza w zlewniach Skawy, Raby oraz Dunajca. Stan alarmowy mo¿e zostaæ przekroczony tak¿e na Ma³ej Wiœle w profilu Jawiszowice.
+Prawdopodobieñstwo wyst¹pienia zjawiska: 75%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrze¿enie mo¿e ulec zmianie.
+
+Dy¿urny synoptyk hydrolog: Przemys³aw Plewa
+
+Wiadomoœæ SMS:
+IMGW-PIB OSTRZEGA:WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH I ALARMOWYCH/3 zl:soly,skawy,raby,dunajca,ropy(malop.) od18:00/18.07.do12:00/19.07.2018 

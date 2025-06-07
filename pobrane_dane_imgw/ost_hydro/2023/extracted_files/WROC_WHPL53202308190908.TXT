@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.08.2023 - godz. 11:06
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 128
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 12:00 dnia 19.08.2023 do godz. 05:00 dnia 20.08.2023
+Obszar: zlewnia górnej Odry i zlewnia Czadeczki (śląskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, szczególnie w terenie zurbanizowanym oraz na małych ciekach górskich i podgórskich, mogą wystąpić gwałtowne i krótkotrwałe wzrosty stanów wody. W Gliwicach na Kłodnicy oraz w Cieszynie na Olzie niewykluczony wzrost do stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad w miejscu swojego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia gornej Odry i zlewnia Czadeczki od 12:00/19.08.2023 do 05:00/20.08.2023. W obszarach wystepowania prognozowanych opadow burzowych, szczegolnie w terenie zurbanizowanym oraz na malych ciekach gorskich i podgorskich, moga wystapic gwaltowne i krotkotrwale wzrosty stanow wody. W Gliwicach na Klodnicy oraz w Cieszynie na Olzie niewykluczony wzrost do stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

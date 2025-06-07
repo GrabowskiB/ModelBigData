@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.04.2023 - godz. 09:21
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 47
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 09:22 dnia 14.04.2023 do godz. 09:00 dnia 15.04.2023
+Obszar: zlewnie lewostronnych dopływów środkowej Odry (dolnośląskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu oraz spływem wód opadowych przewidywane są dalsze wzrosty stanów wody do strefy wody wysokiej. Na mniejszych rzekach oraz w zlewniach zurbanizowanych wzrosty stanów wody mogą być gwałtowne. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych, a krótkotrwale także alarmowych (zwłaszcza w Ostróżnie na Witce, w Świebodzicach na Pełcznicy i w Szalejowie Dolnym na Bystrzycy Dusznickiej).
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Izabela Działa-Jekiel

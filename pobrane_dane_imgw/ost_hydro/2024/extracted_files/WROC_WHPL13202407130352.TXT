@@ -1,0 +1,15 @@
+Data i godzina wydania: 13.07.2024 - godz. 05:50
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 149
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 05:51 dnia 13.07.2024 do godz. 13:00 dnia 13.07.2024
+Obszar: Ślęza górna do Borowa (dolnośląskie)
+Przebieg: W związku ze spływem wód opadowych, przewiduje się dalsze wzrosty powyżej granicy stanu alarmowego na rzece Ślęza w profilu wodowskazowym Białobrzezie. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Sleza gorna do Borowa od 05:51/13.07.2024 do 13:00/13.07.2024. W zwiazku ze splywem wod opadowych, przewiduje sie dalsze wzrosty powyzej granicy stanu alarmowego, na rzece Sleza w profilu wodowskazowym Bialobrzezie.  Szczegoly na meteo.imgw.pl

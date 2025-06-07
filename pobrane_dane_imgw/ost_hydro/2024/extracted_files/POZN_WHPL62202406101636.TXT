@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.06.2024 - godz. 18:34
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Odwołanie ostrzeżenia Nr: 86 z dnia 10.06.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Warta górna do Poraja, Warta górna od Poraja do Liswarty, Liswarta, Warta górna od Liswarty do Widawki, Warta górna od Widawki do Zb. Jeziorsko, Oleśnica, Grabia, Nieciecz, Widawka, Ner, Prosna górna (łódzkie, opolskie, śląskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia Warty gornej do Zb. Jeziorsko, gorna Prosna i Ner od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

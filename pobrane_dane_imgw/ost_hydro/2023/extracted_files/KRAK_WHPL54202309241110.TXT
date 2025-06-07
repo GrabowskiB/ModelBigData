@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.09.2023 - godz. 13:07
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 341
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 13:07 dnia 24.09.2023 do odwołania
+Obszar: Bug od ujścia Uherki do Krzyczewa (lubelskie)
+Przebieg: W związku z występującymi niskimi przepływami wody na obszarze zlewni Bugu poniżej ujścia Uherki do Krzyczewa spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 100%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Bug od ujscia Uherki do Krzyczewa od 13:07/24.09.2023 do odwolania. W zwiazku z wystepujacymi niskimi przeplywami wody na obszarze zlewni Bugu ponizej ujscia Uherki do Krzyczewa spodziewane jest dalsze utrzymywanie sie przeplywow wody ponizej SNQ. Szczegoly na meteo.imgw.pl

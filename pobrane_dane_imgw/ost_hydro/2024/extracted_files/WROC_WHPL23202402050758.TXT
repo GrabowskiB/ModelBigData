@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.02.2024 - godz. 08:56
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 39
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 08:57 dnia 05.02.2024 do godz. 18:00 dnia 07.02.2024
+Obszar: Odra od ujścia Nysy Kłodzkiej do ujścia Widawy, Widawa od Namysłowa do ujścia do Odry, Widawa (opolskie, wielkopolskie)
+Przebieg: Spływ wody po występujących i prognozowanych opadach deszczu będzie powodował ponowne wzrosty stanów wody. W Namysłowie na Widawie może zostać przekroczony stan ostrzegawczy.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Odra od ujscia Nysy Klodzkiej do ujscia Widawy, Widawa od 08:57/05.02.2024 do 18:00/07.02.2024. Splyw wody po wystepujacych i prognozowanych opadach deszczu bedzie powodowal ponowne wzrosty stanow wody. W Namyslowie na Widawie moze zostac przekroczony stan ostrzegawczy. Szczegoly na meteo.imgw.pl

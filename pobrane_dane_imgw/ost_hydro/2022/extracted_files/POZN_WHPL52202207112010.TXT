@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.07.2022 - godz. 22:08
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 54
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 22:20 dnia 11.07.2022 do godz. 06:00 dnia 12.07.2022
+Obszar: Warta górna do Poraja (śląskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej, na stacji wodowskazowej Kręciwilk (Warta), w ciągu najbliższych godzin spodziewane są wzrosty w strefie stanów wysokich z możliwością przekroczenia stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Tomasz Krukowski

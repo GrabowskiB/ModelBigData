@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.01.2025 - godz. 10:21
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 3
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:00 dnia 03.01.2025 do godz. 10:00 dnia 04.01.2025
+Obszar: Wybrzeże Zachodnie i morskie wody wewnętrzne RP - Bałtyk Południowy, Cieśnina Świna (zachodniopomorskie)
+Przebieg: W związku z prognozowanym silnym wiatrem z sektora północno-zachodniego i wysokim napełnieniem Bałtyku (03.01.2025r. - 541 cm) na Wybrzeżu Zachodnim przewiduje się wzrosty poziomów wody powyżej stanów ostrzegawczych, lokalnie z możliwością krótkotrwałego osiągnięcia stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wybrzeze Zachodnie i morskie wody wewnetrzne RP - Baltyk Pld, Ciesnina Swina od 14:00/03.01.2025 do 10:00/04.01.2025. W zwiazku z prognozowanym silnym wiatrem z sektora polnocno-zachodniego i wysokim napelnieniem Baltyku (03.01.2025r. - 541 cm) na Wybrzezu Zachodnim przewiduje sie wzrosty poziomow wody powyzej stanow ostrzegawczych, lokalnie z mozliwoscia krotkotrwalego osiagniecia stanow alarmowych. Szczegoly na meteo.imgw.pl

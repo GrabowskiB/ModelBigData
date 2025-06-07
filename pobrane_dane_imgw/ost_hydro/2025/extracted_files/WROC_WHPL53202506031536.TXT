@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.06.2025 - godz. 17:33
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 30
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 17:34 dnia 03.06.2025 do godz. 23:00 dnia 03.06.2025
+Obszar: Ruda (śląskie)
+Przebieg: W związku z wystąpieniem ulewnego opadu deszczu w m. Rydułtowy, przewiduje się gwałtowny wzrost stanu wody rzeki Nacyny na stacji hydrologicznej Rybnik, a niewykluczone, że również rzeki Rudy na stacji hydrologicznej Rybnik-Gotartowice.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Ruda od 17:34/03.06.2025 do 23:00/03.06.2025.  Szczegoly na meteo.imgw.pl

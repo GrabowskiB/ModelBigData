@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.08.2022 - godz. 10:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 141
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 10:28 dnia 11.08.2022 do odwołania
+Obszar: zlewnia Wisłoki od ujścia Jasiołki (małopolskie, podkarpackie)
+Przebieg: W związku z występującymi niskimi przepływami wody oraz prognozowanymi nieznacznymi opadami atmosferycznymi, w kolejnych dniach w zlewni Wisłoki od ujścia Jasiołki, spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 100%
+Uwagi: Ostrzeżenia wydawane są w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni.
+
+Dyżurny synoptyk hydrolog: Przemysław Plewa

@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.06.2024 - godz. 09:39
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 88
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 11:00 dnia 03.06.2024 do godz. 02:00 dnia 04.06.2024
+Obszar: Martwa Wisła, Zlewnia Zalewu Wiślanego do Nogatu, Elbląg, Wąska, Nogat, Bauda, Pasłęka od Wałszy do ujścia, Pasłęka od źródła do Wałszy, Zalew Wiślany - Banówka i Świeża, Wałsza, Drwęca Warmińska, Wisła od Torunia do Tczewa (zl), Tążyna, Mień, Brda od Sępólnej do ujścia, Wda od Czarnej Wody do ujścia, Wierzyca od Bożegopola Szlacheckiego do ujścia, Osa, Drwęca od Rypienicy do ujścia, Drwęca od Welu do Rypienicy, Drwęca od źródła do Welu, Wel (kujawsko-pomorskie, pomorskie, warmińsko-mazurskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody i lokalne podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie rzek uchodzacych do Zal.Wislanego, zlewnie doplywow Wisly od 11:00/03.06.2024 do 02:00/04.06.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty stanow wody i lokalne podtopienia. Szczegoly na meteo.imgw.pl

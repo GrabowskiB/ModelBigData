@@ -1,0 +1,15 @@
+Data i godzina wydania: 29.01.2024 - godz. 10:43
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 21 z dnia 28.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 10:43 dnia 29.01.2024 do godz. 11:00 dnia 31.01.2024
+Obszar: Widawa od Namysłowa do ujścia do Odry, Widawa (dolnośląskie, opolskie, wielkopolskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych w zlewni Widawy prognozowane są dalsze nieznaczne wzrosty i wahania stanów wody. Na Widawie w Namysłowie stany wody będą utrzymywały się w strefie powyżej stanu ostrzegawczego, w Zbytowej oraz w Krzyżanowicach powyżej stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy przebiegu, podniesienia stopnia oraz wydłużenia czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Widawa od Namyslowa do ujscia do Odry, Widawa od 10:43/29.01.2024 do 11:00/31.01.2024. W zwiazku ze splywem wod opadowo-roztopowych w zlewni Widawy prognozowane sa dalsze nieznaczne wzrosty i wahania stanow wody. Na Widawie w Namyslowie stany wody beda utrzymywaly sie w strefie powyzej stanu ostrzegawczego, w Zbytowej oraz w Krzyzanowicach powyzej stanow alarmowych. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.01.2024 - godz. 04:30
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 14
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 04:31 dnia 10.01.2024 do godz. 09:00 dnia 10.01.2024
+Obszar: Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno (dolnośląskie, opolskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej lokalnie przewidywane są wzrosty stanów wody powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Nysa Klodzka do Zb. Kozielno od 04:31/10.01.2024 do 09:00/10.01.2024. W zwiazku z rozwojem sytuacji hydrologicznej lokalnie przewidywane sa wzrosty stanow wody powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

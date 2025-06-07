@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.09.2024 - godz. 11:07
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 168
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:07 dnia 16.09.2024 do godz. 11:00 dnia 17.09.2024
+Obszar: Warta górna od Poraja do Liswarty (łódzkie, śląskie)
+Przebieg: W związku ze spływem wód opadowych na Warcie w Mstowie, utrzymywać się będzie przekroczenie stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Warta gorna od Poraja do Liswarty od 11:07/16.09.2024 do 11:00/17.09.2024. W zwiazku ze splywem wod opadowych na Warcie w Mstowie, utrzymywac sie bedzie przekroczenie stanu alarmowego. Szczegoly na meteo.imgw.pl

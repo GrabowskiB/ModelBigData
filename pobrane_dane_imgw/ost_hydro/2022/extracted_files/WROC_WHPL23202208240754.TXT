@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.08.2022 - godz. 09:51
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 115
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 09:51 dnia 24.08.2022 do godz. 09:00 dnia 25.08.2022
+Obszar: zlewnie Straduni, Białej, Ścinawy Niemodlińskiej (opolskie)
+Przebieg: W zlewniach Straduni, Białej i Ścinawy Niemodlińskiej trwa jeszcze spływ wód opadowych. Możliwe jest utrzymywanie się słabej tendencji wzrostowej powyżej stanów alarmowych. W przypadku wystąpienia prognozowanych od godzin południowych burz z silnym deszczem wzrosty mogą być wyraźniejsze, na Białej powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Kinga Strońska

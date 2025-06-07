@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.09.2022 - godz. 10:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Odwołanie ostrzeżenia Nr: 34 z dnia 27.06.2022
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Odra dolna od Warty do Gryfina (lubuskie, zachodniopomorskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na odcinku Odry dolnej od Warty do Gryfina spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ. 
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenia odwołuje się, gdy wartość przepływu na stacjach uznanych za reprezentatywne utrzymuje się powyżej SNQ przez co najmniej 5 dni (dotyczy okresu obserwacji).
+
+Dyżurny synoptyk hydrolog: Michalina Kallas-Garnitz

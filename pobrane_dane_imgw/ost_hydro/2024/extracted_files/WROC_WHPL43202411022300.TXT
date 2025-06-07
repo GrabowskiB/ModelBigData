@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.11.2024 - godz. 23:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 224 z dnia 02.11.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 23:59 dnia 02.11.2024 do godz. 09:00 dnia 03.11.2024
+Obszar: Czerna Wielka (lubuskie)
+Przebieg: W wyniku pracy urządzeń hydrotechnicznych na Czernej Małej prognozowane są dalsze wahania poziomu wody. Na stacji Iłowa powyżej stanu ostrzegawczego, z możliwością krótkotrwałego przekroczenia stanu alarmowego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy poprawki edytorskiej.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Czerna Wielka od 23:59/02.11.2024 do 09:00/03.11.2024. W wyniku pracy urzadzen hydrotechnicznych na Czernej Malej prognozowane sa dalsze wahania poziomu wody. Na stacji Ilowa powyzej stanu ostrzegawczego, z mozliwoscia krotkotrwalego przekroczenia stanu alarmowego.  Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.08.2024 - godz. 18:10
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Odwołanie ostrzeżenia Nr: 151 z dnia 19.08.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Warta górna od Widawki do Zb. Jeziorsko, Warta środkowa od Zb. Jeziorsko do Rgilewki, Warta środkowa od Rgilewki do Prosny, Kiełbaska, Powa, Warta środkowa od Prosny do Wełny, Prosna górna, Niesób, Łużyca, Prosna środkowa, Ołobok, Swędrnia, Prosna dolna (wielkopolskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie Warty gornej i srodkowej, Prosny od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 29.12.2023 - godz. 11:46
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Zmiana ostrzeżenia Nr: 106 z dnia 28.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:47 dnia 29.12.2023 do godz. 12:00 dnia 01.01.2024
+Obszar: Odra środkowa od Słubic do Warty, Odra dolna od Warty do Gryfina (lubuskie, zachodniopomorskie)
+Przebieg: Na odcinku Odry od Słubic do Gryfina, utrzymywać się będą  wzrosty stanów wody w strefie stanów wysokich, w Bielinku zostanie przekroczony stan ostrzegawczy. W Kostrzynie nad Odrą i Gozdowicach prognozowany jest dalszy wzrost stanu wody powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy przebiegu zjawiska oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Odra srodkowa od Slubic do Warty, Odra dolna od Warty do Gryfina od 11:47/29.12.2023 do 12:00/01.01.2024. Na odcinku Odry od Slubic do Gryfina, utrzymywac sie beda  wzrosty stanow wody w strefie stanow wysokich, w Bielinku zostanie przekroczony stan ostrzegawczy. W Kostrzynie nad Odra i Gozdowicach prognozowany jest dalszy wzrost stanu wody powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

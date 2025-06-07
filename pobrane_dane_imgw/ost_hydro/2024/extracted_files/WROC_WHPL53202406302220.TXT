@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.07.2024 - godz. 00:17
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 134 z dnia 30.06.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 00:18 dnia 01.07.2024 do godz. 04:00 dnia 01.07.2024
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Psina, Bierawka, Kłodnica, Odra od Koźla do ujścia Nysy Kłodzkiej, Stradunia, Osobłoga od granicy RP do ujścia, Osobłoga, Mała Panew od Krupskiego Młyna do Zb. Turawa, Mała Panew, Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Odra od ujścia Nysy Kłodzkiej do ujścia Widawy, Stobrawa, Widawa od Namysłowa do ujścia do Odry, Widawa, Oława od Zborowic do ujścia do Odry, Oława górna do Zborowic, Oława od Zborowic do ujścia, Ślęza od Borowa do ujścia do Odry, Ślęza górna do Borowa, Ślęza od Borowa do ujścia, Bystrzyca górna do Zb. Mietków, Bystrzyca dolna (Czarna Woda i Strzegomka), Odra od ujścia Widawy do Ścinawy, Barycz od Polskiej Wody do ujścia do Odry, Barycz bez Orli i Polskiego Rowu, Orla, Ostrożnica (dolnośląskie, opolskie, śląskie, wielkopolskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, możliwe przekroczenia stanów ostrzegawczych, a krótkotrwale także alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy zmniejszenia obszaru obowiązującego ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Rzeki woj. slaskiego, opolskiego, wsch. dolnoslaskiego, wielkopolskiego  od 00:18/01.07.2024 do 04:00/01.07.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty stanow wody. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, mozliwe przekroczenia stanow ostrzegawczych, a krotkotrwale takze alarmowych. Zmiana dotyczy zmniejszenia obszaru obowiazujacego ostrzezenia. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.03.2024 - godz. 23:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 131
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 00:30 dnia 24.03.2024 do godz. 10:30 dnia 24.03.2024
+Obszar: Wkra (mazowieckie)
+Przebieg: W związku ze spływem wód opadowych w zlewni Wkry prognozowane są dalsze wzrosty w strefie wody wysokiej a w profilu Szreńsk na Mławce wzrost poziomu wody powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wkra od 00:30/24.03.2024 do 10:30/24.03.2024. W zwiazku ze splywem wod opadowych w zlewni Wkry prognozowane sa dalsze wzrosty w strefie wody wysokiej a w profilu Szrensk na Mlawce wzrost poziomu wody powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

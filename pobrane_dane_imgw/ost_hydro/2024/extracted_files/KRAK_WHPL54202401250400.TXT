@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.01.2024 - godz. 04:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 45
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 04:59 dnia 25.01.2024 do godz. 10:00 dnia 26.01.2024
+Obszar: Wieprz od zb. Nielisz do ujścia Bystrzycy  (lubelskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, na Wieprzu przewiduje się dalszy wzrost poziomu wody w strefie wody wysokiej z przekroczeniem stanu ostrzegawczego w Krasnymstawie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wieprz od zb. Nielisz do ujscia Bystrzycy  od 04:59/25.01.2024 do 10:00/26.01.2024. W zwiazku ze splywem wod opadowo-roztopowych, na Wieprzu przewiduje sie dalszy wzrost poziomu wody w strefie wody wysokiej z przekroczeniem stanu ostrzegawczego w Krasnymstawie. Szczegoly na meteo.imgw.pl

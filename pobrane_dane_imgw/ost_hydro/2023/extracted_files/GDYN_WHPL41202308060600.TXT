@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.08.2023 - godz. 07:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 88 z dnia 05.08.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 07:58 dnia 06.08.2023 do godz. 00:00 dnia 07.08.2023
+Obszar: Elbląg, Wąska, Nogat, Bauda, Pasłęka, Banówka, Świeża, Wałsza, Drwęca Warmińska, Osa, Drwęca do Rypienicy, Wel (warmińsko-mazurskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Zmiana dotyczy czasu obowiązywania
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Rzeki uchodzace do Zalewu Wislanego, Osa, Drweca do Rypienicy, Wel od 07:58/06.08.2023 do 00:00/07.08.2023. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. Szczegoly na meteo.imgw.pl

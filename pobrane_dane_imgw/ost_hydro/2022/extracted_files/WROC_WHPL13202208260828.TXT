@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.08.2022 - godz. 10:26
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 122
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:00 dnia 26.08.2022 do godz. 08:00 dnia 27.08.2022
+Obszar: Ślęza od Borowa do ujścia do Odry, Ślęza górna do Borowa, Ślęza od Borowa do ujścia, Bystrzyca dolna (Czarna Woda i Strzegomka) (dolnośląskie)
+Przebieg: W zlewniach Ślęzy i Czarnej Wody (w zlewni Bystrzycy) w wyniku opadów burzowych mogą wystąpić ponowne wzrosty stanów w strefie stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+Dyżurny synoptyk hydrolog: Leszek Jelonek

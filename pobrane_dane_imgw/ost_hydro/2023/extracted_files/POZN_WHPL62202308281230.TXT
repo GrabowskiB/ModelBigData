@@ -1,0 +1,15 @@
+Data i godzina wydania: 28.08.2023 - godz. 14:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 82
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 20:00 dnia 28.08.2023 do godz. 09:00 dnia 29.08.2023
+Obszar: Liswarta, Prosna górna (opolskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu, w tym o charakterze burzowym, w zlewni górnej Prosny i na Liswarcie spodziewane są lokalne gwałtowne wzrosty poziomu wody. W przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość krótkotrwałego przekroczenia stanu ostrzegawczego na stacji Gorzów Śląski na Prośnie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Liswarta, Prosna gorna od 20:00/28.08.2023 do 09:00/29.08.2023. W zwiazku z prognozowanymi intensywnymi opadami deszczu, w tym o charakterze burzowym, w zlewni gornej Prosny i na Liswarcie spodziewane sa lokalne gwaltowne wzrosty poziomu wody. W przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc krotkotrwalego przekroczenia stanu ostrzegawczego na stacji Gorzow Slaski na Prosnie. Szczegoly na meteo.imgw.pl

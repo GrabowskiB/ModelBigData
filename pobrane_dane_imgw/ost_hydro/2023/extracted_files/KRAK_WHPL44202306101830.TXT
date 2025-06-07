@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.06.2023 - godz. 20:25
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 142 z dnia 10.06.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 20:26 dnia 10.06.2023 do godz. 10:00 dnia 11.06.2023
+Obszar: San do ujścia Osławy (wraz ze zlewnią Osławy), San od ujścia Osławy do ujścia Wiaru (wraz ze zlewnią Wiaru), San od ujścia Wiaru do ujścia (część prawobrzeżna) bez odcinków Sanu, San od ujścia Wiaru do ujścia (część lewobrzeżna), Wisłok do ujścia Morwawy (wraz ze zlewnią Morwawy), Wisłok od ujscia Morwawy do ujscia, Strwiąż (podkarpackie)
+Przebieg:  W obszarach występowania prognozowanych intensywnych opadów deszczu, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Zmiana dotyczy obszaru oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnia gornego Sanu od 20:26/10.06.2023 do 10:00/11.06.2023.  W obszarach wystepowania prognozowanych intensywnych opadow deszczu, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

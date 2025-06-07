@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.02.2024 - godz. 11:24
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 68
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:00 dnia 03.02.2024 do godz. 12:00 dnia 05.02.2024
+Obszar: Dolny Bug (mazowieckie)
+Przebieg: W związku ze spływem wód roztopowo-opadowych z górnej części zlewni, na dolnym Bugu prognozuje się wahania w strefie wody wysokiej - w rejonie Wyszkowa około stanu alarmowego, w rejonie Popowa powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Dolny Bug od 12:00/03.02.2024 do 12:00/05.02.2024. W zwiazku ze splywem wod roztopowo-opadowych z gornej czesci zlewni, na dolnym Bugu prognozuje sie wahania w strefie wody wysokiej - w rejonie Wyszkowa okolo stanu alarmowego, w rejonie Popowa powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

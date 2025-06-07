@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.04.2023 - godz. 03:54
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 75
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 03:55 dnia 01.04.2023 do godz. 09:00 dnia 01.04.2023
+Obszar: San do ujścia Osławy (wraz ze zlewnią Osławy) (podkarpackie)
+Przebieg: W związku z występującymi opadami deszczu oraz spływem wód opadowo-roztopowych prognozowane są wzrosty poziomu wody (lokalnie gwałtowne) do strefy stanów wysokich. Punktowo istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Izabela Adrian

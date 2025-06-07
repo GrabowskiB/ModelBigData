@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.07.2024 - godz. 11:14
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 111
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:15 dnia 14.07.2024 do godz. 08:00 dnia 15.07.2024
+Obszar: Łużyca (łódzkie, wielkopolskie)
+Przebieg: W związku ze spływem wód opadowych, na rzece Łużyca w profilu wodowskazowym Kraszewice przewiduje się dalszy wzrost stanu wody w strefie wody wysokiej i przekroczenie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Luzyca od 11:15/14.07.2024 do 08:00/15.07.2024. W zwiazku ze splywem wod opadowych, na rzece Luzyca w profilu wodowskazowym Kraszewice przewiduje sie dalszy wzrost stanu wody w strefie wody wysokiej i przekroczenie stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

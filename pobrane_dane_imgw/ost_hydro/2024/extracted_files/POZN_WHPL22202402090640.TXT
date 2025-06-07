@@ -1,0 +1,15 @@
+Data i godzina wydania: 09.02.2024 - godz. 07:36
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 33
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 07:37 dnia 09.02.2024 do godz. 10:00 dnia 10.02.2024
+Obszar: Prosna górna, Prosna środkowa (łódzkie, opolskie, wielkopolskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej, na stacji wodowskazowej Mirków na Prośnie zostanie przekroczony stan alarmowy. Na stacji wodowskazowej Gorzów Śląski na górnej Prośnie utrzymywać się będą wzrosty w strefie stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Prosna gorna, Prosna srodkowa od 07:37/09.02.2024 do 10:00/10.02.2024. W zwiazku z rozwojem sytuacji hydrologicznej, na stacji wodowskazowej Mirkow na Prosnie zostanie przekroczony stan alarmowy. Na stacji wodowskazowej Gorzow Slaski na gornej Prosnie utrzymywac sie beda wzrosty w strefie stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

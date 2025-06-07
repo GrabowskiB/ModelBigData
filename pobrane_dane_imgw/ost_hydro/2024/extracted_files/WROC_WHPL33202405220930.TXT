@@ -1,0 +1,15 @@
+Data i godzina wydania: 22.05.2024 - godz. 11:27
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 88
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 12:00 dnia 22.05.2024 do godz. 04:00 dnia 23.05.2024
+Obszar: Odra od Chałupek do Koźla, Olza od Cieszyna do ujścia do Odry, Olza, Czadeczka, Ruda od Zb. Rybnik do ujścia do Odry, Ruda, Bierawka, Kłodnica od Zb. Dzierżno Duże do ujścia do Odry, Kłodnica, Odra od Koźla do ujścia Nysy Kłodzkiej, Mała Panew od Krupskiego Młyna do Zb. Turawa, Mała Panew od Zb. Turawa do ujścia do Odry, Mała Panew, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Odra od ujścia Nysy Kłodzkiej do ujścia Widawy, Stobrawa, Widawa, Nysa Szalona od Zb. Słup do ujścia do Kaczawy, Odra od Ścinawy do Głogowa, Barycz bez Orli i Polskiego Rowu, Orla, Polski Rów, Odra od Głogowa do ujścia Bobru, Odra od ujścia Bobru do Białej Góry, Odra od Białej Góry do Słubic, Witka od Ostróżna do ujścia do Nysy Łużyckiej (dolnośląskie, lubuskie, opolskie, śląskie, wielkopolskie)
+Przebieg: Na obszarach prognozowanych intensywnych opadów deszczu, przewiduje się lokalnie wzrosty stanu wody do strefy stanów wysokich. Na mniejszych rzekach mogą mieć one gwałtowny przebieg. W przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość lokalnego przekroczenia stanów ostrzegawczych lub alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie prawostronnych doplywow Odry od 12:00/22.05.2024 do 04:00/23.05.2024.  Szczegoly na meteo.imgw.pl

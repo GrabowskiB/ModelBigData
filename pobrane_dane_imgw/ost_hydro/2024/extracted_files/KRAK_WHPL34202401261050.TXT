@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.01.2024 - godz. 11:47
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 48 z dnia 25.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:48 dnia 26.01.2024 do godz. 13:00 dnia 27.01.2024
+Obszar: zlewnie dopływów Wisły (świętokrzyskie)
+Przebieg: Na skutek spływu wód opadowo-roztopowych notowane będą ponowne bądź dalsze wzrosty poziomu wody, przy aktualnie przekroczonych stanach ostrzegawczych oraz alarmowych, z możliwością przekroczenia stanu alarmowego na Czarnej Nidzie w Morawicy, a stanu ostrzegawczego na Nidzie w Brzegach.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy obszaru, przebiegu zjawiska oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie doplywow Wisly od 11:48/26.01.2024 do 13:00/27.01.2024. Na skutek splywu wod opadowo-roztopowych moga wystapic ponowne badz dalsze wzrosty poziomu wody, przy aktualnie przekroczonych stanach ostrzegawczych oraz alarmowych, z mozliwoscia przekroczenia stanu alarmowego na Czarnej Nidzie w Morawicy, a stanu ostrzegawczego na Nidzie w Brzegach. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 28.10.2023 - godz. 10:29
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Odwołanie ostrzeżenia Nr: 149 z dnia 27.10.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: rzeka Odra od Chałupek do Koźla (śląskie)
+Przebieg: Zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 rzeka Odra od Chalupek do Kozla od - do -. Zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.06.2023 - godz. 08:29
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 67
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 10:00 dnia 10.06.2023 do godz. 22:00 dnia 11.06.2023
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Olza, Czadeczka, Psina, Ruda, Bierawka, Kłodnica, Stradunia, Osobłoga, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Oława górna do Zborowic, Ślęza górna do Borowa, Bystrzyca górna do Zb. Mietków (dolnośląskie, opolskie, śląskie)
+Przebieg: W obszarach występowania opadów burzowych, w zlewniach dopływów górnej Odry oraz Nysy Kłodzkiej, Oławy, Ślęzy i Bystrzycy, możliwe są lokalne wzrosty stanów wody, miejscami powyżej stanów ostrzegawczych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnie doplywow gornej i lewostronnych srodkowej Odry od 10:00/10.06.2023 do 22:00/11.06.2023. W obszarach wystepowania opadow burzowych, w zlewniach doplywow gornej Odry oraz Nysy Klodzkiej, Olawy, Slezy i Bystrzycy, mozliwe sa lokalne wzrosty stanow wody, miejscami powyzej stanow ostrzegawczych.  Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.02.2023 - godz. 00:11
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 38
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 00:12 dnia 19.02.2023 do godz. 10:00 dnia 19.02.2023
+Obszar: Zlewnia Stobnicy (podkarpackie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, prognozowane są wzrosty poziomu wody powyżej stanu ostrzegawczego. W Godowej na Stobnicy istniej możliwość przekroczenia stanu alarmowego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Izabela Adrian

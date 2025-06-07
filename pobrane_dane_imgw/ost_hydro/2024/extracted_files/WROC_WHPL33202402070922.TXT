@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.02.2024 - godz. 10:20
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 40 z dnia 05.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 10:20 dnia 07.02.2024 do godz. 15:00 dnia 09.02.2024
+Obszar: Barycz bez Orli i Polskiego Rowu (wielkopolskie)
+Przebieg: W związku z prognozowanymi opadami deszczu, w zlewni górnej Baryczy, przewidywane są dalsze wzrosty i wahania stanów wody w strefie powyżej stanów ostrzegawczych. W Odolanowie na Kurochu stan wody może ulegać wahaniom około stanu alarmowego, a w Bogdaju na Polskiej Wodzie oraz w Odolanowie na Baryczy stany wody mogą wzrosnąć powyżej poziomu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy czasu obowiązywania oraz przebiegu zjawiska.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Barycz bez Orli i Polskiego Rowu od 10:20/07.02.2024 do 15:00/09.02.2024. W zwiazku z prognozowanymi opadami deszczu, w zlewni gornej Baryczy, przewidywane sa dalsze wzrosty i wahania stanow wody w strefie powyzej stanow ostrzegawczych. W Odolanowie na Kurochu stan wody moze ulegac wahaniom okolo stanu alarmowego, a w Bogdaju na Polskiej Wodzie oraz w Odolanowie na Baryczy stany wody moga wzrosnac powyzej poziomu alarmowego. Szczegoly na meteo.imgw.pl

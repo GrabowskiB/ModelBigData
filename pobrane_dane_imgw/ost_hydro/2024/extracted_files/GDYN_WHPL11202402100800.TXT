@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.02.2024 - godz. 08:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 46
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:00 dnia 10.02.2024 do godz. 11:00 dnia 13.02.2024
+Obszar: Zalew Szczeciński, Ujście Odry (zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną na Zalewie Szczecińskim i w Ujściu Odry przewidywane są początkowo wzrosty, następnie wahania poziomów wody powyżej stanów ostrzegawczych i alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Zalew Szczecinski, Ujscie Odry od 12:00/10.02.2024 do 11:00/13.02.2024. W zwiazku z prognozowana sytuacja meteorologiczna na Zalewie Szczecinskim i w Ujsciu Odry przewidywane sa poczatkowo wzrosty, nastepnie wahania poziomow wody powyzej stanow ostrzegawczych i alarmowych. Szczegoly na meteo.imgw.pl

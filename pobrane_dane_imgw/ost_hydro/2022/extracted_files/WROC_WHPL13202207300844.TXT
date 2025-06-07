@@ -1,0 +1,15 @@
+Data i godzina wydania: 30.07.2022 - godz. 10:41
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 79
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:41 dnia 30.07.2022 do godz. 18:00 dnia 30.07.2022
+Obszar: Strzegomka do Łażan (dolnośląskie)
+Przebieg: W związku z występującymi opadami deszczu w zlewni Strzegomki stany wody rosną. W Świebodzicach na Pełcznicy stan wody może przekroczyć stan ostrzegawczy, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Kamila Głowinkowska

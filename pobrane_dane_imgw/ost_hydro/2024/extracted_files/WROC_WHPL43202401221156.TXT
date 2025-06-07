@@ -1,0 +1,15 @@
+Data i godzina wydania: 22.01.2024 - godz. 12:53
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 19
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 18:00 dnia 22.01.2024 do godz. 11:00 dnia 23.01.2024
+Obszar: Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Oława od Zborowic do ujścia do Odry, Oława górna do Zborowic, Oława od Zborowic do ujścia, Ślęza od Borowa do ujścia do Odry, Ślęza górna do Borowa, Ślęza od Borowa do ujścia, Bystrzyca od Zb. Lubachów do Zb. Mietków, Bystrzyca górna do Zb. Mietków, Bystrzyca dolna (Czarna Woda i Strzegomka), Strzegomka od Zb. Dobromierz do ujścia do Bystrzycy, Strzegomka do Łażan, Kaczawa od Dunina do ujścia do Odry, Kaczawa górna do Dunina, Kaczawa od Dunina (bez górnej Skorej) do ujścia, Nysa Szalona od Zb. Słup do ujścia do Kaczawy, Skora (górna), Bóbr od Zb. Bukówka do Zb. Pilchowice, Bóbr od Zb. Pilchowice do ujścia Kwisy, Bóbr do Zb. Pilchowice, Bóbr od Zb. Pilchowice do Bobrzycy, Bóbr od Bobrzycy do ujścia (bez Kwisy i Czernej Wielkiej), Kwisa od Zb. Leśna do ujścia do Bobru, Kwisa górna do Zb. Leśna, Kwisa od Zb. Leśna do Nowogrodźca, Czerna Wielka, Ostrożnica, Izera, Nysa Łużycka od granicy RP do Zgorzelca, Nysa Łużycka od Zgorzelca do ujścia do Odry, Witka od Ostróżna do ujścia do Nysy Łużyckiej, Nysa Łużycka do Zgorzelca, Nysa Łużycka od Zgorzelca do ujścia (dolnośląskie, lubuskie, opolskie)
+Przebieg: W zlewniach lewostronnych dopływów Odry środkowej w wyniku spływu wód roztopowych oraz opadów deszczu prognozowane są wzrosty stanów wody w strefie wody średniej i wysokiej. Możliwe są miejscami przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Istnieje możliwość kontynuowania ostrzeżenia z wyższym stopniem.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 lewostronne doplywy Odry srodkowej od 18:00/22.01.2024 do 11:00/23.01.2024. W zlewniach lewostronnych doplywow Odry srodkowej w wyniku splywu wod roztopowych oraz opadow deszczu prognozowane sa wzrosty stanow wody w strefie wody sredniej i wysokiej. Mozliwe sa miejscami przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

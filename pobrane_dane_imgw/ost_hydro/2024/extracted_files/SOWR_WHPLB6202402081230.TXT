@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.02.2024 - godz. 13:27
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 90
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 13:30 dnia 08.02.2024 do godz. 10:00 dnia 09.02.2024
+Obszar: Górny Ełk, Górna Lega (warmińsko-mazurskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, w Rajgrodzie na Jez. Rajgrodzkim przewiduje się dalszy wzrost poziomu wody, z przekroczeniem stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Gorny Elk, Gorna Lega od 13:30/08.02.2024 do 10:00/09.02.2024. W zwiazku ze splywem wod opadowo-roztopowych, w Rajgrodzie na Jez. Rajgrodzkim przewiduje sie dalszy wzrost poziomu wody, z przekroczeniem stanu alarmowego. Szczegoly na meteo.imgw.pl

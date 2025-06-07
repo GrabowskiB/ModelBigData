@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.06.2022 - godz. 12:45
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 35
+Zjawisko: susza hydrologiczna
+Stopień: -1
+
+Ważność: od godz. 12:46 dnia 27.06.2022 do odwołania
+Obszar: Noteć środkowa (wielkopolskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na odcinku Noteci środkowej spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+Dyżurny synoptyk hydrolog: Michalina Kallas-Garnitz

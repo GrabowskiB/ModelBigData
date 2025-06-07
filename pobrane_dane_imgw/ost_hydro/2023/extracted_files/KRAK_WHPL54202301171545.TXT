@@ -1,0 +1,15 @@
+Data i godzina wydania: 17.01.2023 - godz. 16:40
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 8
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 20:00 dnia 17.01.2023 do godz. 20:00 dnia 18.01.2023
+Obszar: zlewnia Huczwy (lubelskie)
+Przebieg: W związku ze spływem wód opadowych oraz prognozowanymi opadami deszczu, spodziewany jest dalszy wzrost poziomu wody w strefie stanów wysokich. Na Huczwie w profilu Gozdów zostanie przekroczony stan ostrzegawczy.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Artur Franczyk

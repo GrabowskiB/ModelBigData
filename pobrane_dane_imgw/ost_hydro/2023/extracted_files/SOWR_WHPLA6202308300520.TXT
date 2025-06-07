@@ -1,0 +1,15 @@
+Data i godzina wydania: 30.08.2023 - godz. 07:15
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Odwołanie ostrzeżenia Nr: 83 z dnia 29.08.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: zlewnia Wisły od Dęblina do ujścia Zgłowiączki oraz zlewnie dopływów Pregoły w granicach państwa (kujawsko-pomorskie, łódzkie, mazowieckie, podlaskie, śląskie, świętokrzyskie, warmińsko-mazurskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia Wisly od Deblina do ujscia Zglowiaczki oraz zlewnie doplywow Pregoly od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

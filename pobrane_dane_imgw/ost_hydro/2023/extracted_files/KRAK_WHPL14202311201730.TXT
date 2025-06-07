@@ -1,0 +1,15 @@
+Data i godzina wydania: 20.11.2023 - godz. 18:26
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 362 z dnia 20.11.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 18:27 dnia 20.11.2023 do godz. 12:00 dnia 21.11.2023
+Obszar: Zlewnie Brynicy oraz Przemszy wraz ze zbiornikiem Przeczyce (śląskie)
+Przebieg: W wyniku spływu wód opadowych w zlewniach Brynicy oraz Przemszy prognozowane są dalsze wzrosty poziomu wody z możliwością osiągnięcia bądź przekroczenia stanu alarmowego na Brynicy w profilu Brynica oraz stanu ostrzegawczego na  Brynicy w Szabelni i na Przemszy w  profilu Piwoń.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy obszaru oraz przebiegu zjawiska.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnie Brynicy oraz Przemszy wraz ze zbiornikiem Przeczyce od 18:27/20.11.2023 do 12:00/21.11.2023. W wyniku splywu wod opadowych w zlewniach Brynicy oraz Przemszy prognozowane sa dalsze wzrosty poziomu wody z mozliwoscia osiagniecia badz przekroczenia stanu alarmowego na Brynicy w profilu Brynica oraz stanu ostrzegawczego na  Brynicy w Szabelni i na Przemszy w  profilu Piwon. Szczegoly na meteo.imgw.pl

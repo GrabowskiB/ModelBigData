@@ -1,0 +1,15 @@
+Data i godzina wydania: 28.07.2023 - godz. 22:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 233
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 22:36 dnia 28.07.2023 do godz. 10:00 dnia 29.07.2023
+Obszar: Czarna Nida (świętokrzyskie)
+Przebieg: Na stacji Słowik na rzece Bobrza w zlewni Czarnej Nidy obserwuje się i nadal są prognozowane wzrosty stanu wody powyżej progu ostrzegawczego.  Możliwe jest krótkotrwałe osiągnięcie stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Czarna Nida od 22:36/28.07.2023 do 10:00/29.07.2023. Na stacji Slowik na rzece Bobrza w zlewni Czarnej Nidy obserwuje sie i nadal sa prognozowane wzrosty stanu wody powyzej progu ostrzegawczego.  Mozliwe jest rowniez krotkotrwale osiagniecie stanu alarmowego. Szczegoly na meteo.imgw.pl

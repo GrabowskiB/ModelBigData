@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.04.2023 - godz. 13:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 80
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 18:00 dnia 08.04.2023 do godz. 10:00 dnia 10.04.2023
+Obszar: Nida od ujścia Czarnej Nidy do ujścia (świętokrzyskie)
+Przebieg: Na Nidzie notowany jest dalszy wzrost poziomu wody. W Pińczowie spodziewane jest przekroczenie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Przemysław Plewa

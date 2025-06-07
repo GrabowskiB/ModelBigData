@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.12.2023 - godz. 09:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 164
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:00 dnia 27.12.2023 do godz. 09:00 dnia 28.12.2023
+Obszar: Zalew Wiślany i Żuławy (pomorskie, warmińsko-mazurskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną na Żuławach i na Zalewie Wiślanym przewiduje się wzrosty poziomów wody w strefie stanów wysokich, lokalnie mogą zostać przekroczone stany ostrzegawcze.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zalew Wislany i Zulawy od 10:00/27.12.2023 do 09:00/28.12.2023. W zwiazku z prognozowana sytuacja meteorologiczna na Zulawach i na Zalewie Wislanym przewiduje sie wzrosty poziomow wody w strefie stanow wysokich, lokalnie moga zostac przekroczone stany ostrzegawcze. Szczegoly na meteo.imgw.pl

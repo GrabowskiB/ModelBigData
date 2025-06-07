@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.06.2024 - godz. 09:37
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 106
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 09:38 dnia 03.06.2024 do godz. 10:00 dnia 04.06.2024
+Obszar: Barycz bez Orli i Polskiego Rowu (wielkopolskie)
+Przebieg: W związku z trwającym spływem wody opadowej oraz prognozowanymi burzami z silnymi opadami deszczu w zlewni górnej Baryczy stany wody mogą podnosić się (szybciej po opadach burzowych) - w Odolanowie na Baryczy powyżej stanu alarmowego, w Odolanowie na Kurochu powyżej stanu ostrzegawczego, w Bogdaju na Polskiej Wodzie z możliwością osiągnięcia stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Barycz bez Orli i Polskiego Rowu od 09:38/03.06.2024 do 10:00/04.06.2024. W zwiazku z trwajacym splywem wody opadowej oraz prognozowanymi burzami z silnymi opadami deszczu w zlewni gornej Baryczy stany wody moga podnosic sie (szybciej po opadach burzowych) - w Odolanowie na Baryczy powyzej stanu alarmowego, w Odolanowie na Kurochu powyzej stanu ostrzegawczego, w Bogdaju na Polskiej Wodzie z mozliwoscia osiagniecia stanu ostrzegawczego.  Szczegoly na meteo.imgw.pl

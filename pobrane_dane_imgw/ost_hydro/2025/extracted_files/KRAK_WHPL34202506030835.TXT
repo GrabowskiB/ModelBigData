@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.06.2025 - godz. 10:29
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 85
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 12:00 dnia 03.06.2025 do godz. 18:00 dnia 03.06.2025
+Obszar: Zlewnia Bobrzy (świętokrzyskie)
+Przebieg: W wyniku prognozowanych opadów burzowych na Bobrzy w Słowiku możliwe są wzrosty poziomu wody z ponownym przekroczeniem stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnia Bobrzy od 12:00/03.06.2025 do 18:00/03.06.2025. W wyniku prognozowanych opadow burzowych na Bobrzy w Slowiku mozliwe sa wzrosty poziomu wody z ponownym przekroczeniem stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.02.2024 - godz. 11:01
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 81
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:30 dnia 07.02.2024 do godz. 11:30 dnia 08.02.2024
+Obszar: Dolna Łyna (warmińsko-mazurskie)
+Przebieg: W wyniku spływu wód opadowo-roztopowych w  zlewni dolnej Łyny przewiduje się wzrost poziomu wody, na rzece Guber w Prośnie przy przekroczonym stanie alarmowym.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Dolna Lyna od 11:30/07.02.2024 do 11:30/08.02.2024. W wyniku splywu wod opadowo-roztopowych w  zlewni dolnej Lyny przewiduje sie wzrost poziomu wody, na rzece Guber w Prosnie przy przekroczonym stanie alarmowym. Szczegoly na meteo.imgw.pl

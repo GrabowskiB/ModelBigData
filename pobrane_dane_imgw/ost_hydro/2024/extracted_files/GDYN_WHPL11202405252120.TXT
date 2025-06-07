@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.05.2024 - godz. 23:18
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 78 z dnia 25.05.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 23:19 dnia 25.05.2024 do godz. 05:00 dnia 26.05.2024
+Obszar: Zlewnia Zalewu Szczecińskiego, rzeki Przymorza, rzeki uchodzące do Zatoki Gdańskiej i do Zalewu Wiślanego, rzeki w zlewni Dolnej Wisły (kujawsko-pomorskie, pomorskie, warmińsko-mazurskie, zachodniopomorskie)
+Przebieg: Na obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Zmiana dotyczy czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 rzeki Przymorza, Zatoki Gdanskiej, Zalewu Wislanego, w zlewni Dolnej Wisly od 23:19/25.05.2024 do 05:00/26.05.2024. Na obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. Szczegoly na meteo.imgw.pl

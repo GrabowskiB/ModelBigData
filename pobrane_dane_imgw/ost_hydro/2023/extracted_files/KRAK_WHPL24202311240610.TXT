@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.11.2023 - godz. 07:08
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 371
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:09 dnia 24.11.2023 do godz. 11:00 dnia 25.11.2023
+Obszar: Mała Wisła od zb. Goczałkowice do ujścia Przemszy (małopolskie, śląskie)
+Przebieg: W związku ze spływem wód opadowych oraz z pracą zbiornika Goczałkowice, na Małej Wiśle w Jawiszowicach prognozowane są wzrosty poziomów wody z ponownym przekroczeniem stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Mala Wisla od zb. Goczalkowice do ujscia Przemszy od 07:09/24.11.2023 do 11:00/25.11.2023. W zwiazku ze splywem wod opadowych oraz z praca zbiornika Goczalkowice, na Malej Wisle w Jawiszowicach prognozowane sa wzrosty poziomow wody z ponownym przekroczeniem stanu ostrzegawczego.  Szczegoly na meteo.imgw.pl

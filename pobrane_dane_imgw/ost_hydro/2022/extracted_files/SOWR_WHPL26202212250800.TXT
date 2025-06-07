@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.12.2022 - godz. 08:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 99
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 10:00 dnia 25.12.2022 do godz. 10:00 dnia 26.12.2022
+Obszar: Pilica do Zb. Sulejów (świętokrzyskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych na Pilicy i jej dopływach przewiduje się dalszy wzrost poziomu wody, lokalnie na Czarnej w Januszewicach powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Michał Ceran

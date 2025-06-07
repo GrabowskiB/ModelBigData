@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.12.2022 - godz. 20:33
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 226
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 21:00 dnia 23.12.2022 do godz. 10:00 dnia 25.12.2022
+Obszar: zlewnia Huczwy (lubelskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, prognozowany jest wzrost poziomu wody z przekroczeniem stanu ostrzegawczego w profilu Gozdów. Od godzin popołudniowych dnia 24.12. istnieje również możliwość przekroczenia stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Artur Franczyk

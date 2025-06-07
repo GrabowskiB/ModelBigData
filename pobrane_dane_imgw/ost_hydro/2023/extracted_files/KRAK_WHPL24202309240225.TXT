@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.09.2023 - godz. 04:22
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 337 z dnia 23.09.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: zlewnie dopływów Wisły oraz zlewnia Czarnej Orawy (małopolskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie doplywow Wisly oraz zlewnia Czarnej Orawy od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.08.2024 - godz. 10:14
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 127
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:00 dnia 04.08.2024 do godz. 23:00 dnia 04.08.2024
+Obszar: Wieprza od źródła do Bystrzenicy, Przymorze od Wieprzy do Słupi, Słupia od Skotawy do ujścia, Słupia od źródła do Skotawy, Przymorze od Słupi do Łupawy, Łupawa od wodowskazu Łupawa do ujścia, Łupawa od źródła do wodowskazu Łupawa, Łeba od Lęborka 2 do ujścia, Łeba od źródła do Lęborka 2, Przymorze od Łeby do Redy, Reda, Przymorze od Redy do Martwej Wisły, Martwa Wisła, Przymorze od Martwej Wisły do Wisły, Przymorze od Wisły do granicy państwa na Mierzei Wiślanej, Zlewnia Zalewu Wiślanego do Nogatu, Elbląg, Nogat, Wisła od Torunia do Tczewa (zl), Tążyna, Mień, Brda od źródła do Sępólnej, Brda od Sępólnej do ujścia, Wda od źródła po Czarną Wodę, Wda od Czarnej Wody do ujścia, Wierzyca od źródła do Bożegopola Szlacheckiego, Wierzyca od Bożegopola Szlacheckiego do ujścia, Osa, Drwęca od Rypienicy do ujścia (kujawsko-pomorskie, pomorskie)
+Przebieg: W obszarach występowania prognozowanych silnych opadów deszczu z burzami, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, lokalnie istnieje możliwość wzrostów powyżej stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Wschodnia czesc rzek Przymorza, rzeki Zatoki Gdanskiej, doplywy dolnej Wisly od 14:00/04.08.2024 do 23:00/04.08.2024. o 23:00/04.08.2024. W obszarach wystepowania prognozowanych silnych opadow deszczu z burzami, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, lokalnie istnieje mozliwosc wzrostow powyzej stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

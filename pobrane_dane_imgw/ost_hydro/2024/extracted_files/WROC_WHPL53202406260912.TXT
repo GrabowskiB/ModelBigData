@@ -1,0 +1,17 @@
+Data i godzina wydania: 26.06.2024 - godz. 11:10
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 128
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:00 dnia 26.06.2024 do godz. 02:00 dnia 27.06.2024
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Olza, Czadeczka, Psina, Ruda, Bierawka, Stradunia, Osobłoga, Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Oława górna do Zborowic, Bystrzyca górna do Zb. Mietków, Strzegomka do Łażan, Bóbr od Zb. Bukówka do Zb. Pilchowice, Bóbr do Zb. Pilchowice, Bóbr od Zb. Pilchowice do Bobrzycy, Kwisa górna do Zb. Leśna, Kwisa od Zb. Leśna do Nowogrodźca, Czerna Wielka, Ostrożnica, Izera, Nysa Łużycka od granicy RP do Zgorzelca, Nysa Łużycka do Zgorzelca, Nysa Łużycka od Zgorzelca do ujścia (dolnośląskie, opolskie, śląskie)
+Przebieg: W obszarach występowania intensywnych opadów burzowych, prognozowane są wzrosty stanów wody do strefy stanów wysokich. Na mniejszych rzekach wzrosty mogą mieć charakter gwałtowny. W przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość punktowego osiągnięcia stanów ostrzegawczych. 
+
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 gorskie i podgorskie zlewnie doplywow gornej i srodkowej Odry od 14:00/26.06.2024 do 02:00/27.06.2024. W obszarach wystepowania intensywnych opadow burzowych, prognozowane sa wzrosty stanow wody do strefy stanow wysokich. Na mniejszych rzekach wzrosty moga miec charakter gwaltowny. W przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc punktowego osiagniecia stanow ostrzegawczych. 
+ Szczegoly na meteo.imgw.pl

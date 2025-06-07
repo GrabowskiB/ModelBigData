@@ -1,0 +1,15 @@
+Data i godzina wydania: 29.08.2023 - godz. 12:42
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 106
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 15:00 dnia 29.08.2023 do godz. 02:00 dnia 30.08.2023
+Obszar: Zalew Wiślany, Elbląg, Wąska, Nogat, Bauda, Pasłęka od Wałszy do ujścia, Pasłęka od źródła do Wałszy, Zalew Wiślany - Banówka i Świeża, Wałsza, Drwęca Warmińska, Osa, Drwęca od Welu do Rypienicy, Drwęca od źródła do Welu, Wel (warmińsko-mazurskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 rzeki uchodzace do Zalewu Wislanego od 15:00/29.08.2023 do 02:00/30.08.2023. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.01.2024 - godz. 12:40
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 31
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:41 dnia 14.01.2024 do godz. 09:00 dnia 15.01.2024
+Obszar: odcinek Wieprza od zbiornika Nielisz do ujścia Bystrzycy (lubelskie)
+Przebieg: Na Wieprzu na stacji Krasnystaw prognozowana jest dalsza nieznaczna tendencja wzrostowa poziomu przy przekroczonym stanie ostrzegawczym. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 odcinek Wieprza od zbiornika Nielisz do ujscia Bystrzycy od 12:41/14.01.2024 do 09:00/15.01.2024. Na Wieprzu na stacji Krasnystaw prognozowana jest dalsza nieznaczna tendencja wzrostowa poziomu przy przekroczonym stanie ostrzegawczym.  Szczegoly na meteo.imgw.pl

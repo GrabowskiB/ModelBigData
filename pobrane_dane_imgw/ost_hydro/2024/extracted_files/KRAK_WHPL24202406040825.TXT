@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.06.2024 - godz. 10:23
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 213
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 10:24 dnia 04.06.2024 do godz. 09:00 dnia 05.06.2024
+Obszar: zlewnia Skawinki, Rudawy, Wilgi, Prądnika oraz zlewnie mniejszych bezpośrednich dopływów Wisły po Dęblin (małopolskie)
+Przebieg: W obszarach występowania prognozowanych intensywnych opadów deszczu (punktowo także burzowych), zaznaczą się dalsze wzrosty poziomu wody, miejscami gwałtowne. Lokalnie stany wody przekraczać będą stany ostrzegawcze, a punktowo także alarmowe.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 zlewnia Skawinki, Rudawy, Wilgi, Pradnika oraz mniejszych doplywow Wisly od 10:24/04.06.2024 do 09:00/05.06.2024. W obszarach wystepowania prognozowanych intensywnych opadow deszczu (punktowo takze burzowych), zaznacza sie dalsze wzrosty poziomu wody, miejscami gwaltowne. Lokalnie stany wody przekraczac beda stany ostrzegawcze, a punktowo takze alarmowe. Szczegoly na meteo.imgw.pl

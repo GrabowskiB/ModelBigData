@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.08.2023 - godz. 17:48
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 120
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 17:49 dnia 07.08.2023 do godz. 09:00 dnia 08.08.2023
+Obszar: Ścinawa Niemodlińska, Budkowiczanka (opolskie)
+Przebieg: Spływ wód opadowych powoduje stopniowe wzrosty stanów wody w zlewni Stobrawy oraz Ścinawy Niemodlińskiej, przy przekroczonym stanie ostrzegawczym w Krzywej Górze na Budkowiczance. Prognozowane przelotne opady deszczu mogą powodować dalszy wzrost stanu wody bądź wahania w strefie powyżej/około stanu ostrzegawczego. W Niemodlinie na Ścinawie Niemodlińskiej stan wody wrasta w strefie wody wysokiej, z możliwością przekroczenia stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Scinawa Niemodlinska, Budkowiczanka od 17:49/07.08.2023 do 09:00/08.08.2023. Splyw wod opadowych powoduje stopniowe wzrosty stanow wody w zlewni Stobrawy oraz Scinawy Niemodlinskiej, przy przekroczonym stanie ostrzegawczym w Krzywej Gorze na Budkowiczance. Prognozowane przelotne opady deszczu moga powodowac dalszy wzrost stanu wody badz wahania w strefie powyzej/okolo stanu ostrzegawczego. W Niemodlinie na Scinawie Niemodlinskiej stan wody wrasta w strefie wody wysokiej, z mozliwoscia przekroczenia stanu ostrzegawczego.  Szczegoly na meteo.imgw.pl

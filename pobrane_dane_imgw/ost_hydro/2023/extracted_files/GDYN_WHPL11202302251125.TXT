@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.02.2023 - godz. 12:19
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 30
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:00 dnia 25.02.2023 do godz. 12:00 dnia 27.02.2023
+Obszar: Zalew Szczeciński i ujście Odry (zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną prognozowane są dalsze wzrosty poziomów wody: powyżej stanu alarmowego na Zalewie Szczecińskim oraz powyżej stanu ostrzegawczego w ujściowym odcinku Odry.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Katarzyna Krzysztofik

@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.03.2023 - godz. 14:08
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 7
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:30 dnia 11.03.2023 do godz. 09:00 dnia 12.03.2023
+Obszar: Grabia (łódzkie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej,  w ciągu najbliższej doby, na stacji wodowskazowej Łask (Grabia), prognozowane są dalsze wzrosty stanów wody z przekroczeniem stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Michalina Kallas-Garnitz

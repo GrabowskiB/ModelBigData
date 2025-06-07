@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.07.2022 - godz. 12:13
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 135
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 12:15 dnia 27.07.2022 do odwołania
+Obszar: Wisła od ujścia Sanu do ujścia Kamiennej (lubelskie, podkarpackie, świętokrzyskie)
+Przebieg: W związku z występującymi niskimi przepływami wody oraz prognozowanymi nieznacznymi opadami atmosferycznymi, w kolejnych dniach na Wiśle od ujścia Sanu po ujście Kamiennej spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 100%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+Dyżurny synoptyk hydrolog: Barbara Olearczyk-Siwik

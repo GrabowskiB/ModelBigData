@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.04.2022 - godz. 22:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 21
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 03:00 dnia 09.04.2022 do godz. 10:00 dnia 09.04.2022
+Obszar: zlewnia Nysy Kłodzkiej do zb. Nysa, zlewnie górskie dorzecza Łaby (dolnośląskie, opolskie)
+Przebieg: W związku z prognozowanymi opadami deszczu, na obszarze objętym ostrzeżeniem hydrologicznym mogą wystąpić wzrosty stanów wody do strefy wody wysokiej, lokalnie z krótkotrwałym przekroczeniem stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: 
+
+Dyżurny synoptyk hydrolog: Wojciech Krasowski

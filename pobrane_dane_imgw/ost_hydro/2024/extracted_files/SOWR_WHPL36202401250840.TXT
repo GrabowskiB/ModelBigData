@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.01.2024 - godz. 09:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 34
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:36 dnia 25.01.2024 do godz. 12:00 dnia 26.01.2024
+Obszar: zlewnia dolnej Narwi (mazowieckie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, w zlewni dolnej Narwi prognozowany jest dalszy wzrost poziomu wody z możliwością przekroczenia stanu ostrzegawczego w Zaruziu na Rużu.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia dolnej Narwi od 09:36/25.01.2024 do 12:00/26.01.2024. W zwiazku ze splywem wod opadowo-roztopowych, w zlewni dolnej Narwi prognozowany jest dalszy wzrost poziomu wody z mozliwoscia przekroczenia stanu ostrzegawczego w Zaruziu na Ruzu. Szczegoly na meteo.imgw.pl

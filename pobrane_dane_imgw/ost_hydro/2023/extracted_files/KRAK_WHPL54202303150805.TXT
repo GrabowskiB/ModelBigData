@@ -1,0 +1,15 @@
+Data i godzina wydania: 15.03.2023 - godz. 09:01
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 70
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:01 dnia 15.03.2023 do godz. 10:00 dnia 17.03.2023
+Obszar: Bug od ujścia Uherki do Krzyczewa (lubelskie)
+Przebieg: Na Bugu od ujścia Uherki po Krzyczew, spodziewany jest dalszy wzrost poziomu wody w strefie stanów wysokich, w profilu Krzyczew powyżej stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Karolina Wolanin

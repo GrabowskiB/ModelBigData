@@ -1,0 +1,15 @@
+Data i godzina wydania: 15.12.2023 - godz. 10:05
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 186
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 10:06 dnia 15.12.2023 do godz. 20:00 dnia 16.12.2023
+Obszar: Orla (dolnośląskie, wielkopolskie)
+Przebieg: W zlewni Orli przewiduje się jeszcze tendencję wzrostową, w Korzeńsku powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ze względu na utrzymujące się przekroczenie i ciągły wzrost stanu wody podniesiono stopień zagrożenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Orla od 10:06/15.12.2023 do 20:00/16.12.2023. W zlewni Orli przewiduje sie jeszcze tendencje wzrostowa, w Korzensku powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

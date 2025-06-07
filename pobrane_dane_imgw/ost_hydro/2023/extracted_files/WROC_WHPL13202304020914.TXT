@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.04.2023 - godz. 11:12
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 46
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:20 dnia 02.04.2023 do godz. 12:00 dnia 04.04.2023
+Obszar: Barycz bez Orli i Polskiego Rowu, Orla (dolnośląskie, wielkopolskie)
+Przebieg: W związku ze spływem wód opadowych w zlewni Baryczy prognozowane są wzrosty stanów wody, lokalnie powyżej stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Leszek Jelonek

@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.07.2024 - godz. 12:54
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 273
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 20:00 dnia 07.07.2024 do godz. 10:00 dnia 08.07.2024
+Obszar: zlewnie Małej Wisły i Przemszy (śląskie)
+Przebieg: W konsekwencji prognozowanych silnych opadów deszczu wraz z burzami na rzekach spodziewane są wzrosty poziomu wody, lokalnie gwałtowne. Na mniejszych ciekach oraz w zlewniach zurbanizowanych punktowo może zostać przekroczony stan ostrzegawczy.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie Malej Wisly i Przemszy od 20:00/07.07.2024 do 10:00/08.07.2024. W konsekwencji prognozowanych silnych opadow deszczu wraz z burzami na rzekach spodziewane sa wzrosty poziomu wody, lokalnie gwaltowne. Na mniejszych ciekach oraz w zlewniach zurbanizowanych punktowo moze zostac przekroczony stan ostrzegawczy. Szczegoly na meteo.imgw.pl

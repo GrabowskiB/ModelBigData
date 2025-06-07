@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.02.2024 - godz. 10:43
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 43 z dnia 06.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:44 dnia 07.02.2024 do godz. 20:00 dnia 10.02.2024
+Obszar: Mała Panew od Krupskiego Młyna do Zb. Turawa, Mała Panew (opolskie, śląskie)
+Przebieg: Prognozowane opady deszczu będą powodowały ponowne wzrosty i wahania stanów wody w strefie wody wysokiej, w Krupskim Młynie, Staniszczach Wielkich i Ozimku powyżej stanów ostrzegawczych. W Ozimku stan wody może wzrosnąć powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Zmiana dotyczy przebiegu zjawiska oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Mala Panew od Krupskiego Mlyna do Zb. Turawa, Mala Panew od 10:44/07.02.2024 do 20:00/10.02.2024. Prognozowane opady deszczu beda powodowaly ponowne wzrosty i wahania stanow wody w strefie wody wysokiej, w Krupskim Mlynie, Staniszczach Wielkich i Ozimku powyzej stanow ostrzegawczych. W Ozimku stan wody moze wzrosnac powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

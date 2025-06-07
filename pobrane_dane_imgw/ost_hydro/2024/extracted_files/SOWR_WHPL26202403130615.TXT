@@ -1,0 +1,15 @@
+Data i godzina wydania: 13.03.2024 - godz. 07:11
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 128
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:12 dnia 13.03.2024 do godz. 08:00 dnia 14.03.2024
+Obszar: Pilica do Zb. Sulejów (świętokrzyskie)
+Przebieg: W związku ze spływem wód opadowych w zlewni Pilicy do zbiornika Sulejów spodziewane są wzrosty stanów wody, z przekroczeniem stanu ostrzegawczego na Czarnej w Januszewicach.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Pilica do Zb. Sulejow od 07:12/13.03.2024 do 08:00/14.03.2024. W zwiazku ze splywem wod opadowych w zlewni Pilicy do zbiornika Sulejow spodziewane sa wzrosty stanow wody, z przekroczeniem stanu ostrzegawczego na Czarnej w Januszewicach. Szczegoly na meteo.imgw.pl

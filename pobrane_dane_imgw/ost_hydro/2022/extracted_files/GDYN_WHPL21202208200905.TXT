@@ -1,0 +1,15 @@
+Data i godzina wydania: 20.08.2022 - godz. 11:03
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 90
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:00 dnia 20.08.2022 do godz. 06:00 dnia 21.08.2022
+Obszar: Wschodnia część rzek Przymorza, rzeki uchodzące do Zatoki Gdańskiej, rzeki uchodzące do Zalewu Wiślanego, zlewnia Dolnej Wisły (kujawsko-pomorskie, pomorskie, warmińsko-mazurskie, zachodniopomorskie)
+Przebieg: W obszarach wystąpienia prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+Dyżurny synoptyk hydrolog: Magda Grabowska-Piekarz

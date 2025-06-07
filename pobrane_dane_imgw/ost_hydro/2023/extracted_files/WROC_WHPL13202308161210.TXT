@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.08.2023 - godz. 14:07
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 123
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 15:00 dnia 16.08.2023 do godz. 11:00 dnia 17.08.2023
+Obszar: rzeki Sudetów i Przedgórza Sudeckiego (dolnośląskie, opolskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, zwłaszcza na małych ciekach górskich i podgórskich oraz w obszarach zurbanizowanych, mogą wystąpić gwałtowne i na ogół krótkotrwałe wzrosty stanów wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych. Lokalnie niewykluczone przekroczenie stanu alarmowego, zwłaszcza w Świebodzicach na Pełcznicy i w Szalejowie Dolnym na Bystrzycy Dusznickiej.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu swojego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 rzeki Sudetow i Przedgorza Sudeckiego od 15:00/16.08.2023 do 11:00/17.08.2023. W obszarach wystepowania prognozowanych opadow burzowych, zwlaszcza na malych ciekach gorskich i podgorskich oraz w obszarach zurbanizowanych, moga wystapic gwaltowne i na ogol krotkotrwale wzrosty stanow wody. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Lokalnie niewykluczone przekroczenie stanu alarmowego, zwlaszcza w Swiebodzicach na Pelcznicy i w Szalejowie Dolnym na Bystrzycy Dusznickiej. Szczegoly na meteo.imgw.pl

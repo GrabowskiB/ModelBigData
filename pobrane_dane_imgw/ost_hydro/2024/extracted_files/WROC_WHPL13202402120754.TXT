@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.02.2024 - godz. 08:51
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 59
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 08:51 dnia 12.02.2024 do godz. 18:00 dnia 14.02.2024
+Obszar: Odra od ujścia Baryczy do ujścia Bobru (dolnośląskie)
+Przebieg: Na dolnośląskim odcinku Odry środkowej swobodnie płynącej od ujścia Baryczy prognozuje się dalszy wzrost stanu wody, w Głogowie w strefie powyżej stanu alarmowego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Odra od ujscia Baryczy do ujscia Bobru od 08:51/12.02.2024 do 18:00/14.02.2024. Na dolnoslaskim odcinku Odry srodkowej swobodnie plynacej od ujscia Baryczy prognozuje sie dalszy wzrost stanu wody, w Glogowie w strefie powyzej stanu alarmowego.  Szczegoly na meteo.imgw.pl

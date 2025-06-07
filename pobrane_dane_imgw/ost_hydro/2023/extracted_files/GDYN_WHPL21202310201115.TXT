@@ -1,0 +1,15 @@
+Data i godzina wydania: 20.10.2023 - godz. 13:11
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 131
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 15:01 dnia 20.10.2023 do godz. 16:00 dnia 21.10.2023
+Obszar: Wybrzeże Zachodnie i morskie wody wewnętrzne RP - Bałtyk Południowy, Wybrzeże Wschodnie i morskie wody wewnętrzne RP - Bałtyk Południowo-Wschodni (pomorskie, zachodniopomorskie)
+Przebieg: W związku z wysokim napełnieniem Bałtyku (549 cm- 20.10.2023) i prognozowaną sytuacją meteorologiczną, wzdłuż Wybrzeża przewiduje się wahania poziomów wody w strefie stanów wysokich, miejscami powyżej stanów ostrzegawczych. Punktowo możliwe jest przekroczenie stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wyb Zach - Baltyk Pld, Wyb Wsch - Baltyk Pold-Wsch od 15:01/20.10.2023 do 16:00/21.10.2023. W zwiazku z wysokim napelnieniem Baltyku (549 cm- 20.10.2023) i prognozowana sytuacja meteorologiczna, wzdluz Wybrzeza przewiduje sie wahania poziomow wody w strefie stanow wysokich, miejscami powyzej stanow ostrzegawczych. Punktowo mozliwe jest przekroczenie stanow alarmowych. Szczegoly na meteo.imgw.pl

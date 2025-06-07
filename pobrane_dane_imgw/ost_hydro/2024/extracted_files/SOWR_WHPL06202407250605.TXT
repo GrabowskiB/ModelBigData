@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<warn-msg release="2024-07-25 08:01" no="206" degree="1" type="OH" from="2024-07-25 10:00" to="2024-07-25 22:00" office="SOWR" event="GWSW" prob="60" author="">
+  <run>W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.</run>
+  <comment>Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).</comment>
+  <area-description>Świder, Narew, Supraśl, Biebrza, Ełk, Lega, Pisa, Bug, Nurzec, Liwiec, Dolna Łyna, Węgorapa, Leśna, Niemen (mazowieckie, podlaskie, warmińsko-mazurskie)</area-description>
+  <provinces>
+    <province name="MA" rso="mazowieckie, Świder, zlewnia Narwi i Bugu, Dolna Łyna, Węgorapa, Niemen, gwałtowne wzrosty stanów wody">
+      <area name="Z_K_359_MA" />
+      <area name="Z_K_373_MA" />
+      <area name="Z_K_382_MA" />
+      <area name="Z_K_351_MA" />
+    </province>
+    <province name="PD" rso="podlaskie, Świder, zlewnia Narwi i Bugu, Dolna Łyna, Węgorapa, Niemen, gwałtowne wzrosty stanów wody">
+      <area name="Z_K_361_PD" />
+      <area name="Z_K_368_PD" />
+      <area name="Z_K_371_PD" />
+      <area name="Z_K_372_PD" />
+      <area name="Z_K_383_PD" />
+      <area name="Z_K_354_PD" />
+      <area name="Z_K_358_PD" />
+      <area name="Z_K_360_PD" />
+      <area name="Z_K_381_PD" />
+    </province>
+    <province name="WM" rso="warmińsko-mazurskie, Świder, zlewnia Narwi i Bugu, Dolna Łyna, Węgorapa, Niemen, gwałtowne wzrosty stanów wody">
+      <area name="Z_K_374_WM" />
+      <area name="Z_K_350_WM" />
+      <area name="Z_K_355_WM" />
+      <area name="Z_K_369_WM" />
+    </province>
+  </provinces>
+  <sms>IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Swider, zlewnia Narwi i Bugu, Dolna Lyna, Wegorapa, Niemen od 10:00/25.07.2024 do 22:00/25.07.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl</sms>
+</warn-msg>

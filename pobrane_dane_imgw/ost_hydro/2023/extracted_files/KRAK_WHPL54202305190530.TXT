@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.05.2023 - godz. 07:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 103
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:30 dnia 19.05.2023 do godz. 09:00 dnia 20.05.2023
+Obszar: Rzeka Wieprz od zb. Nielisz do ujścia Bystrzycy  (lubelskie)
+Przebieg: W związku ze spływem wód opadowych na Wieprzu spodziewane są dalsze wzrosty poziomu wody przy przekroczonym stanie ostrzegawczym w profilu Krasnystaw.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Barbara Olearczyk-Siwik

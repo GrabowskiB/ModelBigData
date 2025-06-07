@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.08.2023 - godz. 07:31
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 63
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 08:00 dnia 05.08.2023 do godz. 18:00 dnia 06.08.2023
+Obszar: Prosna górna (opolskie)
+Przebieg: W obszarach występowania prognozowanych intensywnych opadów, przewiduje się wzrosty poziomu wody do strefy stanów wysokich. Na mniejszych rzekach wzrosty mogą mieć charakter gwałtowny. W przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość punktowego przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Prosna gorna od 08:00/05.08.2023 do 18:00/06.08.2023. W obszarach wystepowania prognozowanych intensywnych opadow, przewiduje sie wzrosty poziomu wody do strefy stanow wysokich. Na mniejszych rzekach wzrosty moga miec charakter gwaltowny. W przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc punktowego przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.07.2023 - godz. 10:17
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Odwołanie ostrzeżenia Nr: 39 z dnia 27.06.2023
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Przyrzecze Noteci środkowej i dolnej (kujawsko-pomorskie, lubuskie, wielkopolskie, zachodniopomorskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenia odwołuje się, gdy wartość przepływu na stacjach uznanych za reprezentatywne utrzymuje się powyżej SNQ przez co najmniej 5 dni (dotyczy okresu obserwacji).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Przyrzecze Noteci srodkowej i dolnej od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

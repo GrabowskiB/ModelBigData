@@ -1,0 +1,15 @@
+Data i godzina wydania: 17.01.2023 - godz. 17:32
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 9
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 22:00 dnia 17.01.2023 do godz. 20:00 dnia 18.01.2023
+Obszar: górna część zlewni Sanu oraz jego bieszczadzkie dopływy (podkarpackie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu, spodziewane są wzrosty poziomu wody w strefie stanów wysokich. Wzrosty mogą mieć gwałtowny charakter z lokalnymi przekroczeniami stanów ostrzegawczych, a punktowo istnieje także możliwość przekroczenia stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Artur Franczyk

@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.05.2024 - godz. 10:56
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 58
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 15:00 dnia 06.05.2024 do godz. 03:00 dnia 07.05.2024
+Obszar: Liswarta, Prosna górna (opolskie)
+Przebieg: Na obszarach występowania prognozowanych opadów burzowych, w rzekach w zlewni Warty położonych w woj. opolskim, spodziewane są lokalne wzrosty stanów wody. Na mniejszych rzekach oraz w zlewniach zurbanizowanych, wzrosty mogą mieć charakter gwałtowny. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Liswarta, Prosna gorna od 15:00/06.05.2024 do 03:00/07.05.2024. Na obszarach wystepowania prognozowanych opadow burzowych, w rzekach w zlewni Warty polozonych w woj. opolskim, spodziewane sa lokalne wzrosty stanow wody. Na mniejszych rzekach oraz w zlewniach zurbanizowanych, wzrosty moga miec charakter gwaltowny.  Szczegoly na meteo.imgw.pl

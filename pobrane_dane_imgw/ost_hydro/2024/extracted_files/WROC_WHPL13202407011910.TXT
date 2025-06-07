@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.07.2024 - godz. 21:07
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Odwołanie ostrzeżenia Nr: 137 z dnia 01.07.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: zlewnie górnej Bystrzycy i Strzegomki (dolnośląskie)
+Przebieg: Zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie gornej Bystrzycy i Strzegomki od - do -. Zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

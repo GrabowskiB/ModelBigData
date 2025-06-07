@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.08.2023 - godz. 19:22
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 269
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 19:23 dnia 07.08.2023 do godz. 22:00 dnia 07.08.2023
+Obszar: Zlewnia Białej (Tarnowskiej) (małopolskie)
+Przebieg: W związku ze spływem wód opadowych w zlewni Białej spodziewane są wzrosty poziomu wody z punktowymi przekroczeniami stanów ostrzegawczych. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnia Bialej (Tarnowskiej) od 19:23/07.08.2023 do 22:00/07.08.2023. W zwiazku ze splywem wod opadowych w zlewni Bialej spodziewane sa wzrosty poziomu wody z punktowymi przekroczeniami stanow ostrzegawczych.  Szczegoly na meteo.imgw.pl

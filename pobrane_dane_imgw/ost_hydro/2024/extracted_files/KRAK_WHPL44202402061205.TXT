@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.02.2024 - godz. 12:59
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 76
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 18:00 dnia 06.02.2024 do godz. 12:00 dnia 07.02.2024
+Obszar: San od ujścia Wiaru do ujścia  (podkarpackie)
+Przebieg: W wyniku spływu wód opadowo - roztopowych na Sanie spodziewane są wzrosty poziomu wody w strefie wody wysokiej z możliwością przekroczenia stanów ostrzegawczych na stacjach hydrologicznych: Leżachów, Rzuchów, Radomyśl i Nisko.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 San od ujscia Wiaru do ujscia  od 18:00/06.02.2024 do 12:00/07.02.2024. W wyniku splywu wod opadowo - roztopowych na Sanie spodziewane sa wzrosty poziomu wody w strefie wody wysokiej z mozliwoscia przekroczenia stanow ostrzegawczych na stacjach hydrologicznych: Lezachow, Rzuchow, Radomysl i Nisko. Szczegoly na meteo.imgw.pl

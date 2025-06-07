@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.09.2023 - godz. 02:03
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 330
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 02:30 dnia 14.09.2023 do godz. 14:30 dnia 14.09.2023
+Obszar: Skawa do zb. Świnna Poręba, Dunajec do zb. Sromowce Wyżne (małopolskie)
+Przebieg: W obszarach występowania prognozowanych intensywnych opadów, przewiduje się wzrosty poziomu wody do strefy stanów wysokich. Na mniejszych rzekach wzrosty mogą mieć charakter gwałtowny. W przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość punktowego przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Skawa do zb. Swinna Poreba, Dunajec do zb. Sromowce Wyzne od 02:30/14.09.2023 do 14:30/14.09.2023. W obszarach wystepowania prognozowanych intensywnych opadow, przewiduje sie wzrosty poziomu wody do strefy stanow wysokich. Na mniejszych rzekach wzrosty moga miec charakter gwaltowny. W przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc punktowego przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

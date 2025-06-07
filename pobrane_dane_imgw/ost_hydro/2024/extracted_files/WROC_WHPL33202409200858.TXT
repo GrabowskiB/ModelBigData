@@ -1,0 +1,15 @@
+Data i godzina wydania: 20.09.2024 - godz. 10:56
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 209 z dnia 16.09.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:00 dnia 20.09.2024 do godz. 11:00 dnia 23.09.2024
+Obszar: Barycz od Polskiej Wody do ujścia do Odry, Orla (dolnośląskie, wielkopolskie)
+Przebieg: Na Baryczy oraz w zlewni Orli prognozowana jest dalsza tendencja wzrostowa stanów wody. W Korzeńsku stany wody będą rosły powyżej stanu alarmowego, w Osetnie powyżej stanu ostrzegawczego z możliwością osiągnięcia stanu alarmowego. W ujściowym odcinku Baryczy możliwe są też wzrosty stanów wody wynikające z cofki od Odry.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy przebiegu, obszaru oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Barycz od Polskiej Wody do ujscia do Odry, Orla od 11:00/20.09.2024 do 11:00/23.09.2024. Na Baryczy oraz w zlewni Orli prognozowana jest dalsza tendencja wzrostowa stanow wody. W Korzensku stany wody beda rosly powyzej stanu alarmowego, w Osetnie powyzej stanu ostrzegawczego z mozliwoscia osiagniecia stanu alarmowego. W ujsciowym odcinku Baryczy mozliwe sa tez wzrosty stanow wody wynikajace z cofki od Odry. Szczegoly na meteo.imgw.pl

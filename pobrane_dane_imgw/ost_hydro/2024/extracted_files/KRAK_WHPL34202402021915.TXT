@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.02.2024 - godz. 20:11
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 65
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 20:11 dnia 02.02.2024 do godz. 12:00 dnia 04.02.2024
+Obszar: górne części zlewni: Nidy, Czarnej (Staszowskiej) oraz Kamiennej (świętokrzyskie)
+Przebieg: Wskutek spływu wód opadowo-roztopowych prognozowane są wzrosty poziomu wody w strefie stanów średnich i wysokich. Lokalnie istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 gorne czesci zlewni: Nidy, Czarnej (Staszowskiej) oraz Kamiennej od 20:11/02.02.2024 do 12:00/04.02.2024. Wskutek splywu wod opadowo-roztopowych prognozowane sa wzrosty poziomu wody w strefie stanow srednich i wysokich. Lokalnie istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

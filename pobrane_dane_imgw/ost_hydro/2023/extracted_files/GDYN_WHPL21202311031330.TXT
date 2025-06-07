@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.11.2023 - godz. 14:26
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 134
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 18:00 dnia 03.11.2023 do godz. 12:00 dnia 04.11.2023
+Obszar: Rzeki uchodzące do Zatoki Gdańskiej, do Zalewu Wiślanego oraz rzeki w zlewni Dolnej Wisły (pomorskie, warmińsko-mazurskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu spodziewane są wzrosty stanów wody, lokalnie do strefy wody wysokiej. Punktowo możliwe przekroczenie stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Rzeki Zatoki Gdanskiej,Zalewu Wislanego oraz rzeki w zlewni Dolnej Wisly od 18:00/03.11.2023 do 12:00/04.11.2023. W zwiazku z prognozowanymi intensywnymi opadami deszczu spodziewane sa wzrosty stanow wody, lokalnie do strefy wody wysokiej. Punktowo mozliwe przekroczenie stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

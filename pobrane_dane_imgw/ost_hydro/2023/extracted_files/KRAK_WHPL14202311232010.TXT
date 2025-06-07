@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.11.2023 - godz. 21:07
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 370
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 03:00 dnia 24.11.2023 do godz. 21:00 dnia 24.11.2023
+Obszar: Zlewnia Brynicy, Przemszy wraz ze zb. Przeczyce i Gostyni (śląskie)
+Przebieg: W związku z prognozowanymi opadami deszczu oraz pracą urządzeń hydrotechnicznych w zlewniach Brynicy, Przemszy oraz w zlewni Gostyni, spodziewane są wzrosty poziomu wody w strefie stanów wysokich z możliwością przekroczenia stanów ostrzegawczych na Brynicy w Kozłowej Górze, Przemszy w Piwoniu oraz na Gostyni w profilu Bojszowy. Punktowo na Brynicy w profilu Brynica istnieje możliwość przekroczenia stanu alarmowego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnia Brynicy, Przemszy wraz ze zb. Przeczyce i Gostyni od 03:00/24.11.2023 do 21:00/24.11.2023. W zwiazku z prognozowanymi opadami deszczu oraz praca urzadzen hydrotechnicznych w zlewniach Brynicy, Przemszy oraz w zlewni Gostyni, spodziewane sa wzrosty poziomu wody w strefie stanow wysokich z mozliwoscia przekroczenia stanow ostrzegawczych na Brynicy w Kozlowej Gorze, Przemszy w Piwoniu oraz na Gostyni w profilu Bojszowy. Punktowo na Brynicy w profilu Brynica istnieje mozliwosc przekroczenia stanu alarmowego.  Szczegoly na meteo.imgw.pl

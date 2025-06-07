@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.09.2023 - godz. 21:25
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 141
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 21:26 dnia 14.09.2023 do godz. 06:00 dnia 15.09.2023
+Obszar: Psina (opolskie, śląskie)
+Przebieg: W zlewni Psiny trwa spływ wód opadowych, powodujący wzrost stanu wody powyżej stanu ostrzegawczego. W okresie obowiązywania ostrzeżenia hydrologicznego przewiduje się początkowo wzrost lub wahania, a następnie opadanie stanu wody w strefie powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 100%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Psina od 21:26/14.09.2023 do 06:00/15.09.2023.  Szczegoly na meteo.imgw.pl

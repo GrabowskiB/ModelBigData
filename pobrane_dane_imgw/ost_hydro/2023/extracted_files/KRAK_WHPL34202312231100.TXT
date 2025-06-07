@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.12.2023 - godz. 11:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 400
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:59 dnia 23.12.2023 do godz. 09:00 dnia 24.12.2023
+Obszar: zlewnie: Wiernej Rzeki, Czarnej Nidy oraz Nidy od ujścia Czarnej Nidy do ujścia (świętokrzyskie)
+Przebieg: W związku ze spływem wód opadowych, prognozowany jest dalszy, powolny wzrost poziomu wody przy przekroczonym stanie ostrzegawczym w profilu Morawica na Czarnej Nidzie. Istnieje możliwość przekroczenia stanów ostrzegawczych w kolejnych profilach wodowskazowych, tj. Bocheniec na Wiernej Rzece oraz Pińczów na Nidzie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie: Wiernej Rzeki, Nidy od ujscia Czarnej Nidy do ujscia od 11:59/23.12.2023 do 09:00/24.12.2023. W zwiazku ze splywem wod opadowych, prognozowany jest dalszy, powolny wzrost poziomu wody przy przekroczonym stanie ostrzegawczym w profilu Morawica na Czarnej Nidzie. Istnieje mozliwosc przekroczenia stanow ostrzegawczych w kolejnych profilach wodowskazowych, tj. Bocheniec na Wiernej Rzece oraz Pinczow na Nidzie. Szczegoly na meteo.imgw.pl

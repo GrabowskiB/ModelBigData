@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.07.2024 - godz. 13:41
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 305
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:45 dnia 14.07.2024 do godz. 20:00 dnia 15.07.2024
+Obszar: Nida (Biała Nida) do ujścia Czarnej Nidy (świętokrzyskie)
+Przebieg: W wyniku spływu wód opadowych, na Nidzie w profilu Mniszek spodziewany jest wzrost poziomu wody powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Nida (Biala Nida) do ujscia Czarnej Nidy od 13:45/14.07.2024 do 20:00/15.07.2024. W wyniku splywu wod opadowych, na Nidzie w profilu Mniszek spodziewany jest wzrost poziomu wody powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

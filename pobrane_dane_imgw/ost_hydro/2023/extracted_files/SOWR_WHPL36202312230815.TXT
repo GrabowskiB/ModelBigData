@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.12.2023 - godz. 09:11
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 118
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:12 dnia 23.12.2023 do godz. 10:00 dnia 24.12.2023
+Obszar: Liwiec (mazowieckie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, na Liwcu i jego dopływach przewiduje się wzrost stanu wody, lokalnie na Liwcu w Zaliwiu-Piegawkach powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Liwiec od 09:12/23.12.2023 do 10:00/24.12.2023. W zwiazku ze splywem wod opadowo-roztopowych, na Liwcu i jego doplywach przewiduje sie wzrost stanu wody, lokalnie na Liwcu w Zaliwiu-Piegawkach powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.07.2023 - godz. 09:08
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 179
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:15 dnia 01.07.2023 do godz. 14:00 dnia 01.07.2023
+Obszar: zlewnia Gostyni (śląskie)
+Przebieg: Obserwowany jest wzrost poziomu wody związany ze spływem wód opadowych. Spodziewane jest przekroczenie stanu ostrzegawczego w profilu Bojszowy. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Gostyni od 09:15/01.07.2023 do 14:00/01.07.2023. Obserwowany jest wzrost poziomu wody zwiazany ze splywem wod opadowych. Spodziewane jest przekroczenie stanu ostrzegawczego w profilu Bojszowy.  Szczegoly na meteo.imgw.pl

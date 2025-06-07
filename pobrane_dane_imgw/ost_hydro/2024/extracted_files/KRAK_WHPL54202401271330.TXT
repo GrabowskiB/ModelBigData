@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.01.2024 - godz. 14:26
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 59 z dnia 27.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:26 dnia 27.01.2024 do godz. 13:00 dnia 28.01.2024
+Obszar: zlewnia Lubaczówki, Szkła oraz Tanwi (lubelskie, podkarpackie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych prognozowany jest dalszy wzrost poziomu wody powyżej stanów ostrzegawczych. W profilu Zapałów na Lubaczówce istnieje możliwość przekroczenia stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Zmiana dotyczy obszaru.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Lubaczowki, Szkla oraz Tanwi od 14:26/27.01.2024 do 13:00/28.01.2024. W zwiazku ze splywem wod opadowo-roztopowych prognozowany jest dalszy wzrost poziomu wody powyzej stanow ostrzegawczych. W profilu Zapalow na Lubaczowce istnieje mozliwosc przekroczenia stanu alarmowego. Szczegoly na meteo.imgw.pl

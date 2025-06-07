@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.04.2023 - godz. 04:00
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 44
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 04:01 dnia 02.04.2023 do godz. 10:00 dnia 02.04.2023
+Obszar: Kaczawa górna do Dunina, Skora (górna) (dolnośląskie)
+Przebieg: W związku ze spływem wód opadowych oraz prognozowanymi dalszymi opadami w zlewni górnej Kaczawy do Dunina przewiduje się dalsze wzrosty stanów wody w strefie stanów wysokich, z możliwością lokalnego osiągnięcia lub przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Paweł Staniszewski

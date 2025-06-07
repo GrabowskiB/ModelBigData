@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.10.2022 - godz. 11:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Odwołanie ostrzeżenia Nr: 26 z dnia 23.05.2022
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Czerna Wielka (dolnośląskie, lubuskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach w zlewni Czernej Wielkiej spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenia odwołuje się, gdy wartość przepływu na stacjach uznanych za reprezentatywne utrzymuje się powyżej SNQ przez co najmniej 5 dni (dotyczy okresu obserwacji).
+
+Dyżurny synoptyk hydrolog: Wojciech Krasowski

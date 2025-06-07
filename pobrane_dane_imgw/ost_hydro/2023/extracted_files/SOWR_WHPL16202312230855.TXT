@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.12.2023 - godz. 09:53
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 119
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:54 dnia 23.12.2023 do godz. 00:00 dnia 24.12.2023
+Obszar: Bzura (łódzkie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, na Bzurze i jej dopływach przewiduje się wahania i wzrosty stanu wody w strefie wody wysokiej. Lokalnie na Bzurze w Kwiatkówku możliwe jest osiągnięcie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bzura od 09:54/23.12.2023 do 00:00/24.12.2023. W zwiazku ze splywem wod opadowo-roztopowych, na Bzurze i jej doplywach przewiduje sie wahania i wzrosty stanu wody w strefie wody wysokiej. Lokalnie na Bzurze w Kwiatkowku mozliwe jest osiagniecie stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

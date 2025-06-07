@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.01.2024 - godz. 07:46
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Zmiana ostrzeżenia Nr: 9 z dnia 24.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 07:47 dnia 25.01.2024 do godz. 09:00 dnia 26.01.2024
+Obszar: Prosna górna (opolskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej w Gorzowie Śląskim na górnej Prośnie zostanie przekroczony stan alarmowy.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy przebiegu zjawiska i czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Prosna gorna od 07:47/25.01.2024 do 09:00/26.01.2024. W zwiazku z rozwojem sytuacji hydrologicznej w Gorzowie Slaskim na gornej Prosnie zostanie przekroczony stan alarmowy. Szczegoly na meteo.imgw.pl

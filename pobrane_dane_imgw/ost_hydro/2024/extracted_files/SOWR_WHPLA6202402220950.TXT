@@ -1,0 +1,15 @@
+Data i godzina wydania: 22.02.2024 - godz. 10:48
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 117
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:49 dnia 22.02.2024 do godz. 10:46 dnia 23.02.2024
+Obszar: Zl. Biebrzy, Sidra (podlaskie)
+Przebieg: W związku ze spływem wód opadowych w zlewni Biebrzy przewiduje się dalsze wzrosty poziomu wody, na Sidrze w Harasimowiczach z możliwością osiągnięcia stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zl. Biebrzy, Sidra od 10:49/22.02.2024 do 10:46/23.02.2024. W zwiazku ze splywem wod opadowych w zlewni Biebrzy przewiduje sie dalsze wzrosty poziomu wody, na Sidrze w Harasimowiczach z mozliwoscia osiagniecia stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

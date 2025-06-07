@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.06.2023 - godz. 12:09
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 36
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 16:00 dnia 26.06.2023 do godz. 01:00 dnia 27.06.2023
+Obszar: Wrześnica, Kanał Mosiński, Warta środkowa od Prosny do Wełny, Wełna, Warta środkowa od Wełny do Noteci, Noteć górna, Łobżonka, Noteć środkowa, Gwda, Drawa, Noteć dolna, Warta dolna od Noteci do ujścia, Obra, Odra dolna od Warty do Gryfina, Ina i Płonia (kujawsko-pomorskie, lubuskie, pomorskie, wielkopolskie, zachodniopomorskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody i lokalne podtopienia. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow srodkowej i dolnej Warty, dolnej Odry,  od 16:00/26.06.2023 do 01:00/27.06.2023. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty stanow wody i lokalne podtopienia.  Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 28.01.2024 - godz. 09:45
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 48
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:00 dnia 28.01.2024 do godz. 10:00 dnia 29.01.2024
+Obszar: Dolna Narew (mazowieckie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, w zlewni dolnej Narwi przewiduje się wzrosty i wahania stanu wody, przy aktualnie przekroczonych stanach ostrzegawczych, z możliwością przekroczeń tych stanów w kolejnych profilach.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Dolna Narew od 10:00/28.01.2024 do 10:00/29.01.2024. W zwiazku ze splywem wod opadowo-roztopowych, w zlewni dolnej Narwi przewiduje sie wzrosty i wahania stanu wody, przy aktualnie przekroczonych stanach ostrzegawczych, z mozliwoscia przekroczen tych stanow w kolejnych profilach. Szczegoly na meteo.imgw.pl

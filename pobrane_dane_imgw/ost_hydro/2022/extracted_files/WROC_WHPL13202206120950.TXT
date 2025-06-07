@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.06.2022 - godz. 11:47
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 37
+Zjawisko: susza hydrologiczna
+Stopień: -1
+
+Ważność: od godz. 11:48 dnia 12.06.2022 do odwołania
+Obszar: Odra od Ścinawy do Głogowa, Barycz bez Orli i Polskiego Rowu, Orla (dolnośląskie, lubuskie, wielkopolskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach w zlewni Baryczy (bez Orli i Polskiego Rowu), Orli i zlewni dopływów Odry od Ścinawy do Głogowa spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenia wydawane są w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni.
+
+Dyżurny synoptyk hydrolog: Wojciech Krasowski

@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.02.2024 - godz. 14:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 70
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:29 dnia 24.02.2024 do godz. 15:00 dnia 25.02.2024
+Obszar: Barycz od Polskiej Wody do ujścia do Odry (dolnośląskie)
+Przebieg: Spływ wód opadowych powoduje na Baryczy wzrosty stanów wody, przy przekroczonym stanie ostrzegawczym w Łąkach. Prognozowane są dalsze wzrosty stanu wody z możliwością przekroczenia stanu alarmowego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Barycz od Polskiej Wody do ujscia do Odry od 14:29/24.02.2024 do 15:00/25.02.2024. Splyw wod opadowych powoduje na Baryczy wzrosty stanow wody, przy przekroczonym stanie ostrzegawczym w Lakach. Prognozowane sa dalsze wzrosty stanu wody z mozliwoscia przekroczenia stanu alarmowego.  Szczegoly na meteo.imgw.pl

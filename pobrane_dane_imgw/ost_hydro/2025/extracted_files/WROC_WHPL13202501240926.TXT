@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.01.2025 - godz. 10:23
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 1 z dnia 22.01.2025
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:23 dnia 24.01.2025 do godz. 12:00 dnia 26.01.2025
+Obszar: Widawa od Namysłowa do ujścia do Odry (dolnośląskie)
+Przebieg: Na Widawie poniżej Namysłowa stany wody będą utrzymywały się powyżej stanów ostrzegawczych. W ujściowym odcinku Widawy przewidywane są dalsze, powolne wzrosty stanów wody. Na przebieg prognozowanego zjawiska może mieć wpływ praca urządzeń wodnych zlokalizowanych w rejonie Namysłowa i Zbytowej.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy przebiegu zjawiska oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Widawa od Namyslowa do ujscia do Odry od 10:23/24.01.2025 do 12:00/26.01.2025. Na Widawie ponizej Namyslowa stany wody beda utrzymywaly sie powyzej stanow ostrzegawczych. W ujsciowym odcinku Widawy przewidywane sa dalsze, powolne wzrosty stanow wody. Na przebieg prognozowanego zjawiska moze miec wplyw praca urzadzen wodnych zlokalizowanych w rejonie Namyslowa i Zbytowej. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 13.03.2024 - godz. 17:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 106
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 17:36 dnia 13.03.2024 do godz. 10:00 dnia 14.03.2024
+Obszar: Nida (Biała Nida) do ujścia Czarnej Nidy (świętokrzyskie)
+Przebieg: W związku ze spływem wód opadowych na Nidzie do ujścia Czarnej Nidy prognozowany jest dalszy wzrost poziomu wody z przekroczeniem stanu ostrzegawczego na stacji hydrologicznej Mniszek.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Nida (Biala Nida) do ujscia Czarnej Nidy od 17:36/13.03.2024 do 10:00/14.03.2024. W zwiazku ze splywem wod opadowych na Nidzie do ujscia Czarnej Nidy prognozowany jest dalszy wzrost poziomu wody z przekroczeniem stanu ostrzegawczego na stacji hydrologicznej Mniszek. Szczegoly na meteo.imgw.pl

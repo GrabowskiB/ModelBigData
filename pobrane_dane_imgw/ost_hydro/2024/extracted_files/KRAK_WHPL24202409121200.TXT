@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.09.2024 - godz. 13:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 415
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 20:00 dnia 12.09.2024 do godz. 11:00 dnia 16.09.2024
+Obszar: Zlewnie dopływów Wisły oraz zlewni Czarnej Orawy (małopolskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu na rzekach w województwie małopolskim spodziewane są wzrosty poziomu wody, początkowo do strefy stanów wysokich z przekroczeniami stanów ostrzegawczych, a następnie liczne przekroczenia stanów alarmowych. Największa intensywność zjawisk wystąpi w dniach 14-15.09 gdzie punktowo będą mieć miejsce znaczne wzrosty powyżej stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Zlewnie doplywow Wisly oraz zlewni Czarnej Orawy od 20:00/12.09.2024 do 11:00/16.09.2024. W zwiazku z prognozowanymi intensywnymi opadami deszczu na rzekach w wojewodztwie malopolskim spodziewane sa wzrosty poziomu wody, poczatkowo do strefy stanow wysokich z przekroczeniami stanow ostrzegawczych, a nastepnie liczne przekroczenia stanow alarmowych. Najwieksza intensywnosc zjawisk wystapi w dniach 14-15.09 gdzie punktowo beda miec miejsce znaczne wzrosty powyzej stanow alarmowych. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.02.2023 - godz. 11:11
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 21
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:12 dnia 05.02.2023 do godz. 18:00 dnia 06.02.2023
+Obszar: Widawa od Namysłowa do ujścia do Odry (dolnośląskie)
+Przebieg: W okresie ważności ostrzeżenia hydrologicznego przewidywana jest ponownie tendencja wzrostowa powyżej stanu alarmowego w Zbytowej na Widawie oraz utrzymanie się przekroczenia stanu ostrzegawczego w Krzyżanowicach na Widawie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Wojciech Krasowski

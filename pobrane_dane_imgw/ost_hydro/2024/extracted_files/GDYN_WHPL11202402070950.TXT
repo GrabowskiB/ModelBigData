@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.02.2024 - godz. 10:44
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 32 z dnia 04.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:47 dnia 07.02.2024 do godz. 12:00 dnia 10.02.2024
+Obszar: Zalew Szczeciński, Odra od Gryfina do ujścia (rz) (zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną na Zalewie Szczecińskim przewidywane są wzrosty i wahania poziomów wody w strefie wody wysokiej i powyżej stanów ostrzegawczych, lokalnie również powyżej stanów alarmowych. W ujściu Odry prognozowane są wzrosty poziomów wody w strefie wody wysokiej, lokalnie powyżej stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy czasu obowiązywania ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zalew Szczecinski, Odra od Gryfina do ujscia (rz) od 10:47/07.02.2024 do 12:00/10.02.2024. W zwiazku z prognozowana sytuacja meteorologiczna na Zalewie Szczecinskim przewidywane sa wzrosty i wahania poziomow wody w strefie wody wysokiej i powyzej stanow ostrzegawczych, lokalnie rowniez powyzej stanow alarmowych. W ujsciu Odry prognozowane sa wzrosty poziomow wody w strefie wody wysokiej, lokalnie powyzej stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

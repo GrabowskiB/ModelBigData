@@ -1,0 +1,15 @@
+Data i godzina wydania: 30.07.2023 - godz. 02:21
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Odwołanie ostrzeżenia Nr: 84 z dnia 29.07.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Zalew Wiślany, Elbląg, Wąska, Nogat, Bauda, Pasłęka od Wałszy do ujścia, Pasłęka od źródła do Wałszy, Zalew Wiślany - Banówka i Świeża, Wałsza, Drwęca Warmińska, Osa, Drwęca od Welu do Rypienicy, Drwęca od źródła do Welu, Wel (warmińsko-mazurskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zal Wislany,Waska,rz Zal. Wislanego,Osa,Drweca od Welu do Rypienicy,Wel od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

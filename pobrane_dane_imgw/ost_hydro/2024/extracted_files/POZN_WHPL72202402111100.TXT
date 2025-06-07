@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.02.2024 - godz. 11:56
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 41
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:57 dnia 11.02.2024 do godz. 12:00 dnia 13.02.2024
+Obszar: Gwda (pomorskie, wielkopolskie, zachodniopomorskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej i prognozowanym opadami atmosferycznymi, na stacji wodowskazowej Piła na Gwdzie prognozowane są dalsze wzrosty i wahania w strefie stanu alarmowego. W profilu wodowskazowym Ptusza stan wody utrzymywać się będzie w strefie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Gwda od 11:57/11.02.2024 do 12:00/13.02.2024. W zwiazku z rozwojem sytuacji hydrologicznej i prognozowanym opadami atmosferycznymi, na stacji wodowskazowej Pila na Gwdzie prognozowane sa dalsze wzrosty i wahania w strefie stanu alarmowego. W profilu wodowskazowym Ptusza stan wody utrzymywac sie bedzie w strefie stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

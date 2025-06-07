@@ -1,0 +1,15 @@
+Data i godzina wydania: 30.08.2023 - godz. 07:52
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 140
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:52 dnia 30.08.2023 do godz. 09:00 dnia 31.08.2023
+Obszar: Ślęza górna do Borowa, Ślęza od Borowa do ujścia (dolnośląskie)
+Przebieg: Spływ wód opadowych spowodował w górnym i środkowym biegu Ślęzy wzrosty stanów wody do strefy wody wysokiej, w Białobrzeziu powyżej stanu ostrzegawczego. W związku z prognozowanymi opadami i spływem wód opadowych przewidywane są dalsze wzrosty i wahania stanów wody w strefie wody wysokiej, lokalnie powyżej stanu ostrzegawczego. W Borowie na Ślęzie stan wody może również wzrosnąć powyżej stanu ostrzegawczego..
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Sleza gorna do Borowa, Sleza od Borowa do ujscia od 07:52/30.08.2023 do 09:00/31.08.2023. Splyw wod opadowych spowodowal w gornym i srodkowym biegu Slezy wzrosty stanow wody do strefy wody wysokiej, w Bialobrzeziu powyzej stanu ostrzegawczego. W zwiazku z prognozowanymi opadami i splywem wod opadowych przewidywane sa dalsze wzrosty i wahania stanow wody w strefie wody wysokiej, lokalnie powyzej stanu ostrzegawczego. W Borowie na Slezie stan wody moze rowniez wzrosnac powyzej stanu ostrzegawczego.. Szczegoly na meteo.imgw.pl

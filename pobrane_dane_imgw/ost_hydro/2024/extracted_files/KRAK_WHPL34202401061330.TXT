@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.01.2024 - godz. 14:25
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 22 z dnia 05.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:26 dnia 06.01.2024 do godz. 12:00 dnia 07.01.2024
+Obszar: Wisła od ujścia Wisłoki do ujścia Kamiennej (lubelskie, podkarpackie, świętokrzyskie)
+Przebieg: W związku ze spływem wód opadowych, na odcinku Wisły od ujścia Wisłoki do ujścia Kamiennej, spodziewany jest dalszy wzrost poziomu wody w strefie stanów wysokich przy przekroczonym stanie ostrzegawczym w profilu Zawichost, z możliwością osiągnięcia lub nieznacznego przekroczenia stanu ostrzegawczego w profilu Sandomierz.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy obszaru, czasu obowiązywania oraz przebiegu zjawiska.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wisla od ujscia Wisloki do ujscia Kamiennej od 14:26/06.01.2024 do 12:00/07.01.2024. W zwiazku ze splywem wod opadowych, na odcinku Wisly od ujscia Wisloki do ujscia Kamiennej, spodziewany jest dalszy wzrost poziomu wody w strefie stanow wysokich przy przekroczonym stanie ostrzegawczym w profilu Zawichost, z mozliwoscia osiagniecia lub nieznacznego przekroczenia stanu ostrzegawczego w profilu Sandomierz. Szczegoly na meteo.imgw.pl

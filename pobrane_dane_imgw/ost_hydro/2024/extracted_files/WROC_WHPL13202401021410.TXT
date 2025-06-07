@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.01.2024 - godz. 15:08
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 4
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 16:00 dnia 02.01.2024 do godz. 18:00 dnia 03.01.2024
+Obszar: Barycz od Polskiej Wody do ujścia do Odry, Barycz bez Orli i Polskiego Rowu, Polski Rów (dolnośląskie, wielkopolskie)
+Przebieg: Wskutek spływu wód opadowych, prognozowane są ponowne stopniowe wzrosty stanów wody w strefie wody wysokiej, lokalnie powyżej stanów ostrzegawczych. Ponowne przekroczenie stanu ostrzegawczego oczekiwane jest w Odolanowie na Baryczy oraz w Rydzynie na Polskim Rowie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Barycz ponizej Polskiej Wody, Barycz bez Orli i Polskiego Rowu, Polski Row od 16:00/02.01.2024 do 18:00/03.01.2024. Wskutek splywu wod opadowych, prognozowane sa ponowne stopniowe wzrosty stanow wody w strefie wody wysokiej, lokalnie powyzej stanow ostrzegawczych. Ponowne przekroczenie stanu ostrzegawczego oczekiwane jest w Odolanowie na Baryczy oraz w Rydzynie na Polskim Rowie. Szczegoly na meteo.imgw.pl

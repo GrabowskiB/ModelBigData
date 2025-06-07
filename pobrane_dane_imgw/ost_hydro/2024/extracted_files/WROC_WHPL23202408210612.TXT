@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.08.2024 - godz. 08:09
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 194
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 10:00 dnia 21.08.2024 do godz. 22:00 dnia 21.08.2024
+Obszar: Odra od Chałupek do Koźla, Olza od Cieszyna do ujścia do Odry, Olza, Czadeczka, Psina, Ruda od Zb. Rybnik do ujścia do Odry, Ruda, Bierawka, Kłodnica od Zb. Dzierżno Duże do ujścia do Odry, Kłodnica, Mała Panew od Krupskiego Młyna do Zb. Turawa, Mała Panew (opolskie, śląskie)
+Przebieg: W obszarach występowania silnych i bardzo silnych opadów deszczu stany wody będą gwałtownie podnosić się w strefach wody średniej i wysokiej, zwłaszcza na ciekach górskich i podgórskich, małych ciekach i ciekach w obszarach silnie zurbanizowanych. W przypadku wystąpienia szczególnie intensywnych opadów istnieje możliwość punktowego przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 dorzecze gornej Odry od 10:00/21.08.2024 do 22:00/21.08.2024. W obszarach wystepowania silnych i bardzo silnych opadow deszczu stany wody beda gwaltownie podnosic sie w strefach wody sredniej i wysokiej, zwlaszcza na ciekach gorskich i podgorskich, malych ciekach i ciekach w obszarach silnie zurbanizowanych. W przypadku wystapienia szczegolnie intensywnych opadow istnieje mozliwosc punktowego przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

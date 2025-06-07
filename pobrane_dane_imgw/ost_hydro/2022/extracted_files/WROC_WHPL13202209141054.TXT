@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.09.2022 - godz. 12:52
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 140
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 15:00 dnia 14.09.2022 do godz. 10:00 dnia 15.09.2022
+Obszar: Widawa od Namysłowa do ujścia do Odry, Widawa (dolnośląskie, opolskie, wielkopolskie)
+Przebieg: W związku z przewidywanymi opadami deszczu prognozowane są wzrosty stanów wody, w Namysłowie i Krzyżanowicach w strefie wody wysokiej z możliwością przekroczenia stanów ostrzegawczych, w Zbytowej powyżej stanu ostrzegawczego z możliwością przekroczenia stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Kamila Głowinkowska

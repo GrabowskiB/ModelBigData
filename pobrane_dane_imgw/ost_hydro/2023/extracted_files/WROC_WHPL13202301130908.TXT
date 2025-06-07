@@ -1,0 +1,15 @@
+Data i godzina wydania: 13.01.2023 - godz. 10:05
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 4
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:06 dnia 13.01.2023 do godz. 11:00 dnia 15.01.2023
+Obszar: Widawa od Namysłowa do ujścia do Odry (dolnośląskie, opolskie)
+Przebieg: Na Widawie poniżej Namysłowa stany wody będą miały tendencję wzrostową w strefie wody wysokiej: w Zbytowej powyżej stanu ostrzegawczego, w Krzyżanowicach z możliwością przekroczenia stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Na przebieg prognozowanego zjawiska ma wpływ praca urządzeń wodnych.
+
+Dyżurny synoptyk hydrolog: Kinga Strońska

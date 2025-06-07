@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<warn-msg release="2024-07-24 21:55" reference="2024-07-24 17:22" no="205" degree="1" type="ZOH" from="2024-07-24 21:56" to="2024-07-25 08:00" office="SOWR" event="GWSW" prob="70" author="">
+  <run>W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.</run>
+  <comment>Zmiana dotyczy obszaru oraz czasu obowiązywania.</comment>
+  <area-description>Wisła od Dęblina do ujścia Narwi, Świder, Jeziorka, Wkra, Bzura, Pisa, Środkowa Narew, Dolna Narew, Bug, Nurzec, Liwiec (mazowieckie, podlaskie)</area-description>
+  <provinces>
+    <province name="MA" rso="mazowieckie, Wisła, Świder, Jeziorka, Wkra, Bzura, Pisa, Narew, Bug, Nurzec, Liwiec, gwałtowne wzrosty stanów wody">
+      <area name="Z_K_385_MA" />
+      <area name="Z_K_357_MA" />
+      <area name="Z_K_359_MA" />
+      <area name="Z_K_375_MA" />
+      <area name="Z_K_378_MA" />
+      <area name="Z_K_382_MA" />
+      <area name="Z_K_351_MA" />
+      <area name="Z_K_373_MA" />
+    </province>
+    <province name="PD" rso="podlaskie, Wisła, Świder, Jeziorka, Wkra, Bzura, Pisa, Narew, Bug, Nurzec, Liwiec, gwałtowne wzrosty stanów wody">
+      <area name="Z_K_361_PD" />
+      <area name="Z_K_368_PD" />
+      <area name="Z_K_372_PD" />
+      <area name="Z_K_383_PD" />
+    </province>
+  </provinces>
+  <sms>IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Wisla, Swider, Jeziorka, Wkra, Bzura, Pisa, Narew, Bug, Nurzec, Liwiec od 21:56/24.07.2024 do 08:00/25.07.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Zmiana dotyczy obszaru oraz czasu obowiazywania. Szczegoly na meteo.imgw.pl</sms>
+</warn-msg>

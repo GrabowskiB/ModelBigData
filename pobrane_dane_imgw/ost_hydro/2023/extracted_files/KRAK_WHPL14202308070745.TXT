@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.08.2023 - godz. 09:40
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 265
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:00 dnia 07.08.2023 do godz. 10:00 dnia 08.08.2023
+Obszar: zlewnie Pszczynki, Gostyni, Brynicy (śląskie)
+Przebieg: Prognozowane opady deszczu i spływ wód opadowych mogą powodować ponowne wzrosty poziomu wody, miejscami powyżej stanów ostrzegawczych. Na Brynicy w Brynicy możliwe jest przekroczenie stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie Pszczynki, Gostyni, Brynicy od 12:00/07.08.2023 do 10:00/08.08.2023. Prognozowane opady deszczu i splyw wod opadowych moga powodowac ponowne wzrosty poziomu wody, miejscami powyzej stanow ostrzegawczych. Na Brynicy w Brynicy mozliwe jest przekroczenie stanu alarmowego. Szczegoly na meteo.imgw.pl

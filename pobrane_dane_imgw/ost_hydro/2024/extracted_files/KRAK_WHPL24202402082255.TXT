@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.02.2024 - godz. 23:50
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 85
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 23:50 dnia 08.02.2024 do godz. 12:00 dnia 09.02.2024
+Obszar: Soła od kaskady zbiorników do ujścia i przyrzecze Wisły (małopolskie)
+Przebieg: W związku ze spływu wód opadowych prognozowane są dalsze wzrosty poziomu wody w strefie stanów wysokich, w Oświęcimiu spodziewane jest przekroczeniami stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Sola od kaskady zbiornikow do ujscia i przyrzecze Wisly od 23:50/08.02.2024 do 12:00/09.02.2024. W zwiazku ze splywu wod opadowych prognozowane sa dalsze wzrosty poziomu wody w strefie stanow wysokich, w Oswiecimiu spodziewane jest przekroczeniami stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

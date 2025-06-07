@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.01.2024 - godz. 10:07
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Zmiana ostrzeżenia Nr: 42 z dnia 26.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 10:08 dnia 27.01.2024 do godz. 12:00 dnia 28.01.2024
+Obszar: Liwiec (mazowieckie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, w zlewni Liwca prognozowane są dalsze wzrosty poziomu wody przy aktualnie przekroczonym stanie alarmowym w Zaliwiu-Piegawkach na Liwcu.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy przebiegu zjawiska i czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Liwiec od 10:08/27.01.2024 do 12:00/28.01.2024. W zwiazku ze splywem wod opadowo-roztopowych, w zlewni Liwca prognozowane sa dalsze wzrosty poziomu wody przy aktualnie przekroczonym stanie alarmowym w Zaliwiu-Piegawkach na Liwcu. Szczegoly na meteo.imgw.pl

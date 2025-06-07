@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.09.2024 - godz. 14:40
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 211
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 14:41 dnia 16.09.2024 do godz. 11:00 dnia 20.09.2024
+Obszar: Nysa Kłodzka od Zb. Nysa do ujścia do Odry (opolskie)
+Przebieg: W związku z odpływem ze zbiornika Nysa na Dolnej Nysie Kłodzkiej otrzymują się stany wody powyżej alarmowych z możliwością wystąpienia kolejnych wahań i wzrostów.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Nysa Klodzka od Zb. Nysa do ujscia do Odry od 14:41/16.09.2024 do 11:00/20.09.2024. W zwiazku z odplywem ze zbiornika Nysa na Dolnej Nysie Klodzkiej otrzymuja sie stany wody powyzej alarmowych z mozliwoscia wystapienia kolejnych wahan i wzrostow. Szczegoly na meteo.imgw.pl

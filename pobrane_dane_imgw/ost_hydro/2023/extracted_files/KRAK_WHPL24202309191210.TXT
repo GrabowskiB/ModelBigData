@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.09.2023 - godz. 14:08
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 334
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 14:09 dnia 19.09.2023 do godz. 20:00 dnia 19.09.2023
+Obszar: zlewnia Rudawy (małopolskie)
+Przebieg: Na Rudawie obserwuje się szybki wzrost poziomu wody, aktualnie powyżej stanu ostrzegawczego. Spodziewane jest przekroczenie stanu alarmowego w profilu Balice.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 zlewnia Rudawy od 14:09/19.09.2023 do 20:00/19.09.2023. Na Rudawie obserwuje sie szybki wzrost poziomu wody, aktualnie powyzej stanu ostrzegawczego. Spodziewane jest przekroczenie stanu alarmowego w profilu Balice. Szczegoly na meteo.imgw.pl

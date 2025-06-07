@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.07.2023 - godz. 07:26
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 190
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 07:27 dnia 12.07.2023 do odwołania
+Obszar: zlewnia Łęgu i przyrzecze Wisły (podkarpackie)
+Przebieg: W związku z występującymi niskimi przepływami wody na obszarze zlewni Łęgu oraz przyrzecza Wisły spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 100%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA zlewnia Legu i przyrzecze Wisly od 07:27/12.07.2023 do odwolania. W zwiazku z wystepujacymi niskimi przeplywami wody na obszarze zlewni Legu oraz przyrzecza Wisly spodziewane jest dalsze utrzymywanie sie przeplywow wody ponizej SNQ. Szczegoly na meteo.imgw.pl

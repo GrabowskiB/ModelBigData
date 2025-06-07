@@ -1,0 +1,15 @@
+Data i godzina wydania: 28.01.2024 - godz. 13:52
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 54
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 14:00 dnia 28.01.2024 do godz. 12:00 dnia 29.01.2024
+Obszar: Dolna Łyna (warmińsko-mazurskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, w zlewni dolnej Łyny przewiduje się dalszy wzrost poziomu wody, przy przekroczonym stanie alarmowym na Gubrze w Prośnie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Dolna Lyna od 14:00/28.01.2024 do 12:00/29.01.2024. W zwiazku ze splywem wod opadowo-roztopowych, w zlewni dolnej Lyny przewiduje sie dalszy wzrost poziomu wody, przy przekroczonym stanie alarmowym na Gubrze w Prosnie. Szczegoly na meteo.imgw.pl

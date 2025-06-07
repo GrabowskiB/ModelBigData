@@ -1,0 +1,15 @@
+Data i godzina wydania: 17.02.2024 - godz. 14:44
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 48
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:44 dnia 17.02.2024 do godz. 10:00 dnia 19.02.2024
+Obszar: Warta środkowa od Zb. Jeziorsko do Prosny (wielkopolskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej, na stacji hydrologicznej Ląd na Warcie prognozowane są dalsze wzrosty stanów wody w strefie wody wysokiej i przekroczenie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Warta srodkowa od Zb. Jeziorsko do Prosny od 14:44/17.02.2024 do 10:00/19.02.2024. W zwiazku z rozwojem sytuacji hydrologicznej, na stacji hydrologicznej Lad na Warcie prognozowane sa dalsze wzrosty stanow wody w strefie wody wysokiej i przekroczenie stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

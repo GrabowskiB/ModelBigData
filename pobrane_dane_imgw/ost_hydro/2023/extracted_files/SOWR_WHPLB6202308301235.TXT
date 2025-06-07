@@ -1,0 +1,17 @@
+Data i godzina wydania: 30.08.2023 - godz. 14:30
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 85
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:31 dnia 30.08.2023 do godz. 08:00 dnia 31.08.2023
+Obszar: Górna Łyna (warmińsko-mazurskie)
+Przebieg: W zlewni górnej Łyny, w związku ze spływem wód opadowych i prognozowanymi dalszymi opadami deszczu, przewiduje się wzrost stanu wody, lokalnie na Łynie w Olsztynie-Kortowie powyżej stanu ostrzegawczego.
+
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Gorna Lyna od 14:31/30.08.2023 do 08:00/31.08.2023. W zlewni gornej Lyny, w zwiazku ze splywem wod opadowych i prognozowanymi dalszymi opadami deszczu, przewiduje sie wzrost stanu wody, lokalnie na Lynie w Olsztynie-Kortowie powyzej stanu ostrzegawczego.
+ Szczegoly na meteo.imgw.pl

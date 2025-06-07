@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.05.2023 - godz. 14:26
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 96
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 00:00 dnia 17.05.2023 do godz. 10:00 dnia 18.05.2023
+Obszar: zlewnie Małej Wisły, Przemszy, Soły wraz z kaskadą zbiorników (śląskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu, spodziewane są wzrosty poziomu wody w strefie stanów średnich i do strefy wody wysokiej. Miejscami (szczególnie na mniejszych rzekach i w zlewniach zurbanizowanych) wzrosty mogą być gwałtowne. Lokalnie mogą zostać przekroczone stany ostrzegawcze, a punktowo także stany alarmowe.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Wawrzyniec Kruszewski

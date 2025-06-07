@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.07.2022 - godz. 10:10
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 62
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 10:30 dnia 04.07.2022 do odwołania
+Obszar: Wisła od Dęblina do ujścia Zgłowiączki (kujawsko-pomorskie, mazowieckie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na Wiśle w województwach mazowieckim i kujawsko-pomorskim spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+Dyżurny synoptyk hydrolog: Michał Ceran

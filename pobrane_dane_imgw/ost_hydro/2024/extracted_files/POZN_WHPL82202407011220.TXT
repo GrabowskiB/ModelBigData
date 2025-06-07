@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.07.2024 - godz. 14:17
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 101
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 18:00 dnia 01.07.2024 do godz. 18:00 dnia 02.07.2024
+Obszar: Gwda (pomorskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu, w tym również o charakterze burzowym, na ciekach niekontrolowanych zlewni Gwdy mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia Gwdy od 18:00/01.07.2024 do 18:00/02.07.2024. W zwiazku z prognozowanymi intensywnymi opadami deszczu, w tym rowniez o charakterze burzowym, na ciekach niekontrolowanych zlewni Gwdy moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. Szczegoly na meteo.imgw.pl

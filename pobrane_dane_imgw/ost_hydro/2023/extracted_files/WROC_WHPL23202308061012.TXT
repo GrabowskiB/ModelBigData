@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.08.2023 - godz. 12:09
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 114
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:10 dnia 06.08.2023 do godz. 12:00 dnia 08.08.2023
+Obszar: zlewnia Widawy i Baryczy, zlewnia Odry od Ścinawy do Głogowa (dolnośląskie, lubuskie, opolskie, wielkopolskie)
+Przebieg: Występujące oraz prognozowane opady deszczu będą powodowały wzrosty stanów wody do strefy wody wysokiej i do przekroczenia stanów ostrzegawczych. W Odolanowie - na Baryczy i Kurochu - oraz na Polskiej Wodzie nie wyklucza się możliwości przekroczenia stanu alarmowego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie może być aktualizowane. 
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Widawy i Baryczy, zlewnia Odry od Scinawy do Glogowa od 12:10/06.08.2023 do 12:00/08.08.2023. Wystepujace oraz prognozowane opady deszczu beda powodowaly wzrosty stanow wody do strefy wody wysokiej i do przekroczenia stanow ostrzegawczych. W Odolanowie - na Baryczy i Kurochu - oraz na Polskiej Wodzie nie wyklucza sie mozliwosci przekroczenia stanu alarmowego.  Szczegoly na meteo.imgw.pl

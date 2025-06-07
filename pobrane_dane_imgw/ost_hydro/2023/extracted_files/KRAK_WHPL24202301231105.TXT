@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.01.2023 - godz. 12:02
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 22
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 12:03 dnia 23.01.2023 do odwołania
+Obszar: Dunajec wraz ze zb. Sromowce Wyżne, Dunajec od zb. Sromowce Wyżne do zapory zb. Czchów, Poprad, Dunajec od zb. Czchów do ujścia, Biała (małopolskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na terenie woj.. […], na obszarze […], spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+Dyżurny synoptyk hydrolog: CASH Centralny Administrator SH

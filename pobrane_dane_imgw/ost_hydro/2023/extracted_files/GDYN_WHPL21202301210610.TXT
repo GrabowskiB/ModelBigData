@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.01.2023 - godz. 07:07
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 5
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:08 dnia 21.01.2023 do godz. 06:00 dnia 22.01.2023
+Obszar: Zlewnia Zalewu Wiślanego do Nogatu, Elbląg (pomorskie, warmińsko-mazurskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną na Żuławach prognozowane są wzrosty poziomów wody w strefie stanów wysokich z przekroczeniem stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Anna Kubicka

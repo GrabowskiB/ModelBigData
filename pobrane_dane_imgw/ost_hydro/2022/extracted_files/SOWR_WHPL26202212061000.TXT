@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.12.2022 - godz. 10:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 95
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:00 dnia 06.12.2022 do godz. 08:00 dnia 07.12.2022
+Obszar: Czarna Włoszczowska (łódzkie, śląskie, świętokrzyskie)
+Przebieg: W związku z prognozowanymi opadami deszczu w zlewni Czarnej Włoszczowskiej przewiduje się wzrost stanu wody, w Januszewicach powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Magdalena Pachocka

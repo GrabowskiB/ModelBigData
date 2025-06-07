@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.12.2023 - godz. 12:48
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Zmiana ostrzeżenia Nr: 156 z dnia 25.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:49 dnia 26.12.2023 do godz. 10:00 dnia 27.12.2023
+Obszar: Zalew Szczeciński, Odra od Gryfina do ujścia (rz) (zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną na Zalewie Szczecińskim i w ujściu Odry prognozowane są wahania i wzrosty poziomu wody powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy obszaru.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zalew Szczecinski, Odra od Gryfina do ujscia (rz) od 12:49/26.12.2023 do 10:00/27.12.2023. W zwiazku z prognozowana sytuacja meteorologiczna na Zalewie Szczecinskim i w ujsciu Odry prognozowane sa wahania i wzrosty poziomu wody powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

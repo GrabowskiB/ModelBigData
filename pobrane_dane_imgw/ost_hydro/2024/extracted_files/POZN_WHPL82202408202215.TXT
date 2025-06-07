@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.08.2024 - godz. 00:10
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 157
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 04:00 dnia 21.08.2024 do godz. 15:00 dnia 21.08.2024
+Obszar: Liswarta, Warta środkowa od Rgilewki do Prosny, Powa, Bawół, Wrześnica, Warta środkowa od Prosny do Wełny, Kanał Mosiński, Wełna, Warta środkowa od Wełny do Noteci, Prosna górna, Niesób, Łużyca, Prosna środkowa, Swędrnia, Prosna dolna, Noteć górna, Łobżonka, Noteć środkowa, Gwda, Drawa, Noteć dolna, Obra (kujawsko-pomorskie, lubuskie, łódzkie, opolskie, pomorskie, wielkopolskie, zachodniopomorskie)
+Przebieg: W obszarach występowania prognozowanych intensywnych opadów, prognozuje się wzrosty stanów wody do strefy stanów wysokich. Na mniejszych rzekach wzrosty mogą mieć charakter gwałtowny. W przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość punktowego przekroczenia stanów ostrzegawczych, a krótkotrwale także alarmowych. W Trąbczynie na Czarnej Strudze i w Gorzowie Śląskim na Prośnie prognozowane są ponowne wzrosty stanu wody powyżej stanu ostrzegawczego oraz możliwość niewielkiego przekroczenia stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie srodkowej Warty, Prosny, Noteci od 04:00/21.08.2024 do 15:00/21.08.2024. W obszarach wystepowania prognozowanych intensywnych opadow, prognozuje sie wzrosty stanow wody do strefy stanow wysokich. Na mniejszych rzekach wzrosty moga miec charakter gwaltowny. W przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc punktowego przekroczenia stanow ostrzegawczych, a krotkotrwale takze alarmowych. Na rzekach Czarna Struga w profilu Trabczyn oraz Prosna w profilu Gorzow Slaski prognozowane sa ponowne wzrosty stanu wody powyzej stanow ostrzegawczych oraz mozliwosc niewielkiego przekroczenia stanow alarmowych. Szczegoly na meteo.imgw.pl

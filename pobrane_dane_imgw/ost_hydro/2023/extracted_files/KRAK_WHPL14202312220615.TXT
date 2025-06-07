@@ -1,0 +1,15 @@
+Data i godzina wydania: 22.12.2023 - godz. 07:11
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 398
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:12 dnia 22.12.2023 do godz. 02:00 dnia 23.12.2023
+Obszar: Mała Wisła poniżej zb. Goczałkowice (małopolskie, śląskie)
+Przebieg: W związku ze spływem wód opadowych na Małej Wiśle poniżej zbiornika Goczałkowice prognozowany jest dalszy wzrost poziomu wody, przy przekroczonym stanie ostrzegawczym w profilu Jawiszowice, a w profilu Bieruń Nowy istnieje prawdopodobieństwo osiągnięcia lub nieznacznego przekroczenia tego stanu.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Mala Wisla ponizej zb. Goczalkowice od 07:12/22.12.2023 do 02:00/23.12.2023. W zwiazku ze splywem wod opadowych na Malej Wisle ponizej zbiornika Goczalkowice prognozowany jest dalszy wzrost poziomu wody, przy przekroczonym stanie ostrzegawczym w profilu Jawiszowice, a w profilu Bierun Nowy istnieje prawdopodobienstwo osiagniecia lub nieznacznego przekroczenia tego stanu. Szczegoly na meteo.imgw.pl

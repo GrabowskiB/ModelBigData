@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.01.2024 - godz. 13:44
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 57
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 22:00 dnia 26.01.2024 do godz. 10:00 dnia 28.01.2024
+Obszar: San od ujścia Tanwi po ujście (podkarpackie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, na odcinku Sanu od ujścia Tanwi, spodziewany jest dalszy wzrost poziomu wody w strefie stanów wysokich z przekroczeniem stanu ostrzegawczego w Radomyślu. Istnieje również prawdopodobieństwo przekroczenia tego stanu na stacji hydrologicznej w Nisku.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 San od ujscia Tanwi po ujscie od 22:00/26.01.2024 do 10:00/28.01.2024. W zwiazku ze splywem wod opadowo-roztopowych, na odcinku Sanu od ujscia Tanwi, spodziewany jest dalszy wzrost poziomu wody w strefie stanow wysokich z przekroczeniem stanu ostrzegawczego w Radomyslu. Istnieje rowniez prawdopodobienstwo przekroczenia tego stanu na stacji hydrologicznej w Nisku. Szczegoly na meteo.imgw.pl

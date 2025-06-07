@@ -1,0 +1,15 @@
+Data i godzina wydania: 15.07.2023 - godz. 15:16
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 99
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 15:17 dnia 15.07.2023 do odwołania
+Obszar: zlewnie prawostronnych dopływów Nysy Łużyckiej od granicy RP do Zgorzelca (dolnośląskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na obszarze objętym ostrzeżeniem, szczególnie w zlewni Czerwonej Wody, spodziewane jest dalsze utrzymywanie się przepływów wody na poziomie lub poniżej SNQ, z możliwością występowania krótkotrwałych wzrostów przepływu, spowodowanych głównie przelotnymi opadami deszczu.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM). Ostrzeżenie może ulegać zmianom.
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA zlewnie prawostronnych doplywow Nysy Luzyckiej od granicy RP do Zgorzelca od 15:17/15.07.2023 do odwolania.  Szczegoly na meteo.imgw.pl

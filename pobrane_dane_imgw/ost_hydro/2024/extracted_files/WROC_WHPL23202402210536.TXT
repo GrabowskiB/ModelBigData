@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.02.2024 - godz. 06:33
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Odwołanie ostrzeżenia Nr: 63 z dnia 21.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Bierawka (opolskie)
+Przebieg: Zjawisko nie wystąpiło, wzrosty miały miejsce poniżej progu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bierawka od - do -. Zjawisko nie wystapilo, wzrosty mialy miejsce ponizej progu ostrzegawczego. Szczegoly na meteo.imgw.pl

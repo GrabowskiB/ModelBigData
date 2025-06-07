@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.07.2023 - godz. 12:01
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 100
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:00 dnia 16.07.2023 do godz. 03:00 dnia 17.07.2023
+Obszar: Olza, Czadeczka, Ruda, Bierawka, Kłodnica (opolskie, śląskie)
+Przebieg: W związku z prognozowanymi opadami deszczu o charakterze burzowym, w zlewniach prawostronnych dopływów Odry możliwe są lokalne wzrosty poziomu wody. W obszarach występowania opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 60%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Olza, Czadeczka, Ruda, Bierawka, Klodnica od 14:00/16.07.2023 do 03:00/17.07.2023. W zwiazku z prognozowanymi opadami deszczu o charakterze burzowym, w zlewniach prawostronnych doplywow Odry mozliwe sa lokalne wzrosty poziomu wody. W obszarach wystepowania opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. Szczegoly na meteo.imgw.pl

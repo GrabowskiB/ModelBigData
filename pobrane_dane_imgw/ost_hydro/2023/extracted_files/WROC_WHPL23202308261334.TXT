@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.08.2023 - godz. 15:32
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 134
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 22:00 dnia 26.08.2023 do godz. 08:00 dnia 27.08.2023
+Obszar: Opawa, Opawica, Psina, Stradunia, Osobłoga, Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Oława górna do Zborowic, Oława od Zborowic do ujścia, Ślęza górna do Borowa, Ślęza od Borowa do ujścia, Bystrzyca górna do Zb. Mietków, Bystrzyca dolna (Czarna Woda i Strzegomka), Strzegomka od Zb. Dobromierz do ujścia do Bystrzycy, Strzegomka do Łażan (dolnośląskie, opolskie)
+Przebieg: W związku z prognozowanymi opadami burzowymi w zlewniach dopływów górskich i wyżynnych możliwe są wzrosty stanów wody z przekroczeniem stanów ostrzegawczych. Miejscami możliwe jest krótkotrwałe przekroczenie stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie lewostronnych doplywow Odry od 22:00/26.08.2023 do 08:00/27.08.2023. W zwiazku z prognozowanymi opadami burzowymi w zlewniach doplywow gorskich i wyzynnych mozliwe sa wzrosty stanow wody z przekroczeniem stanow ostrzegawczych. Miejscami mozliwe jest krotkotrwale przekroczenie stanow alarmowych. Szczegoly na meteo.imgw.pl

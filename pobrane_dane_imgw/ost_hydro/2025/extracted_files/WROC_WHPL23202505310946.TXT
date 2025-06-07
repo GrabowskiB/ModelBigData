@@ -1,0 +1,15 @@
+Data i godzina wydania: 31.05.2025 - godz. 11:44
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 23
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:00 dnia 31.05.2025 do godz. 05:00 dnia 01.06.2025
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Olza od Cieszyna do ujścia do Odry, Olza, Czadeczka, Psina, Ruda, Bierawka, Stradunia, Osobłoga od granicy RP do ujścia, Osobłoga, Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Oława górna do Zborowic, Ślęza górna do Borowa, Bystrzyca górna do Zb. Mietków, Strzegomka od Zb. Dobromierz do ujścia do Bystrzycy, Strzegomka do Łażan, Kaczawa górna do Dunina, Bóbr od Zb. Bukówka do Zb. Pilchowice, Bóbr do Zb. Pilchowice, Bóbr od Zb. Pilchowice do Bobrzycy, Kwisa górna do Zb. Leśna, Kwisa od Zb. Leśna do Nowogrodźca, Czerna Wielka, Ostrożnica, Izera, Nysa Łużycka od granicy RP do Zgorzelca, Witka od Ostróżna do ujścia do Nysy Łużyckiej, Nysa Łużycka do Zgorzelca, Nysa Łużycka od Zgorzelca do ujścia (dolnośląskie, opolskie, śląskie)
+Przebieg: W obszarach występowania prognozowanych burz z silnymi opadami deszczu stany wody w rzekach mogą szybko i na ogół na krótko podnosić się. Miejscami wzrosty mogą być gwałtowne, do strefy wody wysokiej, lokalnie niewykluczone osiągnięcie lub przekroczenie stanu ostrzegawczego, szczególnie w Białobrzeziu na Ślęzie, w Gniechowicach na Czarnej Wodzie, w Świerzawie na Kaczawie czy w Ostróżnie na Witce. W Świebodzicach na Pełcznicy nie można wykluczyć przekroczenia stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow gornej i lewostronne srodkowej Odry, doplywy Laby i Dunaju od 14:00/31.05.2025 do 05:00/01.06.2025. W obszarach wystepowania prognozowanych burz z silnymi opadami deszczu stany wody w rzekach moga szybko i na ogol na krotko podnosic sie. Miejscami wzrosty moga byc gwaltowne, do strefy wody wysokiej, lokalnie niewykluczone osiagniecie lub przekroczenie stanu ostrzegawczego, szczegolnie w Bialobrzeziu na Slezie, w Gniechowicach na Czarnej Wodzie, w Swierzawie na Kaczawie czy w Ostroznie na Witce. W Swiebodzicach na Pelcznicy nie mozna wykluczyc przekroczenia stanu alarmowego. Szczegoly na meteo.imgw.pl

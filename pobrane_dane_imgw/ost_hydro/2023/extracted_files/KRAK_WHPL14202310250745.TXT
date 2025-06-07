@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.10.2023 - godz. 09:39
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 345 z dnia 24.10.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Zlewnie Małej Wisły, Przemszy, Soły wraz z kaskadą zbiorników (śląskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnie Malej Wisly, Przemszy, Soly wraz z kaskada zbiornikow od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

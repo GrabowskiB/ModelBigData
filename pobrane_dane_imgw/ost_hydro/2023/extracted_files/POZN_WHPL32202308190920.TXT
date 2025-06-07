@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.08.2023 - godz. 11:16
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 70
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 12:00 dnia 19.08.2023 do godz. 00:00 dnia 20.08.2023
+Obszar: Warta górna do Poraja, Warta górna od Poraja do Liswarty, Liswarta, Warta górna od Liswarty do Widawki, Oleśnica, Grabia, Nieciecz, Widawka, Warta górna od Widawki do Zb. Jeziorsko, Warta środkowa od Zb. Jeziorsko do Rgilewki, Warta środkowa od Rgilewki do Prosny, Ner, Rgilewka, Kiełbaska, Powa, Bawół, Wrześnica, Wełna, Prosna górna, Niesób, Łużyca, Prosna środkowa, Swędrnia, Prosna dolna, Noteć górna, Łobżonka, Noteć środkowa, Gwda (kujawsko-pomorskie, łódzkie, opolskie, pomorskie, śląskie, wielkopolskie, zachodniopomorskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody, lokalnie podtopienia. W zlewniach kontrolowanych w przypadku wystąpienia intensywnych opadów deszczu możliwe są przekroczenia stanów ostrzegawczych (Ner).
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnia gornej i srodkowej: Warty, Noteci oraz Prosny.  od 12:00/19.08.2023 do 00:00/20.08.2023. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody, lokalnie podtopienia. W zlewniach kontrolowanych w przypadku wystapienia intensywnych opadow deszczu mozliwe sa przekroczenia stanow ostrzegawczych (Ner). Szczegoly na meteo.imgw.pl

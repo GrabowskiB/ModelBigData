@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.01.2024 - godz. 14:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 48 z dnia 26.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:56 dnia 26.01.2024 do godz. 13:00 dnia 27.01.2024
+Obszar: zlewnie dopływów Wisły (świętokrzyskie)
+Przebieg: Na skutek spływu wód opadowo-roztopowych notowane będą ponowne bądź dalsze wzrosty poziomu wody, przy aktualnie przekroczonych stanach ostrzegawczych oraz alarmowych. Miejscami istnieje możliwość przekroczeń stanów umownych w kolejnych profilach, w szczególności na Czarnej (Staszowskiej) w Staszowie (st. alarmowego), Połańcu (st. ostrzegawczego) oraz na Nidzie w Brzegach (st. ostrzegawczego).
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy przebiegu zjawiska.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie doplywow Wisly od 14:56/26.01.2024 do 13:00/27.01.2024. Na skutek splywu wod opadowo-roztopowych notowane beda ponowne badz dalsze wzrosty poziomu wody, przy aktualnie przekroczonych stanach ostrzegawczych oraz alarmowych. Miejscami istnieje mozliwosc przekroczen stanow umownych w kolejnych profilach, w szczegolnosci na Czarnej (Staszowskiej) w Staszowie (st. alarmowego), Polancu (st. ostrzegawczego) oraz na Nidzie w Brzegach (st. ostrzegawczego). Szczegoly na meteo.imgw.pl

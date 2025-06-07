@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.11.2024 - godz. 12:08
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 168
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 06:00 dnia 28.11.2024 do godz. 10:00 dnia 29.11.2024
+Obszar: Wybrzeże i morskie wody wewnętrzne RP - Bałtyk Południowy, Bałtyk Południowo-Wschodni (pomorskie, zachodniopomorskie)
+Przebieg: W związku z prognozowanym silnym wiatrem z sektora północnego i wysokim napełnieniem Bałtyku (528 cm) wzdłuż Wybrzeża nastąpi wzrost poziomów wody do stanów ostrzegawczych, lokalnie powyżej. Punktowo możliwe przekroczenie stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wybrzeze i morskie wody wewnetrzne RP  od 06:00/28.11.2024 do 10:00/29.11.2024. W zwiazku z prognozowanym silnym wiatrem z sektora polnocnego i wysokim napelnieniem Baltyku (528 cm) wzdluz Wybrzeza nastapi wzrost poziomow wody do stanow ostrzegawczych, lokalnie powyzej. Punktowo mozliwe przekroczenie stanu alarmowego. Szczegoly na meteo.imgw.pl

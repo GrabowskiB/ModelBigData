@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.08.2024 - godz. 11:21
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 172
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 16:00 dnia 04.08.2024 do godz. 23:00 dnia 04.08.2024
+Obszar: Odra od Chałupek do Koźla, Olza, Czadeczka, Psina, Ruda, Bierawka, Kłodnica, Mała Panew (śląskie)
+Przebieg: W obszarach występowania prognozowanych opadów deszczu z burzami spodziewane są wzrosty stanów wody. Na mniejszych rzekach oraz w zlewniach zurbanizowanych wzrosty stanów wody mogą być gwałtowne. W Gliwicach na Kłodnicy oraz w Istebnej na Olzie, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow gornej Odry od 16:00/04.08.2024 do 23:00/04.08.2024. W obszarach wystepowania prognozowanych opadow deszczu z burzami spodziewane sa wzrosty stanow wody. Na mniejszych rzekach oraz w zlewniach zurbanizowanych wzrosty stanow wody moga byc gwaltowne. W Gliwicach na Klodnicy oraz w Istebnej na Olzie, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

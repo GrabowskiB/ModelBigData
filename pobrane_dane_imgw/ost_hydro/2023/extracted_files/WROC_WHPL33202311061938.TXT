@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.11.2023 - godz. 20:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 156
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 20:36 dnia 06.11.2023 do godz. 15:00 dnia 07.11.2023
+Obszar: Barycz bez Orli i Polskiego Rowu (wielkopolskie)
+Przebieg: W okresie obowiązywania ostrzeżenia przewiduje się dalszy wzrost stanu wody powyżej stanu ostrzegawczego na Kurochu w Odolanowie oraz wzrost i stabilizację stanu wody powyżej stanu alarmowego na Baryczy w Odolanowie - we wtorek w ciągu dnia możliwy stopniowy spadek stanu wody w strefie powyżej stanu alarmowego, a później ostrzegawczego. Na Polskiej Wodzie w Bogdaju prognozuje się kontynuację tendencji spadkowej stanu wody w strefie powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Barycz bez Orli i Polskiego Rowu od 20:36/06.11.2023 do 15:00/07.11.2023. Odolanow nad Barycza - stan alarmowy Szczegoly na meteo.imgw.pl

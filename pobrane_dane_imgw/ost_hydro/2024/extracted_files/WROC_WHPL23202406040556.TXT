@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.06.2024 - godz. 07:53
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 111
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 07:54 dnia 04.06.2024 do godz. 00:00 dnia 05.06.2024
+Obszar: Odra od Chałupek do Koźla (opolskie, śląskie)
+Przebieg: Na górnej Odrze występują gwałtowne wzrosty stanów wody po silnych opadach deszczu na terenie Czech i Polski. Prognozowane są dalsze wzrosty stanów wody w strefie wody wysokiej z możliwością lokalnych przekroczeń stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W zależności od rozwoju sytuacji hydrologiczno-meteorologicznej ostrzeżenie może być aktualizowane.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Odra od Chalupek do Kozla od 07:54/04.06.2024 do 00:00/05.06.2024. Na gornej Odrze wystepuja gwaltowne wzrosty stanow wody po silnych opadach deszczu na terenie Czech i Polski. Prognozowane sa dalsze wzrosty stanow wody w strefie wody wysokiej z mozliwoscia lokalnych przekroczen stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

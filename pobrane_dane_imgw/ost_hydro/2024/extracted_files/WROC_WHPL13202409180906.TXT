@@ -1,0 +1,15 @@
+Data i godzina wydania: 18.09.2024 - godz. 11:04
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 215
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 11:05 dnia 18.09.2024 do godz. 22:00 dnia 19.09.2024
+Obszar: Bystrzyca od Zb. Mietków do ujścia, Strzegomka od Zb. Dobromierz do ujścia do Bystrzycy (dolnośląskie)
+Przebieg: Na dolnych odcinkach rzeki Bystrzycy i Strzegomki utrzyma się znaczne przekroczenie stanów alarmowych z możliwością występowania wahań, a od drugiej połowy okresu z powolną tendencją spadkową.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Bystrzyca dolna, Strzegomka dolna od 11:05/18.09.2024 do 22:00/19.09.2024.  Szczegoly na meteo.imgw.pl

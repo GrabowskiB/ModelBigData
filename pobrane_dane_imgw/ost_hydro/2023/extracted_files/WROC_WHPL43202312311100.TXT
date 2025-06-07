@@ -1,0 +1,15 @@
+Data i godzina wydania: 31.12.2023 - godz. 11:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 198 z dnia 29.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:00 dnia 31.12.2023 do godz. 10:00 dnia 02.01.2024
+Obszar: Odra od ujścia Baryczy do ujścia Bobru (dolnośląskie, lubuskie)
+Przebieg: Na Odrze środkowej poniżej Głogowa do ujścia Bobru przewiduje się kontynuację tendencji wzrostowej stanu wody w strefie powyżej stanów alarmowych, jedynie w rejonie Nowej Soli w strefie powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy obszaru oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Odra od ujscia Baryczy do ujscia Bobru od 12:00/31.12.2023 do 10:00/02.01.2024. Na Odrze srodkowej ponizej Glogowa do ujscia Bobru przewiduje sie kontynuacje tendencji wzrostowej stanu wody w strefie powyzej stanow alarmowych, jedynie w rejonie Nowej Soli w strefie powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

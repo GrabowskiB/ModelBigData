@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.12.2023 - godz. 11:24
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 103
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:25 dnia 25.12.2023 do godz. 12:00 dnia 26.12.2023
+Obszar: Noteć dolna (lubuskie)
+Przebieg: Na odcinku dolnej Noteci utrzymywać się będzie przekroczenie stanu ostrzegawczego na stacji Gościmiec.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Notec dolna od 11:25/25.12.2023 do 12:00/26.12.2023. Na odcinku dolnej Noteci utrzymywac sie bedzie przekroczenie stanu ostrzegawczego na stacji Goscimiec. Szczegoly na meteo.imgw.pl

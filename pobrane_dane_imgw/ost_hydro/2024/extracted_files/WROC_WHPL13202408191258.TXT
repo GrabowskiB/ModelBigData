@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.08.2024 - godz. 14:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 188
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:56 dnia 19.08.2024 do godz. 20:00 dnia 19.08.2024
+Obszar: Witka od Ostróżna do ujścia do Nysy Łużyckiej (dolnośląskie)
+Przebieg: W wyniku spływu wód opadowych na Witce prognozowane są wzrosty stanów wody, w profilu Ostróżno powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Witka od Ostrozna do ujscia do Nysy Luzyckiej od 14:56/19.08.2024 do 20:00/19.08.2024. W wyniku splywu wod opadowych na Witce prognozowane sa wzrosty stanow wody, w profilu Ostrozno powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

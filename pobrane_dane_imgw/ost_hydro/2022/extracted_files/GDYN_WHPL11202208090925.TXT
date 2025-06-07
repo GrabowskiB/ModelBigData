@@ -1,0 +1,15 @@
+Data i godzina wydania: 09.08.2022 - godz. 11:21
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 84
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 11:22 dnia 09.08.2022 do odwołania
+Obszar: Rega od Mołstowej do ujścia, Rega od źródła do Mołstowej, Parsęta od Radew do ujścia (zachodniopomorskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na terenie woj. zachodniopomorskiego, na obszarze zlewni Regi i Parsęty, spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+Dyżurny synoptyk hydrolog: Alicja Kańska

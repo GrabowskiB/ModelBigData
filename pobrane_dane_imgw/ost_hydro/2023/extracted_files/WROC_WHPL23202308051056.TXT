@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.08.2023 - godz. 12:53
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 109
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 15:00 dnia 05.08.2023 do godz. 09:00 dnia 07.08.2023
+Obszar: zlewnia Nysy Kłodzkiej, Bystrzycy ze Strzegomką i zlewnie z dorzecza Łaby (dolnośląskie, opolskie)
+Przebieg: Występujące oraz prognozowane opady deszczu będą powodowały wzrosty stanów wody do strefy wody wysokiej i miejscami do przekroczenia stanów ostrzegawczych. Lokalnie może dochodzić do przekroczenia stanu alarmowego. Największe wzrosty spodziewane są od wieczora 5 sierpnia do południa 6 sierpnia, a maksymalne stany wody w niedzielę 6 sierpnia lub w nocy z niedzieli na poniedziałek.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w przebiegu sytuacji meteorologicznej lub hydrologicznej, dopuszcza się możliwość wprowadzenia zmian w ostrzeżeniu hydrologicznym, w tym w zakresie stopnia ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Nysy Klodzkiej, Bystrzycy ze Strzegomka i zlewnie z dorzecza Laby od 15:00/05.08.2023 do 09:00/07.08.2023.  Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.05.2025 - godz. 23:43
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 20
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 06:00 dnia 22.05.2025 do godz. 10:00 dnia 23.05.2025
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Psina, Bierawka, Kłodnica, Stradunia, Osobłoga od granicy RP do ujścia, Osobłoga, Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Klikawa, Żydawka, Czermnica, Orlica, Oława górna do Zborowic, Ślęza górna do Borowa (dolnośląskie, opolskie, śląskie)
+Przebieg: W obszarach występowania opadów deszczu okresami o silnym natężeniu stany wody mogą szybko podnosić się, miejscami do strefy wody wysokiej. Na rzekach górskich i podgórskich, zwłaszcza w zlewniach, w których ostatnio występował deszcz ulewny, wzrosty mogą być gwałtowne. Lokalnie niewykluczone przekroczenia stanów ostrzegawczych, zwłaszcza w Lądku na Białej Lądeckiej czy punktowo wzrost do stanu około alarmowego w Kłodzku (z uwagi na utrzymujący się aktualnie stan wody powyżej stanu ostrzegawczego).
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: W przypadku istotnych zmian w przebiegu opadów ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 lewostronne zlewnie gornej i srodkowej Odry do Slezy wlacznie, doplywy Laby od 06:00/22.05.2025 do 10:00/23.05.2025. W obszarach wystepowania opadow deszczu okresami o silnym natezeniu stany wody moga szybko podnosic sie, miejscami do strefy wody wysokiej. Na rzekach gorskich i podgorskich, zwlaszcza w zlewniach, w ktorych ostatnio wystepowal deszcz ulewny, wzrosty moga byc gwaltowne. Lokalnie niewykluczone przekroczenia stanow ostrzegawczych, zwlaszcza w Ladku na Bialej Ladeckiej czy punktowo wzrost do stanu okolo alarmowego w Klodzku (z uwagi na utrzymujacy sie aktualnie stan wody powyzej stanu ostrzegawczego). Szczegoly na meteo.imgw.pl

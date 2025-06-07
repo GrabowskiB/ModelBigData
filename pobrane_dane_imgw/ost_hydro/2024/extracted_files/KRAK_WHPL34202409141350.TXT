@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.09.2024 - godz. 15:48
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 419
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 20:00 dnia 14.09.2024 do godz. 09:00 dnia 17.09.2024
+Obszar: Wisła od ujścia Przemszy do ujścia Dunajca (małopolskie, świętokrzyskie)
+Przebieg: W związku z przemieszczaniem się fali wezbraniowej na Wiśle, spodziewane są wzrosty poziomu wody z przekroczeniem stanów ostrzegawczych, a na stacji Pustynia z możliwością przekroczenia stanu alarmowego. Jednocześnie na stacjach: Las, Kraków-Bielany, Sierosławice i Popędzynka poziom wody może się układać przy stanie zbliżonym do alarmu.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wisla od ujscia Przemszy do ujscia Dunajca od 20:00/14.09.2024 do 09:00/17.09.2024. W zwiazku z przemieszczaniem sie fali wezbraniowej na Wisle, spodziewane sa wzrosty poziomu wody z przekroczeniem stanow ostrzegawczych, a na stacji Pustynia z mozliwoscia przekroczenia stanu alarmowego. Jednoczesnie na stacjach: Las, Krakow-Bielany, Sieroslawice i Popedzynka poziom wody moze sie ukladac przy stanie zblizonym do alarmu. Szczegoly na meteo.imgw.pl

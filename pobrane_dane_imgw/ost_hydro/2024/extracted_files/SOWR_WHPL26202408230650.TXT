@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.08.2024 - godz. 08:47
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 233
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 09:00 dnia 23.08.2024 do odwołania
+Obszar: Pilica do Zb. Sulejów (łódzkie, śląskie, świętokrzyskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach w zlewni Pilicy powyżej zbiornika Sulejów spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Pilica do Zb. Sulejow od 09:00/23.08.2024 do odwolania. W zwiazku z wystepujacymi niskimi przeplywami wody, w kolejnych dniach w zlewni Pilicy powyzej zbiornika Sulejow spodziewane jest dalsze utrzymywanie sie przeplywow wody ponizej SNQ. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.12.2023 - godz. 07:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 171 z dnia 19.12.2023
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 07:57 dnia 21.12.2023 do godz. 13:00 dnia 23.12.2023
+Obszar: Widawa od Namysłowa do ujścia do Odry, Widawa (dolnośląskie, opolskie, wielkopolskie)
+Przebieg: W związku z prognozowanymi opadami deszczu oraz spływem wód opadowych przewidywane są dalsze wzrosty stanów wody w strefie wody wysokiej, w Zbytowej i Krzyżanowicach  powyżej stanu alarmowego. Na przebieg prognozowanego zjawiska może mieć wpływ praca urządzeń hydrotechnicznych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy przebiegu zjawiska oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Widawa od Namyslowa do ujscia do Odry, Widawa od 07:57/21.12.2023 do 13:00/23.12.2023. W zwiazku z prognozowanymi opadami deszczu oraz splywem wod opadowych przewidywane sa dalsze wzrosty stanow wody w strefie wody wysokiej, w Zbytowej i Krzyzanowicach  powyzej stanu alarmowego. Na przebieg prognozowanego zjawiska moze miec wplyw praca urzadzen hydrotechnicznych. Szczegoly na meteo.imgw.pl

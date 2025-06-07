@@ -1,0 +1,15 @@
+Data i godzina wydania: 22.12.2023 - godz. 09:05
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 149
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:06 dnia 22.12.2023 do godz. 12:00 dnia 23.12.2023
+Obszar: Słupia od Skotawy do ujścia, Słupia od źródła do Skotawy (pomorskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej w zlewni Słupi przewidywane są dalsze wzrosty stanu wody, miejscami powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Slupia od Skotawy do ujscia, Slupia od zrodla do Skotawy od 09:06/22.12.2023 do 12:00/23.12.2023. W zwiazku z rozwojem sytuacji hydrologicznej w zlewni Slupi przewidywane sa dalsze wzrosty stanu wody, miejscami powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

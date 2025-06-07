@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.12.2023 - godz. 16:01
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 201
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 16:02 dnia 24.12.2023 do godz. 15:00 dnia 25.12.2023
+Obszar: Szprotawa (dolnośląskie, lubuskie)
+Przebieg: W wyniku spływu wód opadowo-roztopowych na Szprotawie utrzyma się tendencja wzrostowa stanu wody z możliwością przekroczenia stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Prognozowany przebieg stanu wody może być modyfikowany pracą urządzeń wodnych.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Szprotawa od 16:02/24.12.2023 do 15:00/25.12.2023. W wyniku splywu wod opadowo-roztopowych na Szprotawie utrzyma sie tendencja wzrostowa stanu wody z mozliwoscia przekroczenia stanu alarmowego. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 09.02.2024 - godz. 19:54
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 51
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 19:55 dnia 09.02.2024 do godz. 10:00 dnia 11.02.2024
+Obszar: Barycz bez Orli i Polskiego Rowu (wielkopolskie)
+Przebieg: W związku z trwającym spływem wód opadowych w zlewni górnej Baryczy utrzyma się tendencja rosnąca stanów wody w strefie powyżej stanów ostrzegawczych, w Odolanowie na Baryczy powyżej stanu alarmowego. Niewykluczone przekroczenie stanu alarmowego w Bogdaju na Polskiej Wodzie oraz w Odolanowie na Kurochu.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Barycz bez Orli i Polskiego Rowu od 19:55/09.02.2024 do 10:00/11.02.2024. W zwiazku z trwajacym splywem wod opadowych w zlewni gornej Baryczy utrzyma sie tendencja rosnaca stanow wody w strefie powyzej stanow ostrzegawczych, w Odolanowie na Baryczy powyzej stanu alarmowego. Niewykluczone przekroczenie stanu alarmowego w Bogdaju na Polskiej Wodzie oraz w Odolanowie na Kurochu. Szczegoly na meteo.imgw.pl

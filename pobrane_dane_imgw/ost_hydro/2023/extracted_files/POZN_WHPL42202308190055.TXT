@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.08.2023 - godz. 02:50
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Odwołanie ostrzeżenia Nr: 69 z dnia 18.08.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Warta górna do Poraja, Warta górna od Poraja do Liswarty, Liswarta, Warta górna od Liswarty do Widawki, Oleśnica, Grabia, Nieciecz, Widawka, Warta górna od Widawki do Zb. Jeziorsko, Warta środkowa od Zb. Jeziorsko do Rgilewki, Warta środkowa od Zb. Jeziorsko do Prosny, Ner, Rgilewka, Kiełbaska, Wełna, Noteć górna, Łobżonka (kujawsko-pomorskie, łódzkie, opolskie, pomorskie, śląskie, wielkopolskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnia gornej i srodkowej Warty, Notec gorna, od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

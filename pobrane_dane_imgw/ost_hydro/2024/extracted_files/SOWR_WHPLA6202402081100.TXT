@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.02.2024 - godz. 11:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 88
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:00 dnia 08.02.2024 do godz. 12:00 dnia 10.02.2024
+Obszar: Górna Narew (podlaskie)
+Przebieg: W związku ze spływem wód opadowych, na górnej Narwi przewiduje się dalsze wzrosty poziomu wody przy przekroczonym stanie ostrzegawczym w Narwi i przy przekroczonym stanie alarmowym w Ploskach.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Prognozowany przebieg zjawiska może być modyfikowany pracą urządzeń hydrotechnicznych.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Gorna Narew od 12:00/08.02.2024 do 12:00/10.02.2024. W zwiazku ze splywem wod opadowych, na gornej Narwi przewiduje sie dalsze wzrosty poziomu wody przy przekroczonym stanie ostrzegawczym w Narwi i przy przekroczonym stanie alarmowym w Ploskach. Szczegoly na meteo.imgw.pl

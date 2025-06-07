@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.02.2024 - godz. 11:31
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 47
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 11:31 dnia 07.02.2024 do godz. 15:00 dnia 09.02.2024
+Obszar: Odra od ujścia Baryczy do ujścia Bobru, Odra od ujścia Bobru do Słubic (lubuskie)
+Przebieg: Na Odrze swobodnie płynącej, poniżej ujścia Baryczy, przewidywane są wzrosty stanu wody w strefie wody wysokiej. W Cigacicach, Nietkowie oraz w Połęcku stan wody wzrośnie powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Odra od ujscia Baryczy do ujscia Bobru, Odra od ujscia Bobru do Slubic od 11:31/07.02.2024 do 15:00/09.02.2024. Na Odrze swobodnie plynacej, ponizej ujscia Baryczy, przewidywane sa wzrosty stanu wody w strefie wody wysokiej. W Cigacicach, Nietkowie oraz w Polecku stan wody wzrosnie powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

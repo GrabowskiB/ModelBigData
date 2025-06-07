@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.09.2024 - godz. 12:07
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 201
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 12:08 dnia 01.09.2024 do odwołania
+Obszar: Oława od Zborowic do ujścia do Odry, Oława górna do Zborowic, Oława od Zborowic do ujścia, Ślęza od Borowa do ujścia do Odry, Ślęza górna do Borowa, Ślęza od Borowa do ujścia (dolnośląskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na obszarze objętym ostrzeżeniem spodziewane jest dalsze utrzymywanie się przepływów wody na poziomie lub poniżej SNQ, z możliwością występowania krótkotrwałych wzrostów przepływu, spowodowanych przelotnymi opadami deszczu.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Sleza, Olawa od 12:08/01.09.2024 do odwolania. W zwiazku z wystepujacymi niskimi przeplywami wody, w kolejnych dniach na obszarze objetym ostrzezeniem spodziewane jest dalsze utrzymywanie sie przeplywow wody na poziomie lub ponizej SNQ, z mozliwoscia wystepowania krotkotrwalych wzrostow przeplywu, spowodowanych przelotnymi opadami deszczu. Szczegoly na meteo.imgw.pl

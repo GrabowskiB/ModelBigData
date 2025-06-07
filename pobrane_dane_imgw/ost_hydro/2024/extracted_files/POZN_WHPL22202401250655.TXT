@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.01.2024 - godz. 07:53
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 10
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:54 dnia 25.01.2024 do godz. 11:00 dnia 26.01.2024
+Obszar: Czarna Struga (Bawół) (wielkopolskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, w ciągu najbliższych godzin, w Trąbczynie na Czarnej Strudze (Bawół)  zostanie przekroczony stan ostrzegawczy. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Czarna Struga (Bawol) od 07:54/25.01.2024 do 11:00/26.01.2024. W zwiazku ze splywem wod opadowo-roztopowych, w ciagu najblizszych godzin, w Trabczynie na Czarnej Strudze (Bawol)  zostanie przekroczony stan ostrzegawczy.  Szczegoly na meteo.imgw.pl

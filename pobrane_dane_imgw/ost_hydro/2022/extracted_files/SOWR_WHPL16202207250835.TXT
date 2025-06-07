@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.07.2022 - godz. 10:30
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 74
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 10:31 dnia 25.07.2022 do odwołania
+Obszar: Iłżanka, Radomka, Pilica od Zb. Sulejów (łódzkie, mazowieckie, świętokrzyskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na Iłżance, Radomce i Pilicy od Zb. Sulejów w województwach  łódzkim, świętokrzyskim i mazowieckim spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+Dyżurny synoptyk hydrolog: Anita Banaszek

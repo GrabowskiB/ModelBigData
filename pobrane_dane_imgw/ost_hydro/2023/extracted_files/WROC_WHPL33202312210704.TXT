@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.12.2023 - godz. 08:02
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 189
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 08:03 dnia 21.12.2023 do godz. 13:00 dnia 23.12.2023
+Obszar: Barycz od Polskiej Wody do ujścia do Odry, Barycz bez Orli i Polskiego Rowu (dolnośląskie, wielkopolskie)
+Przebieg: W związku z prognozowanymi opadami deszczu oraz spływem wód opadowych  w zlewni Baryczy przewidywane są wzrosty stanów wody w strefie wody wysokiej, lokalnie powyżej stanów ostrzegawczych. W Odolanowie na Baryczy oraz w Bogdaju na Polskiej Wodzie stan wody może wzrosnąć powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Na przebieg prognozowanego zjawiska może mieć wpływ praca urządzeń hydrotechnicznych.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Barycz od Polskiej Wody do ujscia do Odry, Barycz bez Orli i Polskiego Rowu od 08:03/21.12.2023 do 13:00/23.12.2023. W zwiazku z prognozowanymi opadami deszczu oraz splywem wod opadowych  w zlewni Baryczy przewidywane sa wzrosty stanow wody w strefie wody wysokiej, lokalnie powyzej stanow ostrzegawczych. W Odolanowie na Baryczy oraz w Bogdaju na Polskiej Wodzie stan wody moze wzrosnac powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.12.2023 - godz. 09:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 407
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:00 dnia 27.12.2023 do godz. 10:00 dnia 28.12.2023
+Obszar: Nida od ujścia Czarnej Nidy do ujścia, Kamienna wraz ze zb. Brody Iłżeckie (świętokrzyskie)
+Przebieg: Na Nidzie notowany będzie dalszy wzrost poziomu wody, w profilu Pińczów powyżej stanu ostrzegawczego. Na Kamiennej powyżej zbiornika Brody Iłżeckie także będzie notowany dalszy wzrost z możliwym przekroczeniem stanu ostrzegawczego w profilach Bzin i Wąchock (wpływ na to będzie mieć także praca urządzeń hydrotechnicznych).
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Nida od ujscia Czarnej Nidy do ujscia, Kamienna wraz ze zb. Brody Ilzeckie od 10:00/27.12.2023 do 10:00/28.12.2023. Na Nidzie notowany bedzie dalszy wzrost poziomu wody, w profilu Pinczow powyzej stanu ostrzegawczego. Na Kamiennej powyzej zbiornika Brody Ilzeckie takze bedzie notowany dalszy wzrost z mozliwym przekroczeniem stanu ostrzegawczego w profilach Bzin i Wachock (wplyw na to bedzie miec takze praca urzadzen hydrotechnicznych). Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 09.08.2023 - godz. 10:53
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Odwołanie ostrzeżenia Nr: 98 z dnia 15.07.2023
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Bóbr z dopływami od Zb. Pilchowice do Bobrzycy, Bóbr od Zb. Pilchowice do ujścia do Odry, Kwisa od Zb. Leśna do ujścia do Bobru z dopływami (dolnośląskie, lubuskie)
+Przebieg: Zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenia odwołuje się, gdy wartość przepływu na stacjach uznanych za reprezentatywne utrzymuje się powyżej SNQ przez co najmniej 5 dni (dotyczy okresu obserwacji).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Bobr od Zb. Pilchowice do uj. do Odry, Kwisa od Zb. Lesna do uj. do Bobru od - do -. Zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

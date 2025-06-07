@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.05.2025 - godz. 09:22
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 56 z dnia 23.05.2025
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:22 dnia 24.05.2025 do godz. 13:00 dnia 24.05.2025
+Obszar: zlewnie Wisłoki do ujścia Brzeźnicy, górnego Sanu do Przemyśla oraz jego bieszczadzkich dopływów, Strwiąża, Wisłoka (podkarpackie)
+Przebieg: W związku ze spływem wód opadowych oraz występujących jeszcze słabnących opadach deszczu, miejscami spodziewany jest jeszcze dalszy wzrost stanów wody przy lokalnie przekroczonych stanach ostrzegawczych. Na stacji hydrologicznej Zagórz na rzece Osławie poziom wody będzie układał się nieznacznie poniżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy stopnia oraz opisu przebiegu zjawiska. W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zl: Wisloki do ujscia Brzeznicy, gornego Sanu do Przemysla, Strwiaza, Wisloka od 09:22/24.05.2025 do 13:00/24.05.2025. W zwiazku ze splywem wod opadowych oraz wystepujacych jeszcze slabnacych opadach deszczu, miejscami spodziewany jest jeszcze dalszy wzrost stanow wody przy lokalnie przekroczonych stanach ostrzegawczych. Na stacji hydrologicznej Zagorz na rzece Oslawie poziom wody bedzie ukladal sie nieznacznie ponizej stanu alarmowego. Szczegoly na meteo.imgw.pl

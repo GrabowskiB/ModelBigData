@@ -1,0 +1,15 @@
+Data i godzina wydania: 20.02.2023 - godz. 10:16
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 47
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:17 dnia 20.02.2023 do godz. 20:00 dnia 20.02.2023
+Obszar: Soła od kaskady zbiorników do ujścia do Wisły (małopolskie, śląskie)
+Przebieg: Na Sole w Oświęcimiu poziom wody będzie układał się powyżej stanu alarmowego, a w profilu Czaniec w Kobiernicach na granicy stanu ostrzegawczego (przekroczenie stanów umownych uzależnione jest od pracy kaskady zbiorników).
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Barbara Olearczyk-Siwik

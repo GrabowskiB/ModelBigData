@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.06.2024 - godz. 12:18
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 127
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 19:00 dnia 21.06.2024 do godz. 12:00 dnia 22.06.2024
+Obszar: Odra od Głogowa do ujścia Bobru, Odra od ujścia Bobru do Białej Góry, Odra od Białej Góry do Słubic, Bóbr od Bobrzycy do ujścia (bez Kwisy i Czernej Wielkiej), Kwisa od Zb. Leśna do Nowogrodźca, Czerna Wielka, Nysa Łużycka od granicy RP do Zgorzelca, Witka od Ostróżna do ujścia do Nysy Łużyckiej, Nysa Łużycka do Zgorzelca, Nysa Łużycka od Zgorzelca do ujścia (dolnośląskie, lubuskie, wielkopolskie)
+Przebieg: W obszarach występowania prognozowanych burz z opadami deszczu, miejscami ulewnych, stany wody mogą gwałtownie podnosić się, zwłaszcza na małych ciekach oraz w zlewniach zurbanizowanych. Na rzekach kontrolowanych stany wody mogą wzrosnąć do strefy wody wysokiej, lokalnie powyżej stanów ostrzegawczych. Punktowo, szczególnie w zlewni górnej Nysy Łużyckiej, niewykluczone przekroczenie stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zachodnia czesc dorzecza srodkowej Odry od 19:00/21.06.2024 do 12:00/22.06.2024. W obszarach wystepowania prognozowanych burz z opadami deszczu, miejscami ulewnych, stany wody moga gwaltownie podnosic sie, zwlaszcza na malych ciekach oraz w zlewniach zurbanizowanych. Na rzekach kontrolowanych stany wody moga wzrosnac do strefy wody wysokiej, lokalnie powyzej stanow ostrzegawczych. Punktowo, szczegolnie w zlewni gornej Nysy Luzyckiej, niewykluczone przekroczenie stanow alarmowych. Szczegoly na meteo.imgw.pl

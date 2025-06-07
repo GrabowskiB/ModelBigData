@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.08.2022 - godz. 07:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 125
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 08:00 dnia 27.08.2022 do godz. 10:00 dnia 29.08.2022
+Obszar: Barycz bez Orli i Polskiego Rowu (dolnośląskie, lubuskie, wielkopolskie)
+Przebieg: Na górnej Baryczy w rejonie Odolanowa będzie utrzymywała się tendencja rosnąca stanu wody w strefie stanu alarmowego.  
+
+Prawdopodobieństwo wystąpienia zjawiska: 100%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Leszek Jelonek

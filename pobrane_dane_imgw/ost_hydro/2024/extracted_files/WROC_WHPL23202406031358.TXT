@@ -1,0 +1,16 @@
+Data i godzina wydania: 03.06.2024 - godz. 15:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 107 z dnia 03.06.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 15:55 dnia 03.06.2024 do godz. 04:00 dnia 04.06.2024
+Obszar: Odra od Chałupek do Koźla, Opawa, Opawica, Olza od Cieszyna do ujścia do Odry, Olza, Czadeczka, Psina, Ruda od Zb. Rybnik do ujścia do Odry, Ruda, Bierawka, Kłodnica od Zb. Dzierżno Duże do ujścia do Odry, Kłodnica, Odra od Koźla do ujścia Nysy Kłodzkiej, Stradunia, Osobłoga od granicy RP do ujścia, Osobłoga, Mała Panew od Krupskiego Młyna do Zb. Turawa, Mała Panew od Zb. Turawa do ujścia do Odry, Mała Panew, Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Nysa Kłodzka od Zb. Kozielno do Zb. Nysa, Nysa Kłodzka od Zb. Nysa do ujścia, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Odra od ujścia Nysy Kłodzkiej do ujścia Widawy, Stobrawa, Widawa, Oława górna do Zborowic, Oława od Zborowic do ujścia, Ślęza górna do Borowa (dolnośląskie, opolskie, śląskie, wielkopolskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, zwłaszcza na mniejszych rzekach, rzekach górskich oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych, a krótkotrwale także alarmowych (szczególnie w zlewni górnej Nysy Kłodzkiej).
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy obszaru zagrożenia.
+
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 dorzecze gornej i srodkowej Odry do ujscia Stobrawy, Widawa, Olawa, Sleza od 15:55/03.06.2024 do 04:00/04.06.2024. W obszarach wystepowania prognozowanych opadow burzowych, zwlaszcza na mniejszych rzekach, rzekach gorskich oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty stanow wody. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych, a krotkotrwale takze alarmowych (szczegolnie w zlewni gornej Nysy Klodzkiej). Szczegoly na meteo.imgw.pl

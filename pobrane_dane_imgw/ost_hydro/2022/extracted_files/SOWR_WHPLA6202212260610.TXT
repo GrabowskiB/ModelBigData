@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.12.2022 - godz. 07:08
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 101
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:09 dnia 26.12.2022 do godz. 10:00 dnia 27.12.2022
+Obszar: Górna Narew (podlaskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych na górnej Narwi przewiduje się wzrost stanu wody, w Ploskach powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 100%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Magdalena Pachocka

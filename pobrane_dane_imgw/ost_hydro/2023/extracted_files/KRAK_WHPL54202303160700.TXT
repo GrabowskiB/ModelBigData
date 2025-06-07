@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.03.2023 - godz. 07:56
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 71
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 09:00 dnia 16.03.2023 do godz. 09:00 dnia 18.03.2023
+Obszar: zlewnia Krzny (lubelskie)
+Przebieg: Na Krznie w Malowej Górze prognozowany jest dalszy wzrost poziomu wody powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Marzena Dobrzańska

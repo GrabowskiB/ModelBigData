@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.01.2024 - godz. 08:36
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Zmiana ostrzeżenia Nr: 15 z dnia 09.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 08:50 dnia 10.01.2024 do godz. 13:00 dnia 10.01.2024
+Obszar: Bug (mazowieckie, podlaskie)
+Przebieg: W związku z utrzymywaniem się i prognozowanym dalszym rozwojem zjawisk lodowych na Bugu przewiduje się wahania i okresowe, znaczne wzrosty poziomu wody, lokalnie w Wyszkowie powyżej stanu alarmowego. W Popowie poziom wody będzie się wahał przy przekroczonym stanie alarmowym.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy treści ostrzeżenia opisującej sytuację w rejonie Wyszkowa. W najbliższych godzinach na Bugu w Wyszkowie przewiduje się wzrost poziomu wody powyżej stanu alarmowego.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Bug od 08:50/10.01.2024 do 13:00/10.01.2024. W zwiazku z utrzymywaniem sie i prognozowanym dalszym rozwojem zjawisk lodowych na Bugu przewiduje sie wahania i okresowe, znaczne wzrosty poziomu wody, lokalnie w Wyszkowie powyzej stanu alarmowego. W Popowie poziom wody bedzie sie wahal przy przekroczonym stanie alarmowym. Szczegoly na meteo.imgw.pl

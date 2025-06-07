@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.02.2024 - godz. 14:56
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 40
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 16:00 dnia 06.02.2024 do godz. 15:00 dnia 07.02.2024
+Obszar: Wąska (warmińsko-mazurskie)
+Przebieg: W związku ze spływem wód opadowych, w zlewni rzeki Wąskiej, przewiduje się wzrosty stanów wody w strefie wody wysokiej, lokalnie możliwe jest przekroczenie stanów ostrzegawczych oraz alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Waska od 16:00/06.02.2024 do 15:00/07.02.2024. W zwiazku ze splywem wod opadowych, w zlewni rzeki Waskiej, przewiduje sie wzrosty stanow wody w strefie wody wysokiej, lokalnie mozliwe jest przekroczenie stanow ostrzegawczych oraz alarmowych. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 09.01.2024 - godz. 05:07
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 26
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 05:08 dnia 09.01.2024 do godz. 10:00 dnia 09.01.2024
+Obszar: Wieprz od zb. Nielisz do ujścia Bystrzycy i przyrzecze Wisły (wraz ze zlewnią Bystrzycy) (lubelskie)
+Przebieg: W związku ze spływem wody z górnej części zlewni na stacji Trawniki na Wieprzu obserwuje i nadal prognozuje się wzrosty powyżej progu ostrzegawczego. W profilu Krasnystaw stany wody będą stopniowo opadać, jednak nadal przy przekroczonym stanie ostrzegawczym.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Wieprz od zb. Nielisz do ujscia Bystrzycy od 05:08/09.01.2024 do 10:00/09.01.2024. W zwiazku ze splywem wody z gornej czesci zlewni na stacji Trawniki na Wieprzu obserwuje i nadal prognozuje sie wzrosty powyzej progu ostrzegawczego. W profilu Krasnystaw stany wody beda stopniowo opadac, jednak nadal przy przekroczonym stanie ostrzegawczym. Szczegoly na meteo.imgw.pl

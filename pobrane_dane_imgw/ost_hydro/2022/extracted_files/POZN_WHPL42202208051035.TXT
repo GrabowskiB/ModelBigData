@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.08.2022 - godz. 12:31
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 69
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 21:00 dnia 05.08.2022 do godz. 08:00 dnia 06.08.2022
+Obszar: Warta środkowa od Rgilewki do Prosny, Powa, Bawół, Wrześnica, Kanał Mosiński, Warta środkowa od Prosny do Wełny, Wełna, Warta środkowa od Wełny do Noteci, Prosna środkowa, Ołobok, Swędrnia, Prosna dolna, Noteć górna, Łobżonka, Noteć środkowa, Gwda, Drawa, Noteć dolna, Warta dolna od Noteci do ujścia, Obra, Odra dolna od Warty do Gryfina (kujawsko-pomorskie, lubuskie, łódzkie, pomorskie, wielkopolskie, zachodniopomorskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi:  Informacja wydana w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego wystąpienia może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+Dyżurny synoptyk hydrolog: Paweł Terlecki

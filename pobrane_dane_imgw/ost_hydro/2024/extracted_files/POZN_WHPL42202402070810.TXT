@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.02.2024 - godz. 09:05
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 28
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 09:10 dnia 07.02.2024 do godz. 09:00 dnia 08.02.2024
+Obszar: Łużyca (łódzkie, wielkopolskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej i dalszymi wzrostami stanów wody, na stacji hydrologicznej w Kraszewicach na Łużycy zostanie przekroczony stan alarmowy.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Luzyca od 09:10/07.02.2024 do 09:00/08.02.2024. W zwiazku z rozwojem sytuacji hydrologicznej i dalszymi wzrostami stanow wody, na stacji hydrologicznej w Kraszewicach na Luzycy zostanie przekroczony stan alarmowy. Szczegoly na meteo.imgw.pl

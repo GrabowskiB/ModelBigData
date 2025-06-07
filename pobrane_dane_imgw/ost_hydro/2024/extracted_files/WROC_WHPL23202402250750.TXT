@@ -1,0 +1,15 @@
+Data i godzina wydania: 25.02.2024 - godz. 08:48
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 69 z dnia 24.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 08:49 dnia 25.02.2024 do godz. 18:00 dnia 25.02.2024
+Obszar: Stobrawa (opolskie)
+Przebieg: Na Stobrawie w Karłowicach stan wody będzie się jeszcze wolno podnosił powyżej stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy okresu ważności i przebiegu.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Stobrawa od 08:49/25.02.2024 do 18:00/25.02.2024. Na Stobrawie w Karlowicach stan wody bedzie sie jeszcze wolno podnosil powyzej stanu ostrzegawczego.  Szczegoly na meteo.imgw.pl

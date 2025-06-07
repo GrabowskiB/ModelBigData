@@ -1,0 +1,15 @@
+Data i godzina wydania: 16.09.2024 - godz. 15:18
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 213
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 15:18 dnia 16.09.2024 do godz. 11:00 dnia 18.09.2024
+Obszar: Kaczawa od Dunina do ujścia do Odry, Kaczawa od Dunina (bez górnej Skorej) do ujścia (dolnośląskie)
+Przebieg: W zlewni Kaczawy na Czarnej Wodzie oraz w ujściowym odcinku Kaczawy w wyniku spływu wód opadowych prognozowane są dalsze powolne wzrosty stanów wody w strefie powyżej stanów alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Kaczawa od Dunina do ujscia do Odry, Czarna Woda od 15:18/16.09.2024 do 11:00/18.09.2024. W zlewni Kaczawy na Czarnej Wodzie oraz w ujsciowym odcinku Kaczawy w wyniku splywu wod opadowych prognozowane sa dalsze powolne wzrosty stanow wody w strefie powyzej stanow alarmowych. Szczegoly na meteo.imgw.pl

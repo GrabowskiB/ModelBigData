@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.12.2023 - godz. 12:35
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 394
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:00 dnia 21.12.2023 do godz. 09:00 dnia 22.12.2023
+Obszar: zlewnia Bobrzy (świętokrzyskie)
+Przebieg: W zlewni Bobrzy prognozowany jest dalszy wzrost poziomu wody, z możliwością przekroczenia stanu ostrzegawczego w profilu Słowik.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnia Bobrzy od 13:00/21.12.2023 do 09:00/22.12.2023. W zlewni Bobrzy prognozowany jest dalszy wzrost poziomu wody, z mozliwoscia przekroczenia stanu ostrzegawczego w profilu Slowik. Szczegoly na meteo.imgw.pl

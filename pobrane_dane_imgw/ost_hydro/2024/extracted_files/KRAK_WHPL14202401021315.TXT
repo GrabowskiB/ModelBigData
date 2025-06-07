@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.01.2024 - godz. 14:09
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 6 z dnia 02.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:10 dnia 02.01.2024 do godz. 12:00 dnia 03.01.2024
+Obszar: Pszczynka, Gostynia, Przemsza do zbiornika Przeczyce, Brynica (śląskie)
+Przebieg: W związku z prognozowanymi opadami deszczu spodziewane są ponowne wzrosty poziomu wody z możliwymi przekroczeniami stanów ostrzegawczych w kolejnych profilach wodowskazowych. Na Brynicy w profilu Brynica prognozowany jest dalszy wzrost powyżej stanu alarmowego, a w profilu Kozłowa Góra możliwe jest przekroczenie stanu ostrzegawczego w przypadku zwiększenia odpływu ze zbiornika zlokalizowanego powyżej.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy zwiększenia obszaru o zlewnię Pszczynki i Gostyni. W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Pszczynka, Gostynia, Przemsza do zbiornika Przeczyce, Brynica od 14:10/02.01.2024 do 12:00/03.01.2024. W zwiazku z prognozowanymi opadami deszczu spodziewane sa ponowne wzrosty poziomu wody z mozliwymi przekroczeniami stanow ostrzegawczych w kolejnych profilach wodowskazowych. Na Brynicy w profilu Brynica prognozowany jest dalszy wzrost powyzej stanu alarmowego, a w profilu Kozlowa Gora mozliwe jest przekroczenie stanu ostrzegawczego w przypadku zwiekszenia odplywu ze zbiornika zlokalizowanego powyzej. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 18.05.2023 - godz. 09:51
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 100
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:00 dnia 18.05.2023 do godz. 01:00 dnia 19.05.2023
+Obszar: Mała Wisła od zb. Goczałkowice do ujścia Przemszy (małopolskie, śląskie)
+Przebieg: Prognozowany jest dalszy wzrost poziomu wody przy przekroczonych stanach ostrzegawczych w profilach: Jawiszowice oraz Bieruń Nowy.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Aleksandra Chamerlińska-Kulka

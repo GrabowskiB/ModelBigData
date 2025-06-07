@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.10.2023 - godz. 20:16
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 146
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 21:00 dnia 24.10.2023 do godz. 12:00 dnia 25.10.2023
+Obszar: zlewnie dopływów górnej Odry, Czadeczka (śląskie)
+Przebieg: W związku z prognozowanymi opadami deszczu, okresami o natężeniu umiarkowanym i silnym, lokalnie na rzekach górskich oraz w terenach zurbanizowanych stany wody mogą gwałtownie podnieść się do strefy wody wysokiej.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnie doplywow gornej Odry, Czadeczka od 21:00/24.10.2023 do 12:00/25.10.2023. lokalnie na rzekach gorskich oraz w terenach zurbanizowanych stany wody moga gwaltownie podniesc sie do strefy wody wysokiej Szczegoly na meteo.imgw.pl

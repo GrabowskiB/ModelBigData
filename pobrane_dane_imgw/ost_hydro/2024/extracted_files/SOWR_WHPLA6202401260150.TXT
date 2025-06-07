@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.01.2024 - godz. 02:44
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 38
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 02:45 dnia 26.01.2024 do godz. 10:00 dnia 26.01.2024
+Obszar: Nurzec (podlaskie)
+Przebieg: Na Nurcu w profilu Brańsk stan wody będzie nadal wzrastał powyżej progu ostrzegawczego, w związku ze spływem wody opadowo-roztopowej. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Nurzec od 02:45/26.01.2024 do 10:00/26.01.2024. Na Nurcu w profilu Bransk stan wody bedzie nadal wzrastal powyzej progu ostrzegawczego, w zwiazku ze splywem wody opadowo-roztopowej.  Szczegoly na meteo.imgw.pl

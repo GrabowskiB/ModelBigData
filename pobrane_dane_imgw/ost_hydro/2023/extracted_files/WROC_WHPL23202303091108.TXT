@@ -1,0 +1,15 @@
+Data i godzina wydania: 09.03.2023 - godz. 12:05
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 35
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:30 dnia 09.03.2023 do godz. 11:00 dnia 11.03.2023
+Obszar: Budkowiczanka (opolskie)
+Przebieg: Na Budkowiczance w zlewni Stobrawy utrzymuje się trend wzrostu stanu wody powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Leszek Jelonek

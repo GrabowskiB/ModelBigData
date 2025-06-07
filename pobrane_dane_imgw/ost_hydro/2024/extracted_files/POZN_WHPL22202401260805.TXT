@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.01.2024 - godz. 09:04
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 15
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:04 dnia 26.01.2024 do godz. 09:00 dnia 27.01.2024
+Obszar: Gwda (wielkopolskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych oraz prognozowanymi opadami deszczu, w zlewni Gwdy w Pile możliwe są dalsze wzrosty i wahania stanów wód powyżej stanu ostrzegawczego. Dodatkowo, w Ptuszy stany wód będą się wahać w zakresie wartości zbliżonych do stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Gwda od 09:04/26.01.2024 do 09:00/27.01.2024. W zwiazku ze splywem wod opadowo-roztopowych oraz prognozowanymi opadami deszczu, w zlewni Gwdy w Pile mozliwe sa dalsze wzrosty i wahania stanow wod powyzej stanu ostrzegawczego. Dodatkowo, w Ptuszy stany wod beda sie wahac w zakresie wartosci zblizonych do stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.09.2022 - godz. 01:17
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 203
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 01:17 dnia 10.09.2022 do godz. 05:00 dnia 10.09.2022
+Obszar: Brynica ze zbiornikiem Kozłowa Góra (śląskie)
+Przebieg: Na Brynicy wystąpią dalsze  stopniowe wzrosty stanu wody. Na stacji wodowskazowej Brynica stan wody będzie układał się około lub nieco powyżej stanu alarmowego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Izabela Adrian

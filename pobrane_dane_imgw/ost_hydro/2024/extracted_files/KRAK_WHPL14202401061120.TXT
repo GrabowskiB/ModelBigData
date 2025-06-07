@@ -1,0 +1,16 @@
+Data i godzina wydania: 06.01.2024 - godz. 12:17
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 23 z dnia 06.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:18 dnia 06.01.2024 do godz. 09:00 dnia 07.01.2024
+Obszar: zlewnie Pszczynki, Gostyni, górnej Przemszy oraz Brynicy (śląskie)
+Przebieg: W związku z prognozowanymi opadami deszczu, a lokalnie w wyniku pracy zbiorników retencyjnych, spodziewane są ponowne wzrosty poziomu wody, przy aktualnie przekroczonych stanach umownych (na Brynicy również alarmowych), z możliwością przekroczenia stanów ostrzegawczych w kolejnych profilach wodowskazowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana edytorska określająca obszar ostrzeżenia. W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie Pszczynki, Gostyni, gornej Przemszy oraz Brynicy od 12:18/06.01.2024 do 09:00/07.01.2024. W zwiazku z prognozowanymi opadami deszczu, a lokalnie w wyniku pracy zbiornikow retencyjnych, spodziewane sa ponowne wzrosty poziomu wody, przy aktualnie przekroczonych stanach umownych (na Brynicy rowniez alarmowych), z mozliwoscia przekroczenia stanow ostrzegawczych w kolejnych profilach wodowskazowych. Szczegoly na meteo.imgw.pl

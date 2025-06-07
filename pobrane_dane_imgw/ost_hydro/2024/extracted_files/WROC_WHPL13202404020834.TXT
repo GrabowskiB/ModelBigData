@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.04.2024 - godz. 10:32
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 77
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:33 dnia 02.04.2024 do godz. 10:31 dnia 03.04.2024
+Obszar: środkowa Widawa (dolnośląskie)
+Przebieg: W wyniku spływu wody opadowej w Zbytowej na Widawie może zostać przekroczony stan ostrzegawczy.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 srodkowa Widawa od 10:33/02.04.2024 do 10:31/03.04.2024. W wyniku splywu wody opadowej w Zbytowej na Widawie moze zostac przekroczony stan ostrzegawczy. Szczegoly na meteo.imgw.pl

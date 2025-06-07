@@ -1,0 +1,15 @@
+Data i godzina wydania: 02.06.2022 - godz. 12:21
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 21
+Zjawisko: susza hydrologiczna
+Stopień: -1
+
+Ważność: od godz. 12:22 dnia 02.06.2022 do odwołania
+Obszar: Warta środkowa od Zb. Jeziorsko do Wełny (łódzkie, wielkopolskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na Warcie środkowej od Zbiornika Jeziorsko do Wełny spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+Dyżurny synoptyk hydrolog: Michalina Kallas-Garnitz

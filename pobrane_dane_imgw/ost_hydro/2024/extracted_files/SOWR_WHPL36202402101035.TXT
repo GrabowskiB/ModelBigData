@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.02.2024 - godz. 11:30
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 96
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:00 dnia 10.02.2024 do godz. 12:00 dnia 12.02.2024
+Obszar: Pilica od Zb. Sulejów (mazowieckie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, w zlewni Pilicy poniżej zb. Sulejów przewidywany jest dalszy wzrost poziomu wody, przy przekroczonym stanie alarmowym w Białobrzegach na Pilicy. W Odrzywole na Drzewiczce przewiduje się przekroczenie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Pilica od Zb. Sulejow od 12:00/10.02.2024 do 12:00/12.02.2024. W zwiazku ze splywem wod opadowo-roztopowych, w zlewni Pilicy ponizej zb. Sulejow przewidywany jest dalszy wzrost poziomu wody, przy przekroczonym stanie alarmowym w Bialobrzegach na Pilicy. W Odrzywole na Drzewiczce przewiduje sie przekroczenie stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

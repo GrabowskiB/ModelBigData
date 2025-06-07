@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.07.2024 - godz. 00:00
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 323 z dnia 22.07.2024
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Zlewnia Dunajca po zbiornik Sromowce Wyżne (małopolskie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak. 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnia Dunajca po zbiornik Sromowce Wyzne od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

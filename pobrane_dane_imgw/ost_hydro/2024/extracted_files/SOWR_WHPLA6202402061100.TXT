@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.02.2024 - godz. 11:55
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 77
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:00 dnia 06.02.2024 do godz. 12:00 dnia 08.02.2024
+Obszar: zlewnia Supraśli i Biebrzy (podlaskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych i prognozowanymi dalszymi opadami deszczu w zlewniach Supraśli i Biebrzy przewiduje się wzrosty poziomu wody powyżej stanów ostrzegawczych, a lokalnie przy przekroczonych stanach alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 zlewnia Suprasli i Biebrzy od 12:00/06.02.2024 do 12:00/08.02.2024. W zwiazku ze splywem wod opadowo-roztopowych i prognozowanymi dalszymi opadami deszczu w zlewniach Suprasli i Biebrzy przewiduje sie wzrosty poziomu wody powyzej stanow ostrzegawczych, a lokalnie przy przekroczonych stanach alarmowych. Szczegoly na meteo.imgw.pl

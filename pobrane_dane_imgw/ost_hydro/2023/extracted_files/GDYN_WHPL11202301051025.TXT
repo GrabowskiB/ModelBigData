@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.01.2023 - godz. 11:21
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 3
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:00 dnia 05.01.2023 do godz. 12:00 dnia 06.01.2023
+Obszar: Zalew Szczeciński (zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną i wysokim napełnieniem Bałtyku (531 cm - 5.01.2023r.) na Zalewie Szczecińskim przewidywane są wzrosty poziomów wody w strefie wody wysokiej oraz powyżej stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Magda Grabowska-Piekarz

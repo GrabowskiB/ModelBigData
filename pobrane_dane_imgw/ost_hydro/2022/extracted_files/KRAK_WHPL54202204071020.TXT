@@ -1,0 +1,15 @@
+Data i godzina wydania: 07.04.2022 - godz. 12:17
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 25
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:18 dnia 07.04.2022 do godz. 12:00 dnia 09.04.2022
+Obszar: Zlewnia Krzny (lubelskie)
+Przebieg: Na skutek spływu wód opadowo-roztopowych, na Krznie w Malowej Górze spodziewany jest wzrost poziomu wody w strefie stanów wysokich, z przekroczeniem stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska Ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Karolina Wolanin

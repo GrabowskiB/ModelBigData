@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.01.2024 - godz. 14:13
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 5
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:14 dnia 04.01.2024 do godz. 12:00 dnia 05.01.2024
+Obszar: Grabia (łódzkie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej na stacji wodowskazowej Łask na Grabi prognozowane są dalsze wzrosty stanu wody powyżej stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Grabia od 14:14/04.01.2024 do 12:00/05.01.2024. W zwiazku z rozwojem sytuacji hydrologicznej na stacji wodowskazowej Lask na Grabi prognozowane sa dalsze wzrosty stanu wody powyzej stanu ostrzegawczego.  Szczegoly na meteo.imgw.pl

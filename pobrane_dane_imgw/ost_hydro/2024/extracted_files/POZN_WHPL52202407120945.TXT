@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.07.2024 - godz. 11:40
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 106
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:00 dnia 12.07.2024 do godz. 05:00 dnia 13.07.2024
+Obszar: Warta górna do Poraja, Warta górna od Poraja do Liswarty, Liswarta, Warta górna od Liswarty do Widawki, Warta górna od Widawki do Zb. Jeziorsko, Oleśnica, Grabia, Nieciecz, Widawka, Warta środkowa od Zb. Jeziorsko do Prosny, Ner, Warta środkowa od Zb. Jeziorsko do Rgilewki, Kiełbaska, Powa, Bawół, Warta środkowa od Prosny do Wełny, Kanał Mosiński, Warta środkowa od Wełny do Noteci, Prosna górna, Niesób, Łużyca, Prosna środkowa, Ołobok, Swędrnia, Prosna dolna, Warta dolna od Noteci do ujścia, Obra (lubuskie, łódzkie, opolskie, śląskie, wielkopolskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. Lokalnie w zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych,  a krótkotrwale – w związku z możliwością kumulacji znacznych sum opadów - także alarmowych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia gornej i srodkowej Warty od 14:00/12.07.2024 do 05:00/13.07.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. Lokalnie w zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych,  a krotkotrwale – w zwiazku z mozliwoscia kumulacji znacznych sum opadow - takze alarmowych. Szczegoly na meteo.imgw.pl

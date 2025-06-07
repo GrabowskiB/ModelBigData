@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.09.2024 - godz. 13:54
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 165
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 20:00 dnia 12.09.2024 do godz. 11:00 dnia 16.09.2024
+Obszar: Warta górna do Poraja, Warta górna od Poraja do Liswarty, Liswarta, Warta górna od Liswarty do Widawki (łódzkie, śląskie)
+Przebieg: W związku z prognozowanymi intensywnymi opadami deszczu, na wodowskazach w zlewni górnej Warty i Liswarty, spodziewane są wzrosty poziomu wody, początkowo do strefy stanów wysokich z przekroczeniami stanów ostrzegawczych, a następnie także stanów alarmowych. Największa intensywność zjawisk wystąpi w dniach 13-15.09. Lokalnie wzrosty stanów wody mogą mieć charakter gwałtowny.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie może być aktualizowane.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 zlewnia gornej Warty i Liswarty od 20:00/12.09.2024 do 11:00/16.09.2024. W zwiazku z prognozowanymi intensywnymi opadami deszczu, na wodowskazach w zlewni gornej Warty i Liswarty, spodziewane sa wzrosty poziomu wody, poczatkowo do strefy stanow wysokich z przekroczeniami stanow ostrzegawczych, a nastepnie takze stanow alarmowych. Najwieksza intensywnosc zjawisk wystapi w dniach 13-15.09. Lokalnie wzrosty stanow wody moga miec charakter gwaltowny. Szczegoly na meteo.imgw.pl

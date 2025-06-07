@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.05.2024 - godz. 17:31
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 78
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 17:32 dnia 04.05.2024 do godz. 00:00 dnia 05.05.2024
+Obszar: Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Bóbr od Zb. Bukówka do Zb. Pilchowice, Bóbr do Zb. Pilchowice, Bóbr od Zb. Pilchowice do Bobrzycy, Kwisa górna do Zb. Leśna, Kwisa od Zb. Leśna do Nowogrodźca, Ostrożnica, Izera (dolnośląskie)
+Przebieg: W związku z prognozowanymi i występującymi intensywnymi opadami deszczu o charakterze burzowym, w rzekach woj. dolnośląskim spodziewane są lokalne wzrosty poziomu wody. W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Zlewnie rzek gorskich i podgorskich w woj. Dolnoslaskim od 17:32/04.05.2024 do 00:00/05.05.2024. W zwiazku z prognozowanymi i wystepujacymi intensywnymi opadami deszczu o charakterze burzowym, w rzekach woj. dolnoslaskim spodziewane sa lokalne wzrosty poziomu wody. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

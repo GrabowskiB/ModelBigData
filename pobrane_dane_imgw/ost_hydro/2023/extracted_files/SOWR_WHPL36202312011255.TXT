@@ -1,0 +1,15 @@
+Data i godzina wydania: 01.12.2023 - godz. 13:49
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 98
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 14:00 dnia 01.12.2023 do godz. 10:00 dnia 02.12.2023
+Obszar: Bug (mazowieckie)
+Przebieg: W związku z występującymi i rozwijającymi się zjawiskami lodowymi, w ujściowym odcinku Bugu przewiduje się wzrosty stanu wody, z możliwością przekroczenia stanu ostrzegawczego w Popowie.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bug od 14:00/01.12.2023 do 10:00/02.12.2023. W zwiazku z wystepujacymi i rozwijajacymi sie zjawiskami lodowymi, w ujsciowym odcinku Bugu przewiduje sie wzrosty stanu wody, z mozliwoscia przekroczenia stanu ostrzegawczego w Popowie. Szczegoly na meteo.imgw.pl

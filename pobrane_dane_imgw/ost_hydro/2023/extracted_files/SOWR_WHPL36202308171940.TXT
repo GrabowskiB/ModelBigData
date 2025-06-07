@@ -1,0 +1,15 @@
+Data i godzina wydania: 17.08.2023 - godz. 21:38
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Zmiana ostrzeżenia Nr: 73 z dnia 17.08.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 21:39 dnia 17.08.2023 do godz. 08:00 dnia 18.08.2023
+Obszar: Wkra, Biebrza, Górny Ełk, Górna Lega, Pisa, Środkowa Narew, Dolna Narew, Górna Łyna, Dolna Łyna (mazowieckie, podlaskie, warmińsko-mazurskie)
+Przebieg:  W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Zmiana dotyczy obszaru oraz czasu obowiązywania. Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Wkra, Pisa, Srodkowa Narew, Dolna Narew, Biebrza, Gorny Elk, Lyna od 21:39/17.08.2023 do 08:00/18.08.2023.  W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. Szczegoly na meteo.imgw.pl

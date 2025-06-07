@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.09.2022 - godz. 08:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 205
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 08:30 dnia 10.09.2022 do godz. 08:00 dnia 11.09.2022
+Obszar: Zlewnia Nidy, Czarnej (Staszowskiej), Koprzywianki, Kamiennej  (świętokrzyskie)
+Przebieg: W obszarach występowania silnych opadów deszczu w tym także o charakterze burzowym, spodziewane są wzrosty poziomu wody, lokalnie do strefy stanów wysokich. Na mniejszych rzekach oraz w zlewniach zurbanizowanych wzrosty mogą mieć gwałtowny charakter. W miejscach wystąpienia szczególnie intensywnych opadów, punktowo istnieje możliwość przekroczenia stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi silnymi opadami deszczu w tym także o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter intensywny, punktowy opad, w miejscu jego wystąpienia może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich). W przypadku istotnych zmian w czasie lub przebiegu zjawiska Ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Karolina Wolanin

@@ -1,0 +1,15 @@
+Data i godzina wydania: 28.12.2023 - godz. 07:29
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 123
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 07:30 dnia 28.12.2023 do godz. 07:30 dnia 29.12.2023
+Obszar: Pilica od Zb. Sulejów (mazowieckie)
+Przebieg: W związku ze spływem wód opadowych, w zlewni Pilicy od Zb. Sulejów prognozowany jest wzrost stanu wody, z możliwością przekroczenia stanu ostrzegawczego na Pilicy w Białobrzegach.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Pilica od Zb. Sulejow od 07:30/28.12.2023 do 07:30/29.12.2023. W zwiazku ze splywem wod opadowych, w zlewni Pilicy od Zb. Sulejow prognozowany jest wzrost stanu wody, z mozliwoscia przekroczenia stanu ostrzegawczego na Pilicy w Bialobrzegach. Szczegoly na meteo.imgw.pl

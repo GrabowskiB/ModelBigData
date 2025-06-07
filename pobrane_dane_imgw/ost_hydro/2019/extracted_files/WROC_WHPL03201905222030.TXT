@@ -1,0 +1,18 @@
+Data i godzina wydania: 22.05.2019 - godz. 22:29
+Nazwa biura prognoz hydrologicznych: BPH IMGW-PIB Wroc³aw Obszar Wroc³aw
+
+ODWO£ANIE INFORMACJI O NIEBEZPIECZNYM ZJAWISKU Nr I:14 z dnia 22.05.2019
+Zjawisko: gwa³towne wzrosty stanów wody
+Stopieñ zagro¿enia: 0
+
+Wa¿noœæ:
+Obszar: Zlewnia Baryczy (wielkopolskie)
+Przebieg: Zjawisko zakoñczy³o siê.
+
+Prawdopodobieñstwo wyst¹pienia zjawiska: 0%
+Uwagi: Brak
+
+Dy¿urny synoptyk hydrolog: Marcin Wdowikowski
+
+Wiadomoœæ SMS:
+IMGW-PIB INFORMUJE:WEZBR.Z.PRZEKR.ST.ALARM/0 zlewnia baryczy (wielkopolskie) od/.do/ Zjawisko zakonczylo sie.

@@ -1,0 +1,15 @@
+Data i godzina wydania: 12.09.2024 - godz. 14:00
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 411 z dnia 09.09.2024
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Raba od zbiornika Dobczyce do ujścia (małopolskie)
+Przebieg: Zjawisko zakończy się w wyniku prognozowanych intensywnych opadów deszczu.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenie odwołuje się ze względu na prognozowane wielkoskalowe intensywne opady deszczu.
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Raba od zbiornika Dobczyce do ujscia od - do -. Zjawisko zakonczy sie w wyniku prognozowanych intensywnych opadow deszczu. Szczegoly na meteo.imgw.pl

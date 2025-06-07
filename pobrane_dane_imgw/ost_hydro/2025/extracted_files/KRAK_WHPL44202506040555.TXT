@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.06.2025 - godz. 07:53
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 87 z dnia 03.06.2025
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Rzeki Wisłoka od ujścia Jasiołki do ujścia, Wisłok do ujścia Mleczki (podkarpackie)
+Przebieg: Prognozowane zjawisko zakończyło się.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Rzeki Wisloka od ujscia Jasiolki do ujscia, Wislok do ujscia Mleczki od - do -. Prognozowane zjawisko zakonczylo sie. Szczegoly na meteo.imgw.pl

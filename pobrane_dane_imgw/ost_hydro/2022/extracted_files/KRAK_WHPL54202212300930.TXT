@@ -1,0 +1,15 @@
+Data i godzina wydania: 30.12.2022 - godz. 10:27
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Odwołanie ostrzeżenia Nr: 233 z dnia 28.12.2022
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: zlewnia Huczwy (lubelskie)
+Przebieg: Prognozowane zjawisko nie wystąpi.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Brak.
+
+Dyżurny synoptyk hydrolog: Przemysław Plewa

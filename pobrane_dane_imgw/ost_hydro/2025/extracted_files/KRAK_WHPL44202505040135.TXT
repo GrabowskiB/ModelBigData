@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.05.2025 - godz. 03:31
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 44
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 03:32 dnia 04.05.2025 do godz. 09:30 dnia 04.05.2025
+Obszar: Jasiołka, San do ujścia Osławy (wraz ze zlewnią Osławy), Wisłok do ujścia Lubatówki (wraz ze zlewnią Lubatówki) (podkarpackie)
+Przebieg: W związku ze spływem wód opadowych prognozowany jest dalszy wzrost poziomu wody z przekroczeniem stanu ostrzegawczego na stacji hydrologicznej Zagórz a Osławie. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Jasiolka, San do ujscia Oslawy, Oslawa, Wislok do ujscia Lubatowki od 03:32/04.05.2025 do 09:30/04.05.2025. W zwiazku ze splywem wod opadowych prognozowany jest dalszy wzrost poziomu wody z przekroczeniem stanu ostrzegawczego na stacji hydrologicznej Zagorz a Oslawie.  Szczegoly na meteo.imgw.pl

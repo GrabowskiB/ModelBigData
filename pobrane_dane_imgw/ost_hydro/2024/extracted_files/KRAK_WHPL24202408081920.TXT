@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.08.2024 - godz. 21:17
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 366
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 21:20 dnia 08.08.2024 do godz. 06:00 dnia 09.08.2024
+Obszar: Zlewnie Raby wraz ze zb. Dobczyce, Stradomki, Dunajca od zb. Sromowce Wyżne do zapory zb. Czchów, Popradu, Białej (małopolskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich). Ostrzeżenie st. 2 obejmujące zl: Raby wraz ze zb. Dobczyce, Stradomki, Dunajca od zb. Sromowce Wyżne do zapory zb. Czchów, Popradu, Białej zastępuję ostrzeżenie nr 326.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Raba ze zb. Dobczyce, Stradoma Dunajec  do zapory zb. Czchow, Poprad, Biala od 21:20/08.08.2024 do 06:00/09.08.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.09.2022 - godz. 09:27
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 137 z dnia 10.09.2022
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:28 dnia 11.09.2022 do godz. 00:00 dnia 12.09.2022
+Obszar: Widawa od Namysłowa do ujścia do Odry, Ślęza od Borowa do ujścia do Odry, Ślęza górna do Borowa, Ślęza od Borowa do ujścia, Barycz bez Orli i Polskiego Rowu (dolnośląskie, wielkopolskie)
+Przebieg: W zlewni Ślęzy po Białobrzezie stany wody będą ulegały wahaniom w strefie powyżej stanu ostrzegawczego (w przypadku ponownych opadów, możliwe kolejne przekroczenie stanu alarmowego), w Borowie będą wzrastały w strefie powyżej stanu alarmowego (co najmniej do godzin popołudniowych 11.09.), a w Ślęzie do stanu powyżej ostrzegawczego (w godzinach wieczornych i nocnych z 11 na 12.09.). Na Widawie w Zbytowej utrzyma się przekroczenie stanu ostrzegawczego z tendencją wzrostową, a w Krzyżanowicach może wystąpić przekroczenie stanu ostrzegawczego. W zlewni górnej Baryczy stany wody będą przekraczały stan ostrzegawczy z tendencją wzrostową (szczególnie w Bogdaju na Polskiej Wodzie).
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Zmiana dotyczy czasu obowiązywania i uszczegółowienia przebiegu zjawiska.
+
+Dyżurny synoptyk hydrolog: Wojciech Krasowski

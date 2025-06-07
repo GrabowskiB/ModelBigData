@@ -1,0 +1,17 @@
+Data i godzina wydania: 11.06.2023 - godz. 09:41
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 17
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 09:45 dnia 11.06.2023 do odwołania
+Obszar: Warta dolna od Noteci do ujścia (lubuskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na odcinku Warty dolnej od Noteci do ujścia spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ. 
+
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenie wydawane jest w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni w obrębie jednego obszaru hydrologicznego (który obejmuje grupę zlewni monitorowanych przez PSHM).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Warta dolna od Noteci do ujscia od 09:45/11.06.2023 do odwolania. W zwiazku z wystepujacymi niskimi przeplywami wody, w kolejnych dniach na odcinku Warty dolnej od Noteci do ujscia spodziewane jest dalsze utrzymywanie sie przeplywow wody ponizej SNQ. 
+ Szczegoly na meteo.imgw.pl

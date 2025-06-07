@@ -1,0 +1,15 @@
+Data i godzina wydania: 30.06.2022 - godz. 09:44
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 54
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz. 09:44 dnia 30.06.2022 do odwołania
+Obszar: Odra od Trestna do Brzegu Dolnego, Odra od Brzegu Dolnego do ujścia Baryczy, Odra od ujścia Baryczy do ujścia Bobru, Odra od ujścia Bobru do Słubic (dolnośląskie, lubuskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach na Odrze środkowej od Trestna do Słubic spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ z okresowymi przerwami, spowodowanymi zmianami odpływu wody ze zbiorników retencyjnych, szczególnie na Nysie Kłodzkiej, prowadzonymi na potrzeby realizacji zadań transportowych Odrzańskiej Drogi Wodnej bądź wywołanymi pracą stopni wodnych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Ostrzeżenia wydawane są w sytuacji, gdy aktualne lub prognozowane wartości przepływu na stacjach wodowskazowych uznanych za reprezentatywne układają się poniżej SNQ przez minimum 10 dni.
+
+Dyżurny synoptyk hydrolog: Wojciech Krasowski

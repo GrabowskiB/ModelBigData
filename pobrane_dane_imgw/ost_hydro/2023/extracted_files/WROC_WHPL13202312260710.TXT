@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.12.2023 - godz. 08:08
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 212
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 08:09 dnia 26.12.2023 do godz. 08:00 dnia 27.12.2023
+Obszar: Witka od Ostróżna do ujścia do Nysy Łużyckiej (dolnośląskie)
+Przebieg: Na Witce prognozowane są wahania stanów wody w strefie powyżej stanów ostrzegawczych. W Ostróżnie niewykluczone przekroczenie stanu alarmowego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Witka od Ostrozna do ujscia do Nysy Luzyckiej od 08:09/26.12.2023 do 08:00/27.12.2023. Na Witce prognozowane sa wahania stanow wody w strefie powyzej stanow ostrzegawczych. W Ostroznie niewykluczone przekroczenie stanu alarmowego.  Szczegoly na meteo.imgw.pl

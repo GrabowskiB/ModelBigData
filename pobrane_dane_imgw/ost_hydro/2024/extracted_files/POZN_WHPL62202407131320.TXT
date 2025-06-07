@@ -1,0 +1,15 @@
+Data i godzina wydania: 13.07.2024 - godz. 15:17
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Zmiana ostrzeżenia Nr: 108 z dnia 13.07.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 15:17 dnia 13.07.2024 do godz. 11:00 dnia 14.07.2024
+Obszar: Prosna górna (opolskie)
+Przebieg: W związku ze spływem wód opadowych i prognozowanymi  intensywnymi opadami deszczu o charakterze burzowym, na Prośnie w profilu Gorzów Śląski prognozuje się dalsze wzrosty stanu wody powyżej stanu ostrzegawczego. W przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy przebiegu oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Prosna gorna od 15:17/13.07.2024 do 11:00/14.07.2024. W zwiazku ze splywem wod opadowych i prognozowanymi  intensywnymi opadami deszczu o charakterze burzowym, na Prosnie w profilu Gorzow Slaski prognozuje sie dalsze wzrosty stanu wody powyzej stanu ostrzegawczego. W przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanu alarmowego. Szczegoly na meteo.imgw.pl

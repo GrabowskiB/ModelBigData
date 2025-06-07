@@ -1,0 +1,15 @@
+Data i godzina wydania: 22.02.2024 - godz. 09:08
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 57
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:10 dnia 22.02.2024 do godz. 12:00 dnia 25.02.2024
+Obszar: Drwęca (kujawsko-pomorskie, warmińsko-mazurskie)
+Przebieg: W związku ze spływem wód opadowych, w zlewni rzeki Drwęcy, przewiduje się wzrosty stanów wody w strefie stanów wysokich, lokalnie powyżej stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Drweca od 09:10/22.02.2024 do 12:00/25.02.2024. W zwiazku ze splywem wod opadowych, w zlewni rzeki Drwecy, przewiduje sie wzrosty stanow wody w strefie stanow wysokich, lokalnie powyzej stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

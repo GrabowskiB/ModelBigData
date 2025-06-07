@@ -1,0 +1,15 @@
+Data i godzina wydania: 22.06.2023 - godz. 00:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 159 z dnia 21.06.2023
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 00:58 dnia 22.06.2023 do godz. 04:00 dnia 22.06.2023
+Obszar: Przemsza od ujścia Brynicy do ujścia do Wisły i przyrzecze Wisły, Rudawa, Prądnik i przyrzecze Wisły, Szreniawa i przyrzecze Wisły, Breń i przyrzecze Wisły (małopolskie, świętokrzyskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych, a krótkotrwale także alarmowych.  
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Zmiana dotyczy obszaru oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Lewostronne doplywy Wisly od Przemszy i Bren  od 00:58/22.06.2023 do 04:00/22.06.2023. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty poziomu wody i podtopienia. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych, a krotkotrwale takze alarmowych.   Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.06.2024 - godz. 09:32
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 212
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 09:33 dnia 04.06.2024 do godz. 09:00 dnia 05.06.2024
+Obszar: zlewnia Iłownicy i Białej (śląskie)
+Przebieg: W obszarach występowania prognozowanych intensywnych opadów deszczu, zaznaczą się dalsze wzrosty poziomu wody, miejscami gwałtowne. Lokalnie stany wody przekraczać będą stany alarmowe, a punktowo ostrzegawcze.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 zlewnia Ilownicy i Bialej od 09:33/04.06.2024 do 09:00/05.06.2024. W obszarach wystepowania prognozowanych intensywnych opadow deszczu, zaznacza sie dalsze wzrosty poziomu wody, miejscami gwaltowne. Lokalnie stany wody przekraczac beda stany alarmowe, a punktowo ostrzegawcze. Szczegoly na meteo.imgw.pl

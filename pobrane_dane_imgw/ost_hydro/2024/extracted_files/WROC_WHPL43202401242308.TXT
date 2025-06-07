@@ -1,0 +1,17 @@
+Data i godzina wydania: 25.01.2024 - godz. 00:05
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Zmiana ostrzeżenia Nr: 23 z dnia 24.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 00:05 dnia 25.01.2024 do godz. 12:00 dnia 26.01.2024
+Obszar: Strzegomka do Łażan, Kaczawa od Dunina do ujścia do Odry, Kaczawa górna do Dunina, Kaczawa od Dunina (bez górnej Skorej) do ujścia, Nysa Szalona od Zb. Słup do ujścia do Kaczawy, Skora (górna), Bóbr od Zb. Bukówka do Zb. Pilchowice, Bóbr od Zb. Pilchowice do ujścia Kwisy, Bóbr do Zb. Pilchowice, Bóbr od Zb. Pilchowice do Bobrzycy, Bóbr od Bobrzycy do ujścia (bez Kwisy i Czernej Wielkiej), Kwisa od Zb. Leśna do ujścia do Bobru, Kwisa górna do Zb. Leśna, Kwisa od Zb. Leśna do Nowogrodźca, Czerna Wielka, Ostrożnica, Izera, Nysa Łużycka od Zgorzelca do ujścia do Odry, Witka od Ostróżna do ujścia do Nysy Łużyckiej, Nysa Łużycka do Zgorzelca, Nysa Łużycka od Zgorzelca do ujścia (dolnośląskie, lubuskie)
+Przebieg: W wyniku spływu wód opadowo-roztopowych w zlewniach dopływów Odry środkowej prognozowane są dalsze wzrosty stanów wody w strefie wody średniej i wysokiej. Lokalnie, zwłaszcza w zlewniach Kaczawy, Bobru i dolnej Nysy Łużyckiej, stany mogą układać się w strefie powyżej stanów ostrzegawczych. 
+W profilu Rzeszotary na Czarnej Wodzie prognozowane są dalsze wzrosty nieznacznie powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy przebiegu zjawiska.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 lewostronne doplywy Odry srodkowej od 00:05/25.01.2024 do 12:00/26.01.2024. W wyniku splywu wod opadowo-roztopowych w zlewniach doplywow Odry srodkowej prognozowane sa dalsze wzrosty stanow wody w strefie wody sredniej i wysokiej. Lokalnie, zwlaszcza w zlewniach Kaczawy, Bobru i dolnej Nysy Luzyckiej, stany moga ukladac sie w strefie powyzej stanow ostrzegawczych. 
+W profilu Rzeszotary na Czarnej Wodzie prognozowane sa dalsze wzrosty nieznacznie powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.01.2024 - godz. 12:26
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Zmiana ostrzeżenia Nr: 37 z dnia 25.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:27 dnia 26.01.2024 do godz. 10:00 dnia 27.01.2024
+Obszar: zlewnia Biebrzy (podlaskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, w zlewni Biebrzy prognozowany jest dalszy wzrost poziomu wody z możliwością przekroczenia stanu alarmowego w Harasimowiczach na Sidrze. Na Ledze w Rajgrodzie stan wody będzie się wahał przy przekroczonym stanie ostrzegawczym.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy stopnia, okresu obowiązywania Ostrzeżenia oraz opisu przebiegu zjawiska.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 zlewnia Biebrzy od 12:27/26.01.2024 do 10:00/27.01.2024. W zwiazku ze splywem wod opadowo-roztopowych, w zlewni Biebrzy prognozowany jest dalszy wzrost poziomu wody z mozliwoscia przekroczenia stanu alarmowego w Harasimowiczach na Sidrze. Na Ledze w Rajgrodzie stan wody bedzie sie wahal przy przekroczonym stanie ostrzegawczym. Szczegoly na meteo.imgw.pl

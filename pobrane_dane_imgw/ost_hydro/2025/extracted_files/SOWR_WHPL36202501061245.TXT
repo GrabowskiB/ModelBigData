@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.01.2025 - godz. 13:39
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 2
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 13:45 dnia 06.01.2025 do godz. 13:45 dnia 07.01.2025
+Obszar: Bug (mazowieckie)
+Przebieg: W związku z obserwowanymi wahaniami stanu wody o tendencji wzrostowej na rzece Bug w Popowie, istnieje prawdopodobieństwo przekroczenia stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bug od 13:45/06.01.2025 do 13:45/07.01.2025. W zwiazku z obserwowanymi wahaniami stanu wody o tendencji wzrostowej na rzece Bug w Popowie, istnieje prawdopodobienstwo przekroczenia stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

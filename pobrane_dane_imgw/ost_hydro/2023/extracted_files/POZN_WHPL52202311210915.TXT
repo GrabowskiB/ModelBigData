@@ -1,0 +1,15 @@
+Data i godzina wydania: 21.11.2023 - godz. 10:09
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 93
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:09 dnia 21.11.2023 do godz. 08:00 dnia 22.11.2023
+Obszar: Liswarta (opolskie, śląskie)
+Przebieg: W związku z rozwojem sytuacji hydrologicznej w Niwkach na Liswarcie prognozowane są dalsze wzrosty stanu wody w strefie stanów wysokich z przekroczeniem stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Liswarta od 10:09/21.11.2023 do 08:00/22.11.2023. W zwiazku z rozwojem sytuacji hydrologicznej w Niwkach na Liswarcie prognozowane sa dalsze wzrosty stanu wody w strefie stanow wysokich z przekroczeniem stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

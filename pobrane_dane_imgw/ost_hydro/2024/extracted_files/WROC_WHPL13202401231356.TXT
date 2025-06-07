@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.01.2024 - godz. 14:54
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 20
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 16:00 dnia 23.01.2024 do godz. 16:00 dnia 25.01.2024
+Obszar: Sąsiecznica (dolnośląskie)
+Przebieg: Spływ wód roztopowych oraz prognozowane opady deszczu będą powodowały na Sąsiecznicy dalsze wzrosty stanu wody początkowo powyżej stanu ostrzegawczego a następnie powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Zjawisko może mieć zmienną dynamikę.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Sasiecznica od 16:00/23.01.2024 do 16:00/25.01.2024. Splyw wod roztopowych oraz prognozowane opady deszczu beda powodowaly na Sasiecznicy dalsze wzrosty stanu wody poczatkowo powyzej stanu ostrzegawczego a nastepnie powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

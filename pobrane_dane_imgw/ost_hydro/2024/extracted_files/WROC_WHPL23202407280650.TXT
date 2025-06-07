@@ -1,0 +1,15 @@
+Data i godzina wydania: 28.07.2024 - godz. 08:48
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 163
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 09:00 dnia 28.07.2024 do godz. 15:00 dnia 28.07.2024
+Obszar: Olza, Czadeczka, Ruda, Bierawka, Kłodnica (opolskie, śląskie)
+Przebieg: W obszarach występowania intensywnych opadów, prognozuje się wzrosty stanów wody do strefy stanów wysokich. Na mniejszych rzekach wzrosty mogą mieć charakter gwałtowny.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Olza, Czadeczka, Ruda, Bierawka, Klodnica od 09:00/28.07.2024 do 15:00/28.07.2024. W obszarach wystepowania intensywnych opadow, prognozuje sie wzrosty stanow wody do strefy stanow wysokich. Na mniejszych rzekach wzrosty moga miec charakter gwaltowny. Szczegoly na meteo.imgw.pl

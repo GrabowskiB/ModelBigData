@@ -1,0 +1,15 @@
+Data i godzina wydania: 06.02.2024 - godz. 19:02
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 42
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 19:30 dnia 06.02.2024 do godz. 14:00 dnia 07.02.2024
+Obszar: Wieprza od źródła do Bystrzenicy (pomorskie)
+Przebieg: W związku ze spływem wód opadowych, w zlewni rzeki Wieprzy, przewiduje się wzrosty stanów wody w strefie wody wysokiej, lokalnie możliwe jest przekroczenie stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 70%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Wieprza od zrodla do Bystrzenicy od 19:30/06.02.2024 do 14:00/07.02.2024. W zwiazku ze splywem wod opadowych, w zlewni rzeki Wieprzy, przewiduje sie wzrosty stanow wody w strefie wody wysokiej, lokalnie mozliwe jest przekroczenie stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

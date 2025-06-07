@@ -1,0 +1,15 @@
+Data i godzina wydania: 03.01.2025 - godz. 13:49
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 4
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 20:00 dnia 03.01.2025 do godz. 18:00 dnia 04.01.2025
+Obszar: Zalew Szczeciński, Odra od Gryfina do ujścia (rz) (zachodniopomorskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną przewiduje się wzrosty poziomów wody: na Zalewie Szczecińskim powyżej stanu ostrzegawczego, w ujściowym odcinku Odry do stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Ostrzeżenie może być kontynuowane.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zalew Szczecinski, Odra od Gryfina do ujscia (rz) od 20:00/03.01.2025 do 18:00/04.01.2025. W zwiazku z prognozowana sytuacja meteorologiczna przewiduje sie wzrosty poziomow wody: na Zalewie Szczecinskim powyzej stanu ostrzegawczego, w ujsciowym odcinku Odry do stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.01.2024 - godz. 09:08
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 58
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 09:09 dnia 27.01.2024 do godz. 21:00 dnia 27.01.2024
+Obszar: zlewnie: Grabinki oraz Stobnicy (podkarpackie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych prognozowane są dalsze wzrosty poziomu wody przy przekroczonym stanie ostrzegawczym na Stobnicy w profilu Godowa oraz z przekroczeniem stanu ostrzegawczego na Grabince w profilu Głowaczowa.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 zlewnie: Grabinki oraz Stobnicy od 09:09/27.01.2024 do 21:00/27.01.2024. W zwiazku ze splywem wod opadowo-roztopowych prognozowane sa dalsze wzrosty poziomu wody przy przekroczonym stanie ostrzegawczym na Stobnicy w profilu Godowa oraz z przekroczeniem stanu ostrzegawczego na Grabince w profilu Glowaczowa. Szczegoly na meteo.imgw.pl

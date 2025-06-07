@@ -1,0 +1,15 @@
+Data i godzina wydania: 22.12.2022 - godz. 10:15
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 222
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:30 dnia 22.12.2022 do godz. 10:30 dnia 24.12.2022
+Obszar: zlewnie; Małej Wisły, Przemszy oraz Soły wraz z kaskadą zbiorników (małopolskie, śląskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych, prognozowane są wzrosty poziomu wody w strefie stanów średnich i do strefy stanów wysokich. Punktowo mogą zostać przekroczone stany ostrzegawcze.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska Ostrzeżenie Hydrologiczne może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Wawrzyniec Kruszewski

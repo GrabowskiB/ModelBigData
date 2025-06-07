@@ -1,0 +1,15 @@
+Data i godzina wydania: 14.02.2024 - godz. 23:22
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 109
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 23:23 dnia 14.02.2024 do godz. 09:00 dnia 15.02.2024
+Obszar: Dolna Narew (mazowieckie)
+Przebieg: W związku z przemieszczaniem się wód opadowo-roztopowych w ujściowym odcinku Narwi spodziewane są wahania stanu wody w strefie wody wysokiej, przy przekroczonym stanie ostrzegawczym w Orzechowie. Ponadto, istnieje możliwość nieznacznego przekroczenia na tej stacji hydrologicznej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Dolna Narew od 23:23/14.02.2024 do 09:00/15.02.2024. W zwiazku z przemieszczaniem sie wod opadowo-roztopowych w ujsciowym odcinku Narwi spodziewane sa wahania stanu wody w strefie wody wysokiej, przy przekroczonym stanie ostrzegawczym w Orzechowie. Ponadto, istnieje mozliwosc nieznacznego przekroczenia na tej stacji hydrologicznej stanu alarmowego. Szczegoly na meteo.imgw.pl

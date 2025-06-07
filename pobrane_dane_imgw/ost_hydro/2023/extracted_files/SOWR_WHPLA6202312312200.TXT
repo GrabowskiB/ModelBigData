@@ -1,0 +1,15 @@
+Data i godzina wydania: 31.12.2023 - godz. 22:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 125
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 22:59 dnia 31.12.2023 do godz. 09:00 dnia 01.01.2024
+Obszar: Zlewnia Biebrzy (podlaskie)
+Przebieg: W Harasimowiczach na Sidrze obserwowane i prognozowane są dalsze wzrosty powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Zlewnia Biebrzy od 22:59/31.12.2023 do 09:00/01.01.2024. W Harasimowiczach na Sidrze obserwowane i prognozowane sa dalsze wzrosty powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

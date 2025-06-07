@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.05.2025 - godz. 17:19
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 17
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 17:19 dnia 19.05.2025 do godz. 05:00 dnia 20.05.2025
+Obszar: Witka od Ostróżna do ujścia do Nysy Łużyckiej (dolnośląskie)
+Przebieg: W wyniku spływu wody opadowej z czeskiej części zlewni na Witce wystąpią gwałtowne wzrosty stanu wody w strefie wody wysokiej, w Ostróżnie niewykluczone przekroczenie stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Witka od Ostrozna do ujscia do Nysy Luzyckiej od 17:19/19.05.2025 do 05:00/20.05.2025. W wyniku splywu wody opadowej z czeskiej czesci zlewni na Witce wystapia gwaltowne wzrosty stanu wody w strefie wody wysokiej, w Ostroznie niewykluczone przekroczenie stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

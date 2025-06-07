@@ -1,0 +1,17 @@
+Data i godzina wydania: 24.04.2025 - godz. 08:25
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych w Poznaniu
+
+Ostrzeżenie hydrologiczne Nr: 8
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 08:26 dnia 24.04.2025 do godz. 11:00 dnia 25.04.2025
+Obszar: Prosna górna, Niesób, Łużyca, Prosna środkowa, Ołobok (łódzkie, wielkopolskie)
+Przebieg: W związku z prognozowanymi silnymi opadami deszczu z towarzyszącymi burzami przewidywane są wzrosty stanów wody, odcinkami do strefy wody wysokiej. W zlewniach kontrolowanych istnieje możliwość przekroczenia stanów ostrzegawczych.
+
+
+Prawdopodobieństwo wystąpienia zjawiska: 75%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Prosna gorna, Niesob, Luzyca, Prosna srodkowa, Olobok od 08:26/24.04.2025 do 11:00/25.04.2025. W zwiazku z prognozowanymi silnymi opadami deszczu z towarzyszacymi burzami przewidywane sa wzrosty stanow wody, odcinkami do strefy wody wysokiej. W zlewniach kontrolowanych istnieje mozliwosc przekroczenia stanow ostrzegawczych.
+ Szczegoly na meteo.imgw.pl

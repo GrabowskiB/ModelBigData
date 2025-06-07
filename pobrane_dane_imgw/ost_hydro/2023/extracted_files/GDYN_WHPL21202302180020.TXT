@@ -1,0 +1,15 @@
+Data i godzina wydania: 18.02.2023 - godz. 01:16
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 19
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 01:17 dnia 18.02.2023 do godz. 08:00 dnia 18.02.2023
+Obszar: Wybrzeże Wschodnie i morskie wody wewnętrzne RP - Bałtyk Południowo-Wschodni (pomorskie)
+Przebieg: W związku z silnym sztormem i dynamiczną sytuacją meteorologiczną, wzdłuż Wybrzeża Wschodniego poziomy wody będą się wahać w strefie stanów ostrzegawczych, lokalnie powyżej.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W razie potrzeby ostrzeżenie zostanie przedłużone
+
+Dyżurny synoptyk hydrolog: Alicja Kańska

@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.12.2023 - godz. 15:05
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 199
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 15:06 dnia 24.12.2023 do godz. 22:00 dnia 25.12.2023
+Obszar: rzeka Odra od Chałupek do Koźla, zlewnie Olzy i Czadeczki (śląskie)
+Przebieg: Prognozowane opady deszczu i ocieplenie powodujące topnienie pokrywy śnieżnej będą powodowały wzrosty stanów wody w strefach wody średniej i wysokiej.  Lokalnie i przejściowo, zależnie od natężenia opadów, wzrosty mogą być gwałtowne. Na Odrze mogą wynieść ok. 80-100 cm, na Olzie ok. 50-70 cm.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 rzeka Odra od Chalupek do Kozla, zlewnie Olzy i Czadeczki od 15:06/24.12.2023 do 22:00/25.12.2023. Prognozowane opady deszczu i ocieplenie powodujace topnienie pokrywy snieznej beda powodowaly wzrosty stanow wody w strefach wody sredniej i wysokiej.  Lokalnie i przejsciowo, zaleznie od natezenia opadow, wzrosty moga byc gwaltowne. Na Odrze moga wyniesc ok. 80-100 cm, na Olzie ok. 50-70 cm. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.08.2022 - godz. 00:02
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 124
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 00:03 dnia 27.08.2022 do godz. 10:00 dnia 27.08.2022
+Obszar: Widawa od Namysłowa do ujścia do Odry (dolnośląskie)
+Przebieg: W związku z przemieszczaniem się wezbrania w dół rzeki na wodowskazie Zbytowa na Widawie przewiduje się utrzymanie poziomu wody powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Dariusz Witkowski

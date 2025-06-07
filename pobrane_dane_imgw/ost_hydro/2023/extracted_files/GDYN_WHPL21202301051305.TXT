@@ -1,0 +1,15 @@
+Data i godzina wydania: 05.01.2023 - godz. 14:01
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Gdyni, Wydział Prognoz i Opracowań Hydrologicznych w Gdyni
+
+Ostrzeżenie hydrologiczne Nr: 4
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 14:30 dnia 05.01.2023 do godz. 07:00 dnia 06.01.2023
+Obszar: Zlewnia Zalewu Wiślanego do Nogatu, Elbląg (pomorskie, warmińsko-mazurskie)
+Przebieg: W związku z prognozowaną sytuacją meteorologiczną oraz wysokim napełnieniem Bałtyku (531 cm - 5.01.2023r.) na Żuławach przewidywane są wzrosty poziomów wody w strefie wody wysokiej, lokalnie z możliwością przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Magda Grabowska-Piekarz

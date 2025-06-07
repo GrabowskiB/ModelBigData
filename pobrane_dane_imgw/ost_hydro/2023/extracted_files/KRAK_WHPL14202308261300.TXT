@@ -1,0 +1,15 @@
+Data i godzina wydania: 26.08.2023 - godz. 14:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 308
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 22:00 dnia 26.08.2023 do godz. 09:00 dnia 27.08.2023
+Obszar: zlewnia Brynicy powyżej zbiornika Kozłowa Góra (śląskie)
+Przebieg: W związku z prognozowanymi silnymi opadami deszczu, także burzami, spodziewane są wzrosty poziomu wody, które mogą być gwałtowne. W profilu Brynica istnieje możliwość przekroczenia stanu ostrzegawczego. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 zlewnia Brynicy powyzej zbiornika Kozlowa Gora od 22:00/26.08.2023 do 09:00/27.08.2023. W zwiazku z prognozowanymi silnymi opadami deszczu, takze burzami, spodziewane sa wzrosty poziomu wody, ktore moga byc gwaltowne. W profilu Brynica istnieje mozliwosc przekroczenia stanu ostrzegawczego.  Szczegoly na meteo.imgw.pl

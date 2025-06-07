@@ -1,0 +1,15 @@
+Data i godzina wydania: 27.01.2024 - godz. 12:38
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Zmiana ostrzeżenia Nr: 47 z dnia 26.01.2024
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:39 dnia 27.01.2024 do godz. 13:00 dnia 28.01.2024
+Obszar: Bug do ujścia Uherki, zlewnie Huczwy i Krzny oraz Wieprz od zb. Nielisz do ujścia Bystrzycy (lubelskie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych na ogół notowane będą dalsze wzrosty poziomu wody, przy aktualnie przekroczonych stanach ostrzegawczych, z możliwością przekroczenia stanu alarmowego na Krznie w Malowej Górze oraz stanu ostrzegawczego na Wieprzu w Trawnikach.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Zmiana dotyczy czasu obowiązywania oraz przebiegu zjawiska.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Bug do Uherki, zlewnie Huczwy i Krzny oraz Wieprz od zb. Nielisz do Bystrzycy od 12:39/27.01.2024 do 13:00/28.01.2024. W zwiazku ze splywem wod opadowo-roztopowych na ogol notowane beda dalsze wzrosty poziomu wody, przy aktualnie przekroczonych stanach ostrzegawczych, z mozliwoscia przekroczenia stanu alarmowego na Krznie w Malowej Gorze oraz stanu ostrzegawczego na Wieprzu w Trawnikach. Szczegoly na meteo.imgw.pl

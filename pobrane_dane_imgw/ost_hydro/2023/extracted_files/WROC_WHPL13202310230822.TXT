@@ -1,0 +1,15 @@
+Data i godzina wydania: 23.10.2023 - godz. 10:19
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 145
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 10:19 dnia 23.10.2023 do godz. 18:00 dnia 24.10.2023
+Obszar: Barycz bez Orli i Polskiego Rowu, Orla (dolnośląskie)
+Przebieg: W wyniku spływu wód opadowych w zlewniach Sąsiecznicy i Orli stany wody wzrosły do strefy wody wysokiej. W okresie ważności ostrzeżenia przewiduje się dalsze wzrosty stanów wody, z możliwością przekroczenia stanów ostrzegawczych. W Kanclerzowicach na Sąsiecznicy niewkluczony wzrost stanu wody powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Na przebieg prognozowanego zjawiska może mieć wpływ praca urządzeń wodnych
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Barycz bez Orli i Polskiego Rowu, Orla od 10:19/23.10.2023 do 18:00/24.10.2023. W wyniku splywu wod opadowych w zlewniach Sasiecznicy i Orli stany wody wzrosly do strefy wody wysokiej. W okresie waznosci ostrzezenia przewiduje sie dalsze wzrosty stanow wody, z mozliwoscia przekroczenia stanow ostrzegawczych. W Kanclerzowicach na Sasiecznicy niewkluczony wzrost stanu wody powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 10.03.2023 - godz. 14:51
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Krakowie
+
+Ostrzeżenie hydrologiczne Nr: 63
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 18:00 dnia 10.03.2023 do godz. 14:00 dnia 11.03.2023
+Obszar: Górna część zlewni Wisłoki, Sanu, Wisłoka oraz Strwiąża (podkarpackie)
+Przebieg: W związku z prognozowanymi opadami deszczu, a dodatkowo lokalnie ze spływem wód roztopowych, prognozowane są wzrosty poziomu wody (miejscami gwałtowne) do strefy stanów wysokich, punktowo z możliwością przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: W przypadku istotnych zmian w czasie lub przebiegu zjawiska ostrzeżenie może ulec zmianie.
+
+Dyżurny synoptyk hydrolog: Karolina Wolanin

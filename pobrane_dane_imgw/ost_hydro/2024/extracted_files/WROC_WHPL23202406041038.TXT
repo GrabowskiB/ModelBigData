@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.06.2024 - godz. 12:36
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 113
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 12:37 dnia 04.06.2024 do godz. 09:00 dnia 05.06.2024
+Obszar: Odra od Koźla do ujścia Nysy Kłodzkiej (opolskie)
+Przebieg: Na górnej Odrze formuje się wezbranie opadowe, które będzie przemieszczało się w dół biegu rzeki. Wzrosty, miejscami gwałtowne w strefie wody średniej i wysokiej, mogą już występować na skanalizowanym odcinku Odry. Lokalnie nie wyklucza się przekroczenia stanów ostrzegawczych.
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Przebieg wezbrania może być modyfikowany pracą urządzeń wodnych. Ostrzeżenie może zostać wydłużone. 
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Odra od Kozla do ujscia Nysy Klodzkiej od 12:37/04.06.2024 do 09:00/05.06.2024. Na gornej Odrze formuje sie wezbranie opadowe, ktore bedzie przemieszczalo sie w dol biegu rzeki. Wzrosty, miejscami gwaltowne w strefie wody sredniej i wysokiej, moga juz wystepowac na skanalizowanym odcinku Odry. Lokalnie nie wyklucza sie przekroczenia stanow ostrzegawczych. Szczegoly na meteo.imgw.pl

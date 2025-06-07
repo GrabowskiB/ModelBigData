@@ -1,0 +1,15 @@
+Data i godzina wydania: 11.02.2024 - godz. 04:58
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Zmiana ostrzeżenia Nr: 95 z dnia 10.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 04:59 dnia 11.02.2024 do godz. 12:00 dnia 12.02.2024
+Obszar: Dolna Narew (mazowieckie)
+Przebieg: W związku ze spływem wód opadowo-roztopowych z górnej części dorzecza, na dolnej Narwi przewiduje się dalsze wzrosty i wahania poziomu wody, przy przekroczonym stanie alarmowym w Orzechowie. 
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy przebiegu zjawiska, podniesienia stopnia ostrzeżenia.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Dolna Narew od 04:59/11.02.2024 do 12:00/12.02.2024. W zwiazku ze splywem wod opadowo-roztopowych z gornej czesci dorzecza, na dolnej Narwi przewiduje sie dalsze wzrosty i wahania poziomu wody, przy przekroczonym stanie alarmowym w Orzechowie.  Szczegoly na meteo.imgw.pl

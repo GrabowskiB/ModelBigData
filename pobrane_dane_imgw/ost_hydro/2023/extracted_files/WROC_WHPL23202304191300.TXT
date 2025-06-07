@@ -1,0 +1,15 @@
+Data i godzina wydania: 19.04.2023 - godz. 14:57
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 56
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 15:00 dnia 19.04.2023 do godz. 11:00 dnia 20.04.2023
+Obszar: Opawa (opolskie)
+Przebieg: W związku z dalszym, powolnym spływem wód opadowych w Branicach na Opawie oraz w Branicach na korycie bocznym możliwe są wahania i wzrosty stanów powyżej stanu ostrzegawczego (z możliwością osiągnięcia stanu alarmowego).
+
+Prawdopodobieństwo wystąpienia zjawiska: 90%
+Uwagi: Brak
+
+Dyżurny synoptyk hydrolog: Leszek Jelonek

@@ -1,0 +1,15 @@
+Data i godzina wydania: 24.12.2024 - godz. 09:07
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Odwołanie ostrzeżenia Nr: 171 z dnia 20.06.2024
+Zjawisko: susza hydrologiczna
+Stopień: nie dotyczy
+
+Ważność: od godz.  dnia  do godz.  dnia 
+Obszar: Pisa (podlaskie, warmińsko-mazurskie)
+Przebieg: W związku z występującymi niskimi przepływami wody, w kolejnych dniach, na obszarze zlewni Pisy spodziewane jest dalsze utrzymywanie się przepływów wody poniżej SNQ.
+
+Prawdopodobieństwo wystąpienia zjawiska: %
+Uwagi: Ostrzeżenia odwołuje się, gdy wartość przepływu na stacjach uznanych za reprezentatywne utrzymuje się powyżej SNQ przez co najmniej 5 dni (dotyczy okresu obserwacji).
+
+SMS: IMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA Pisa od - do -. W zwiazku z wystepujacymi niskimi przeplywami wody, w kolejnych dniach, na obszarze zlewni Pisy spodziewane jest dalsze utrzymywanie sie przeplywow wody ponizej SNQ. Szczegoly na meteo.imgw.pl

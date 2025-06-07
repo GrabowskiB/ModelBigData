@@ -1,0 +1,15 @@
+Data i godzina wydania: 09.02.2024 - godz. 11:48
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Zmiana ostrzeżenia Nr: 87 z dnia 08.02.2024
+Zjawisko: wezbranie z przekroczeniem stanów alarmowych
+Stopień: 3
+
+Ważność: od godz. 12:00 dnia 09.02.2024 do godz. 12:00 dnia 11.02.2024
+Obszar: Bug (mazowieckie, podlaskie)
+Przebieg: W związku z przemieszczaniem się wód opadowo-roztopowych, na Bugu przewiduje się wzrosty i wahania poziomu wody, we Frankopolu przy przekroczonym stanie ostrzegawczym, w Małkini w strefie około stanu ostrzegawczego, w Wyszkowie i Popowie powyżej stanu alarmowego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 95%
+Uwagi: Zmiana dotyczy obszaru oraz czasu obowiązywania.
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW ALARMOWYCH/3 Bug od 12:00/09.02.2024 do 12:00/11.02.2024. W zwiazku z przemieszczaniem sie wod opadowo-roztopowych, na Bugu przewiduje sie wzrosty i wahania poziomu wody, we Frankopolu przy przekroczonym stanie ostrzegawczym, w Malkini w strefie okolo stanu ostrzegawczego, w Wyszkowie i Popowie powyzej stanu alarmowego. Szczegoly na meteo.imgw.pl

@@ -1,0 +1,15 @@
+Data i godzina wydania: 04.01.2024 - godz. 11:42
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 7
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 12:00 dnia 04.01.2024 do godz. 12:00 dnia 05.01.2024
+Obszar: Ujściowy odcinek Bugu (mazowieckie)
+Przebieg: W związku ze spływem wód opadowych w ujściowym odcinku Bugu przewiduje się wzrost poziomu wody, lokalnie w Popowie powyżej stanu ostrzegawczego.
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 Ujsciowy odcinek Bugu od 12:00/04.01.2024 do 12:00/05.01.2024. W zwiazku ze splywem wod opadowych w ujsciowym odcinku Bugu przewiduje sie wzrost poziomu wody, lokalnie w Popowie powyzej stanu ostrzegawczego. Szczegoly na meteo.imgw.pl

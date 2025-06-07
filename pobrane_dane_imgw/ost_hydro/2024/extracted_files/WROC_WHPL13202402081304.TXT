@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.02.2024 - godz. 14:01
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych we Wrocławiu, Wydział Prognoz i Opracowań Hydrologicznych we Wrocławiu
+
+Ostrzeżenie hydrologiczne Nr: 48
+Zjawisko: wezbranie z przekroczeniem stanów ostrzegawczych
+Stopień: 2
+
+Ważność: od godz. 18:00 dnia 08.02.2024 do godz. 15:00 dnia 09.02.2024
+Obszar: Nysa Kłodzka do Zb. Nysa, Nysa Kłodzka ze Ścinawką, Nysa Kłodzka od Ścinawki do Zb. Kozielno, Klikawa, Żydawka, Czermnica, Zdoniowski Potok, Orlica, Kaczawa górna do Dunina, Skora (górna), Bóbr od Zb. Bukówka do Zb. Pilchowice, Bóbr do Zb. Pilchowice, Bóbr od Zb. Pilchowice do Bobrzycy, Kwisa od Zb. Leśna do ujścia do Bobru, Kwisa górna do Zb. Leśna, Kwisa od Zb. Leśna do Nowogrodźca, Ostrożnica, Izera, Nysa Łużycka od granicy RP do Zgorzelca, Nysa Łużycka od Zgorzelca do ujścia do Odry, Witka od Ostróżna do ujścia do Nysy Łużyckiej, Nysa Łużycka do Zgorzelca, Nysa Łużycka od Zgorzelca do ujścia (dolnośląskie)
+Przebieg: W następstwie występujących i prognozowanych opadów deszczu, a także dodatniej temperatury powietrza powodującej tajanie pokrywy śnieżnej w wyższych partiach, w zlewniach: górnej Nysy Kłodzkiej, Kaczawy, górnego Bobru, górnej Kwisy, górnej Nysy Łużyckiej oraz w zlewniach górskich dorzecza Łaby prognozuje się wzrosty stanów wody w strefie wody wysokiej z możliwością osiągnięcia bądź przekroczenia stanów ostrzegawczych. Punktowo nie wyklucza się możliwości przekroczenia stanów alarmowych – szczególnie w zlewniach lewostronnych dopływów górnej Nysy Kłodzkiej.
+
+Prawdopodobieństwo wystąpienia zjawiska: 85%
+Uwagi: Brak
+
+SMS: IMGW-PIB OSTRZEGA: WEZBRANIE Z PRZEKROCZENIEM STANOW OSTRZEGAWCZYCH/2 gorna Nysa Klodzka, Kaczawa, gorny Bobr z Kwisa, gorna Nysa Luzycka od 18:00/08.02.2024 do 15:00/09.02.2024. W nastepstwie wystepujacych i prognozowanych opadow deszczu, a takze dodatniej temperatury powietrza powodujacej tajanie pokrywy snieznej w wyzszych partiach, w zlewniach: gornej Nysy Klodzkiej, Kaczawy, gornego Bobru, gornej Kwisy, gornej Nysy Luzyckiej oraz w zlewniach gorskich dorzecza Laby prognozuje sie wzrosty stanow wody w strefie wody wysokiej z mozliwoscia osiagniecia badz przekroczenia stanow ostrzegawczych. Punktowo nie wyklucza sie mozliwosci przekroczenia stanow alarmowych – szczegolnie w zlewniach lewostronnych doplywow gornej Nysy Klodzkiej. Szczegoly na meteo.imgw.pl

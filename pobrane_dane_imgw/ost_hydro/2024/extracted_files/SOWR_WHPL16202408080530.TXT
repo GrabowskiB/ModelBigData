@@ -1,0 +1,15 @@
+Data i godzina wydania: 08.08.2024 - godz. 07:28
+Nazwa biura prognoz hydrologicznych: Biuro Prognoz Hydrologicznych w Krakowie, Wydział Prognoz i Opracowań Hydrologicznych w Warszawie
+
+Ostrzeżenie hydrologiczne Nr: 218
+Zjawisko: gwałtowne wzrosty stanów wody
+Stopień: 1
+
+Ważność: od godz. 08:00 dnia 08.08.2024 do godz. 00:00 dnia 09.08.2024
+Obszar: Wisła od ujścia Narwi po Zb. Włocławek, Pilica do Zb. Sulejów, Pilica od Zb. Sulejów, Bzura, Wisła od Zb. Włocławek do ujścia Zgłowiączki, Zgłowiączka (kujawsko-pomorskie, łódzkie, mazowieckie, śląskie, świętokrzyskie)
+Przebieg: W obszarach występowania prognozowanych opadów burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, mogą wystąpić gwałtowne wzrosty stanów wody. W zlewniach kontrolowanych, w przypadku wystąpienia szczególnie intensywnych opadów, istnieje możliwość przekroczenia stanów ostrzegawczych.  
+
+Prawdopodobieństwo wystąpienia zjawiska: 80%
+Uwagi: Ostrzeżenie wydane w związku z prognozowanymi opadami o charakterze burzowym, które występują lokalnie. Ze względu na swój charakter, intensywny, punktowy opad, w miejscu jego występowania może spowodować potencjalne zagrożenie hydrologiczne ze strony mniejszych rzek, jak i lokalne podtopienia (głównie na obszarach miejskich).
+
+SMS: IMGW-PIB OSTRZEGA: GWALTOWNE WZROSTY STANOW WODY/1 Wisla od ujscia Narwi do ujscia Zglowiaczki, Pilica, Bzura, Zglowiaczka od 08:00/08.08.2024 do 00:00/09.08.2024. W obszarach wystepowania prognozowanych opadow burzowych, na mniejszych rzekach oraz w zlewniach zurbanizowanych, moga wystapic gwaltowne wzrosty stanow wody. W zlewniach kontrolowanych, w przypadku wystapienia szczegolnie intensywnych opadow, istnieje mozliwosc przekroczenia stanow ostrzegawczych.   Szczegoly na meteo.imgw.pl
