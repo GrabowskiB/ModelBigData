@@ -3,3 +3,7 @@
 /dane_meteo_powiat_dzien_redukcja_brakow.csv
 /dane_meteo_skonsolidowane.csv
 /dane_meteo_stacje_oczyszczone.csv
+/dane_hydro_stacje_z_powiatami_final.csv
+/dane_hydro_stacje_z_powiatami_redukcja.csv
+/pobrane_dane_imgw
+*.csv
